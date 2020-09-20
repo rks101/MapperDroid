@@ -1,0 +1,11 @@
+{
+"name" : "Verify - Workspace ONE",
+"url" : "https://play.google.com/store/apps/details?id=com.vmware.verify",
+"package" : "com.vmware.verify",
+"category" : "Communication",
+"description" : "VMware Verify(TM) works with the VMware Workspace(TM) ONE(TM) two-factor authentication service to make logins more simple and secure across any laptop, tablet or smartphone. The app receives push notifications asking the user to simply swipe to verify possession of the device whenever authentication is required.   Additionally, you can use the VMware Verify app to provide one time passcodes for two-factor authentication.  VMware Verify works with applications managed by Workspace ONE. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.USE_FINGERPRINT', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

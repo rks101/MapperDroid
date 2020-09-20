@@ -1,0 +1,11 @@
+{
+"name" : "XChange Data",
+"url" : "https://play.google.com/store/apps/details?id=com.vizada.intern",
+"package" : "com.vizada.intern",
+"category" : "Communication",
+"description" : "XChange Data by Marlink   The XChange Data app is a data and internet access service provided by Marlink.  XChange data simplifies your access to the mobile XChange user interface to manage your data communication via satellite.  Once online you can use your preferred apps like email, Whatsapp, Facebook and so on. Monitor and control your satellite data usage in real time. To secure your prepaid credit, the XChange mobile environment disconnects you automatically after 2 hours of usage (by default). Ask your onboard administrator if you would like to extend the duration.  Enhancements with the last version: - Supports Android 8 - Minor bugs fixed  Main features: Mobile access: Access the XChange mobile interface just by starting the app.  - Remember me: Just set your user account once and enable the Remember Me feature to be automatically logged in the next time when starting the app.  - Local Intranet: Access any news, documents or files hosted on the XChange local Intranet - XChange Media: View XChange Media content like News, Reports, Sports directly on your device anywhere without going online. (Only when XChange Media service is available on board). ",
+"desc_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_CONTACTS', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_CONTACTS']",
+}

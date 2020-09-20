@@ -1,0 +1,11 @@
+{
+"name" : "Heart is in",
+"url" : "https://play.google.com/store/apps/details?id=in.heartis",
+"package" : "in.heartis",
+"category" : "Communication",
+"description" : "Have fun sending hearts to your favorite person.  There is only one heart between you and your partner. If your partner doesnt send a heart back to you, you wont be able to see it anymore.   Receiving a heart from your partner will leave you feeling special and loved.  Whether its your boyfriend or best friend, send your love to the ones you love!  Your heart will change size and color depending on how many hearts you send each other.   How to play 1. Download Heart is in app. 2. Send invitation code to your partner. 3. Click heart mark on your app and send it to your partner. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'in.heartis.permission.C2D_MESSAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.VIBRATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

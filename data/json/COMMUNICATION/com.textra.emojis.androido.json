@@ -1,0 +1,11 @@
+{
+"name" : "Textra Emoji - Android Latest Style",
+"url" : "https://play.google.com/store/apps/details?id=com.textra.emojis.androido",
+"package" : "com.textra.emojis.androido",
+"category" : "Communication",
+"description" : "This is an *add-on* to the Textra SMS application that utilizes the latest Android styled emojis.   Provides 3000+ of the latest (Unicode 12.1) emojis including diversity (skin tone) on any Android phone.  You access the emojis using the + icon to the left of the message field in the conversation. Long hold on a human skin emoji (for example a hand gesture) to see diversity (skin tone color) options.  IMPORTANT: These emoji are ONLY available in the Textra SMS app. They are not available system wide (e.g. your keyboard app).   Licensed under Apache 2.0 @ https://github.com/googlei18n/noto-emoji/blob/master/LICENSE ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

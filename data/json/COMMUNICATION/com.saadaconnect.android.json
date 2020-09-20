@@ -1,0 +1,11 @@
+{
+"name" : "Saada",
+"url" : "https://play.google.com/store/apps/details?id=com.saadaconnect.android",
+"package" : "com.saadaconnect.android",
+"category" : "Communication",
+"description" : "Platform for internal communication, sharing videos, employees feedbacks collection, and surveys. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.CALL_PHONE', 'android.permission.CAMERA', 'android.permission.USE_FINGERPRINT', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.saadaconnect.android.permission.C2D_MESSAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CALL_PHONE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

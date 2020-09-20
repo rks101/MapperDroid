@@ -1,0 +1,11 @@
+{
+"name" : "Via Mobile for Via 6",
+"url" : "https://play.google.com/store/apps/details?id=air.com.sviesolutions.viamobile",
+"package" : "air.com.sviesolutions.viamobile",
+"category" : "Communication",
+"description" : "Rapid and easy access to your meetings and training sessions with Via Mobile!  Vias collaborative suite allows you to enjoy very friendly, experienced and multilingual Web conferencing and training environments. With the power of a Cloud offer and the security of RISQ hosting, it deploys rapidly without requiring installation while leaving you in control of your user accounts and your content. Via Mobile simplifies your communications and your technical problems while going through firewalls and security networks. You are thus free to participate with your clients, employees and collaborators at your meetings and distance learning and this, wherever they are located.  The Web Collaboration environment and Via training offers you a wide range of interactive tools such as:  - Presentation of documents (Office, PDF, images, multimedia, whiteboard) - Screen sharing and control - Camera, microphone and telephone - Annotations - Recording your sessions and exporting videos or podcasts - Instant messaging - Integration of Outlook calendar - Synchronization with your Active Directory - Managing user accounts  - And much more!  You can use Via Mobile if you already have a Via account or if you have received an invitation to join an online activity as a participant. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'android.permission.DISABLE_KEYGUARD', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

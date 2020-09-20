@@ -1,0 +1,11 @@
+{
+"name" : "QODE Keyboard Extension Kit",
+"url" : "https://play.google.com/store/apps/details?id=com.liteon.belkin_keyboard.softkeyboard",
+"package" : "com.liteon.belkin_keyboard.softkeyboard",
+"category" : "Communication",
+"description" : "This extension kit addresses European keyboard compatibility issues found in Samsung Galaxy Tablets when using @,  and # marks. This application will take the place of the current physical keyboard in your tablet, and must be set manually upon install. This fix is specifically for the Belkin QODE Slim Style Keyboard Case (F5L179). Using this extension kit will allow you to use these marks.  How to install Samsung Keyboard App  1. Download QODE Keyboard Extension Kit App from the Play store  2. App will run automatically 3. Once installed go to Settings  4. Tap on Language and input * 5. Under Keyboards and input methods a. Under Default sub screen keyboards select the QODE Keyboard Extension Kit  b. Tap ok on pop up menu (we do not collect any data) c. To the right of the App is a setting cog, tap and select QODE Keyboard Extension Kit d. Select the languages you wish to choose from. e. Under Keyboards and input methods select the Default Keyboard with QODE Keyboard Extension Kit. 6. Complete  *Location may vary depending on which tablet ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.BLUETOOTH', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.BLUETOOTH_ADMIN']",
+"perms_with_call" : "['android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.SYSTEM_ALERT_WINDOW']",
+}

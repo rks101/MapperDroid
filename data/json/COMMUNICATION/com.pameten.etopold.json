@@ -1,0 +1,11 @@
+{
+"name" : "Etop Recharge Legacy",
+"url" : "https://play.google.com/store/apps/details?id=com.pameten.etopold",
+"package" : "com.pameten.etopold",
+"category" : "Communication",
+"description" : "Online Recharge is a new technology with high infrastructures of refueling MOBILE & DTH service for business or individual purpose; presented by E-Top Recharge Services.. It is designed, Developed & powered by Online Recharge Speciel managment & IT team. Here its a very easy way to recharge Mobile & DTH service online by using only oneSIM & one mobile handset through SMS. E-Top Recharge is available 24Hr/7/365 days. Currently we provide services for all major Indias top cellular services AIRTEL, AIRCEL RELIANCE, IDEA, VODAFONE, CELLONE, TATA INDICOM, VIRGIN MOBILE , UNINOR, MTS, VEDIOCON, RIM, DISH TV, TATA SKY, DIGITEL TV, RELIANCE TV, VEDIOCON D2H etc (for all over india). besides this E-Top Recharge provides Post Paid bill payments, Topup Pin Transfer, CDMA mobile recharge also. Apart from GSM phone recharge, this recharge system is also available for leading CDMA prepaid cellphones. Ready Recharge is vary easy, fast & reliable process of recharge Mobile & DTH service through only sending sms using only one sim. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.SEND_SMS', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

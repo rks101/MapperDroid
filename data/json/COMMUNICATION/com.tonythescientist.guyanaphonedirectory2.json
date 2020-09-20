@@ -1,0 +1,11 @@
+{
+"name" : "Guyana Phone Directory",
+"url" : "https://play.google.com/store/apps/details?id=com.tonythescientist.guyanaphonedirectory2",
+"package" : "com.tonythescientist.guyanaphonedirectory2",
+"category" : "Communication",
+"description" : "Guyana Phone Directory is a simple categorized listing of frequently used telephone numbers that customers would need at their finger tips. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CALL_PHONE', 'com.tonythescientist.guyanaphonedirectory2.permission.MAPS_RECEIVE', 'android.permission.DISABLE_KEYGUARD', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.tonythescientist.guyanaphonedirectory2.permission.C2D_MESSAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CALL_PHONE', 'com.tonythescientist.guyanaphonedirectory2.permission.MAPS_RECEIVE', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

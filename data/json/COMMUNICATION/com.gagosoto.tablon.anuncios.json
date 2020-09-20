@@ -1,0 +1,11 @@
+{
+"name" : "Ad2Get (classified ads)",
+"url" : "https://play.google.com/store/apps/details?id=com.gagosoto.tablon.anuncios",
+"package" : "com.gagosoto.tablon.anuncios",
+"category" : "Communication",
+"description" : "This application is a tool that help you to comunicate with all people for: to advertise your events, to request help for something, to sell something, to buy something, for change something, or for everything that you usually hang over a bulletin board.   This is not only a tool to publish classified ads, also we want give you a tool to request help for all that you need to get, in order to create a community of help.  The publications that you hang will be watched only by people that have the same language of your device.  If you are an android developer and you want include a window in your app to allow people to communicate between them, or you want to implant a communication chanel in your app to launch notes or notify something about your app when you want, then we can provide to you the code to open a direct window to your public group, private group or your communicating channel. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE']",
+}

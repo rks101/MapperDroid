@@ -1,0 +1,11 @@
+{
+"name" : "Mobimint",
+"url" : "https://play.google.com/store/apps/details?id=com.kolpolok.mobimint",
+"package" : "com.kolpolok.mobimint",
+"category" : "Communication",
+"description" : "VoIP application for making cheap international calls ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_INTERNAL_STORAGE', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.kolpolok.mobimint.permission.C2D_MESSAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_CONTACTS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_CONTACTS', 'android.permission.CAMERA', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.READ_INTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_CONTACTS', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

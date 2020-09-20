@@ -1,0 +1,11 @@
+{
+"name" : "TorqueScan (Torque OBD Plugin)",
+"url" : "https://play.google.com/store/apps/details?id=org.prowl.torquescan",
+"package" : "org.prowl.torquescan",
+"category" : "Communication",
+"description" : "This is a plugin for the Torque pro OBD2 application that shows all the data that Torque has access to as well as some other features that some may find useful for OBD debugging.  * Quick and easy display of available ECU sensors  * OBD PID scanner to quickly map and locate extended PIDs  * Simple Telnet server that allows direct connection to the adapter to allow far easier debugging (aimed at developers) The main application - Torque - allows you to connect your android device to your cars engine management, and read various sensors, even retrieve fault codes (DTC) and clear them once fixed. It can post to Twitter, log data, supports themes, and so much more!  If you are interested in developing your own plugin then you can find an example app here(which uses AIDL): http://ian-hawkins.com/torquescan.zip  Join the Torque forums (click the developer link below) for more information or to ask questions!  Note: This plugin needs the full version of Torque ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERNET']",
+}

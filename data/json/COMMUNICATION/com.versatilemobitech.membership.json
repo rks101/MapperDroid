@@ -1,0 +1,11 @@
+{
+"name" : "JCNM Membership",
+"url" : "https://play.google.com/store/apps/details?id=com.versatilemobitech.membership",
+"package" : "com.versatilemobitech.membership",
+"category" : "Communication",
+"description" : "Membership App for Jesus Christ of Nazareth Ministries. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_CONTACTS', 'android.permission.READ_EXTERNAL_STORAGE', 'com.versatilemobitech.membership.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_CONTACTS', 'android.permission.WRITE_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

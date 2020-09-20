@@ -1,0 +1,11 @@
+{
+"name" : "AntiPhone -Anonymous SMS",
+"url" : "https://play.google.com/store/apps/details?id=com.alexz.antiphone",
+"package" : "com.alexz.antiphone",
+"category" : "Communication",
+"description" : "AntiPhone - try the new Anonymous SMS app from the Founders of Anonymous Chat Rooms app.  Send anonymous sms to your friends across the world! How many times have you thought of asking any of your friends something anonymously? For instance: Do you like girls? Are you in relationships? I saw you cheating etc.  Legal solution Unfortunately, there are basically no instruments for legal anonymous sms texting, but there is a different approach we made:  1) We buy you a unique British phone number at our expense 2) This number becomes your personal virtual phone number 3) You can send and receive SMS messages from this second phone number without being afraid of showing your personal data 4) If your friends reply to your new British number - you will receive all their messages in the app 5) If you decide to re-install the app, you can recover your second phone number via email  Isnt that cool?  Is it free? Each new user gets 3000 (three thousand karma) free, which allows you to get free: - one second phone number for a month - Up to 2 SMS outgoing SMS  - Up to 3 incoming SMS ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_CONTACTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.SEND_SMS', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_SMS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_CONTACTS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

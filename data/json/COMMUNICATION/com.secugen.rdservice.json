@@ -1,0 +1,11 @@
+{
+"name" : "SecuGen RD Service",
+"url" : "https://play.google.com/store/apps/details?id=com.secugen.rdservice",
+"package" : "com.secugen.rdservice",
+"category" : "Communication",
+"description" : "SecuGen Registered Device Service is designed to work with Hamster Pro 20 Devices.  The Hamster Pro 20 device is SecuGens new ultra-compact, high image quality USB fingerprint reader that is FBI Certified as meeting FIPS 201 (PIV) and Mobile ID FAP 20 requirements. Featuring a low-profile and IP65 rated dust- and water-resistant design, the Hamster Pro 20 is built with the industrys most rugged and advanced optical sensor using patented fingerprint technology.  SecuGen Hamster Pro 20 can be used for authentication, identification and verification functions that let your fingerprints act like digital passwords that cannot be lost, forgotten or stolen. As with all devices containing SecuGens advanced U20 sensor, the Hamster Pro 20 features Fake Finger Rejection for enhanced security. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.CHANGE_WIFI_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

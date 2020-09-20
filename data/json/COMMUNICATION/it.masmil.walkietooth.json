@@ -1,0 +1,11 @@
+{
+"name" : "Walkietooth",
+"url" : "https://play.google.com/store/apps/details?id=it.masmil.walkietooth",
+"package" : "it.masmil.walkietooth",
+"category" : "Communication",
+"description" : "Walkietooth allows to establish a full duplex communication channel between two Android devices, letting them to communicate for all the time needed, better than having two walkie talkies.  You may use it as baby monitor, or to communicate easily on motorcycle, during sport or in all the activities in which direct communication is not easy. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.CAMERA', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.FLASHLIGHT', 'android.permission.MODIFY_AUDIO_SETTINGS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_SETTINGS', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

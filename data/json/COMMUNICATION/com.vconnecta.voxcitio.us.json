@@ -1,0 +1,11 @@
+{
+"name" : "Voxcitio Engage",
+"url" : "https://play.google.com/store/apps/details?id=com.vconnecta.voxcitio.us",
+"package" : "com.vconnecta.voxcitio.us",
+"category" : "Communication",
+"description" : "Voxcitio Engage is designed to help organizations to manage their public consultation and stakeholder management. It is made up of a mobile outreach app for data collection and surveys, and a project dashboard for managing all aspects of your project. Features include citizen mapping and segmentation, survey builder, CRM system, email blaster, data analytics and mobile app. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_CREDENTIALS', 'com.vconnecta.voxcitio.us.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.SEND_SMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.SEND_SMS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

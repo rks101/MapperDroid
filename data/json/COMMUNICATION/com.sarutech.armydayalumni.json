@@ -1,0 +1,11 @@
+{
+"name" : "Army Day Alumni",
+"url" : "https://play.google.com/store/apps/details?id=com.sarutech.armydayalumni",
+"package" : "com.sarutech.armydayalumni",
+"category" : "Communication",
+"description" : "Army Day Onitsha Old Student Association Mobile App to keep in touch, message chat and hold meetings. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.READ_PHONE_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

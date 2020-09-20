@@ -1,0 +1,11 @@
+{
+"name" : "Sustainable Development Goals",
+"url" : "https://play.google.com/store/apps/details?id=org.uclg.sdgs",
+"package" : "org.uclg.sdgs",
+"category" : "Communication",
+"description" : "This app will help you discover and understand that each of the 17 Sustainable Development Goals is directly related to the daily work of local and regional governments and the importance of their work towards achieving them. Enjoy it! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERNET']",
+}

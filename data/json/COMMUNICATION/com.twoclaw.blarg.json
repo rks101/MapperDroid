@@ -1,0 +1,11 @@
+{
+"name" : "Blarg (Out Loud Audio Message)",
+"url" : "https://play.google.com/store/apps/details?id=com.twoclaw.blarg",
+"package" : "com.twoclaw.blarg",
+"category" : "Communication",
+"description" : "Audio messages played out loud on your friends phone the moment you send them. Record it, find it, or create it, you choose. Any sound, any time. Out loud and hands free.  Chat, share, and have fun. Choose one of the built in sounds, record your voice, or even create your own talking messages using text-to-speech. Send them to your friends, and the sound will automatically play out loud on their phone. Imagine the surprise when an unexpected sound is played from their phone, or yours.  Pick your own unique audio message. Record it, create it, or choose a built-in sound effect. Invite all your friends to Blarg for endless sharing. Surprise each other with crazy sound messages. Sounds play out loud, automatically.   Web: http://blargapp.com/ Email: info@blargapp.com ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_CONTACTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.RECORD_AUDIO', 'com.twoclaw.blarg.gcm.permission.C2D_MESSAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.RECORD_AUDIO', 'com.twoclaw.blarg.gcm.permission.C2D_MESSAGE', 'com.android.vending.BILLING']",
+}

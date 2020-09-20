@@ -1,0 +1,11 @@
+{
+"name" : "Rapidgator.net | Send and share big files",
+"url" : "https://play.google.com/store/apps/details?id=net.rapidgator",
+"package" : "net.rapidgator",
+"category" : "Communication",
+"description" : "Great app to manage and download your files on Rapidgator.net service.  No ads or mallware   We like to make things easy for our customers. Send your data to your friends for free. Weve been online since 2010 and we love our clients. Our users trust us with their data because we are simply always deliver what we promise.   Do not have android device? You can use Chrome extension which can be downloaded here: https://chrome.google.com/webstore/detail/android-online-emulator/lnhnebkkgjmlgomfkkmkoaefbknopmja After install, simply download our app using emulator and sign in using your login details.   Features - Upload files to the cloud - Manage files in the cloud with in app file manager - Share files with your friend with share button - Download files to your device - Manage IP access to your account. - Free unlimited cloud storage( Files with no downloads are deleted after 30 days) ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING']",
+}

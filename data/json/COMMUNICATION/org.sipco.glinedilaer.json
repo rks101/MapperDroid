@@ -1,0 +1,11 @@
+{
+"name" : "Vezon Dialer",
+"url" : "https://play.google.com/store/apps/details?id=org.sipco.glinedilaer",
+"package" : "org.sipco.glinedilaer",
+"category" : "Communication",
+"description" : "Vezon Dialer is a VoIP SoftPhone which allow to make cheap international calls with best voice quality. Save your telephone bills with Vezon Dialer.  Contact etistechnologies and get your account today to experience the voice quality .  Vezon Dialer supports Wifi , 4G,3g Data Networks . ",
+"desc_perms" : "['android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.READ_CONTACTS', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.READ_SYNC_SETTINGS', 'android.permission.INTERNET', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.WRITE_SYNC_SETTINGS', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.AUTHENTICATE_ACCOUNTS', 'android.permission.RECORD_AUDIO', 'android.permission.GET_ACCOUNTS', 'android.permission.VIBRATE', 'android.permission.WRITE_CONTACTS', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_CONTACTS', 'android.permission.RECORD_AUDIO', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

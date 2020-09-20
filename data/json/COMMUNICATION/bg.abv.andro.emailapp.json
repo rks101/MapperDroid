@@ -1,0 +1,11 @@
+{
+"name" : "ABV Mail",
+"url" : "https://play.google.com/store/apps/details?id=bg.abv.andro.emailapp",
+"package" : "bg.abv.andro.emailapp",
+"category" : "Communication",
+"description" : "Mobile application of ABV Mail gives you easy access to your correspondence. As with the desktop version and mobile app, you can check and read the new letters, write emails and be in constant touch with your friends and business partners. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.DOWNLOAD_WITHOUT_NOTIFICATION', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.DOWNLOAD_WITHOUT_NOTIFICATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Secure Web VPN",
+"url" : "https://play.google.com/store/apps/details?id=com.secureweb",
+"package" : "com.secureweb",
+"category" : "Communication",
+"description" : "Connect from anywhere, be everywhere.   Features:  * No user/pass required * Lifetime free * Hide IP * Browse anonymously * One touch to connect/disconnect * More Secure & Stable  Disclaimer:  Only user is solely responsible for committing an illegal act using Secure Web VPN app that may include downloading and selling copyrighted information, hacking into computers or networks without authorization, and cyber-stalking. VPN services will be immediately terminated if any of such actions is detected for any user. Developer or ad publishers will not take any responsibility for users illegal activities. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

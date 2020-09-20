@@ -1,0 +1,11 @@
+{
+"name" : "SMARTアドレス帳 シンプルデザインで高機能な「電話帳」",
+"url" : "https://play.google.com/store/apps/details?id=jp.neoscorp.android.smartphonebook",
+"package" : "jp.neoscorp.android.smartphonebook",
+"category" : "Communication",
+"description" : "SMART  2 (OCTOBA) http://octoba.net/archives/20130216-android-app-smart-address-183128.html   au SMART for au http://pass.auone.jp/app/detail?app_id=6277200000001    SMART      SMART    SMART    SMART      SMART   QR QR QRSMART           SMART      SD SMART        50            SMART2    SMART   KDDI SMART ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CALL_PHONE', 'android.permission.CAMERA', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.AUTHENTICATE_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.READ_CONTACTS', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.GET_TASKS', 'android.permission.MANAGE_ACCOUNTS', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.WRITE_CONTACTS']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CALL_PHONE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_CONTACTS']",
+}

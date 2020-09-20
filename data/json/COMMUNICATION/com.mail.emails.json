@@ -1,0 +1,11 @@
+{
+"name" : "All Email Providers",
+"url" : "https://play.google.com/store/apps/details?id=com.mail.emails",
+"package" : "com.mail.emails",
+"category" : "Communication",
+"description" : "Access all your mail from the most popular email providers in one fast, simple app!  - Over 100 compatible mobile email providers! - Cant find your email provider? Add your own webmail! - Favorite the ones you use the most to see them at the top! - Hide unwanted email providers! - Customize the appearance of the app!  If you have any requests or feedback, please write to us: nutlondon@gmail.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

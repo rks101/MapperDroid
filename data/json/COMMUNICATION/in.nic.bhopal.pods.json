@@ -1,0 +1,11 @@
+{
+"name" : "M-Ration Mitra",
+"url" : "https://play.google.com/store/apps/details?id=in.nic.bhopal.pods",
+"package" : "in.nic.bhopal.pods",
+"category" : "Communication",
+"description" : "M-Ration Mitr Android App ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_GPS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_GPS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

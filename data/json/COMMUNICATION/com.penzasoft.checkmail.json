@@ -1,0 +1,11 @@
+{
+"name" : "Check Mail",
+"url" : "https://play.google.com/store/apps/details?id=com.penzasoft.checkmail",
+"package" : "com.penzasoft.checkmail",
+"category" : "Communication",
+"description" : "Check Mail is a small and fast application to check mail before downloading. It works with any POP3 servers. Checking email is available for multiple accounts. Users can use anti-spam feature by marking messages for deletion and deleting them directly in mail boxes without downloading. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

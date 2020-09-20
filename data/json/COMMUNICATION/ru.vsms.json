@@ -1,0 +1,11 @@
+{
+"name" : "Write SMS by voice",
+"url" : "https://play.google.com/store/apps/details?id=ru.vsms",
+"package" : "ru.vsms",
+"category" : "Communication",
+"description" : "Want to transform speech to text while writing messages or text notes? This speech to text app provides you a powerful and easy in use system of dictating voice message.  Features: - You can dictate voice message send result via any other app or messenger this app is not just a sms messenger) - Dictate messages by voice and comfortably edit result - Dictionary parsing (just say comma and app will replace it with , while parsing your voice to text) - Choose contact or enter the receivers number by voice (while writing sms message) - Advanced voice to text engine allows you to directly select recognition language if needed - Careful voice recognition option helps you to choose the right variant of recognized text  - Integrated sms messenger, if you want to send voice message very quickly  Turn your voice message into text one! Its very easy, just install and try our speech to text app now! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_CONTACTS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.RECORD_AUDIO', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS', 'android.permission.RECORD_AUDIO']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "KingsConference",
+"url" : "https://play.google.com/store/apps/details?id=com.newmedia.conference",
+"package" : "com.newmedia.conference",
+"category" : "Communication",
+"description" : "KingsConference lets you host or join an online meeting with up to 100 persons using crystal-clear high quality audio, instant messaging and many more great functionalities!   KEY FEATURES  Free HD audio conferencing for up to 100 participants Participants can discuss in the chatroom Invite anyone simply by sending them a URL You can tell who is talking at a glance Works over WiFi, 4G/LTE and 3G networks ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.RECORD_AUDIO', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.BLUETOOTH', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.CAMERA', 'android.permission.FOREGROUND_SERVICE', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.CAMERA', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

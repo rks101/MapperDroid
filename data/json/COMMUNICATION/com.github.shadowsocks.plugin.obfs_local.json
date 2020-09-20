@@ -1,0 +1,11 @@
+{
+"name" : "Simple Obfuscation",
+"url" : "https://play.google.com/store/apps/details?id=com.github.shadowsocks.plugin.obfs_local",
+"package" : "com.github.shadowsocks.plugin.obfs_local",
+"category" : "Communication",
+"description" : "A simple obfuscation tool for Android. It works as a SIP003 Plugin for Shadowsocks. Please install the latest shadowsocks first. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

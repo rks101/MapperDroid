@@ -1,0 +1,11 @@
+{
+"name" : "Emojidom Animated / GIF emoticons & emoji",
+"url" : "https://play.google.com/store/apps/details?id=com.plantpurple.ochatanimated",
+"package" : "com.plantpurple.ochatanimated",
+"category" : "Communication",
+"description" : "The popular Emojidom smileys are now animated! Have fun sending 30 cool and funny GIF emoticons in WhatsApp, Facebook, LINE, Skype and many other chat apps. Well continue making more GIFs if you like our new app!  Youll find just the emoji you need for many occasions: - angel - in love (I love you) - with a broken heart - to say hello and good bye - with a thumb up and thumb down - running late - sick - sticking out a tongue - asking a question - scared - angry - threatening with a baseball bat - blinking slowly - bored - celebrating - getting slapped in face - crying - rolling eyes (Whatever...) - surprised - enjoying coffee - tired, needing a coffee - begging - happily clapping - sarcastically clapping - smirking - rainbow vomit - to say good night ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.GET_TASKS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.FOREGROUND_SERVICE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.PACKAGE_USAGE_STATS', 'android.permission.WAKE_LOCK', 'com.plantpurple.ochatanimated.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.PACKAGE_USAGE_STATS', 'com.android.vending.BILLING']",
+}

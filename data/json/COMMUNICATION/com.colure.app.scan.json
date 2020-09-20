@@ -1,0 +1,11 @@
+{
+"name" : "File Send - Share and Transfer files with WiFi",
+"url" : "https://play.google.com/store/apps/details?id=com.colure.app.scan",
+"package" : "com.colure.app.scan",
+"category" : "Communication",
+"description" : "Want to send some files to your friends or devices? Dont want to install any application on your friends mobile phone? Hate to install application on PC or Mac? Okay, this application is just designed for you.   Now throw bothering USB wire cable away, File Send help you to transfer files over wireless connection, and you just need a browser to download from other devices.  Only simple steps: 1.Ensure your phone and receiving devices connect in the same WiFi network; 2.Open File Send, and pick up any files - large or small, media or document; 3.Scan the QR Code from other devices, or just open a browser to access the URL directly. 4, Download files from the browser. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'com.colure.app.scan.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

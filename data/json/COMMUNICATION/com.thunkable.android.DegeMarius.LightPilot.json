@@ -1,0 +1,11 @@
+{
+"name" : "LightPilot",
+"url" : "https://play.google.com/store/apps/details?id=com.thunkable.android.DegeMarius.LightPilot",
+"package" : "com.thunkable.android.DegeMarius.LightPilot",
+"category" : "Communication",
+"description" : "Light Pilot provides the complete control of all MD-lighting products with WLAN interface (eg. aerolightV2, smartlight).  These combined LightPilot the popular app ColorMagix and the familiar, simple control surface. In addition, configurations knnnen now be made directly from the app. Through the convenient wireless control must be set to no Connect more serviceable, simply press the key and off you go!  You can easily Sliden back and forth between screens; back either by Sliden or by making use of the back button on your smartphone.  Button Networking: Allows you to (subsequently) can dial in your desired network device. To do this, the password and user name of the WLAN network (home network) to, so that your device can connect MD so. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.SEND_SMS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SEND_SMS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

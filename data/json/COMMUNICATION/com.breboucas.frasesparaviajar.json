@@ -1,0 +1,11 @@
+{
+"name" : "Travel Phrases",
+"url" : "https://play.google.com/store/apps/details?id=com.breboucas.frasesparaviajar",
+"package" : "com.breboucas.frasesparaviajar",
+"category" : "Communication",
+"description" : "Learn phrases and indispensable names to travel quietly around the world.  The application provides a selection of essential phrases in several languages that can be used in places like airports, restaurants, shopping malls, hotel, among others.  FUNCTIONALITIES: + Basic words and phrases for international travel + Auditions with pronunciations + Offline access  LANGUAGES: + Spanish + English + French + English       Icons made by DinosoftLabs from www.flaticon.com is licensed by CC 3.0 BY  Icons made by Icon Pond from www.flaticon.com is licensed by CC 3.0 BY  Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE']",
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']" 
+}

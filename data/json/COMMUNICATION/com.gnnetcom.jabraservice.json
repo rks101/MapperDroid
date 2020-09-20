@@ -1,0 +1,11 @@
+{
+"name" : "Jabra Service",
+"url" : "https://play.google.com/store/apps/details?id=com.gnnetcom.jabraservice",
+"package" : "com.gnnetcom.jabraservice",
+"category" : "Communication",
+"description" : "This is a service library component required by Jabra applications. It is not a stand-alone application; only install it if requested to do so by an application. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.BLUETOOTH', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

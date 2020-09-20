@@ -1,0 +1,11 @@
+{
+"name" : "Child Psychology Guide",
+"url" : "https://play.google.com/store/apps/details?id=com.Child.Psychology.knowledge",
+"package" : "com.Child.Psychology.knowledge",
+"category" : "Communication",
+"description" : "  Download It For Free   Understand Your Child Better With These Child Psychology Application!  Understanding your child is one of the most important things that you should learn as a parent. It is very helpful in becoming effective in guiding and nurturing your child as they grow and mature.  You need to bear in mind that your child has a unique personality trait that remains consistent throughout life.  If your child has been displaying violent behavior, it is important to try to understand why the behavior is happening so that you can better remedy it the problem.  Learn how to handle behavior problems and better understand disorders like autism with this application video series.    Support Us By Rating Us 5     Please contact us first if you have any question!   ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

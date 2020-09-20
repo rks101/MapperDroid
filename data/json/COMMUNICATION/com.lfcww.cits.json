@@ -1,0 +1,11 @@
+{
+"name" : "Domi Radio",
+"url" : "https://play.google.com/store/apps/details?id=com.lfcww.cits",
+"package" : "com.lfcww.cits",
+"category" : "Communication",
+"description" : "The Domi Radio app has been designed with simplicity in mind, we want you to access Gods word in media in the fastest way possible - streaming live Radio is our goal. More features will always be added as we explore better ways to present the Word of God in the electronic media ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_APP_BADGE', 'com.huawei.android.launcher.permission.CHANGE_BADGE', 'me.everything.badger.permission.BADGE_COUNT_READ', 'android.permission.ACCESS_NETWORK_STATE', 'com.huawei.android.launcher.permission.READ_SETTINGS', 'android.permission.WAKE_LOCK', 'com.sonymobile.home.permission.PROVIDER_INSERT_BADGE', 'com.huawei.android.launcher.permission.WRITE_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'com.oppo.launcher.permission.WRITE_SETTINGS', 'com.majeur.launcher.permission.UPDATE_BADGE', 'com.sec.android.provider.badge.permission.READ', 'me.everything.badger.permission.BADGE_COUNT_WRITE', 'com.htc.launcher.permission.READ_SETTINGS', 'com.oppo.launcher.permission.READ_SETTINGS', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'com.sec.android.provider.badge.permission.WRITE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

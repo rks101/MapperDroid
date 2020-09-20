@@ -1,0 +1,11 @@
+{
+"name" : "Bitmask",
+"url" : "https://play.google.com/store/apps/details?id=se.leap.bitmaskclient",
+"package" : "se.leap.bitmaskclient",
+"category" : "Communication",
+"description" : "Bitmask is a VPN client using OpenVPN with automatic configuration. Just enter your account information from any compatible service provider and away you go.  By encrypting and securely routing all your network traffic through your Bitmask-compatible service provider, Bitmask is able to prevent many forms of censorship and surveillance.  FAQ: we ask for the sd card read/write permission because were using a special area from it to store custom providers added by you. If you update to Android 5, youll see we dont ask for that permission because that version lets the apps use the special zone for free (because its app-indenpendent).  Bitmask is an open source VPN client, distributed under the GPLv3 license. See https://github.com/leapcode/bitmask_android  Translations greatly appreciated at our Transifex project: https://www.transifex.com/projects/p/bitmask-android  If you experience problems or want to have bleeding edge versions, please join our Beta testers group:  https://groups.google.com/d/forum/bitmask-android-beta-testers ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

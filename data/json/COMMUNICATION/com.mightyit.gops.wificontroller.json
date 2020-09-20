@@ -1,0 +1,11 @@
+{
+"name" : "WiFi Controller ESP8266",
+"url" : "https://play.google.com/store/apps/details?id=com.mightyit.gops.wificontroller",
+"package" : "com.mightyit.gops.wificontroller",
+"category" : "Communication",
+"description" : "INTRODUCTION: -WiFi Controller is used to send and receives messages to Arduino with ESP8266 WiFi module using TCP/IP Protocol. -To connect with device you have to add IP & PORT of device and select it.  FEATURES: - Auto connectivity with last selected device. - By, Long pressing of any button you can custom your own buttons for frequent sending of same data. - Configurable sliders. - Monitor Device responses. - Keep Screen on/off option. - Remove Ads Option.  Sliders Default Commands: - Slider 1: A0 to A255 - Slider 2: B0 to B255 - Slider 3: C0 to C255 ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

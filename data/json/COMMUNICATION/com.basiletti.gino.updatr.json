@@ -1,0 +1,11 @@
+{
+"name" : "Updatr",
+"url" : "https://play.google.com/store/apps/details?id=com.basiletti.gino.updatr",
+"package" : "com.basiletti.gino.updatr",
+"category" : "Communication",
+"description" : "Updatr enables you to update your followers with your current state in a given scenario at the press of a button.  This will be expanded upon at some point in the near future. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.huawei.android.launcher.permission.CHANGE_BADGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.oppo.launcher.permission.WRITE_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'com.majeur.launcher.permission.UPDATE_BADGE', 'com.huawei.android.launcher.permission.READ_SETTINGS', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE', 'me.everything.badger.permission.BADGE_COUNT_READ', 'com.huawei.android.launcher.permission.WRITE_SETTINGS', 'com.basiletti.gino.updatr.permission.C2D_MESSAGE', 'android.permission.WAKE_LOCK', 'com.sonymobile.home.permission.PROVIDER_INSERT_BADGE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.READ_APP_BADGE', 'com.sec.android.provider.badge.permission.READ', 'com.sec.android.provider.badge.permission.WRITE', 'android.permission.READ_EXTERNAL_STORAGE', 'me.everything.badger.permission.BADGE_COUNT_WRITE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.htc.launcher.permission.READ_SETTINGS', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.oppo.launcher.permission.READ_SETTINGS', 'com.anddoes.launcher.permission.UPDATE_COUNT']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET']",
+}

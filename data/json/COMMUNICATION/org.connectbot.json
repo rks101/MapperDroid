@@ -1,0 +1,11 @@
+{
+"name" : "ConnectBot",
+"url" : "https://play.google.com/store/apps/details?id=org.connectbot",
+"package" : "org.connectbot",
+"category" : "Communication",
+"description" : "ConnectBot is a powerful open-source Secure Shell (SSH) client. It can manage simultaneous SSH sessions, create secure tunnels, and copy/paste between other applications.  This client allows you to connect to Secure Shell servers that typically run on UNIX-based servers. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

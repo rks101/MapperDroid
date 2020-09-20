@@ -1,0 +1,11 @@
+{
+"name" : "Plaphoons for Android - Beta",
+"url" : "https://play.google.com/store/apps/details?id=org.openintents.plaphoons.sample",
+"package" : "org.openintents.plaphoons.sample",
+"category" : "Communication",
+"description" : "Plaphoons for Android helps users with speech disability to communicate through their Android tablet device (even though it runs on any device). It provides several sets of symbols that can be arranged by topic or frequency of use. Each symbol is associated to a word or phrase and will be read out when selected.  You can choose a Plaphoons file (.pla) that has been created with the desktop version of Plaphoons - making this app as nice as you like. Select a file from the sd card via preferences, e.g. using OI Filemanager. Make sure the the images used in Plaphoons are compatible with your Android device (e.g. avoid .wmf files)  Currently, developed for tablets, but can be used on phones as well with limitations.  For the pre-installed sample set of symbols the text-to-speech configuration has to be switch to french! Ideally a better TTS-engine and voice should be installed.  The source code is available at https://github.com/openintents/plaphoons-for-android ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

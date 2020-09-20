@@ -1,0 +1,11 @@
+{
+"name" : "onWebChat",
+"url" : "https://play.google.com/store/apps/details?id=com.onwebchat.onwebchat_livechat",
+"package" : "com.onwebchat.onwebchat_livechat",
+"category" : "Communication",
+"description" : "onWebChat is a business app for website owners, that allows you to monitor and chat with your website visitors. Provide the best customer support to make your customers happy and grow your business.   This app requires an active onWebChat account, visit https://www.onwebchat.com to create an account for free.  Chat with your website visitors in real-time in just one click and monitor your website traffic.  We offer 100% free plan available forever. Plus, you get 1-month free trial of Premium plan with sign up!  onWebChat Live Chat App Features  Real time visitor monitoring  keep track of your visitors Chat with multiple visitors Operators can start chatting with any visitor Geolocation data of visitors Block/unblock visitors Text shortcuts (canned responses) Notifications Set operator status SSL/Data security  Please remember to log out of the app, when you want to disconnect. If you just minimize the app, you will continue to be connected. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

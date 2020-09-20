@@ -1,0 +1,11 @@
+{
+"name" : "SMS Messages Collection: FREE!",
+"url" : "https://play.google.com/store/apps/details?id=com.atomic.apps.sms.messages.collections",
+"package" : "com.atomic.apps.sms.messages.collections",
+"category" : "Communication",
+"description" : "Completely offline and free SMS book containing about 50000+ SMS messages collection.   App Features  - Easy search from SMS messages and categories. - Swipe left / right to see the previous or next sms. - Unlimited sharing of your favorite custom messages to contacts via SMS, various sharing or messaging application. - Copy to clipboard option to edit the msgs. - 10000+ SMS added in new update.   App Highlights  - About 50+ sms collection categories like friendship, sad love, romance, funny jokes, birthday, shayari, morning wishes, good night sms. - Helps to flirt with your love using witty love messages, flirty sms, and romantic pick-up lines. - Impress your friends with friendship sms, goodmorning / goodnight messages and ASCII msgs. - Express the sad feelings of a broken heart via bewafai shayari or dard bhari hindi shayari. - Contains latest SMS collection on festivals like diwali, raksha bandhan, eid (islamic) etc. - Puzzle your friends with a few of new brain teasers, riddles and tongue twisters included in this funbook app. - Best way to sms the top naughty messages and funny jokes in hindi. - Messages provided in many languages like English, Urdu, Punjabi, Marathi, Tamil, Bengali etc. - Lure your girlfriend, lover or wife by sending loving sms to her. - Impress your husband or boy friend with funny and witty sms from the this free library of latest messages. ",
+"desc_perms" : "['android.permission.SEND_SMS', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

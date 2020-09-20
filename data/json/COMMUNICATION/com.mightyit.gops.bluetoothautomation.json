@@ -1,0 +1,11 @@
+{
+"name" : "Bluetooth Automation HC-05",
+"url" : "https://play.google.com/store/apps/details?id=com.mightyit.gops.bluetoothautomation",
+"package" : "com.mightyit.gops.bluetoothautomation",
+"category" : "Communication",
+"description" : "INTRODUCTION: - Bluetooth Automation is used to remotely control devices with serial HC-05 or HC-06 Bluetooth Module.  FEATURES: - Auto connectivity with last selected Bluetooth device. - By, Long pressing of any button You can set Sending Commands and define response Commands to display feedback in App. - Switch name can be changeable. -Keep Screen on/off option. - Remove Ads Option.   DEFAULT COMMANDS: - Switch1: ON sent A OFF sent a - Switch2: ON sent B OFF sent b - Switch3: ON sent C OFF sent c - Switch4: ON sent D OFF sent d - Switch5: ON sent E OFF sent e - Switch6: ON sent F OFF sent f - Switch7: ON sent G OFF sent g - Switch8: ON sent H OFF sent h - All Devices: ON sent @ OFF sent #  By Default, If app get same reply as sent over Bluetooth then app will display a feedback. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.mightyit.gops.bluetoothautomation.permission.C2D_MESSAGE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

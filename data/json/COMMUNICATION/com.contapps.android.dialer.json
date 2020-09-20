@@ -1,0 +1,11 @@
+{
+"name" : "Dialer +",
+"url" : "https://play.google.com/store/apps/details?id=com.contapps.android.dialer",
+"package" : "com.contapps.android.dialer",
+"category" : "Communication",
+"description" : "Dialer + is brought to you by the Contacts Plus Team - awarded top developer by Google Play!  Dialer + is a dialer phone launcher for Contacts+, you can select opening the dialer over the contacts or call log screen to reach your favorite screen in a snap!  With Dialer +, phone dialing is made easy, plus you get the most comprehensive contacts and dialer package there is, compleated with these key features:  CONNECT WITH FRIENDS, BLOCK SPAMMERS Block unwanted people via caller ID & block. Whether its a call or sms - youre always in control over the people you connect with.  PROTECT YOUR CONTACTS Advanced Backup & sync makes it easy to backup your contacts, messages and dialed numbers in your call logs so youll never lose them again.  MAKE IT YOUR OWN Above all, your contacts are yours and are never shared with anyone. You can customize and select which features to use, change themes and adjust it to fit your needs. We even added dedicated launchers such as Dialer + to help you get directly to your preferred screens in the app.  QUESTIONS? CONTACT US: Wed love to know you better & listen to your feedback at: support@contactspls.com Facebook.com/contactspls Twitter.com/contactsplus  Know more about Dialer + phone capabilities and Contacts+ through our blog & FAQ: http://www.contactspls.com/faq ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

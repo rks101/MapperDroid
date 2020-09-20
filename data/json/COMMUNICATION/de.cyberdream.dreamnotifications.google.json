@@ -1,0 +1,11 @@
+{
+"name" : "dream Notifications",
+"url" : "https://play.google.com/store/apps/details?id=de.cyberdream.dreamnotifications.google",
+"package" : "de.cyberdream.dreamnotifications.google",
+"category" : "Communication",
+"description" : "Show notifications from your mobile device on your Enigma2 receiver including app icon or icon image.  Features:   Direct notification on your TV  Supports any app which creates notifications (e.g. Gmail, Whatsapp, Facebook Messenger and more)  Global and app specific settings  Configure position, size, content, color and transparency  Configure time frame when the app should be enabled  Display incoming phone calls including caller name and picture  Prerequisites:  - Enigma2 compatible receiver (e.g. VU+ dreambox Gigablue Xtrend Edision Optimuss openATV Octagon ...) - Enabled webinterface (OpenWebIf or Webinterface Plugin) - Android 4.0 or up  You need to install the plugin dream Notifications on your receiver. This can be done within the installation wizard of the app.  Note: If you have problems or a feature request, please feel free to contact me at cyberdream.android@gmail.com  For manual installation of the plugin, please use these instructions: http://dreamepg.de/index.php/dn-install-en-01 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_CONTACTS', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.SYSTEM_ALERT_WINDOW', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.SYSTEM_ALERT_WINDOW', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Messages + SMS",
+"url" : "https://play.google.com/store/apps/details?id=com.contapps.android.messaging",
+"package" : "com.contapps.android.messaging",
+"category" : "Communication",
+"description" : "Messages + SMS is brought to you by the Contacts Plus Team - awarded top developer by Google Play!  Messages + SMS is a messages / SMS launcher for Contacts+, the FREE all in one contacts, messages (SMS), dialer & call log app. Key features include:  CONNECT WITH FRIENDS, BLOCK SPAMMERS Block unwanted people via caller ID & block. Whether its a call or sms - youre always in control over the people you connect with.  PROTECT YOUR CONTACTS Advanced Backup & sync makes it easy to backup your contacts, messages (sms) and call logs so youll never lose them again.  MAKE IT YOUR OWN Above all, Your contacts are yours and are never shared with anyone. You can customize and select which features to use, change themes and adjust it to fit your needs. We even added dedicated launchers such as Messages + SMS to help you get directly to your preferred screens in the app.  QUESTIONS? CONTACT US: Wed love to know you better & listen to your feedback at: support@contactspls.com Facebook.com/contactspls Twitter.com/contactsplus  Know more about Messages + SMS and Contacts+ through our blog & FAQ: http://www.contactspls.com/faq ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

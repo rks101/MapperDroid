@@ -1,0 +1,11 @@
+{
+"name" : "Sentinel Free VPN",
+"url" : "https://play.google.com/store/apps/details?id=co.sentinel.sentinellite",
+"package" : "co.sentinel.sentinellite",
+"category" : "Communication",
+"description" : "Sentinel Free VPN is a decentralized VPN (dVPN) that has access to user hosted nodes from the Sentinel Network, currently developed on top of Ethereum (on mobile) & Tendermint and Cosmos Network (on desktop)  The fact is that you can never fully trust 3rd party VPN providers as the encryption and routing protocols are not open-source or provable.   This instance of Sentinel Free VPN is not fully provable as Google Play does not expose the app checksum, however, the developers behind Sentinel assure that this application uses the same code that is transparently shown on the Sentinel GitHub.  URL: https://github.com/sentinel-official/sentinel/tree/master/mobile-client-android/  Note: This is an Alpha release and may have issues on some hardware models. The development team encourages you to report all issues with the VPN Android client or other issues related to OpenVPNs IPv4 and IPv6 or more.  You can also log them on https://github.com/sentinel-official/sentinel/issues/  Sentinel can be followed here:  Website : https://sentinel.co Community Chat - Telegram - https://t.me/sentinel_co Announcements on Telegram - https://t.me/sentinel_announcements Important News & Updates - Twitter - https://twitter.com/sentinel_co News and Updates on Medium - https://medium.com/sentinel ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

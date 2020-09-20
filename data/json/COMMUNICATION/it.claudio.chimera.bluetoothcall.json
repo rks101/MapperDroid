@@ -1,0 +1,11 @@
+{
+"name" : "Bluetooth Remote Call",
+"url" : "https://play.google.com/store/apps/details?id=it.claudio.chimera.bluetoothcall",
+"package" : "it.claudio.chimera.bluetoothcall",
+"category" : "Communication",
+"description" : "Usa il tuo PC per far chiamare al telefonino.  Contattare EL.CO. Informatica http://www.elconet.it per lintegrazione con il tuo PC. Use your PC to the phone to call.  Contact EL.CO. Computer http://www.elconet.it for integration with your PC. ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_PHONE_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.CALL_PHONE', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

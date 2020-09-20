@@ -1,0 +1,11 @@
+{
+"name" : "BF4 Lantern & Morse Solver",
+"url" : "https://play.google.com/store/apps/details?id=bf4dveesolver.bf4dveesolver",
+"package" : "bf4dveesolver.bf4dveesolver",
+"category" : "Communication",
+"description" : "Provides the solution to the lantern puzzle, ensures that all lanterns are lit with the correct button combination. Also is able to decode the morse code from the flashing lantern to get the individual unlock code. If you have trouble with morse decoding, search youtube for bf4 lantern calibration and adjust monitor brightness / ambient room lighting for more accurate results.  I appreciate all feedback, both good and bad. I check reviews regularly but if you have had a problem, can you contact me and let me know rather than leaving one star ratings without any text feedback. This doesnt give me a chance to resolve any issues and improve the app for the community. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

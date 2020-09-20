@@ -1,0 +1,11 @@
+{
+"name" : "GfK Link",
+"url" : "https://play.google.com/store/apps/details?id=gfk.connector.app",
+"package" : "gfk.connector.app",
+"category" : "Communication",
+"description" : "GfK Link enables you to take part in the exclusive GfK Link programm! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'com.gfk.link.permission.C2D_MESSAGE', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.READ_SYNC_SETTINGS', 'android.permission.READ_SYNC_STATS', 'android.permission.WRITE_SYNC_SETTINGS', 'android.permission.AUTHENTICATE_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.gfk.link.permission.C2D_MESSAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Telephone - Simple Dialer",
+"url" : "https://play.google.com/store/apps/details?id=com.kenzap.simple_dialer",
+"package" : "com.kenzap.simple_dialer",
+"category" : "Communication",
+"description" : "This app can replace your default dialer and make your telephone life easier. While core functionality allows seamless migration to this app simplicity is kept in mind on every step.  - No additional difficult and boring features - Fast and extremely easy to use - T9 contact search - Edit phone contacts by long pressing on contact - Auto contact suggestion when typing phone number ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.INTERNET', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.CALL_PHONE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_CONTACTS', 'android.permission.WRITE_CONTACTS', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

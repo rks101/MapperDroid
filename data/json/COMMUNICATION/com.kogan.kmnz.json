@@ -1,0 +1,11 @@
+{
+"name" : "Kogan Mobile New Zealand",
+"url" : "https://play.google.com/store/apps/details?id=com.kogan.kmnz",
+"package" : "com.kogan.kmnz",
+"category" : "Communication",
+"description" : "Manage your Kogan Mobile account on the go with the Kogan Mobile app. Its quick and easy to check your data usage, recharge, update your account details and more.   You can:   Set up and manage your account  Check your usage history such as calls, SMS, MMS and data  Recharge & schedule Auto Recharge  Top up your data allowance  Download invoices  Purchase additional addons for your service.  Get answers to all your questions at the Help Centre ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

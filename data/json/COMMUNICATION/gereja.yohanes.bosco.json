@@ -1,0 +1,11 @@
+{
+"name" : "Gereja St. Yohanes Bosco",
+"url" : "https://play.google.com/store/apps/details?id=gereja.yohanes.bosco",
+"package" : "gereja.yohanes.bosco",
+"category" : "Communication",
+"description" : "Aplikasi untuk umat Gereja St. Yohanes Bosco, Danau Sunter, Jakarta  Fitur-fitur antara lain: 1. Berita Terkini 2. Whats on 3. Discimus 4. Pelayanan Sakramental 5. Pelayanan Rohani 6. Pelayanan Sosial 7. Interaksi Umat 8. Kalender Liturgi 9. Alkitab 10. Kumpulan Doa 11. Sangkakala 12. Bosconian 13. Jadwal Misa 14. Sejarah Gereja 15. Gembala Umat 16. Santo Pelindung 17. Tentang SDB 18. Notification  Dikembangkan oleh pengembang eKatolik ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_EXTERNAL_STORAGE', 'gereja.yohanes.bosco.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.javapapers.currentlocationinmap.permission.MAPS_RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.VIBRATE', 'android.permission.GET_ACCOUNTS', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.javapapers.currentlocationinmap.permission.MAPS_RECEIVE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

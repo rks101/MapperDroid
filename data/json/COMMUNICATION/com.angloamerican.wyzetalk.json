@@ -1,0 +1,11 @@
+{
+"name" : "Anglo American Engage",
+"url" : "https://play.google.com/store/apps/details?id=com.angloamerican.wyzetalk",
+"package" : "com.angloamerican.wyzetalk",
+"category" : "Communication",
+"description" : "The Anglo American Engage app gives you an easy way to stay in touch with the information thats important to you, wherever you are.  - get important messages from Anglo American straight to your phone - give your feedback on important topics - keep in touch with company information - hear from leaders - find out what Anglo American is doing in your community ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.huawei.android.launcher.permission.CHANGE_BADGE', 'com.oppo.launcher.permission.WRITE_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'com.majeur.launcher.permission.UPDATE_BADGE', 'com.huawei.android.launcher.permission.READ_SETTINGS', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'android.permission.VIBRATE', 'me.everything.badger.permission.BADGE_COUNT_READ', 'com.google.android.c2dm.permission.RECEIVE', 'com.huawei.android.launcher.permission.WRITE_SETTINGS', 'android.permission.WAKE_LOCK', 'com.sonymobile.home.permission.PROVIDER_INSERT_BADGE', 'android.permission.INTERNET', 'android.permission.READ_APP_BADGE', 'com.sec.android.provider.badge.permission.READ', 'com.angloamerican.wyzetalk.permission.C2D_MESSAGE', 'com.sec.android.provider.badge.permission.WRITE', 'android.permission.READ_EXTERNAL_STORAGE', 'me.everything.badger.permission.BADGE_COUNT_WRITE', 'com.htc.launcher.permission.READ_SETTINGS', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.oppo.launcher.permission.READ_SETTINGS', 'com.anddoes.launcher.permission.UPDATE_COUNT']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

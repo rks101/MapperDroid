@@ -1,0 +1,11 @@
+{
+"name" : "Dash Text",
+"url" : "https://play.google.com/store/apps/details?id=cash.bitcoinmap.dashtext",
+"package" : "cash.bitcoinmap.dashtext",
+"category" : "Communication",
+"description" : "This app provides all the phone numbers necessary to use DashText  It also provides links to the Social Media accounts of DashText  DashText is a service to send DASH via text messages  It is available in three countries so far: Venezuela, Colombia & U.S.A. ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.SEND_SMS', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "ULT, Inc",
+"url" : "https://play.google.com/store/apps/details?id=dbws.languagetranslator",
+"package" : "dbws.languagetranslator",
+"category" : "Communication",
+"description" : "A universal language translator (ULT) automatically translates a spoken word or phrase between two speakers. The translator can lock onto a speaker and filter out ambient noise so as to be used in noisy environments, and to ensure accuracy of the translation when multiple speakers are present.  In future, ULT can also synthesize a speakers voice into the dialect of the other speaker such that each speaker sounds like theyre speaking the language of the other. A dialect detector could automatically select target dialects either by auto-sensing the dialect by listening to aspects of each speakers phrases, or based upon the location of the device. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.read_phone_state']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.read_phone_state', 'android.permission.ACCESS_FINE_LOCATION']",
+}

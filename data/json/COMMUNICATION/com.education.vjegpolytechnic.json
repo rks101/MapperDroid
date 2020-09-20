@@ -1,0 +1,11 @@
+{
+"name" : "VJEG Polytechnic",
+"url" : "https://play.google.com/store/apps/details?id=com.education.vjegpolytechnic",
+"package" : "com.education.vjegpolytechnic",
+"category" : "Communication",
+"description" : "This App Will Help As A Communication Bridge Between Parents & School The App Will Help Parents To Get Information Of Students Like Attendance, Notice, Homework, Time Table, Result Etc. This Will Help Parents To Stay Connected. This App for getting the whole activity of school like , time table, exam time table, homework, fees activity.This is a platform where schools can communicate with parents.  Following are some of the points which have been covered: Whether a student has come to school or he is absent. Notice about anything in real time without any time gap. Their marks in the test. Academic calendar or plan of school. Homework of the student. Syllabus of the particular test. Images of any event celebrated (gallery). ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.CALL_PHONE', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CALL_PHONE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

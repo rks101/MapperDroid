@@ -1,0 +1,11 @@
+{
+"name" : "Data Link Notifier",
+"url" : "https://play.google.com/store/apps/details?id=org.sais.linknotifier",
+"package" : "org.sais.linknotifier",
+"category" : "Communication",
+"description" : "A small icon on notification bar to ensure if the data link is *REALLY* connected. Also shows your connection speed level. (On Android 2.2+ devices)  Almost drains no battery, no traffic when screen is off.  Default pings 8.8.8.8 every 3 seconds, about 2 KB/min traffic when screen is on. You can change these settings.  Icon is from http://www.rubysoftware.nl/  Containing: Copyright 2011 Robot Media SL (http://www.robotmedia.net) Licensed under the Apache License, Version 2.0 (the License); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'org.sais.linknotifier.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

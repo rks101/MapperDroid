@@ -1,0 +1,11 @@
+{
+"name" : "Antox",
+"url" : "https://play.google.com/store/apps/details?id=chat.tox.antox",
+"package" : "chat.tox.antox",
+"category" : "Communication",
+"description" : "Note that Antox is still alpha software and there may be some bugs. Antox uses the Tox protocol which is Peer to Peer, so there will be high data usage and battery drain. WiFi only mode is currently recommended for now.  With the rise of government monitoring programs, Antox is an easy to use application that allows you to connect with friends and family without anyone else listening in.  Antox is completely open-source so you know what youre using is truly secure. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "MDUpdater",
+"url" : "https://play.google.com/store/apps/details?id=com.thunkable.android.DegeMarius.MDUpdate",
+"package" : "com.thunkable.android.DegeMarius.MDUpdate",
+"category" : "Communication",
+"description" : "With this app you can update all MD and Bluetooth wireless devices - you are always up to date and therefore miss no update.  Simply select your device, click Update procedure and the app does the rest. The app automatically updates itself when a new version is available for a device. The current version and the device proposed in the app as an update.  If you set Preserve System Settings in the hook, the device settings not to factory reset state. Sometimes this is useful if it should come to a problem.  The app can be minimized during programming! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.TRANSMIT_IR', 'android.permission.SEND_SMS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.TRANSMIT_IR', 'android.permission.SEND_SMS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+}

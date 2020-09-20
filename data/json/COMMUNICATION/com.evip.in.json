@@ -1,0 +1,11 @@
+{
+"name" : "eVIP",
+"url" : "https://play.google.com/store/apps/details?id=com.evip.in",
+"package" : "com.evip.in",
+"category" : "Communication",
+"description" : "Verification on New/Renewal of Passport applications is one of the important duties of Police Department. In order to streamline the process of Police Verification under the Passport Seva Project (PSP), the new system is most efficient, speedy, transparent, accountable and user-friendly.   All the manually maintained registers, books etc. have been computerized into electronic format, thereby reduced the human workload and reduced the paper consumption and governmental recurring expenses. This system enable each and every passport applicant to monitor the police process through online and receives computer generated Mobile phone Messages (SMS) at free of cost. There is also provision to submit their feedback to District Police Chief about his experiences during the Passport Verification. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_VIDEO', 'android.permission.CALL_PHONE', 'android.permission.FLASHLIGHT', 'android.permission.VIBRATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_VIDEO', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

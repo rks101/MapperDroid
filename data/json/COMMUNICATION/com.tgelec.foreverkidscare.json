@@ -1,0 +1,11 @@
+{
+"name" : "Forever KidsCare",
+"url" : "https://play.google.com/store/apps/details?id=com.tgelec.foreverkidscare",
+"package" : "com.tgelec.foreverkidscare",
+"category" : "Communication",
+"description" : "Aplikacja zapewnia sta komunikacj pomidzy rodzicem a dzieckiem oraz uatwia opiek nad nim. The application provides constant communication between the parent and the child and makes it easier to look after it. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.CALL_PHONE', 'android.permission.CAMERA', 'android.permission.RECORD_AUDIO', 'android.permission.FLASHLIGHT', 'android.permission.MANAGE_ACCOUNTS', 'android.permission.READ_CONTACTS', 'android.permission.FOREGROUND_SERVICE', 'android.permission.BLUETOOTH', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_ACCOUNTS', 'android.permission.READ_PHONE_STATE', 'com.tgelec.foreverkidscare', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CHANGE_CONFIGURATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CALL_PHONE', 'android.permission.CAMERA', 'android.permission.RECORD_AUDIO', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.READ_CONTACTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CHANGE_CONFIGURATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_ACCOUNTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'com.tgelec.foreverkidscare']",
+}

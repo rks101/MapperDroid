@@ -1,0 +1,11 @@
+{
+"name" : "ircDDB remote",
+"url" : "https://play.google.com/store/apps/details?id=com.pd7l.ircddbremote",
+"package" : "com.pd7l.ircddbremote",
+"category" : "Communication",
+"description" : "With this application it is possible to control the ircDDB gateway software from Jonathan Naylor G4KLX remotely via an android device. You can connect and disconnect with your own ircDDB gateway to every D-star reflector, hotspot or call without holding your dstar transceiver.  You can find a short manual on the following site:  http://www.pa7lim.nl/ircddbremote/  Many thanks to Michael VK5ZEA for making the promo video! ",
+"desc_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "[]",
+}

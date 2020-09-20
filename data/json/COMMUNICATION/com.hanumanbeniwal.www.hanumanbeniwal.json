@@ -1,0 +1,11 @@
+{
+"name" : "Hanuman Beniwal",
+"url" : "https://play.google.com/store/apps/details?id=com.hanumanbeniwal.www.hanumanbeniwal",
+"package" : "com.hanumanbeniwal.www.hanumanbeniwal",
+"category" : "Communication",
+"description" : "   hanuman beniwal app     - hanuman beniwal video  hanuman beniwal latest news hanuman beniwal song Badmer rally updates  Images, Complaint Box etc. hanuman beniwal news in hindi hanuman beniwal news  hanuman beniwal speech  hanuman beniwal hindi news  hanuman beniwal mla  hanuman beniwal mla video  mla hanuman beniwal  hanuman ji beniwal  hanuman beniwal ka video  hanuman beniwal photo  hanuman beniwal mobile number  hanuman beniwal contact number  hanuman beniwal facebook hanuman beniwal youtube  hanuman beniwal wikipedia  hanuman beniwal nagaur  hanuman beniwal nagaur news  hanuman beniwal mla rajasthan  hanuman beniwal song download khimsar vidhayak hanuman beniwal  hanuman beniwal history  hanuman beniwal badmer rally badmer raily live news update etc.  Note :-                                   ! ",
+"desc_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

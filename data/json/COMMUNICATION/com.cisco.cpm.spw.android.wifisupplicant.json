@@ -1,0 +1,11 @@
+{
+"name" : "Cisco Network Setup Assistant",
+"url" : "https://play.google.com/store/apps/details?id=com.cisco.cpm.spw.android.wifisupplicant",
+"package" : "com.cisco.cpm.spw.android.wifisupplicant",
+"category" : "Communication",
+"description" : "Cisco Network Setup Assistant is used to connect devices securely to networks utilizing Cisco Identity Services Engine.  Please deny enroll.cisco.com on WLC so that the app can detect the ISE server.  Starting from Network Setup Assistant version 1.2.0.42, there will be a prompt for user and CA certificates on android mobiles > 4.3 too like older versions (android < 4.3). ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.CHANGE_CONFIGURATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_BACKGROUND_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.CHANGE_CONFIGURATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_BACKGROUND_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

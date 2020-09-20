@@ -1,0 +1,11 @@
+{
+"name" : "HouseBasic",
+"url" : "https://play.google.com/store/apps/details?id=com.thunkable.android.DegeMarius.HouseBasic",
+"package" : "com.thunkable.android.DegeMarius.HouseBasic",
+"category" : "Communication",
+"description" : "Control your home easily via WLAN.  The HouseBasic system can be used for all possible applications (WLAN socket, flush-mounted lamp control, integrated into an LED panel, roller shutter control, etc.).  The appearance of the app always adapts to the selected device. Rename your devices, transfer the list from / to the MDTerm.  All the features that the HouseBasic system provides can be served with the app. The app provides the perfect, convenient control for your smart home based on the MD HouseBasic system. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.SEND_SMS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SEND_SMS', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+}

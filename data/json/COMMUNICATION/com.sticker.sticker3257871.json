@@ -1,0 +1,11 @@
+{
+"name" : "God of Fortune Whatsapp Sticker",
+"url" : "https://play.google.com/store/apps/details?id=com.sticker.sticker3257871",
+"package" : "com.sticker.sticker3257871",
+"category" : "Communication",
+"description" : "Need to send some God of Fortune for Lunar Chinese New Year. This special pack if for you to bring good fortune and Luck to your friends and Family. Huat Ahh ..... ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

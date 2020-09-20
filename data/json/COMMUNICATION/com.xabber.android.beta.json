@@ -1,0 +1,11 @@
+{
+"name" : "Xabber Beta",
+"url" : "https://play.google.com/store/apps/details?id=com.xabber.android.beta",
+"package" : "com.xabber.android.beta",
+"category" : "Communication",
+"description" : "Experimental (possibly UNSTABLE) version of Xabber - open source Jabber (XMPP) client with multi-account support and clean interface.  You can install this version if you want to help us test and develop Xabber. Stability is not guaranteed, so if you are not feeling adventurous, use regular version. But if you ARE a risk-taker, you will get new features first!  Source code of Xabber is available at https://github.com/redsolution/xabber-android under the GNU GPLv3 license.  For more information visit our website http://xabber.com or follow @xabber_xmpp at twitter.  If you have any bugs or bright ideas to report, please mail to: info+devel@xabber.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.READ_INTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.READ_INTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

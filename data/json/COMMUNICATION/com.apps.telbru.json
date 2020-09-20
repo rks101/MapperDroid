@@ -1,0 +1,11 @@
+{
+"name" : "Cakapp",
+"url" : "https://play.google.com/store/apps/details?id=com.apps.telbru",
+"package" : "com.apps.telbru",
+"category" : "Communication",
+"description" : "Cakapp is a TelBru voice application, which allows existing landline subscribers to use their home number on their mobile phone to make and receive calls. It is also available for other subscribers to use to make outgoing calls, buy voice plans and top ups. ",
+"desc_perms" : "['android.vending.BILLING', 'com.android.vending.BILLING', 'android.permission.CALL_PHONE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.PREVENT_POWER_KEY', 'android.permission.RECORD_AUDIO', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.READ_CONTACTS', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'com.apps.telbru.permission.C2D_MESSAGE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.PREVENT_POWER_KEY', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Dialer for fat fingers",
+"url" : "https://play.google.com/store/apps/details?id=com.onecwearable.androiddialer",
+"package" : "com.onecwearable.androiddialer",
+"category" : "Communication",
+"description" : "Your smartphone already has a dialer with a set of useful features. May be you dont need to replace it. Just install this application and use it not instead of, but in addition to, your dialer.  Searching for a contact is the most common operation in a dialer.  Dialer for fat fingers is designed to secure fast and convenient search of contacts.  A transparent full screen keyboard with big keys does not overlap your list of contacts: you are less likely to make typos when typing a name. You can customize themes, search method, touch effects and other settings.  This is a demo version. After the trial period is over, you will be offered to purchase ad-free version or continue using the keyboard with ads enabled. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.READ_CONTACTS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Group Islamic Stickers - WAStickersApps",
+"url" : "https://play.google.com/store/apps/details?id=com.baswedan.islamicsticker",
+"package" : "com.baswedan.islamicsticker",
+"category" : "Communication",
+"description" : "Islamic Stickers for Whatsapp WAStickersApps  - Section for Islamic Stickers   - Section for Blessed Friday.  - Section for Thiker Stickers.  - Section for Condolence stickers  - Section for Ayat stickers  - Section for Eid stickers   * Please update the Whatsapp to the latest version and if the poster feature in the Whatsapp is not updated from the official website  https://www.whatsapp.com/android/  How to use: Download and open the application Click on Display Sticker Pack Click on the package you want to download Click Add to Whatsapp Confirm it Open Whatsapp and go to chat Click the Smilies icon You will notice the presence of a small sticker down the screen pressed and you will notice that the package stickers were added to the lists of the sticker  For suggestions: sticker@baswedan.co  Keywords: WAStickerApps, Stickers, Whatsapp : Memes, Arabic: Arabic: Watts Ab sticker: Stickers , Islamic , Group , Blessed Friday , Thiker , Condolence , Ayat . ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

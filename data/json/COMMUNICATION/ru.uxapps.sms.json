@@ -1,0 +1,11 @@
+{
+"name" : "Sms UX - Fast sms app, messenger, voice to text",
+"url" : "https://play.google.com/store/apps/details?id=ru.uxapps.sms",
+"package" : "ru.uxapps.sms",
+"category" : "Communication",
+"description" : "Want to communicate faster and easier? Sms Messenger from UX Apps - powerful, beautiful and simple envoyer sms.   Features of our quick sms app:  - Lightweight (takes up little space on your device) - Advanced sms voice to text input (its now easy to write sms messages by voice) - Rich sms notification (mark new message as read or reply to it immediately) - Themes (customize messenger color, choose your favorite ones) - Multiple SIM support (for android 5.1+) - Really fast sms messenger (cares of performance - explore your sms messages at max speed)  Sounds good? Install and try our envoyer sms now, its free!  Yours respectfully, UX Apps Team. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_CONTACTS', 'android.permission.SEND_SMS', 'android.permission.RECEIVE_SMS', 'android.permission.READ_PHONE_STATE', 'android.permission.RECEIVE_MMS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'ru.uxapps.sms.permission.C2D_MESSAGE', 'android.permission.DISABLE_KEYGUARD', 'android.permission.WRITE_SMS', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_SMS', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS', 'android.permission.RECEIVE_SMS', 'android.permission.READ_PHONE_STATE', 'android.permission.RECEIVE_MMS', 'android.permission.DISABLE_KEYGUARD', 'android.permission.WRITE_SMS', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_SMS', 'android.permission.INTERNET']",
+}

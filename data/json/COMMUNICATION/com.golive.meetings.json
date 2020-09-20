@@ -1,0 +1,11 @@
+{
+"name" : "GoLive Meetings",
+"url" : "https://play.google.com/store/apps/details?id=com.golive.meetings",
+"package" : "com.golive.meetings",
+"category" : "Communication",
+"description" : "Being alive to the reality of a changing world is the catalyst of innovations, in a hi-tech super speed world of today, to physically keep up with important meetings sometimes prove challenging. Seeing through the challenge of the modern society is the inspiration behind the GoLive App, a next generational Platform that bridge the gap by offerings cutting edge HD live streaming and video conferencing of important events, which keeps you connected to Church and special meetings anywhere you are. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+}

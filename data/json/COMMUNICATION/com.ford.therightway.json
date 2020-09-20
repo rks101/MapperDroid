@@ -1,0 +1,11 @@
+{
+"name" : "The Right Way",
+"url" : "https://play.google.com/store/apps/details?id=com.ford.therightway",
+"package" : "com.ford.therightway",
+"category" : "Communication",
+"description" : "The Right Way mobile app is a tool intended for Ford Motor Company personnel and its business partners to have quick access to information needed to guide ethical decisions according to Company policy. Implemented Multilingual Support for The Right Way application for six languages and updated the existing content. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

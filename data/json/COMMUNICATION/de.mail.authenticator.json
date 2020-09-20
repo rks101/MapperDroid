@@ -1,0 +1,11 @@
+{
+"name" : "mail.de Authenticator",
+"url" : "https://play.google.com/store/apps/details?id=de.mail.authenticator",
+"package" : "de.mail.authenticator",
+"category" : "Communication",
+"description" : "Die mail.de Authenticator App kann als zustzlicher Sicherheitsfaktor fr Ihren mail.de Login genutzt werden und bietet Ihnen damit einen erweiterten Schutz Ihres E-Mail Postfaches.   Zunchst muss die Funktion im Einstellungsmodus Ihres E-Mail Postfaches eingerichtet werden. Nach erfolgreicher Einrichtung wird beim Webmailer Login knftig ein aktueller Authenticator Code abgefragt werden, den Sie mit Hilfe dieser App generieren knnen.  Weitere Informationen befinden sich in unserer Hilfe: https://mail.de/hilfe/authenticator  Bentigte Rechte: Diese App wurde mittels Phonegap erstellt und bentigt daher (durch Phonegap vorgegeben) nur das Recht fr den Internetzugriff. Die App nutzt die Internetverbindung aber nicht da die Code-Berechnungen lokal erfolgen. The mail.de Authenticator app can be used as an additional safety factor for your mail.de Login providing you with an enhanced protection of your e-mail mailbox.  First, the function setting mode for your email mailbox must be set up. After successful set a current Authenticator code will be requested from the webmail login in the future you can generate using this app.  More information can be found in our Help Center: https://mail.de/hilfe/authenticator  Required privileges: This app was created using Phonegap and therefore requires (Phonegap by default) only the right to access the Internet. The app uses the internet connection but not for the code calculations are done locally. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

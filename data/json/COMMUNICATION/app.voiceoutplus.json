@@ -1,0 +1,11 @@
+{
+"name" : "Voice Out Plus â€” Text-to-Speech App",
+"url" : "https://play.google.com/store/apps/details?id=app.voiceoutplus",
+"package" : "app.voiceoutplus",
+"category" : "Communication",
+"description" : "[Required] Google Text-to-Speech  Voice Out Plus allows you to easily read aloud text snippets^ from various languages with the help of Googles built-in text to speech (TTS) engine.  Features:  Automatically paste text from clipboard on startup  Slider to easily adjust playback speed and pitch  Choose from 35+ different languages*  Settings to remember your default language, playback rate and pitch  Auxiliary default for quick pronunciation between two languages (ex: Cantonese and Mandarin)   Connects to the internet for specific language or voice if it has not been downloaded onto device  Can work offline for languages that have been downloaded  ^Currently limited to 1200 characters  *Supported Languages:  English (United States)  English (United Kingdom)  English (Australia)  English (India)  Mandarin (China)  Mandarin (Taiwan)  Cantonese (Hong Kong)  Spanish (Spain)  Spanish (United States)  Hindi  Portuguese (Brazil)  Portuguese (Portugal)  Bangla (India)  Bangla (Bangladesh)  Russian  Japanese  German  Indonesian  Javanese  Vietnamese  Korean  French (France)  French (Canadian)  Turkish  Italian  Thai  Polish  Sundanese  Ukrainian  Tagalog  Romanian  Dutch  Nepali  Sinhala  Khmer  Hungarian  Greek  Czech  Swedish  Danish  Finnish  Norwegian  Estonian  Slovak ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

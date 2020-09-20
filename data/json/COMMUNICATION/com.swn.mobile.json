@@ -1,0 +1,11 @@
+{
+"name" : "Send Word Now",
+"url" : "https://play.google.com/store/apps/details?id=com.swn.mobile",
+"package" : "com.swn.mobile",
+"category" : "Communication",
+"description" : "Send Word Now for Android provides an easy-to-use alerting and response platform designed for quickly executing and tracking alerts and responses even while away from the office. Unlike other notification applications that only make use of the web browser, Send Word Nows native Android application provides an additional custom-built interface for allowing administrators to directly send voice alerts to mobile and landline phones, text alerts via SMS and email, and more, ensuring that important messages are always received. Alerts are tracked from initiation to response, right from your Android. ",
+"desc_perms" : "['android.permission.RECEIVE_SMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.SEND_SMS', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CALL_PHONE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CALL_PHONE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "XDA Legacy",
+"url" : "https://play.google.com/store/apps/details?id=com.quoord.tapatalkxdapre.activity",
+"package" : "com.quoord.tapatalkxdapre.activity",
+"category" : "Communication",
+"description" : "For the best XDA experience on mobile, try our new app, XDA, built entirely in-house: https://play.google.com/store/apps/details?id=com.xda.labs.play  *Please clear app data after installing v4.0.x if you encounter login issue (settings>apps>xda premium>clear data)*  This app lets you access the world-famous XDA forums, plus reply to threads, add new ones, manage your PMs, and more!  The premium XDA app is ad-free and has additional features versus the free XDA app.  Please note: XDA Premium works best over WiFi or high speed cellular data. The first load might take the longest even if youre on WiFi. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.USE_CREDENTIALS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.VIBRATE', 'com.quoord.tapatalkxdapre.activity.permission.C2D_MESSAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.GET_ACCOUNTS', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}
