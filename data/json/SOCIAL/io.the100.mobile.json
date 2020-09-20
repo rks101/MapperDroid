@@ -1,0 +1,11 @@
+{
+"name" : "The100.io Destiny 2 Groups",
+"url" : "https://play.google.com/store/apps/details?id=io.the100.mobile",
+"package" : "io.the100.mobile",
+"category" : "Social",
+"description" : "Looking for a great group of people to play cooperative video games like Destiny 2 and The Division 2 with? This is the official app for The100.io, the new matchmaking site to help you automatically find a permanent group of likeminded players.  Heres how The 100 works:  1. Enter your basic info, like your age and when you play.  2. Well automatically add you to a permanent group of 100 other like minded players.  3. Play games like Destiny 2, The Division 2, and many more! Youll always have a group of 100 like minded players you can play with and get to know. Get mobile notifications of upcoming gaming sessions, realtime chat with your group, and more.  4. Thats it. No more randoms. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'io.the100.mobile.permission.C2D_MESSAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_WIFI_STATE', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'com.sec.android.provider.badge.permission.WRITE', 'com.majeur.launcher.permission.UPDATE_BADGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.google.android.c2dm.permission.RECEIVE', 'com.htc.launcher.permission.READ_SETTINGS', 'android.permission.VIBRATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.sec.android.provider.badge.permission.READ']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Blogger",
+"url" : "https://play.google.com/store/apps/details?id=com.google.android.apps.blogger",
+"package" : "com.google.android.apps.blogger",
+"category" : "Social",
+"description" : "Download the latest release of the official Blogger app, and start blogging on the go. With Blogger for Android you can:  * Compose a post that you can save to draft or immediately publish  * Edit existing posts  * View list of your saved and published posts  * Switch account/blog if you have more than one  * Embed images from the gallery, or by taking a picture directly from the app  * Add labels to your posts   With the Blogger app for Android, you can quickly and easily publish posts to your blog wherever you are. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.GET_PACKAGE_SIZE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.CAMERA', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Monotweety - tweet from notification",
+"url" : "https://play.google.com/store/apps/details?id=net.yslibrary.monotweety",
+"package" : "net.yslibrary.monotweety",
+"category" : "Social",
+"description" : "Monotweety is an open-source Twitter client just for tweeting from devices notification area.  If you are using Android 7.0 or later, you can literally tweet from notification area. Other wise when you tap the notification, Editor dialog will be launched.  Features - tweet from notification - Open selected twitter app from notification - Quick Settings tile to opening editor dialog(Android 7.0 and up).   Monotweety is an open-source project. If you are interested in contributing, reporting bugs or requesting new feature, visit https://github.com/yshrsmz/monotweety. Also, you can contact me via twitter, @yslibnet ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

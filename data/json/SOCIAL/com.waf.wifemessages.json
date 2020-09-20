@@ -1,0 +1,11 @@
+{
+"name" : "Love Messages For Wife - Romantic Poems & Images",
+"url" : "https://play.google.com/store/apps/details?id=com.waf.wifemessages",
+"package" : "com.waf.wifemessages",
+"category" : "Social",
+"description" : "Love is truly a magical thing. Do you want to express your love for your wife in sweet words but dont know how to do it? Love Messages for Wife is your solution! It contains a collection of romantic cute quotes, love gifs and messages to serenade your wife (or your wife-to-be!) and make her feel special!  These thoughtful, charming and creative love messages & love gifs will help you to express your innermost feelings in a perfect way. They are sure to touch your partners heart and make your relationship even better! The love of your life will be delighted to read your romantic expression of love.  Love Messages for Wife consists of : * Beautiful and touching SMS messages and Gif to send to your wife or express your love for your wife on Whatsapp, Facebook and more * Perfect to send to your wife especially when youre missing her. * The best and creative way to say I love you to your girlfriend (and future wife)! * Consists of Valentines day wishes, love poems, anniversary wishes and so much more.  Download this app now and get access to a huge collection of love messages & love gifs for free! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

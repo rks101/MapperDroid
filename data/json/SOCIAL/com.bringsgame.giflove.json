@@ -1,0 +1,11 @@
+{
+"name" : "Gif Love Sticker",
+"url" : "https://play.google.com/store/apps/details?id=com.bringsgame.giflove",
+"package" : "com.bringsgame.giflove",
+"category" : "Social",
+"description" : " Introduction: Gif Love Stickers is a free app.   Using the gif love stickers in this app will make your social chat much more innovative and interesting! In this animated love sticker app, you will find:   300+ gif lover stickers. Yes, they are animated and moving!  8+ categories of gif stickers  1 click to share, quite easy to use  You can find the gif stickers to share no matter what mood you want to express to your lovers: Miss, Love, Sorry, Shy, Exciting, Eager, Joyful, Hurt, Loved etc. Except for Love stickers, this app also offers you some other gif stickers for the normal greetings like Hi, Good Morning, Well Done, Happy birthday etc.    Features:   Large variety of animated stickers and gif love stickers.  Enable you to express your love in different way (gif I love you , gif flowers, gif thank you, gif sorry, gif Happy birthday)  Easy to share on WhatsApp facebook messenger Instagram WeChat .  Everything is free!    We are sure that you will like this app, and your family and friends will like you more after you using this. Please feel free to send those gif stickers and tell someone how much you love them today!  Wish you all Happy New year in 2020!  ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

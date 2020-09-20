@@ -1,0 +1,11 @@
+{
+"name" : "RSS Prarthana",
+"url" : "https://play.google.com/store/apps/details?id=com.geeklabs.rssprarthana",
+"package" : "com.geeklabs.rssprarthana",
+"category" : "Social",
+"description" : "RSS Prarthana is the main origin and strength for swayamsvaks to achieve their goal. This is an app which can used to practice the RSS prayer by seeing prayer text in Telugu, Hindi, English, Malayalam, Kannada, Bangla, Tamil, Gujarati, Guruukhi, Bengali and Odia languages. Sangh prayer contains 3 shlokas which is written in sanskrit language, first shloka tells about the meaning of Rashtriya , second shloka tells about the meaning of Swayamsevak and third shloka tells about the meaning of Sangh . This app can be used for those who recently joined RSS swayamsevaks to learn sangha prarthana and its maning.    By playing song and watching prayer text on the screen we can easily learn this prayer.  We can control the song by using Play or Pause and Restart buttons.  Can able to move song by adjusting seek bar(Progress bar).  Can change the prayer text in 11 types of languages by selecting in menu option.  Can see the meaning of prayer with line by line in Telugu, Hindi and English languages.    Keywords: rssprarthana, rss prarthana, rss, prayer, prarthana, rssprayer, rashtriya swayamsevak sangh, sangh prarthana. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE']",
+}

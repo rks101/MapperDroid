@@ -1,0 +1,11 @@
+{
+"name" : "Eurofurence",
+"url" : "https://play.google.com/store/apps/details?id=org.eurofurence.connavigator",
+"package" : "org.eurofurence.connavigator",
+"category" : "Social",
+"description" : "Welcome to the official Eurofurence app for Android - your digital companion to assist you during your visit of Europes largest furry convention annually held in Berlin!  This app allows you to browse through various informational content, serves as a pocket schedule to show you which events are taking place at which time (and which location), offers a listing of official dealers and their merchandise - and much more to come! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'org.eurofurence.connavigator.permission.C2D_MESSAGE', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Foxo Stickers",
+"url" : "https://play.google.com/store/apps/details?id=com.wudiware.foxostickers",
+"package" : "com.wudiware.foxostickers",
+"category" : "Social",
+"description" : "This application allows you to use 29 adorable emotes by partnered Twitch Streamer LeClumsyFox on Whatsapp. Every single emote has been thought through and made with love by incredibly talented artists like Sou and K3lly. Links to the artists can be found at the bottom. These Emotes are also available globally for Discord via a subscription to twitch.tv/LeClumsyFox. Enjoy!  Sou: https://twitter.com/imboooooooo K3lly: https://twitter.com/K3llyArt  All Emotes rightfully belong to LeClumsyFox and the Artists only.  Compatible with WAStickerApps ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

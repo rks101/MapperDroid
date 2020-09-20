@@ -1,0 +1,11 @@
+{
+"name" : "InSaver - Save DPs!",
+"url" : "https://play.google.com/store/apps/details?id=com.lazygeniouz.instadp",
+"package" : "com.lazygeniouz.instadp",
+"category" : "Social",
+"description" : "Ever wanted to Download someones InStagram DP in Full Resolution but didnt know how?  InSaver is a Simple and a Compact App which helps you in Downloading the Display Picture (DP) of Any Instagram User!   So How to Use this? Its as simple as a Cake!  1) Type Username & Search 2) Save it! :) NOTE: Do not Use @ while Typing In UserName :)   Hope you like this App, if so then please Hit the App with a Good Rating... Probably a 5 Star :P ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

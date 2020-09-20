@@ -1,0 +1,11 @@
+{
+"name" : "Impact Guru",
+"url" : "https://play.google.com/store/apps/details?id=com.impactguru.campaigner",
+"package" : "com.impactguru.campaigner",
+"category" : "Social",
+"description" : "Indias first crowdfunding app that lets campaigners manage their fundraisers with ease from anywhere!  Campaigners can login to access a personalised dashboard, keep track of the funds raised, get live updates on donations and share their fundraiser on Facebook, Twitter, LinkedIn, Gmail, WhatsApp and more!   Impact Guru is the largest crowdfunding platform in India for medical, social and personal causes. The tech-for-good venture was incubated at Harvard and provides access to Indian and foreign donors through UK, US and Indian tax benefits.    With the Impact Guru App you can:  - Easily access your fundraiser from anywhere at anytime - Manage your fundraiser on the go - Get live updates on donations - Share your fundraiser on multiple platforms - Chat with our team instantly   This one-of-its kind app puts crowdfunding on your fingertips! More exciting features coming soon.   For any queries or support contact info@impactguru.com. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'com.impactguru.campaigner.permission.C2D_MESSAGE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.AUTHENTICATE_ACCOUNTS', 'android.permission.CALL_PHONE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CALL_PHONE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

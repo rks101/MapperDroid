@@ -1,0 +1,11 @@
+{
+"name" : "Gaymoji by Grindr",
+"url" : "https://play.google.com/store/apps/details?id=com.gaymoji",
+"package" : "com.gaymoji",
+"category" : "Social",
+"description" : "Need to express yourself? We speak your language.  Get Gaymoji, the essential free keyboard for everyone in the LGBTQ community and beyond. No matter what youre up to or who youre messaging, Gaymoji gives you over 500 ways to add something unexpected and unforgettable to the conversation. Discover totally wild ways to talk about: Dates Travel Fun times How youre feeling Guys (obvs) And more  Download Gaymoji now and say something new.   Adults only. Created just for you by Grindr, the worlds largest social networking app for men. Gaymoji is designed to be used in your messaging app and currently does not work on Grindr.but well be changing that soon! ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.gaymoji.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+}

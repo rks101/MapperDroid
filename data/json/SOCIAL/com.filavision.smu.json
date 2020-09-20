@@ -1,0 +1,11 @@
+{
+"name" : "smu! event cloud",
+"url" : "https://play.google.com/store/apps/details?id=com.filavision.smu",
+"package" : "com.filavision.smu",
+"category" : "Social",
+"description" : "Die smu! (sign me up!) Event Cloud ist die einfachste Event Kalender App. Du kannst einfache Veranstaltungen wie einen Pokerabend, das Training deines Sportvereins, eine Geburtstags-Party, Konzerte usw. einstellen. Deine Freunde klicken auf bin dabei oder leider keine Zeit um dir zu sagen ob sie an dem Event teilnehmen. Du kannst auch eine maximale Teilnehmerzahl festlegen und sobald diese erreicht ist, stellt smu! die nchsten Anmeldungen automatisch auf die Warteliste.  Features:  kostenloser Event Kalender  private Events erstellen die nur von zugelassenen Usern einsehbar sind  maximale Teilnehmerzahl einstellen  automatisierte Zusagenliste The SMU! (sign me up!) Event cloud is the simplest calendar app. You can simple events like a poker evening, the training of your sports club, a birthday party, concerts, etc. Set. Your friends click on am going or No time to tell you whether they are participating in the event. You can also specify a maximum number of participants and once it is reached, SMU! Upcoming applications automatically on the waiting list.  Features: & bull; Free Event Calendar & bull; create private events that are viewed only by authorized users & bull; Setting the maximum number of participants & bull; automated commitment list ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

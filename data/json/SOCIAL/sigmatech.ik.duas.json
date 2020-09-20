@@ -1,0 +1,11 @@
+{
+"name" : "Islamic Duas for Success",
+"url" : "https://play.google.com/store/apps/details?id=sigmatech.ik.duas",
+"package" : "sigmatech.ik.duas",
+"category" : "Social",
+"description" : "Authentic Islamic Duas (supplications and prayers) that are selected for a Muslim for those special circumstances in life, which a number of people find challenging. These include tough situations including Rizq (life provisions), health, wealth, relief from debt, and other distressful situations.These duas can be usually heard being recited during Taraweeh in Ramadan in Makkah and Madinah mosques and during the Hajj season also.  Get this Islamic app in your hands and immediately start noticing the benefit of the immense power of selected DUAs that have been compiled from Quran and various authentic sources of Hadith (Prophet Muhammads sayings).   This app contains some of the Duas selected from the popular book Duas for Success that are selected for those special circumstances in life, which a number of people find challenging. These include tough situations including Rizq (life provisions), health, wealth, relief from debt, and other distressful situations.  Includes authentic DUAs from the Quran and Hadith. Specifically, the source of DUAs are the Quran verses, Sahih Bukhari, Sahih Muslim, Abu Dawood, Tirmidhi, Ibn Maja, and more. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

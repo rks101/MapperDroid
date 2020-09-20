@@ -1,0 +1,11 @@
+{
+"name" : "Feeling Blessed",
+"url" : "https://play.google.com/store/apps/details?id=com.nextgeni.feelingblessed",
+"package" : "com.nextgeni.feelingblessed",
+"category" : "Social",
+"description" : "Feeling Blessed is an app which removes all the hurdles in the donation process. It is convenient, safe and transparent. Feeling Blessed enables one to donate any amount from any place at any time in just a few clicks. Feeling Blessed employs the best techniques for security and partners with stripe, an industry leader in online payments. Finally, all transactions on the app can be viewed under the history tab in addition to emails which  are sent to both the parties as soon as the donation is made. Feeling Blessed is also great from the organizations perspective. All donations are instantly deposited in their bank. The organizations also get a very comprehensive back-end to do their book keeping and end of year taxes. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.FLASHLIGHT', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION']",
+"perms_with_call" : "['android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE']",
+}

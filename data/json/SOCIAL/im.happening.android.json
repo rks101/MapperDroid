@@ -1,0 +1,11 @@
+{
+"name" : "Happening",
+"url" : "https://play.google.com/store/apps/details?id=im.happening.android",
+"package" : "im.happening.android",
+"category" : "Social",
+"description" : "Happening is not your average, single-purpose app. It contains a wide variety of tools and games for groups:   Photo Hunt  Race your friends snapping the themed selfie of the day.  Selfie Time  See what your friends are doing right now.  Ranking Game  Rate your friends and predict how theyll rate you.  Sketchy  Guess your friends sketches and make your own.  Betrayal  Make allies and betray them, to win this Risk-like game.  Split the Bill  Easily track and settle expenses among groups of friends.  Event Planner  Quickly poll a date and see whos coming.  List  Share lists of tasks, groceries, notes, ideas, wishes, etc.  ...and more!   What do you think? ",
+"desc_perms" : "['android.permission.READ_CALENDAR', 'android.permission.CAMERA', 'android.permission.GET_ACCOUNTS', 'android.permission.WRITE_CONTACTS', 'android.permission.READ_CONTACTS']",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_CONTACTS', 'im.happening.android.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.VIBRATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.WAKE_LOCK', 'android.permission.USE_CREDENTIALS']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

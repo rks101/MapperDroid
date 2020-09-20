@@ -1,0 +1,11 @@
+{
+"name" : "HashTags for Instagram",
+"url" : "https://play.google.com/store/apps/details?id=com.kimcy929.hashtags",
+"package" : "com.kimcy929.hashtags",
+"category" : "Social",
+"description" : "HashTags is the app help increase likes and follower for your Facebook, Twitter and Instagram easiest and fastest  [Feature] - HashTags app provides for you many hashtag categories as: + Popular + Sports + Animals + Fashion + Celebrities + Social + TextArt + Weather/Seasons + Food + Entertainment + and many more!(more 140 subcategories which is best tags of the moment) - Support search hashtag online - Support copy tags and open app Facebook, Instagram, Twitter - Custom own hashtag easy - Swipe to delete custom hashtags item - Material design beautiful and easy use - Search tags from Instagram (for this feature, you need to login your account and all data will save on your device. This app is not affiliated with Instagram).   You may get more likes and followers using this hashtags app in your photos on Instagram, Facebook and Twitter status. Fast, easy and the best tags!  [User Guide] -->> Simply choose a hashtag name, tap Copy button or tap Copy with Facebook, Instagram, Twitter button(means copy and open that app) then open Instagram, Facebook or Twitter and paste on your pictures and posts!  HashTags is an app free. Setup and enjoy!. If you like app please rate 5 star  or review. They are appreciate for me. Thank you so much! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

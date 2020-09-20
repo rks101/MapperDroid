@@ -1,0 +1,11 @@
+{
+"name" : "GPX - Global Player Exchange",
+"url" : "https://play.google.com/store/apps/details?id=com.fifatms.gpx",
+"package" : "com.fifatms.gpx",
+"category" : "Social",
+"description" : "The Global Player Exchange (GPX) by FIFA TMS is an exclusive networking tool that provides a private and secure platform for TMS Users, football club staff, member associations and player associations around the world to communicate with each other directly and discreetly.  GPX allows users to search and quickly find relevant contacts in the football community to expand their professional network. The professional profile of GPX is the perfect business card to be noticed in the world of football  The users of GPX can get connected to Club Managers, Sport Directors, Chief Scouts and TMS Users as well as other relevant stakeholders in the professional football business. It is the easiest and most efficient way to get in touch with the people in the global football industry. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.fifatms.gpx.permission.C2D_MESSAGE', 'com.fifatms.gpx.permission.LAYER_PUSH']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.fifatms.gpx.permission.C2D_MESSAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.fifatms.gpx.permission.LAYER_PUSH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

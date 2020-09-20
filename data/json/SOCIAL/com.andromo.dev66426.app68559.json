@@ -1,0 +1,11 @@
+{
+"name" : "Sunni Online Radio",
+"url" : "https://play.google.com/store/apps/details?id=com.andromo.dev66426.app68559",
+"package" : "com.andromo.dev66426.app68559",
+"category" : "Social",
+"description" : "SUNNI ONLINE RADIO - Radio for Kerala Malabar Islamic Classroom , Worlds First Malayalam Online Islamic Channel.  KMIC, KMIC TV, KMIC RADIO, SSF, SYS, ICF, RSC,KERALA,ISLAM,SUNNI,AP, ISLAMIKA JALAKAM                  24          (       ,       ,        ,     )                         .  ,  , ,  , , , ,  , ,       . ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

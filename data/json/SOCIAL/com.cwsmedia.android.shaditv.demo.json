@@ -1,0 +1,11 @@
+{
+"name" : "Shadi TV",
+"url" : "https://play.google.com/store/apps/details?id=com.cwsmedia.android.shaditv.demo",
+"package" : "com.cwsmedia.android.shaditv.demo",
+"category" : "Social",
+"description" : "By the grace of God, we have become the largest Persian speaking church in Los Angeles County and our church TV and Radio programs holds the highest ranking in the Persian Christian Satellite TV network. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

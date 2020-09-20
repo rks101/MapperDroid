@@ -1,0 +1,11 @@
+{
+"name" : "Omnitweety - tweet url & title",
+"url" : "https://play.google.com/store/apps/details?id=net.yslibrary.omnitweety",
+"package" : "net.yslibrary.omnitweety",
+"category" : "Social",
+"description" : "Omnitweety is a whole new Twitter client which focuses on sharing URL. It takes full advantage of Androids share feature, and its just 1 tap away from a browsers share button. You dont even need to leave your browser.   Features include: - When you want to share url to twitter, just select Omnitweety from share feature of the app. Omnitweety will automatically tweet with predefined template. - Template can be edited(prefix/suffix) - If you want to tweet with a comment, click the pencil button popped up when you select Omnitweety from share feature. - In case a browser or app does not provide urls title, Omnitweety can automatically fetch url by itself.   Omnitweety needs Overlay Permission in order to display buttons over other apps. Upon first launch, the app will request Overlay Permission. please follow the instruction and grant the Overlay Permission.   # Want a tlanslation for your language? If you want to contribute, please contact me via twitter https://twitter.com/yslibnet   # Have a suggestion or question? Please contact me via twitter https://twitter.com/yslibnet ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.SYSTEM_ALERT_WINDOW', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Star Stable Friends",
+"url" : "https://play.google.com/store/apps/details?id=com.starstable.friends",
+"package" : "com.starstable.friends",
+"category" : "Social",
+"description" : "Keep in touch with the ultimate Star Stable Online companion app!  Star Stable Friends lets you keep in touch with all your friends from Star Stable Online while never missing another game update!  FEATURES   All the latest news from Star Stable, straight to your smartphone!  Send in-game messages to all your friends in Star Stable Online!  Keep track of your Stable Care days, and easily buy more when youre running low!  Customize your pics with horsey stickers in the Photo Editor!  Stock up on Star Coins with the in-app purchase feature!  Beautiful horses, epic quests and awesome adventures are waiting for you and your friends in Star Stable Online! Available for PC & Mac at StarStable.com. Free to play up to level 5! ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.starstable.friends.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

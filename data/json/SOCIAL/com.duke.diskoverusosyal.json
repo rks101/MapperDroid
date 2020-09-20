@@ -1,0 +1,11 @@
+{
+"name" : "Sosyal",
+"url" : "https://play.google.com/store/apps/details?id=com.duke.diskoverusosyal",
+"package" : "com.duke.diskoverusosyal",
+"category" : "Social",
+"description" : "Sosyal is the best social app for Free sharing, chatting and Earning. One can Earn in Dollars while having Fun.  Be Real - Be Original - Be Sosyal  With Sosyal one can Earn in Dollars while having fun with their friends at any time. Post your original videos & images and share with the world. The more likes your post will get, the more you get a chance to win $ on the go.   Not even that, it is offering daily prizes too, if you can fulfil the challenge then earning lots of dollars is not so far from you. Checkout sosyal app daily to explore the exciting offers and earnings.  Share your Sosyal Code with your friend circle to earn $0.25 for each join. Not even that, you can withdraw this money directly in your Bank Account.   50 Lucky winners will get $20 every month.   For any feedback/Suggestion contact us on our email sosyal@diskoveruklub.com ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

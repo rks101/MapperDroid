@@ -1,0 +1,11 @@
+{
+"name" : "AnyImage for Instagram",
+"url" : "https://play.google.com/store/apps/details?id=org.neotech.app.anyimage",
+"package" : "org.neotech.app.anyimage",
+"category" : "Social",
+"description" : "AnyImage is a small utility app which modifies images so you can share them on Instagram without cropping them!   - Any non square image will be modified in to a square image containing the full asset. - The convenient screenshot share option makes it very easy to share any non square image to Instagram. - Use the automatically picked background color or choose your own!   Like NeoTech Software on Facebook and support us! http://www.facebook.com/neotechsoftware   Wed love to hear your suggestions and comments! ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

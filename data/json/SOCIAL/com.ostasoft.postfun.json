@@ -1,0 +1,11 @@
+{
+"name" : "Postfun - exchange postcards around the world",
+"url" : "https://play.google.com/store/apps/details?id=com.ostasoft.postfun",
+"package" : "com.ostasoft.postfun",
+"category" : "Social",
+"description" : "Do you want to receive postcards from around the world? You can find new friends on the other side of the planet. For each postcard you send you will receive one back.  How does it work?  1. Request an address and a Postcard ID. 2. Write a postcard and post it to that address. 3. Receive a postcard from another Postfun user! 4. Register the Postcard ID you have received and thank the sender. 5. Go to number 1 to receive more postcards!  In the world several million people exchange postcards every day. Become one of them! This is a very exciting hobby. You can collect postcards on a particular topic. Or it will be just postcards with stamps from different countries. Everyone will find what he likes in our common hobby. And our Postfun team will do everything to make the exchange of postcards as pleasant as possible for you. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

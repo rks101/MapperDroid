@@ -1,0 +1,11 @@
+{
+"name" : "Verb app",
+"url" : "https://play.google.com/store/apps/details?id=verbapp.social",
+"package" : "verbapp.social",
+"category" : "Social",
+"description" : "Eating cake, Passed the test, Scored a goal, Took out the trash, Going on vacation, Staying in a traffic jam, GTA completed  The Verb turns your routine to the cases you want to share!  With The Verb you can:  Tell your friends about your casual doings  Learn about what your friends are doing right now  Find popular and interesting verbs that you didnt know about but that you will like  Comment and like your friends verbs  Earn points for every verb and upgrade your profile in such categories as Relations, Games, Culinary, Entertainment, Education etc.  Get badges for your deals ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'verbapp.social.permission.C2D_MESSAGE', 'me.verbapp.verb.permission.C2D_MESSAGE', 'android.permission.ACCESS_LOCATION_EXTRA_COMMANDS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'me.verbapp.verb.permission.C2D_MESSAGE', 'android.permission.ACCESS_LOCATION_EXTRA_COMMANDS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO']",
+}

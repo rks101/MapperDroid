@@ -1,0 +1,11 @@
+{
+"name" : "View a tweet plugin for twicca",
+"url" : "https://play.google.com/store/apps/details?id=jp.ne.sakura.ccice.owt",
+"package" : "jp.ne.sakura.ccice.owt",
+"category" : "Social",
+"description" : "Add View this tweet menu to your twicca.  So, you can view the tweet with browser or other twitter clients. Or, you can view twitter with twicca.  ( Below is for Twicca supporters only ) Twicca supports multi-acount, but not supports retweet from other acount.  You can do that by using this plugin. Tap the desired tweet -> View this tweet -> Twicca . Now, you can change your account to retweet. (Simply change acount with right-up button.)  *Check Always to always open a tweet with the app. To cancel it, Do Clear Data in application information. . ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

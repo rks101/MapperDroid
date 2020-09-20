@@ -1,0 +1,11 @@
+{
+"name" : "Hippo - Live Random Video Chat",
+"url" : "https://play.google.com/store/apps/details?id=com.newellmediallc.live.hippo",
+"package" : "com.newellmediallc.live.hippo",
+"category" : "Social",
+"description" : "Hippo is the best Video Chat app for meeting new people. Discover, flirt and Video chat with interesting people around the world!  Hippo allows you to talk and make friends with people from over 190 countries.   Features - Fast match with new friends all over the world - Select the gender of your choice - Just swipe to connect  Privacy and Safety - Your identity is hidden - Private, discreet conversations - Video blurred by default - You can flag or block anyone  Need help? Email us at support@hippochat.me ",
+"desc_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_CONTACTS', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.CAMERA', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.RECORD_AUDIO', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+}

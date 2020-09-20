@@ -1,0 +1,11 @@
+{
+"name" : "Grido for Facebook",
+"url" : "https://play.google.com/store/apps/details?id=com.appilian.grido",
+"package" : "com.appilian.grido",
+"category" : "Social",
+"description" : "Download Grido, the best photo editing app to show off your awesome moments on Facebook in an exceptional and eye-catching way.  With an easy, quick and smart way, Grido will help you stand out from the crowd on Facebook. It is specially built for Facebook Photos to split one photo into multiple photos and upload them sequentially to make them look like a single photo.   Save time and surprise friends just by choosing the special photo you want to show off on your Facebook through our app. You will love the neat and user-friendly interface of photo editing tool. Import a picture from your gallery; personalize your Facebook photo outlook by choosing a collage layout from the given layouts in the app followed by Facebook; and save the edited photo in camera roll that we just split.  You can upload the split pics sequentially, following the given order in the app to give your Facebook photo a shape of a single photo.  Thats it! Your Trendy GRID Photo is ready to show-off.  - Post unique Grid Photos on Facebook - Stand out from the crowd on social media - Specially optimized for Facebook - Fun, fast and easy to use  Download and use Grido to take your Facebook Profile to a new, eye-catching and outstanding level. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Memoji Stickers for Android WhatsApp WAStickerApps",
+"url" : "https://play.google.com/store/apps/details?id=com.memoji.android.stickers.apple.whatsapp.wastickerapps",
+"package" : "com.memoji.android.stickers.apple.whatsapp.wastickerapps",
+"category" : "Social",
+"description" : "This app contains a large collection of packs of Memoji Stickers for Android WhatsApp. WAstickerapps Memoji for WhatsApp stickers collection, with many different stickers set. Now express yourself using awesome Memoji Apple Stickers with WAStickerApps like iPhone X.  Sticker character whatsapp Memoji Apple from iOS for Android WhatsApp, 30 sticker packs, 700+ sticker added with different themes.  By the way Memoji Android Stickers also known as: - Memoji-stickers - Emojis 3D whatsapp - Memoji apple stickers  How to use: - Download and open this app. - Tap on ADD TO WHATSAPP. - Confirm your action. - Open WhatsApp and go to a chat. - Tap on the Emoji icon. - You will see a new sticker icon at the bottom and can now use this sticker pack.  We offer you amazing Memoji Stickers for Android WAstickerapps so you can choose the one you like best. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

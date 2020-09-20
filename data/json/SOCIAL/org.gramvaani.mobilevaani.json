@@ -1,0 +1,11 @@
+{
+"name" : "Mobile Vaani",
+"url" : "https://play.google.com/store/apps/details?id=org.gramvaani.mobilevaani",
+"package" : "org.gramvaani.mobilevaani",
+"category" : "Social",
+"description" : " ,                ,                   .     ,   ,      ,                                .          /                ,     .                .       ...        80% of the worlds population is offline. There is no simple way to reach them. Their needs and constraints are not well understood. But, their aspirations are high, their energy is limitless, they want to learn, grow and do big things. We are in the business of making them more informed, aware and connected. Talk to us to talk to them! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.RECORD_AUDIO', 'android.permission.RECORD_VIDEO', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_PROFILE', 'android.permission.READ_CONTACTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.REQUEST_MICROPHONE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.RECORD_VIDEO', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_CONTACTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.REQUEST_MICROPHONE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET']",
+}

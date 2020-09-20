@@ -1,0 +1,11 @@
+{
+"name" : "Hare Rama Hare Krishna",
+"url" : "https://play.google.com/store/apps/details?id=spiritualstudio.hareramaharekrishna",
+"package" : "spiritualstudio.hareramaharekrishna",
+"category" : "Social",
+"description" : "Best Hare Rama Hare Krishna Mantra app with the following feature: Repeat Mantra for 11,21,51 or 108 times. Set the mantra as Alarm. Set the mantra as Ringtone. No requirement of internet during use of app. Smooth transitions & full of animations. Hindi & English Lyrics with the meaning. Text in sync with the audio. Can use Bell , Shankh & Garlend (Foolon ki mala). Beautiful collection of lord Ram ji & Krishna ji Images , which changes itself during use of app. Option to select image change interval. Continuos update on the present count/Repetition of Mantra. Notify user when run in background. No push ads, spam in app. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WRITE_SETTINGS', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

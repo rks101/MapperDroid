@@ -1,0 +1,11 @@
+{
+"name" : "Glympse Keyboard",
+"url" : "https://play.google.com/store/apps/details?id=com.glympse.android.keyboard",
+"package" : "com.glympse.android.keyboard",
+"category" : "Social",
+"description" : "Glympse Keyboard is the fastest way to share your location from within any app. There are two options - Quick Send or Full Keyboard. Both use the Glympse app to swiftly generate a link that is pasted into your current WhatsApp conversation, Gmail message, or any other app you may be in.  Quick Send - this option is compatible with your current keyboard, allowing you to send a Glympse without interrupting your flow. Once enabled, simply hold the designated keyboard change button on your current keyboard to switch to Quick Send. Set the duration of your Glympse, tap Create and the link is pasted into your message and your normal keyboard returns.  Full Keyboard - for the power user, this option replaces your current keyboard and ensures even faster location sharing! Compose messages as usual, and when youre ready just press and hold the G key to create your Glympse.   Either way, recipients receive a link allowing them to view your location in real-time for the length of time you choose. When the timer on your Glympse expires, your location is no longer visible. Best of all, recipients do not need any special software to view your real-time map.   Note: This add-on requires installation of the main Glympse app. If you dont already have it installed, you will be prompted to download it upon first use.  We LOVE TO HEAR FROM CUSTOMERS. If you have an issue or suggestion, please use the Feedback feature in the app under Settings or send us an email at support@glympse.com. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

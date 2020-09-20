@@ -1,0 +1,11 @@
+{
+"name" : "PTKDev Stickers for WAStickerApps (Whatsapp)",
+"url" : "https://play.google.com/store/apps/details?id=io.ptkdev.wastickers",
+"package" : "io.ptkdev.wastickers",
+"category" : "Social",
+"description" : "PTKDev Stickers for Whatsapp (WAStickerApps)!  Funny stickers of dab dance, facepalm, bowsette and other beautiful reactions :D try it NOW, FREE!  # How use it Stickers has available in conversation with friend  emoji icon  right side of GIFS on bottom.  # Know problem: If the packs WAStickerApps disappear in WhatsApp dont uninstall app and if happen again its the fault of has battery optimization enabled, please try disable it for stickers app and whatsapp app, see http://bit.ly/whatsapp-stickers-bug  # Award: Award: #1 in world to add stickers for whatsapp   # Multi platform This Stickers are available also for Telegram, Discord and iMessage on: stickers.ptkdev.io  # Artist:  @maXfer75 & @Tanik72 ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "concours d'Elegance",
+"url" : "https://play.google.com/store/apps/details?id=jp.nas.mini4wd.condele",
+"package" : "jp.nas.mini4wd.condele",
+"category" : "Social",
+"description" : "Lets show a machine of your pride.  Lets praise a machine of the pride of the friend.   concours dElegance is application showing Mini 4WD which people of the world made.  Each one becomes the owner of the machine and shows a machine to each other.   You can aim to become a famous owner.  You can find a favorite machine.  Lets enjoy the new world of Mini 4WD in concours dElegance!    * This application is operated by Natural style Co. Ltd. in cooperation with TAMIYA, INC. Please contact Natural Style Co. Ltd. for any questions of this application.    Operation check devices device android  FJL21 4.0.4 ISW13HT 4.0.3 Galaxy Nexus 4.2.2 305SH 4.4.2 SO-02E 4.1.2 Nexus 5 4.4 SHL22 4.2.2 SC-04E 4.3    key:condele ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.VIBRATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE', 'jp.nas.mini4wd.condele.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Lectionary - Free",
+"url" : "https://play.google.com/store/apps/details?id=jleccfree.com",
+"package" : "jleccfree.com",
+"category" : "Social",
+"description" : "A lectionary available ... on your mobile. With this application you will have access to daily Readings of the Catholic rite. Readings easily accessed from the calendar or manually through cycles and times. With several new features:  * Interface renovated * Now daily readings included * You can share the selected reading (internet access required) * Change the font size of the selected reading * Select reading directly from calendar * Text to speech (voice synthesis required)  Limitations of the free version: * From calendar, dates only allowed between -365 and +365 days from the current date * Ads * Spanish only (at the moment, we are working on it) ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.SEND_SMS', 'android.permission.BLUETOOTH', 'android.permission.READ_EXTERNAL_STORAGE']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS']",
+}

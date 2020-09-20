@@ -1,0 +1,11 @@
+{
+"name" : "Status Grabber",
+"url" : "https://play.google.com/store/apps/details?id=net.staphy.statusgrabber",
+"package" : "net.staphy.statusgrabber",
+"category" : "Social",
+"description" : "This application is able to retrieve the WhatsApp statuses that you viewed and save them for later viewing. You are able to view them even after the time limit imposed on statuses. When the status uploader deletes them, you still have a copy. Instead of sending messages to your contacts requesting for the image or video status, Status Grabber can easily do that for you.  Disclaimer: This app is in no way related to WhatsApp Inc or Facebook.   How to use After installing this app, head over to WhatsApp and view your statuses as usual. The app automatically saves them. When the app is opened, it lists the available statuses. You can delete the ones you do not want to keep directly from within the app. The app contains an image browser. You can use it to view the images. Also, you can use other image browsers on your phone. Just change the setting.  You can choose to automatically save the statuses viewed or save the ones you like manually ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.SET_WALLPAPER', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

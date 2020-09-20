@@ -1,0 +1,11 @@
+{
+"name" : "JPS Kathamrita",
+"url" : "https://play.google.com/store/apps/details?id=com.iskcon.jpsbani.jpsbani",
+"package" : "com.iskcon.jpsbani.jpsbani",
+"category" : "Social",
+"description" : "JPS Kathamrita app contains 200 quotes of His Holiness Jayapataka Swami. In this app you can read the  different quotes collected from various sources of Jayapataka Swamis lecture,books and his diaries.  Everyday you can also get a unique quote with photo. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.alarm.permission.SET_ALARM', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

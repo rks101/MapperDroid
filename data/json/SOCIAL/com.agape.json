@@ -1,0 +1,11 @@
+{
+"name" : "Agape App",
+"url" : "https://play.google.com/store/apps/details?id=com.agape",
+"package" : "com.agape",
+"category" : "Social",
+"description" : "AgapeConnect Us by Gods Love   Agape is a social networking app combined with prophetic prophetic art, full of mythology, and the release of heavenly culture, a global platform for quality Christian interaction!   Prophetic Art Servicing   -View and collect Prophetic Paintings (includes scripture & explanations) from artists all over the world -Exchange prophetic arts & blessing among your friends and family    News Feed   -High-quality community social networking platform -Share your thoughts, favorite scriptures, photos, arts and more!   Friends   -Follow friends, family and popular christian leaders! Share their blessings, joy and their way of living.   Soaking Musics   -Listen to Soaking Musics created by Artists around the world.   Bible   -Read and study bible with friends and family. Enjoy musics and arts while reading the words of God.  #Fathers blessing cards #worship #prayer #praise #prosper #church #love #happy group #glory #mercy #jesus #blessing #Holy spirit #prophetic drawing #painting #prophetic words ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING']",
+}

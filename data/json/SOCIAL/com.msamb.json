@@ -1,0 +1,11 @@
+{
+"name" : "MSAMB",
+"url" : "https://play.google.com/store/apps/details?id=com.msamb",
+"package" : "com.msamb",
+"category" : "Social",
+"description" : "Mobile application for static and dynamic information about Maharashtra State Agricultural Marketing Board (MSAMB), Pune, Maharashtra, India.  It provides info. about   Profile & objectives of MSAMB  About Agriculture Produce Market Committees (APMCs) in the State.  Profile of APMCs in Maharashtra.  Daily arrivals & prices of Agri. commodities being traded at APMCs in the State.   Login facility for all APMCs in the State with unique username & password.  Mechanism of Data entry for daily arrivals & prices of Agri. Commodities at APMCs   Facility to view APMC, commodity wise reports & daily data entry status report of APMCs   Farmer producer companies in the State,   Monthly magazine Krishi Panan Mitra (KPM) of MSAMB.   Farmer to consumer weekly markets   Pledge loan scheme for sell of agriculture commodities.   Horticulture export training course conducted by MSAMB.   Horticulture Training Center for protected cultivation practices.  Platform for connecting buyers & sellers of Agri. Commodities.  Project Consultancy Division of MSAMB  Activities related to export promotion  MSAMB export activities  Frequently Asked Question (FAQ) related to MSAMB activities  Users feedback   MSAMB Contact in formation.  Above information is available in English & Marathi. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CALL_PHONE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.msamb.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.CALL_PHONE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

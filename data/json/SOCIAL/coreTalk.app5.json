@@ -1,0 +1,11 @@
+{
+"name" : "PinayClub - #1 Dating App to meet Filipina girls",
+"url" : "https://play.google.com/store/apps/details?id=coreTalk.app5",
+"package" : "coreTalk.app5",
+"category" : "Social",
+"description" : "Discover, Chat & Meet Lovely Filipina girls  - Install - Create your profile - Start talking !  Its so simple, what are you waiting for ? ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

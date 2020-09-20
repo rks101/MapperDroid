@@ -1,0 +1,11 @@
+{
+"name" : "Happy Birthday Shayari - рдЬрдиреНрдорджрд┐рди рдХрд┐ рд╢реБрднрдХрд╛рдордирд╛рдПрдВ",
+"url" : "https://play.google.com/store/apps/details?id=com.waf.birthdaymessages",
+"package" : "com.waf.birthdaymessages",
+"category" : "Social",
+"description" : "A birthday brings a whole lot of cheer and joy to a persons life. So why not make  it even more special? Just share any of the lovely Happy Birthday Shayari available in the app and your loved one will be delighted! Let them know that theyre on your mind  on their special day birthday. Find heart-warming and lovely Happy Birthday Shayari in this app which you can easily share with everyone on Whatsapp.   Features: * Happy Birthday Shayari available in Hindi for mom, dad, brother, sister, girlfriend,  boyfriend and so much more! * Forgot someones birthday? Dont worry! Belated happy birthday shayari are also  available in this app! * Easily shareable messages via Whatsapp, Hike, WeChat, E-mail etc * Super easy to use! * Attractive user interface * Favorite messages easily  Download the Happy Birthday Shayari in hindi app NOW! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Repost it! Save and Repost for Instagram",
+"url" : "https://play.google.com/store/apps/details?id=com.digiset.getinstagramfollowers.app",
+"package" : "com.digiset.getinstagramfollowers.app",
+"category" : "Social",
+"description" : "Meet the all-new Repost it!  Simple and powerful, you can focus on reposting your favorite posts from Instagram. You can also reposts stories!  How to Repost   Once you open the app, you will be able to:  1. Repost by searching username Just enter the username of the posts you would like to repost from and the app will do the rest.   2. Repost from link Just copy the share link and we will do the rest.   3. Repost and save your own posts You can repost and save media that you own. This will appear under My Posts.  4. Repost from Timeline Browse your latest timeline and repost your favorite daily posts.   5. Repost from posts youve liked Browse every post you have liked and repost them.   6. Repost from Stories Our favorite feature! Repost from stories to your own story or to your feed.   7. Watermark your posts As always, you can add attribute watermark to every post  Every post can be reposted on your story or in your feed. You decide!  QUESTIONS?  If you have any questions, or run into any trouble  please contact us at Digisetapps@gmail.com    IMPORTANT: Make sure you credit the original content creator and that you have their permissions to use their image/video.   ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

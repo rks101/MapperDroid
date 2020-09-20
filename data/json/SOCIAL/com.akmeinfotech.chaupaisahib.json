@@ -1,0 +1,11 @@
+{
+"name" : "Chaupai Sahib",
+"url" : "https://play.google.com/store/apps/details?id=com.akmeinfotech.chaupaisahib",
+"package" : "com.akmeinfotech.chaupaisahib",
+"category" : "Social",
+"description" : "Chaupai Sahib is a bani of Sri Dasam Granth. By using this Bani we can build our inner strength. This Bani gives one the feeling of dependability and reliability on the Lord. The Chaupai Sahib is third bani of Nitnem path.   ---FEATURES---  ->PLAY AUDIO ->RESIZE TEXT ->SUPPORT GURMUKHI, HINDI AND ENGLISH ->READ IN HORIZONTAL AND VERTICLE MODE ->LIGHT WEIGHT INTERFACE ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

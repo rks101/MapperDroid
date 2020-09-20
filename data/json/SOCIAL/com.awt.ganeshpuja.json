@@ -1,0 +1,11 @@
+{
+"name" : "Kalnirnay Ganesh Puja",
+"url" : "https://play.google.com/store/apps/details?id=com.awt.ganeshpuja",
+"package" : "com.awt.ganeshpuja",
+"category" : "Social",
+"description" : "Kalnirnay Group has introduced this Ganesh Puja App for the convenience of Ganesh devotees. Nowadays, in many cities it is difficult to get priests to perform Ganesh Puja rituals on the eve of Ganesh Chaturthi. This app guides the user to perform the Praanpratishtha Puja as well as Uttar Puja on his own with the help of audio clips provided. The app also provides the checklist of items & things required to perform both Pujas. It also contains the various Aartis in text which are recited by devotees during the festivities. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

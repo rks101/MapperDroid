@@ -1,0 +1,11 @@
+{
+"name" : "Love Messages",
+"url" : "https://play.google.com/store/apps/details?id=com.sri.lovemessages",
+"package" : "com.sri.lovemessages",
+"category" : "Social",
+"description" : " Love messages is a nice android application. it contains collection of Special Love Messages  Romantic  ASCII Love SMS and Propose Messages for your LOVE.   Complete Offline Database App (Works without Internet).   Share the best love and romantic SMS collection to your loved once with one click. Win over your sweetheart with these love sayings.   Here are beautiful romantic kissing messages to make you cherish and enjoy each and every kiss that comes your way.   Love Quotes and Love Sayings are motivating and inspirational. Quotes about love are the verbal expression of the feeling of people who are in love or who have failed in love.  If you want to show your love with the most meaningful messages.we hope that Love Messages  Love Romance is a good tool to express your love and happiness always around you.                           Disclaimer: All SMS messeges gathered from the web. We do not express any Ownership of these messages. In case if any of these messages violated your copyright/ IP right to remove the discrepancy. please send us an e-mail. We will respond this at earliest. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "PIXNET Mobile Control Panel",
+"url" : "https://play.google.com/store/apps/details?id=net.pixnet.android.panel",
+"package" : "net.pixnet.android.panel",
+"category" : "Social",
+"description" : "PIXNET Mobile Panel gives you the power to manage your PIXNET album and blog on the go, straight from your smartphone! Upload photos or videos, post to your blog, reply to new comments, and stay up to date with your friends latest updates! PIXNET is a blog service provider based in Taiwan, offering one of the worlds most powerful blogging platforms. Join PIXNET now and experience for yourself why quality bloggers choose PIXNET! ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'net.pixnet.android.panel.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.CAMERA', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_ACCOUNTS', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Emoji Maker - Make New Emoji!",
+"url" : "https://play.google.com/store/apps/details?id=com.digitalpalette.emojistudio",
+"package" : "com.digitalpalette.emojistudio",
+"category" : "Social",
+"description" : "Why keep using the same old emoji that everyone has seen a million times? With Emoji Maker you can design your own custom emoji. Get creative and choose from 100s of shapes, eyes, mouths, hats, props, and hand stickers. Share you emoji with your friends or in your favorite apps.  Most of all this app is FUN! We promise you wont want to put it down! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+}

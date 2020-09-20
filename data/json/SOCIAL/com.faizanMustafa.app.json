@@ -1,0 +1,11 @@
+{
+"name" : "Legal Awareness",
+"url" : "https://play.google.com/store/apps/details?id=com.faizanMustafa.app",
+"package" : "com.faizanMustafa.app",
+"category" : "Social",
+"description" : "App is available for Android Users. We are working on iphone version and will inform you when it is done.  App has  - 100 plus articles that I had written to different newspapers since 2014 - App has all my videos , interviews  - App has an option where you can ask me questions. My team will reply to your questions.  - You can search the articles depending on keywords.  - To benefit more people the app is available as of now in English, Hindi and Urdu.  We have started translating articles in Hindi and Urdu  - As of now only few articles are available in Urdu and Hindi, We will be updating app with new Articles.  - To download app, Go to Google Playstore and type F A I Z A N M U S T A F A  - Or Give a missed call to 8099 88 11 88 , you will get app link as SMS , you can click link and install the App.  - Request all of you to install the app and share this videos to all your contacts ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CALL_PHONE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

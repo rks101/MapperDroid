@@ -1,0 +1,11 @@
+{
+"name" : "VK Admin (Beta)",
+"url" : "https://play.google.com/store/apps/details?id=com.vk.admin",
+"package" : "com.vk.admin",
+"category" : "Social",
+"description" : "VK Admin is an app for community managers. This app allows you to communicate with clients and followers on behalf of your VK communities, manage your groups and track statistics from your mobile phone.   In addition to communicating with clients and followers, VK Admin gives you full control over your community by allowing you to:  - update the visual design - add and remove managers - monitor statistics in real time - add and edit products - and so much more ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.launcher.permission.UNINSTALL_SHORTCUT', 'com.android.launcher.permission.INSTALL_SHORTCUT', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.SYSTEM_ALERT_WINDOW', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW']",
+}

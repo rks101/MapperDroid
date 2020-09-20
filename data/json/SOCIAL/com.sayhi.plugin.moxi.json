@@ -1,0 +1,11 @@
+{
+"name" : "Video Chat for SayHi",
+"url" : "https://play.google.com/store/apps/details?id=com.sayhi.plugin.moxi",
+"package" : "com.sayhi.plugin.moxi",
+"category" : "Social",
+"description" : "This app enables video chat for SayHi, it will give you a chance to come across your love and do video call. Say Hi to the one who share the same type of coffee, to the one trapped by the same traffic jam, to the one who is waiting the same flight. Say Hi gets every minute count.  This is a plugin for SayHi. It will help you to achieve face-to-face video call by your mobile devices. If you want to use it, please install SayHi first to meet new people. ",
+"desc_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'com.android.launcher.permission.INSTALL_SHORTCUT', 'android.permission.VIBRATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.WRITE_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.BLUETOOTH', 'android.permission.USE_CREDENTIALS', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING']",
+}

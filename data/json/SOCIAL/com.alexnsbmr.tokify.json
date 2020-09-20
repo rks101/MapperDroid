@@ -1,0 +1,11 @@
+{
+"name" : "Video Downloader for TikTok",
+"url" : "https://play.google.com/store/apps/details?id=com.alexnsbmr.tokify",
+"package" : "com.alexnsbmr.tokify",
+"category" : "Social",
+"description" : "Tokify - TikTok Downloader is an easy way to download and save videos from TikTok.    How-To:  Open the TikTok app  Browse for a TikTok video  Click on the share button of the video  From the share menu click on copy the link.  Go back to Tokify. The video should be detected automatically  Hit the download button  What are you waiting for ? Download Tokify now to make your life easier ;)  Disclaimer:  This app is NOT affiliated with or endorsed by the TikTok official network.  Any unauthorized re-uploading or downloading of contents and/or violations of Intellectual property rights is the sole responsibility of the user.  I would be excited to hear from you! If you have any feedback, questions, or concerns, please email me at:  alexnsbmr@gmail.com ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Malayalam Sticker Studio",
+"url" : "https://play.google.com/store/apps/details?id=com.jeethukthomas.whatsappstickerapp",
+"package" : "com.jeethukthomas.whatsappstickerapp",
+"category" : "Social",
+"description" : "Malayalam Photo Comments as stickers to express emotions and sarcasm beautifully in your chat conversations.  Send them with a single touch in WhatsApp or Messenger. Receives regular updates with new Stickers.  Exclusive, rich and free content to stay connected with friends! ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

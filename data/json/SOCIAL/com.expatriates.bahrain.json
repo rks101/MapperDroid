@@ -1,0 +1,11 @@
+{
+"name" : "Bahrain Expatriates Classified",
+"url" : "https://play.google.com/store/apps/details?id=com.expatriates.bahrain",
+"package" : "com.expatriates.bahrain",
+"category" : "Social",
+"description" : "Bahrain Expatriates Classifieds FREE app, Bahrains best online marketplace! This is Bahrains top classifieds app with categories from autos, property and electronics to household items, pets, services, furniture and more!   Some of the key features are :  * Browse through well structured classified categories * Search ads in the related categories * Bookmark ads * Get notification of new ads.  and Many more ..  So hurry up! Download and never miss an important deal on expatriates.com ever! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.FLASHLIGHT', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.expatriates.bahrain.permission.C2D_MESSAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

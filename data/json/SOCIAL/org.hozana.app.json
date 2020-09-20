@@ -1,0 +1,11 @@
+{
+"name" : "Hozana – Communities of prayer",
+"url" : "https://play.google.com/store/apps/details?id=org.hozana.app",
+"package" : "org.hozana.app",
+"category" : "Social",
+"description" : "With Hozana, discover a variety of communities of prayer and faith-filled propositions that will help you in your prayer life throughout the year: - Every day receive Gospel meditations, texts introducing the saint of the day, worship songs, short prayers etc. - Enter in more deeply into the rich life of the Church. Follow the liturgical year, Lent, Advent, pray novenas, celebrate feast days and partake in online retreats. - Communities are created by active Christians, religious communities, associations, movements, by priests, and by lay people. You too can create your own community of prayer! Furthermore, you can post prayer intention on our online prayer wall that will be seen by all the members of the Hozana family for up to 48h. Take the opportunity also, to pray for the intentions of others! Rejoice always, pray continually, give thanks in all circumstances, for this is Gods will for you in Christ Jesus 1Th 5:16-18 ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

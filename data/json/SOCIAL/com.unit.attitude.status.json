@@ -1,0 +1,11 @@
+{
+"name" : "Positive Quotes",
+"url" : "https://play.google.com/store/apps/details?id=com.unit.attitude.status",
+"package" : "com.unit.attitude.status",
+"category" : "Social",
+"description" : "Positive Quotes has the latest collection of Life inspirational quotes, deep meaningful quotes, Life lessons, attitude status in English, girl quotes, positive quotes, motivational quotes daily, positive inspirational quotes, positive thoughts, positive life quotes, men quotes, men quote wallpapers, English status, attitude quotes with image, bio quotes for Instagram.  There is a huge collection of custom wallpapers on which you can choose the quotes to apply. You can easily share these quote wallpapers on social media.  Features:   Works without internet.  latest collection of strong men quotes, quote wallpapers, motivational quotes, inspirational quotes.  Easy to Copy and Share the quotes to your social media accounts.  Share quotes as wallpapers with beautiful HD backgrounds.  Add any positive attitude quotes to favorite list for easy access.  These Positive Attitude quotes categorized in following categories   Attitude quotes   Awesome quotes  Best quotes and status  Cool status for boys and girls   Happiness quotes  Inspirational quotes  Life quotes  Men status  Monday quotes and status  Motivational status  Moving On quotes  Single status  Smile status  Success status  True quotes ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE']",
+}

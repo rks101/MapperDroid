@@ -1,0 +1,11 @@
+{
+"name" : "Dhamma Thitsar",
+"url" : "https://play.google.com/store/apps/details?id=com.servinnotech.thitsarparamisociety",
+"package" : "com.servinnotech.thitsarparamisociety",
+"category" : "Social",
+"description" : "Thitsarparamisociety (Singapore - DhammaMp3) mobile app is religious application for Myanmar. This app helps Myanmar people to listen dhamma mp3 anywhere ,anytime if the internet connection is available. U can watch and listen LIVE Dhamma talk from Thitsarparami Sayadaws dhamma talk on every Sunday (Singapore Time). We also collect famous Sayadaws Dhamma mp3 such as Dr. Nandamalabhivamsa, Thitagu Sayadaw,Pilot Sayadaw and many more. This app is totally FREE and no need to install Myanmar font. Thank for all who support us. Download now and enjoy dhamma mp3. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

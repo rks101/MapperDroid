@@ -1,0 +1,11 @@
+{
+"name" : "Spaces for Instagram - Postme",
+"url" : "https://play.google.com/store/apps/details?id=io.pointview.instabreak",
+"package" : "io.pointview.instabreak",
+"category" : "Social",
+"description" : "Postme (ex Instabreak) Spaces for Instagram - an application that allows you to separate paragraphs in posts. Just write the text with empty lines between paragraphs, copy and paste it - spaces for Instagram will work. You will receive the text divided into paragraphs.  We have made the application white space Instagram as simple and convenient for you. You can make paragraphs on Instagram for each post. Using invisible spaces for Instagram we achieve the desired result. They are often called secret gaps for Instagram. This space character is not displayed in inst.  Perhaps you often have questions: How to make a paragraph in Instagram? How to split paragraphs in Instagram?  Instagram spacer (Instagram space maker) resolve these issues. With our application, you can easily add a Instagram line breaks or Instagram spaces between paragraphs in Instagram. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_PHONE_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

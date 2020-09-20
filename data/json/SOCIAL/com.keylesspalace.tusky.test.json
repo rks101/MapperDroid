@@ -1,0 +1,11 @@
+{
+"name" : "Tusky Nightly",
+"url" : "https://play.google.com/store/apps/details?id=com.keylesspalace.tusky.test",
+"package" : "com.keylesspalace.tusky.test",
+"category" : "Social",
+"description" : "This is a nightly build of Tusky for Mastodon. It is intended for testers and not for general use.  You can check the commit log to see recent changes: https://github.com/tuskyapp/Tusky/commits/master   You can give us feedback on Mastodon @tusky@mastodon.social, on GitHub or via email. Please always include the full version name as shown on the about page in your reports. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

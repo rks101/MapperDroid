@@ -1,0 +1,11 @@
+{
+"name" : "Hindi Calendar 2020",
+"url" : "https://play.google.com/store/apps/details?id=com.bb.hindicalender",
+"package" : "com.bb.hindicalender",
+"category" : "Social",
+"description" : "Hindi calendar 2020 app has high quality monthly images that allows you to view maasam, vaaram, thithi, and nakshatram information for all days in the year 2020 in Hindi. * Users can select any month by clicking left and right arrow buttons * Easy and Simple to use * Displays the list of festivals in Hindi for the every month. * Horoscope for 2019.We will update 2020 Horoscope soon. * Important Muhurt for year 2019.We will update 2020 Muhurt soon. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.bb.hindicalender.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

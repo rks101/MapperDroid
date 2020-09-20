@@ -1,0 +1,11 @@
+{
+"name" : "Chumbak Conversations Sticker Pack",
+"url" : "https://play.google.com/store/apps/details?id=com.chumbak.sticker",
+"package" : "com.chumbak.sticker",
+"category" : "Social",
+"description" : "Welcome to the world of Chumbak! The Chumbak Conversations sticker pack is all about the many Indian expressions that go missing in a conversation over the phone. With our stickers, it is all you want to bring a smile or light up any conversation without ever feeling you are too far from home. Fire up your WhatsApp conversations with our all new sticker pack.  Chumbak is a design led lifestyle brand with a product offering across Fashion and Home. Keeping in this spirit we decided to create a set of stickers that not only bring that Indian connect missing in your conversations but also brings a smile to your face.  Were constantly brewing something new and fun. Come check it out: Instagram: Chumbak Facebook: facebook.com/chumbak Twitter: @chumbak  Tell us if you need our help - help@chumbak.in or 1-800-420-1200 ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

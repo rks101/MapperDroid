@@ -1,0 +1,11 @@
+{
+"name" : "Vaynah.Pro - Доска объявлений",
+"url" : "https://play.google.com/store/apps/details?id=pro.vaynah",
+"package" : "pro.vaynah",
+"category" : "Social",
+"description" : "Vaynah.Pro -     ,       ,    !    ,              ! Vaynah.Pro - This is a new board, with a beautiful design emphasizes Vainakh symbolism, with a simple interface! And most importantly, published on our website ads smashed on all social networks in our group! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_APP_BADGE', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'me.everything.badger.permission.BADGE_COUNT_WRITE', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'android.permission.WAKE_LOCK', 'com.sonymobile.home.permission.PROVIDER_INSERT_BADGE', 'com.majeur.launcher.permission.UPDATE_BADGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'me.everything.badger.permission.BADGE_COUNT_READ', 'com.google.android.c2dm.permission.RECEIVE', 'com.sec.android.provider.badge.permission.WRITE', 'com.htc.launcher.permission.READ_SETTINGS', 'android.permission.INTERNET', 'com.oppo.launcher.permission.WRITE_SETTINGS', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'pro.vaynah.permission.C2D_MESSAGE', 'com.oppo.launcher.permission.READ_SETTINGS', 'android.permission.ACCESS_WIFI_STATE', 'com.huawei.android.launcher.permission.READ_SETTINGS', 'com.huawei.android.launcher.permission.WRITE_SETTINGS', 'com.huawei.android.launcher.permission.CHANGE_BADGE', 'android.permission.VIBRATE', 'com.sec.android.provider.badge.permission.READ']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

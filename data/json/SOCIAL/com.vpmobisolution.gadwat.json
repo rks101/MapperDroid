@@ -1,0 +1,11 @@
+{
+"name" : "Gadwat",
+"url" : "https://play.google.com/store/apps/details?id=com.vpmobisolution.gadwat",
+"package" : "com.vpmobisolution.gadwat",
+"category" : "Social",
+"description" : "Gadwat Developed a android application which serves the information about Chatrapati Shivaji Maharaj in both Marathi and English language . This application Contain sections like History, Mavale Information, Forts List , Events ,Gadwat Information . History contains history about Chatrapati Shivaji Maharaj and there descenders. Mavale Tab contains all information about Mavale of Chatrapati Shivaji Maharaj . Fort section contains information about Forts with way to reach and other facility. Event section contains the latest events so User can also set Reminder of this events or can share this events with other friends. This application also contain the clock Widget by Which You can set Clock Widget On your Home Screen. This is an offline app so no internet connection is required to run the application internet required to only update event list.   Gadwat is a organization of people studying, following and learning the principles and thoughts of the Visionary King Chhatrapati Shivaji Maharaj.  We call it a family because over a period of time it all went beyond just a Facebook group or page;  we started working together for a common cause with love and brotherhood. a relation greater than blood relations. let us learn from his great deeds, let us tell the world our glorifying history ,let us work for humanity and let us move ahead to contribute to our society.   Kindly mail us at vp.mobisolution@gmail.com for any suggestions. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.SET_WALLPAPER_HINTS', 'com.android.alarm.permission.SET_ALARM', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.SET_WALLPAPER']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

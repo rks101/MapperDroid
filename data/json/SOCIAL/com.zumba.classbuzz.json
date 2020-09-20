@@ -1,0 +1,11 @@
+{
+"name" : "ClassBuzz",
+"url" : "https://play.google.com/store/apps/details?id=com.zumba.classbuzz",
+"package" : "com.zumba.classbuzz",
+"category" : "Social",
+"description" : "Ready to create some buzz?  Market yourself on social media like a pro with ClassBuzz, the mobile app exclusively for members of the Zumba Instructor Network!   Now you can easily create + personalize content promoting yourself and your Zumba classes! Explore your creativity with exclusive Zumba branded content including images, videos, animations, memes, patterns, and more!   HOW CLASSBUZZ WORKS:  1. Choose A Template  Pick from class, event, or meme templates. Or, build your post from scratch with a blank canvas!   2. Add Backgrounds, Stickers + Text  Choose a background and personalize your post with text then, bring it to life with official Zumba stickers and GIFs!   3. Share To Social  Click to share your post with your students and followers across all social platforms. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

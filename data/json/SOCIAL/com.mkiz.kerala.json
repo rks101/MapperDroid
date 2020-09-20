@@ -1,0 +1,11 @@
+{
+"name" : "Kerala Online Services & Tourism",
+"url" : "https://play.google.com/store/apps/details?id=com.mkiz.kerala",
+"package" : "com.mkiz.kerala",
+"category" : "Social",
+"description" : ">Tourism:- 175 Tourist places in Kerala with details and Photos.  >Online Services:-  Online Banking (44 banks) , Official web portal (Government of Kerala), Kerala Public Service Commission, K.S.R.T.C, KSEB, Kerala motor vehicles department, Kochi Metro, State election commission of Kerala,B.S.N.L, Department of Education, Akshaya, Taxes of India, IndiaPost.  >Emergency Numbers:- 28 Emergency Numbers in Kerala.  >Airports:- 4 Airports and Airindia Online Services.  >Railway:- 59 Railway Stations in Kerala and online Tickets and Enquiry.  >Channels.  >Newspapers.  >Paytm.  >Social Media links:- - You Tube - twitter - Instagram - ShareChat. - Facebook.  >Mosques:- 247 Mosques in Kerala.  >Temples:- 254 Temples in Kerala.  >Churches:- 269 Churches in Kerala.  >etc....... ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CALL_PHONE', 'android.permission.INTERNET', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.CALL_PHONE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

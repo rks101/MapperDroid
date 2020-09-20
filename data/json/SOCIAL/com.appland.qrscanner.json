@@ -1,0 +1,11 @@
+{
+"name" : "QR & Barcode Scanner",
+"url" : "https://play.google.com/store/apps/details?id=com.appland.qrscanner",
+"package" : "com.appland.qrscanner",
+"category" : "Social",
+"description" : "Scan your QR Code & Barcode Scanner with us.  A quick and easy way to scan QR code and Bar code without any hassle.  Scanning QR & Barcode is as easy as open the app, and you are good to scan away without having to type on any scan now buttons. Camera automatically turn on and ready to scan away!  Main Features: - Support flash scanning for dark condition - Create QR Code  - Color your own QR Code in-app - View history of what youve scanned  - View list of QR Code youve created for future use  We will required you to grant access to turn on your camera and Internet & WiFi connection for better user experience. ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.android.vending.BILLING']",
+}
