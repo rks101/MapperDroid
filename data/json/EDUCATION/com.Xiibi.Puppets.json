@@ -1,0 +1,11 @@
+{
+"name" : "Pirate Life",
+"url" : "https://play.google.com/store/apps/details?id=com.Xiibi.Puppets",
+"package" : "com.Xiibi.Puppets",
+"category" : "Education",
+"description" : "Welcome to the pirate life. Are you ready to have fun? Explore every corner of the islands and sail the seven seas with your pirate ship in search of the most incredible adventures. Discover the hidden treasures and all the surprises you can imagine.  Customize the characters, form a crew of brave buccaneers and follow the treasure map in search of a big booty. Your pirates will take the stage objects and can interact with other characters, animals and plants. You can take each character and transport him to all locations.  Characteristics: - Five locations to explore: the pirate ship, the hold, the captains cabin, Cannibals Island and Treasure Island. In addition, each location has hidden places like the bay, the marsh, the volcano or the secret cave. - 10 customizable characters and more than 20 animals. - You can camp in the gorge, fishing on the rocky beach, cooking in the ships hold and light a fire at night. Beware the ghost pirate, the tribe of cannibals and the danger carnivorous plant! - Take pictures of your favorite moments to compose your own pirate comics. - This game has no limits. Use your imagination to create your story and play together with your friends and your family in a tablet.  Would you like the pirate world grow? We hear you, send us your suggestions to info@chibig.com and we will incorporate your ideas into future updates. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

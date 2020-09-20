@@ -1,0 +1,11 @@
+{
+"name" : "Tajweed Quran",
+"url" : "https://play.google.com/store/apps/details?id=com.mz.studios",
+"package" : "com.mz.studios",
+"category" : "Education",
+"description" : "The Tajweed Quran app contains Ayatul Al-Kursi & 10 Surahs from The Quran in a easy to read Arabic text format.  The Surahs are colour coded with tajweed rules.You can listen to the recitation of these Surah via the built in offline MP3 player.  The Tajweed Quran app now has free tajweed courses. The courses will help you study tajweed rules that will complete your recitation. Each rule will be covered Step by step at the same time hiving lots of examples for you to completely understand the tajweed rules.  The Tajweed Quran application supports multi-tasking and will continue recitation when screen is OFF or when running in background mode.  Offlline MP3 Player  Recitation is by Maher Al-Muaiqly.  All Surahs will keep reciting continuously(Loop). No further downloads are required (No Data Charges).  The Tajweed Quran app now has push notifications that will give you daily reminders on reading the Tajweed Quran as well as daily hadith.   The Tajweed Quran app contains the entire Quran in MP3 Audio (Online) Offline Surahs included in Tajweed Quran app are as follows:  Ayat Al-Kursi Surah Al-Kahf Surah Ya-sin Surah Ar-Rahmann Surah Al-Waqiah Surah Al-Mulk Surah Al-Muzzammil Surah Al-Qiyamah Surah An-Naba Surah Al-Ikhlas Surah Al-Falaq Surah An-Nas   The Tajweed Quran app also contains Our Easy Quran Memorise feature , It has been designed to ease Quran memorisation.It uses the concept of repeated playing of single ayah or range of ayahs until you memorise it. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

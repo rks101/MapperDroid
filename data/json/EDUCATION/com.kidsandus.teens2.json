@@ -1,0 +1,11 @@
+{
+"name" : "T&T Tuned In: Teens 2",
+"url" : "https://play.google.com/store/apps/details?id=com.kidsandus.teens2",
+"package" : "com.kidsandus.teens2",
+"category" : "Education",
+"description" : "T&T Tuned in: Teens 2, is a new app for students of Tweens & Teens courses at Kids&Us school of English. Chat with the characters from the story and help them solve the mysteries. T&T Tuned in has been developed exclusively for Kids&Us students. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

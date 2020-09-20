@@ -1,0 +1,11 @@
+{
+"name" : "Quiztallography",
+"url" : "https://play.google.com/store/apps/details?id=aax.uab.quiztallography",
+"package" : "aax.uab.quiztallography",
+"category" : "Educational",
+"description" : "As you can guess Quiztallography is a quiz game. The players will have to answer questions on point-symmetry, a fundamental part of Crystallography. Crystallography is the science of crystals (solids, like minerals, where atoms form a periodic arrangement). Point-symmetry deals with the description of polyhedral forms (idealized crystals) through a number of symmetry concepts as rotation axes and reflection planes. Therefore, most of the questions include an interactive 3D design of a polyhedron. The app contains more than 1000 questions and the user can select two playing modes: with time trial (you can set the allowed playing time) or without (you can save your game and resume playing later). Correct answers will produce a variable number of quizpoints (depending on the given question) and failed answers will result in the subtraction of one quizpoint. The application will help undergraduate students of Crystallography to improve their skills in point-symmetry in a funny way. If you like geometry or you possess high skills in spatial reasoning you will easily become an expert player of Quiztallography. The game is not just for undergraduates, everybody can enjoy it and the basic concepts are very easy to learn. Even if you do not know anything about symmetry you can get its fundamentals through the learning section within the app or just keep playing and you will see how fast you will start to learn! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

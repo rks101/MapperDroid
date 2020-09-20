@@ -1,0 +1,11 @@
+{
+"name" : "Highlights Library Reading",
+"url" : "https://play.google.com/store/apps/details?id=com.chungchy.highlightslibraryglobal",
+"package" : "com.chungchy.highlightslibraryglobal",
+"category" : "Education",
+"description" : "Highlights Library is a reading platform designed to delight and motivate young learners, helping them become confident and capable readers.Highlights Library provides an engaging reading experience to help build self-confidence and a lifelong love of reading!  Highlights Library aims to Change the World Through Reading in 4 ways: 1. Time  Students can start reading quickly, and keep reading effortlessly! 2. Access  Highlights Library has nearly 2,500 high-quality, engaging Highlights stories, all with audio 3. Delight  Highlights Library makes reading fun, by allowing users to choose their favorite topics, watch videos and earn Hidden Pictures puzzles 4. Support  Our innovative learning management system allows teachers to customize the experience for their students  Inspire joyful learning with Highlights Library! ***At this time, Highlights Library is only available as a school or library subscription. To learn more, contactinternational@highlights.com.*** ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

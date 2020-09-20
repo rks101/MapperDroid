@@ -1,0 +1,11 @@
+{
+"name" : "Arabic verb conjugation",
+"url" : "https://play.google.com/store/apps/details?id=com.conjugator.arabic",
+"package" : "com.conjugator.arabic",
+"category" : "Education",
+"description" : "Multi-language conjugation, support Arabic English French Turkish and Russian. Colored Arabic morphological analyzer with arabic english dictionary Assiraj offer: Trilateral with all possible conjugation, Quadrilateral conjugation, Active and Passive voices, Perfect, Imperfect tenses, Indicative, Subjunctive, Jussive and Imperative moods, connected object and connected subject conjugation.  Assiraj app works without internet connection, and it support infinite of verbs. With the 5 qurans calligraphics scripts: othmani hafs and warsh and qaloon, Imlai, tajweed , Assiraj app will help the learner. Assiraj will also support the quran erab, and will color the arabic words switch the erab.  Assiraj provided a complexe algorithm to save memory and data size. we offer a software zipped arrond 17 Megabyte designed by data processing expert. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

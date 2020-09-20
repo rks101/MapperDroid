@@ -1,0 +1,11 @@
+{
+"name" : "Learn Add and Subtract",
+"url" : "https://play.google.com/store/apps/details?id=com.tweaknow.addandsubtract",
+"package" : "com.tweaknow.addandsubtract",
+"category" : "Education",
+"description" : "Add and Subtract is a free app designed to help grade 1 and 2 kids to master addition and subtraction. With this app, they can learn from a simple to long addition/subtraction while having fun.  Subjects included in the program:   Addition under 10  Subtraction under 10  Make it 10  Addition under 20  Subtraction under 20  Make it 20  Addition under 100  More addition under 100  Subtraction under 100  More subtraction under 100  Addition under 1000  Subtraction under 1000 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

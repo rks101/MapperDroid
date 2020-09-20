@@ -1,0 +1,11 @@
+{
+"name" : "Comptia Network+ N10-006",
+"url" : "https://play.google.com/store/apps/details?id=com.magycbytes.comptianetworkplus",
+"package" : "com.magycbytes.comptianetworkplus",
+"category" : "Education",
+"description" : "CompTIAs Network+ certification covers advances in networking technology and it validates your technical skills and competency in networking administration and support. The N10-006 exam emphasizes network implementation and support and includes expanded coverage of wireless networking topics.  This application is fully updated to align with the N10-006 exam objectives, providing candidates with a thorough and up-to-date exam prep resource.   Using this mobile app, you gain access to practice exams and electronic flashcards that facilitate information retention and reinforce learning. Thus, you get to practice and improve needed areas and get the confidence you need to succeed on exam day. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "M-ParikshaMitra",
+"url" : "https://play.google.com/store/apps/details?id=in.nic.bhopal.mparikshamitra",
+"package" : "in.nic.bhopal.mparikshamitra",
+"category" : "Education",
+"description" : "M-ParikshaMitra: App to facilitate to Examination of class 5 and 5 of Government Schools of Madhya Pradesh. App facilitates Reporting of Absent Students.Exam Centre Incharge can upload photograph of Rooms of Exam Centre. A live video streaming can also be done through App. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.ACCESS_GPS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_GPS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

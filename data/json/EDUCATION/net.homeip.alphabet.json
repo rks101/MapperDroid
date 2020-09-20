@@ -1,0 +1,11 @@
+{
+"name" : "Kids letters tracing",
+"url" : "https://play.google.com/store/apps/details?id=net.homeip.alphabet",
+"package" : "net.homeip.alphabet",
+"category" : "Educational",
+"description" : "Teach your kids to trace letters, numbers even cursive. If the tracing is good, letter sound will be played in one of five different languages: English, Italian, German, Spanish or French. Full alphabet included. Latest version also provides options to select which letters should be displayed and the level of accuracy needed to trace the letter. If the trace is outside of the letter shape, the trace will appear in red. Now you can also choose if directions should be displayed. At the end the child will be rewarded with a nice animation and has to touch some funny icons... Teach your child to write the whole alphabet with fun. Handwriting has never been so easy and fun! After tracing four letters the child will access a small game where he has to recognize letters of the alphabet. This is a complete educational game to support children while learning alphabet and phonics. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_PHONE_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

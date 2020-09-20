@@ -1,0 +1,11 @@
+{
+"name" : "Enchanted Tales (demo)",
+"url" : "https://play.google.com/store/apps/details?id=com.faerygames.enchantedtales",
+"package" : "com.faerygames.enchantedtales",
+"category" : "Educational",
+"description" : "Un libro fundamental ha escapado hacia los subterrneos de la escuela de magia y Nami, la bibliotecaria, te ha invocado para que la ayudes a recuperarla. Para lograrlo debers ir desarrollando habilidades mgicas mediante ejercicios que tambin te permitirn aprender japons.  Esta versin es un prototipo que solo incluye el primer nivel y que seguiremos mejorando. Ahora mismo ensea 32 caracteres hiragana y 45 palabras, pero segun avanzaremos terminar por incluir todos los contenidos del nivel N5 de japons. A fundamental book has escaped into the underground of the magic school and Nami, the librarian, has invoked you to help her recover it. To achieve this you must develop magical skills through exercises that will also allow you to learn Japanese.  This version is a prototype that only includes the first level and that we will continue to improve. Right now it teaches 32 hiragana characters and 45 words, but as we will progress it will end up including all the contents of the Japanese N5 level. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

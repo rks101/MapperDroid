@@ -1,0 +1,11 @@
+{
+"name" : "Offline Persian-English dictionary",
+"url" : "https://play.google.com/store/apps/details?id=ru.leadpro.offline.dictionary.fa.en",
+"package" : "ru.leadpro.offline.dictionary.fa.en",
+"category" : "Education",
+"description" : "Offline Persian-English and English-Persian free dictionary.  With this dictionary you can translate word from English to Persian and from Persian to English. You can use this program without an internet connection.   - Over 150,000 words and expressions - Works without internet - Totally free - Pronunciation of words and expressions - Favorites words and expressions - History of search ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

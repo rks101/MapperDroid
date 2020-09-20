@@ -1,0 +1,11 @@
+{
+"name" : "Ashe Ire Demo",
+"url" : "https://play.google.com/store/apps/details?id=com.movotech.asheiredemo",
+"package" : "com.movotech.asheiredemo",
+"category" : "Education",
+"description" : "Aplicacin que tiene como objetivo compartir una especie de gua para el estudio del culto lucum o Regla de Osha.   La informacin presentada proviene de miles de volmenes pertenecientes a la biblioteca personal del grupo de santeros cubanos autores de esta idea.  Esta aplicacin contiene:  - Descripcin y todo lo relacionado con los Oddus del Diloggun.  - Historia, cargas, ceremonias, cantos y ms sobre santos o deidades.  - Utilizacin y forma de tirada del caracol (Adivinacin).  - Letra del ao 2020 Application that aims to share a kind of guide for the study of the lucum cult or Osha Rule.  The information presented comes from thousands of volumes belonging to the personal library of the group of Cuban santeros authors of this idea.  This application contains:  - Description and everything related to the Oddus of the Diloggun.  - History, burdens, ceremonies, songs and more about saints or deities.  - Use and shape of the snails run (Divination).  - Letter of the year 2020 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.SYSTEM_ALERT_WINDOW']",
+"perms_with_call" : "['android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Akeed Qudurat",
+"url" : "https://play.google.com/store/apps/details?id=com.innotech.qudraatAkeed",
+"package" : "com.innotech.qudraatAkeed",
+"category" : "Educational",
+"description" : "Qudurat Exam is a test that measures students analytical and deductive capacity. Obtaining high marks in such an Exam is a necessity to be accepted at University.  Test yourself and discover your Qudurat skills. Download Akeed app on your mobile, and explore a world of Qudurat adventure in a journey of thrill and challenge, where you pass through different levels, through which your real Qudurat skills would be assessed, allowing you to identify your weakness points, and thus help you improve your performance in order to achieve the highest grades.   Examine yourself before the Real Exam Build your confidence with Akeed, through experimenting with exams that simulates the real Exam in advance. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

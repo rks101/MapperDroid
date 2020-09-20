@@ -1,0 +1,11 @@
+{
+"name" : "Learn Korean",
+"url" : "https://play.google.com/store/apps/details?id=com.kitvs.learnkorean",
+"package" : "com.kitvs.learnkorean",
+"category" : "Education",
+"description" : "Learn Korean is a Korean Phrasebook for visitors to Korea and those who are interested in learning Korean a good start in the language. - Have 18 categories with 1000 sentences (with sounds) - Store frequently used phrases in bookmark - Search by keywords (korean, mean...) - Repeat the sentence and record yourself. - Test the category which have been learned. (Input text or voice). ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

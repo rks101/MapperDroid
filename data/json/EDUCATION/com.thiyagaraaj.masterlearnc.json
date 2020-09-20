@@ -1,0 +1,11 @@
+{
+"name" : "Learn C Programming",
+"url" : "https://play.google.com/store/apps/details?id=com.thiyagaraaj.masterlearnc",
+"package" : "com.thiyagaraaj.masterlearnc",
+"category" : "Education",
+"description" : " Note: Please give 5 Star, It will encourage us. Please Dont give negative feedback, It is not the solution for your need. If you have any problem, please email to android@thiyagaraaj.com.  Suggestions are welcome. please mail@android@thiyagaraaj.com   Main Features  C Programming Tutorial  C Example Programs  Fully Offline Guide  C Data Structures Example Programs  Enhanced Search  Bookmark or Favoraties Option  Settings - Text Size, Full-Screen Mode  Unified Format and Syntax Highlighting  Mobile Reading Format and Layout   Tags: C Programming,Learn C, C Examples, C Programs, C Data Strcutures, C Guide, C Tutorials ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.thiyagaraaj.masterlearnc.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

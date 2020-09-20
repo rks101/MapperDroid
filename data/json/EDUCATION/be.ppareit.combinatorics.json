@@ -1,0 +1,11 @@
+{
+"name" : "Combinatorics Mathematics",
+"url" : "https://play.google.com/store/apps/details?id=be.ppareit.combinatorics",
+"package" : "be.ppareit.combinatorics",
+"category" : "Education",
+"description" : "Combinatorics can calculate and enumerate all possible permutations, combinations, ...  Combinatorics algoritmes: * Permutations of letters * Anagrams of words * k-Permutations of letters * Combinations of letters * Combinations with repetitions of letters  Extra features: * Displays the number of permutations/combinations/... with well formatted mathematical symbols using tex/latex * Ability to share a calculation, for instance to save it to a file or to mail the result * Option to send feedback from within application ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

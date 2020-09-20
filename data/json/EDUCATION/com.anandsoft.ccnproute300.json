@@ -1,0 +1,11 @@
+{
+"name" : "CCNP Route 300-101 ExSim-Free",
+"url" : "https://play.google.com/store/apps/details?id=com.anandsoft.ccnproute300",
+"package" : "com.anandsoft.ccnproute300",
+"category" : "Education",
+"description" : "CCNP Route 300-101 exam simulator provides practice questions from latest syllabus of CCNP certification exam 300-101 offered by Cisco.  Question types supported are  1. Multiple choice single answer 2. Multiple choice multiple answer 3. Drag and drop  Complete explanation is provided for each question in Learn mode, and actual exam environment is simulated in Exam mode. Options to save the results and reviewing questions are provided.  Desktop version of the app is available with 200+ questions at http://www.simulationexams.com/exam-details/ccnp-routing.htm  Disclaimer: Simulationexams.com is not associated with Cisco organisation and CCNP is a trademark of Cisco duly acknowledged. ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

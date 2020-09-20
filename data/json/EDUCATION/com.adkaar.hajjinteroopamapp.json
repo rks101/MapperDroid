@@ -1,0 +1,11 @@
+{
+"name" : "Hajjinte Roopam (Malayalam)",
+"url" : "https://play.google.com/store/apps/details?id=com.adkaar.hajjinteroopamapp",
+"package" : "com.adkaar.hajjinteroopamapp",
+"category" : "Education",
+"description" : "Android app based on world renowned book,   by Sheikh Mohammad Bin Swalih Al Osaimeen (Malayalam Version) translated by Muhammad Kutti Kadannamanna ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

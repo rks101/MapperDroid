@@ -1,0 +1,11 @@
+{
+"name" : "Dino Memory",
+"url" : "https://play.google.com/store/apps/details?id=com.foxi.studios.DinoMemory",
+"package" : "com.foxi.studios.DinoMemory",
+"category" : "Education",
+"description" : "Are you ready to challenge your memory daily with Dinosaurs Memory?  The main features of this free memory game:  Match pairs of cards.   Different levels of difficulty: easy, medium and hard.  Dinosaurs Memory will develop your cognitive skills like: attention, working memory, visual perception and spatial relation. A free memory game for kids.  The game is a cards matching game coming with colorful images from dinosaurs world. It also has 3 difficulty challenging levels.  Enjoy it and have fun with this memory game for kids. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'air.com.foxi.studios.DinoMemory.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.DISABLE_KEYGUARD', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'air.com.foxi.studios.DinoMemory.permission.C2D_MESSAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

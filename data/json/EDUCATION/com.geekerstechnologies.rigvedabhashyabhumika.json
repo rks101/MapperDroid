@@ -1,0 +1,11 @@
+{
+"name" : "Rigvedadibhashyabhumika",
+"url" : "https://play.google.com/store/apps/details?id=com.geekerstechnologies.rigvedabhashyabhumika",
+"package" : "com.geekerstechnologies.rigvedabhashyabhumika",
+"category" : "Education",
+"description" : "This is book (Rigvedadibhashyabhumika) Written By Swami Dayanand Saraswati which is converted to Digital Format By Dr. Naresh Kumar Dhiman. This app is Searchable Text Format so that every one can research on the Rigvedadibhashyabhumika easily. This concept of digitization of the Rigvedadibhashyabhumika is proposed by Dr. Naresh Kumar Dhiman. This app Developed Under the Guidance of Dr. Naresh Kumar Dhiman (Principal) Doaba College, Jalandhar. This Concept Developed By Prof. Pardeep Bhandari (Head) P.G. Dept. of Computer Science & I.T. Android App Developed By Asst. Prof. Gurmeet Singh P.G. Dept. of Computer Science & I.T. Database of the Rigvedadibhashyabhumika Provided By Swami Dayanand Study Center. All Rights of this App is Reserved By Doaba College, Jalandhar. Doaba College, Tanda Road, Opp. Shri Devi Talab Mandir Jalandhar - 144004 Contact:- +91-181-2291837 ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

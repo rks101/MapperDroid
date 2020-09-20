@@ -1,0 +1,11 @@
+{
+"name" : "Moon Locator 2020",
+"url" : "https://play.google.com/store/apps/details?id=com.genewarrior.sunlocator.moon",
+"package" : "com.genewarrior.sunlocator.moon",
+"category" : "Education",
+"description" : "Moon Locator predicts the moon position, path and phase at a specific location during the course of a day and year.  Anticipate lighting conditions in photography/filming, times for religious worship   The Main View displays all the detailed information: moon rise and moonset, moon phase (waning and waxing, in percentages) and more. The graph displays the moon phases over the course of a year.   The Augmented Reality (AR) feature displays the lunar position directly overlaid on your devices camera. Use the slider to set the time of day and directly track the lunar movement. [A device with a magnetometer (compass) is needed to use the AR feature]   The Map feature displays the moon position, direction and shadow on a map to help you plan your activities. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Tayo Monster Truck - Kids Game Package",
+"url" : "https://play.google.com/store/apps/details?id=com.kigle.project.tayocon_monster",
+"package" : "com.kigle.project.tayocon_monster",
+"category" : "Education",
+"description" : "Bad monster trucks have taken over town! Turn your friends into monster cars and save the town. Lets enjoy a fun game defeating the alien truck with Tayo!   10 types of rich and exciting tayo games!  Variety of amazing monster cars!  Enjoy your game with exciting animations and sound effects!  Tayo Monster Truck is a package app that includes 10 separate games. What can friends do when they turn into monster cars and become more powerful?  Tayo Play App offers richer and more versatile contents! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+}

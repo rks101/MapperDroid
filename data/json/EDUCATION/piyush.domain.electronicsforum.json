@@ -1,0 +1,11 @@
+{
+"name" : "Electronics Helper",
+"url" : "https://play.google.com/store/apps/details?id=piyush.domain.electronicsforum",
+"package" : "piyush.domain.electronicsforum",
+"category" : "Education",
+"description" : "This application i.e.Electronics Helper is basically developed for the electronics students and associated people of this field to help them in understanding the basics and simplifying the various complex calculations which are more often than not associated with it. The purpose of developing this app is to provide ease to the users while doing tedious and complex calculations of electronics. Almost all electronics calculations can be performed by it(for instance,this app includes basic ohms law calculator to resistor and capacitor series/parallel calculator, 555 timer generator calculator to electricity and energy consumption calculator,and many more). Overall 14 sub apps are inside it. Moreover it has more than 35 calculators inside a single sub app i.e. electrical calculator (which is one out of the 14 sub app of this main app). It also includes resistor color code calculator app along with almost all transistors and diodes series specifications. By and large, it has included all the electronics calculator apps inside a single app which will certainly help the users in solving their related problems. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

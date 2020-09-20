@@ -1,0 +1,11 @@
+{
+"name" : "NestWatch by Cornell Lab",
+"url" : "https://play.google.com/store/apps/details?id=edu.cornell.birds.nestwatchmobile",
+"package" : "edu.cornell.birds.nestwatchmobile",
+"category" : "Education",
+"description" : "NestWatch is the Cornell Lab of Ornithologys citizen-science project that tracks nesting birds in North America. Found a birds nest? You can report it for science. Sign in to:  Add a nest location using the interactive map. Add data on species, number of eggs, number of young, hatch date, and other pertinent details. Contribute to North Americas largest database on avian nesting success.  Features: Full offline functionality, enabling use in places with limited or no Internet connection or cellular service. Enter bird nest observations from anywhere in North America. Track your nesting statistics in real time.  Ideal for managing nest box trail data. Automatically syncs with web version for seamless multi-user and multi-platform support. Your data are openly available for scientific research, education, and conservation right away. Learn more about monitoring birds nests for science at http://nestwatch.org/. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'edu.cornell.birds.nestwatchmobile.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

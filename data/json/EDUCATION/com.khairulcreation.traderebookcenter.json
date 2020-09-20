@@ -1,0 +1,11 @@
+{
+"name" : "Trader Ebook Center",
+"url" : "https://play.google.com/store/apps/details?id=com.khairulcreation.traderebookcenter",
+"package" : "com.khairulcreation.traderebookcenter",
+"category" : "Education",
+"description" : "Trader Ebook Center is a simple light weight app which has More than 50+ Forex Ebook Strategy with Malaysian Language.  Its a completely FREE for all android users!   The app currently contains *.Market weekly forecasts *.Libraries of Ebooks *.Search Features by its category   All of the e-book in this apps are from well known trader in forex community. If you are the copyright owner of any of these e-books and do not want me to share them, please contact me and i will gladly remove them.  Hope these apps can help you to get better understanding in Forex Trading Beginners Guide, then improve your performance in trading.  Ads-- There are ads in this app. Uploading the apps into play store costs money. Application is free. The only way to support future development is to include ads. Please treat that with understanding. Thank you guys.  For more info, Follow our official Telegram channel : https://t.me/TraderEbookCenter  Stay tune for next update! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

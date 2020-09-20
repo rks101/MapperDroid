@@ -1,0 +1,11 @@
+{
+"name" : "Mount Litera Zee School, Ludhiana",
+"url" : "https://play.google.com/store/apps/details?id=schoolpad.mlzldh.app",
+"package" : "schoolpad.mlzldh.app",
+"category" : "Education",
+"description" : "Mount Litera Zee School, Ludhianas official mobile app to keep parents more involved into their childs progress at School by getting all child related updates on their smartphone. Parents can also send messages and discuss their child related queries with teachers directly through this app. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.majeur.launcher.permission.UPDATE_BADGE', 'android.permission.VIBRATE', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'com.htc.launcher.permission.READ_SETTINGS', 'com.sec.android.provider.badge.permission.WRITE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MANAGE_DOCUMENTS', 'com.sec.android.provider.badge.permission.READ', 'android.permission.INTERNET', 'schoolpad.mlzldh.app.permission.C2D_MESSAGE', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.MANAGE_DOCUMENTS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

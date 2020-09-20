@@ -1,0 +1,11 @@
+{
+"name" : "IELTS Speaking",
+"url" : "https://play.google.com/store/apps/details?id=com.originals.nikk.ieltsspeaking",
+"package" : "com.originals.nikk.ieltsspeaking",
+"category" : "Education",
+"description" : "Tired of searching IELTS Speaking content? Try IELTS Speaking for Improving your speaking skills. It provides you every aspect you need to cover for your original IELTS Speaking exam. We have captured each and every topic asked in previous years. Instead of traditional learning with books we have created a simple environment to get in touch with all the topics and to learn quickly.  There is no quick way to achieve this, but this Application provides some general guidance on what is required to get good IELTS band in the writing module. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

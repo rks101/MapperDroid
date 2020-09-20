@@ -1,0 +1,11 @@
+{
+"name" : "Islamic Dua - English Transliteration and Meaning",
+"url" : "https://play.google.com/store/apps/details?id=duas.muslim.com.muslimduas",
+"package" : "duas.muslim.com.muslimduas",
+"category" : "Education",
+"description" : "All duas from authentic hadith and Quran.  Types of Duas - Quranic dua - Prophets Duas - Duas in prayer and after prayer - When waking up and before sleep - When wearing a (new) garment - When going to / entering / leaving the mosque - Before and after ablution - Before and after eating - Upon entering and leaving the toilet - Visiting sick - Seeking Allahs help - After sneezing - Visiting graves - Rainfall supplications - Dua for parents - Qunoot Dua - Darood e Ibrahim - After adhaan - etc  References  - Quran - Sahih Al-Bukhari - Sahin Muslim - Abu Dawood - Tirmidhi and Ibn Majah ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.SET_ALARM', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SET_ALARM', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

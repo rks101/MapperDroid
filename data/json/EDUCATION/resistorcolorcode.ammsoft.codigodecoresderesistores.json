@@ -1,0 +1,11 @@
+{
+"name" : "Resistor Color Code",
+"url" : "https://play.google.com/store/apps/details?id=resistorcolorcode.ammsoft.codigodecoresderesistores",
+"package" : "resistorcolorcode.ammsoft.codigodecoresderesistores",
+"category" : "Education",
+"description" : "Provides resistor value given its color code. Complete, including tolerance! There is a graphic interface to show 4, 5 and 6 color bands.  If you want, please download the complete version of Electronic Circuits. It contains this module and additional BJT and FET calculations! ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Bible Insight Hebrews 12",
+"url" : "https://play.google.com/store/apps/details?id=appinventor.ai_david_e_thiele.Bible_Insight_Hebrews_12",
+"package" : "appinventor.ai_david_e_thiele.Bible_Insight_Hebrews_12",
+"category" : "Education",
+"description" : "Bible Insight Hebrews 12 is an Android Application that helps people to better understand what the Bible says in the book of Hebrews Chapter 12 verses 1 through 29.  You might find this helpful in Bible studies, Sunday school lessons, or to spur yourself to a more in depth study of Hebrews. It is a handy reference and can be used as a conversation starter. Whether you are new to the Christian Faith, a long-time believer or just a curious individual, this free App is for you!  It is about 3 megs in size, so it wont take up much of your devices memory. Be sure and check out other free Apps in the Faith Point series as well. You also might want to download the free android app Share Good News 2. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.SEND_SMS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SEND_SMS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

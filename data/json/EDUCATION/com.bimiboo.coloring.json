@@ -1,0 +1,11 @@
+{
+"name" : "Coloring book for kids",
+"url" : "https://play.google.com/store/apps/details?id=com.bimiboo.coloring",
+"package" : "com.bimiboo.coloring",
+"category" : "Educational",
+"description" : "Coloring book for kindergarten kids and toddlers. The app has 120 pictures for coloring that will keep your child entertained while developing creativity, fine motor skills and hand eye coordination. Our coloring game is great for both girls and boys of all ages and interests. It allows kids to color animals, dinosaurs, princesses, transport, aliens, sea creatures, robots and even Christmas pictures.  Drawing game with different instruments  pencil, brush, spray, crayon, felt-tip pen and chalk. Magic painting for toddlers  create beautiful pictures with little effort. User-friendly game for 2 to 6 year olds you can easily correct mistakes with undo button. Versatile coloring game for kids  120 coloring pages in 8 different themes.  Our game for toddlers is perfect for pre-k and kindergarten children who want to develop their creativity and drawing skills.   Ages: 2, 3, 4, 5, 6 or 7 years old pre-kindergarten and kindergarten children.  You will never find annoying ads inside our app. We are always glad to receive your feedback and suggestions. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

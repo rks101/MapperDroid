@@ -1,0 +1,11 @@
+{
+"name" : "Learn Music Notes",
+"url" : "https://play.google.com/store/apps/details?id=de.melvil.noten",
+"package" : "de.melvil.noten",
+"category" : "Education",
+"description" : "* Input modes: Buttons or Piano * Score history (Youll see quickly how much you improve!) * Practice treble and bass clef, or just one of them, as you like * Three difficulty levels (the harder, the more notes with ledger lines youll get) *  and  accidentals * Source code of this app is open-sourced at https://github.com/MelvilQ/noten-lernen ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

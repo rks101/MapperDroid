@@ -1,0 +1,11 @@
+{
+"name" : "Understand Korean - 30 days course",
+"url" : "https://play.google.com/store/apps/details?id=com.jensonm.understandkorean",
+"package" : "com.jensonm.understandkorean",
+"category" : "Education",
+"description" : "Easy to understand and effective day day by Korean lesson. Follow the lessons and exercises and by 1 month, you will have a good command of basic Korean. Focus on daily conversations, grammar, building sentences.  Explain why the sentences and phrase are build in such a way, instead of just hard memorizing. After you understand, it will be much easier to master Korean language.  Theres also a section to teach you read Hangul. You can easily learn how to read Korean within days or even hours! If you know how to read hangul, then this is an effective course for you to memorize and enable you to have basic Korean conversations.  Its all free of charge and theres no need to pay to unlock any feature.  Not only you can study Korean language in this app, you can also practise what you have learned in your Korean study. Contains lots of random Korean questions in all the topics that we covered. Your journey to be able to speak Korean proficiently starts by downloading this Korean language learning app. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

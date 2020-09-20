@@ -1,0 +1,11 @@
+{
+"name" : "Neuronify",
+"url" : "https://play.google.com/store/apps/details?id=net.ovilab.neuronify",
+"package" : "net.ovilab.neuronify",
+"category" : "Education",
+"description" : "Neuronify is an educational tool meant to create intuition for how neurons and neural networks behave. You can use it to combine neurons with different connections, just like the ones we have in our brain, and explore how changes on single cells lead to behavioral changes in important networks.  To build and explore neural networks, you drag neurons and measurement devices onto the screen. In addition, the app comes with several ready-made simulations for inspiration.  We aim to provide a low entry point to simulation-based neuroscience. Most students wont get the opportunity to create their own neural simulator. With Neuronify, these students are still able to build up their intuition by experimenting with neural phenomena.  Neuronify is based on an integrate-and-fire model of neurons. This is one of the simplest models of neurons that exist. It focuses on the spike timing of a neuron and ignores the details of the action potential dynamics. These neurons are modeled as simple RC circuits. When the membrane potential is above a certain threshold, a spike is generated and the voltage is reset to its resting potential. This spike then signals other neurons through its synapses. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.RECORD_AUDIO']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Gauss Jordan Elimination Calculator",
+"url" : "https://play.google.com/store/apps/details?id=gauss.elimination.gausselim.app",
+"package" : "gauss.elimination.gausselim.app",
+"category" : "Education",
+"description" : "GaussElim is a simple application that applies the Gaussian Elimination process to a given matrix. You can set the matrix dimensions using the scrollbars and then you can edit the matrix elements by typing in each cell (the cells become active/inactive once you move the respective scrollbar). You can move to another cell either by pressing the NEXT key on the soft keyboard, or by tapping the desired cell.  GaussElim supports fractions. All computations are precise.  After you have entered the entries of the desired matrix, you can press one of the available buttons and see the result (and detailed explanation) on the bottom of the screen:  Gauss Elimination Button: Applies the Gauss elimination process to the given matrix. The result is an unreduced Row-Echelon matrix.  Jordan Elimination Button: Applies the Gauss-Jordan elimination process to the given matrix. The result is a reduced Row-Echelon matrix.  INV button: Applies the Gauss-Jordan elimination process to find (if possible) the inverse of the given matrix.  Null Space button: Finds the Null space of the given matrix by applying the Gauss-Jordan Elimination Process.  Col Space button: Finds the column space of the given matrix by applying the Gauss Jordan elimination process to the transpose matrix.  Row Space button: Finds the row space of the given matrix by applying the Gauss-Jordan elimination process. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

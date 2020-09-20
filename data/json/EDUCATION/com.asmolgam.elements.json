@@ -1,0 +1,11 @@
+{
+"name" : "Chemical Elements and Periodic Table: Symbols Quiz",
+"url" : "https://play.google.com/store/apps/details?id=com.asmolgam.elements",
+"package" : "com.asmolgam.elements",
+"category" : "Educational",
+"description" : "Youll learn the names and symbols of all 118 chemical elements of the Periodic Table with this app - from nitrogen (N) and oxygen (O) to plutonium (Pu) and americium (Am). Please choose the way of studying that suits you the best: 1) Basic Elements Quiz (magnesium Mg, sulfur S). 2) Advanced Elements Quiz (vanadium = V, palladium = Pd). 3) All Elements (from hydrogen (H) to oganesson (Og)). + A separate quiz about Atomic Numbers (for example, 20 is calcium Ca). Choose the game mode:  * Spelling quizzes (easy and hard). * Multiple-choice questions (with 4 or 6 answer options). Its important to remember that you have only 3 lives. * Time game (give as many answers as you can in 1 minute) - you should give more than 25 correct answers to get a star. Two learning tools: * Flashcards: browse all element cards with essential information about atomic number, chemical symbol, atomic mass, and the name of the element. * Periodic Table.  The app is translated into 22 languages, including English, German, Spanish, and many others. So you can learn the names of the elements in any of them.  Many thanks to Dmitri Mendeleev, the discoverer of the Periodic Law! The element with atomic number 101 is named Mendelevium (Md) after him. Identify all elements from alkali metals and lanthanides (rare earth metals) to transition metals and noble gases. I hope that this app will help you to make an important step in studying general and inorganic chemistry. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.asmolgam.elements.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

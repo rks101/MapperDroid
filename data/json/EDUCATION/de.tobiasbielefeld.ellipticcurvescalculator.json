@@ -1,0 +1,11 @@
+{
+"name" : "Elliptic Curves Calculator",
+"url" : "https://play.google.com/store/apps/details?id=de.tobiasbielefeld.ellipticcurvescalculator",
+"package" : "de.tobiasbielefeld.ellipticcurvescalculator",
+"category" : "Education",
+"description" : "This is a simple app for calculating with elliptic curves.  Please note that this app is only designed to help you with your homework.  This app now calculates: -the addition of two points -the double and add algorithm -the order of a point -the order of a curve -ecdh and ecdsa  Features: -automaticly tests if the curve and points are valid (can be deactivated in the settings) -shows the detailed calculation steps -works with long integers ( max value 2-1 ) -low apk size, about 1.6 MB -does not need any permissions -no advertisments  Source code available here: https://github.com/TobiasBielefeld/Elliptic-Curves-Calculator ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

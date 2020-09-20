@@ -1,0 +1,11 @@
+{
+"name" : "Know Number",
+"url" : "https://play.google.com/store/apps/details?id=com.lookkidsw.AKnowNumberFree",
+"package" : "com.lookkidsw.AKnowNumberFree",
+"category" : "Education",
+"description" : "To help your child of all ages learn about English numbers. Your child will learn to recognize and count numbers. Then practice more in writing them.   Learn with fun in games and activities.  * Count numbers sequentially from 1 to 20, and then in tens up to 100  * Trace numbers start from 1 to 10, and then up to 20.  * 7 games and activities * sort number, count number, matching numbers, and memory games  * accelerometer and rotate number game  * speed writing number game  * Number train game  * scores and achievement goals to encourage kids to learn more.  * No More Ads ever. * Added Parental Gate to prevent kids accessing links * Free for number 1 to 10 * Premium to have number up to 20 and to 100 * All games are playable. No more locks.  Hope you enjoy and find this app useful to your child development. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

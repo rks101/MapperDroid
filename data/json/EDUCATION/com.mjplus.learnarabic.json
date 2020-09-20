@@ -1,0 +1,11 @@
+{
+"name" : "Learn Arabic Alphabet For Kids",
+"url" : "https://play.google.com/store/apps/details?id=com.mjplus.learnarabic",
+"package" : "com.mjplus.learnarabic",
+"category" : "Education",
+"description" : "An interactive educational application that aims to teach the Arabic language to children in fun and entertaining way that stimulates the child to learn. The application contains teaching the Arabic language with voice and pictures. It also contains teaching the alphabet vowelization and teaches the child how to write the alphabet in handwriting. It also contains challenges to motivate children to learning Arabic alphabet in a fun way. Also, the application has section to teach the children the animals names, animals voices, fruits and vegetables. The app also teaching the Arabic numbers, it helps the child to learn how to count, it has challenges and games to teach the children the shapes in order to give the children the ability to differentiate between shapes. It is the only application that combine education, challenges and fun in teaching Arabic alphabet . ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'com.mjplus.learnarabic.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Biology Definition And Dictionary",
+"url" : "https://play.google.com/store/apps/details?id=com.venox.biology_dictionary",
+"package" : "com.venox.biology_dictionary",
+"category" : "Education",
+"description" : "Biology Definition And Dictionary App contains more than 5000 words with definitions. The definitions are technical, detailed and explained according to Biology field. All the definitions are in simple English for easy understanding. This offline app is very useful to anyone preparing for the Engineering Examination.  Hopefully this offline Biology Definition And Dictionary application can be useful for your learning. Do not forget we wait for valuable. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

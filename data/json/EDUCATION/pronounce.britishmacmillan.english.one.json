@@ -1,0 +1,11 @@
+{
+"name" : "English Pronunciation British",
+"url" : "https://play.google.com/store/apps/details?id=pronounce.britishmacmillan.english.one",
+"package" : "pronounce.britishmacmillan.english.one",
+"category" : "Education",
+"description" : "Learning to pronounce English words correctly can be one of the hardest parts of learning English.  The English language has some sounds that your native language might not, so you will have to learn how to make completely new sounds.  Plus, English vowels make it really tricky to know how to say a word. Way, weigh and whey are all said the same, for example, while comb, bomb and tomb are all pronounced differently.  New Functionality:  - Search using wildcards and suggested words - Predictive text in search helps you with spelling as you look for words - Search history to help you find recently searched for words - Bookmark your favorite words - My vocabulary ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'pronounce.britishmacmillan.english.one.permission.C2D_MESSAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

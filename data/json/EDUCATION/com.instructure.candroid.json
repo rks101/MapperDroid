@@ -1,0 +1,11 @@
+{
+"name" : "Canvas Student",
+"url" : "https://play.google.com/store/apps/details?id=com.instructure.candroid",
+"package" : "com.instructure.candroid",
+"category" : "Education",
+"description" : "Access your Canvas courses on the go with the Canvas Student mobile app! From any device, students can now:   View grades and course content  Submit assignments  Keep track of course work with to do list and calendar  Send and receive messages  Post to discussions  Watch videos  Take quizzes  Receive push notifications for new grades and course updates, and much more! ",
+"desc_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.GET_ACCOUNTS', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'com.android.launcher.permission.INSTALL_SHORTCUT', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+}

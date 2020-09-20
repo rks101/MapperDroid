@@ -1,0 +1,11 @@
+{
+"name" : "Bharat Acharya Education",
+"url" : "https://play.google.com/store/apps/details?id=com.bharatacharyaeducation.bae",
+"package" : "com.bharatacharyaeducation.bae",
+"category" : "Education",
+"description" : "Using the app you can watch the videos on your mobile phone at your convenience.  DOWNLOAD VIDEOS  We have enabled the video download feature.  Once downloaded, you can play the video from your own phone without having to use your internet data again and again.   BUFFERING  Since the video is downloaded onto your phone, you can play them without any buffering whatsoever.  PLAY SPEED AND SKIP  During last minute rush you can play the video at a higher speed and also SKIP 10 seconds ahead or behind.  CONTINUED SUBSCRIPTION  In case you have already subscribed to a channel on our website, the subscription will continue in the app at NO ADDITIONAL COST. ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'com.bharatacharyaeducation.bae.permission.C2D_MESSAGE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

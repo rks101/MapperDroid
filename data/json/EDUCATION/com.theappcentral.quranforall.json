@@ -1,0 +1,11 @@
+{
+"name" : "Quran for All (Al-Huda Int.)",
+"url" : "https://play.google.com/store/apps/details?id=com.theappcentral.quranforall",
+"package" : "com.theappcentral.quranforall",
+"category" : "Education",
+"description" : "Quran for All is the perfect app to help you explore a vast treasure of audio & visual resources on Islam, Quran, Hadith and associated subjects. Easy navigation through categorised options will help you enrich from various qaris, learn tajweed, understand the Holy Quran through comprehensive lectures of Dr. Farhat Hashmi, listen to Sahih Bukhari, watch videos and much more.  Quran for All app is ideal for users of Al-Hudas websites to now listen to their favourite lectures on their mobiles  more conveniently than ever before. All you need is an internet connection and you will have free access to over 20 thousand Audios and Videos available within this application and ready for you to download.  Important: Internet connection is necessary to use this application.  Attention!!! If you are facing any download issues please Install a file manager like ES File Explorer ( https://play.google.com/store/apps/details?id=com.estrongs.android.pop ) and the download will become easy. When download gives you an option to select default program, select ES File Explorer as your default App.  Websites: http://www.alhudapk.com  http://www.farhathashmi.com. Feedback: webmaster@alhudapk.com (we love to hear from our users!)  Please do make Dua for all the people involved in bringing this application to your hand held device. Happy Exploring :-) ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

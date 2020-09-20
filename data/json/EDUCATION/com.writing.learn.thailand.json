@@ -1,0 +1,11 @@
+{
+"name" : "Thai Alphabet, Thai Letters Writing",
+"url" : "https://play.google.com/store/apps/details?id=com.writing.learn.thailand",
+"package" : "com.writing.learn.thailand",
+"category" : "Education",
+"description" : "Practice Thai writing with guides before testing yourself, making learning extremely fast and stress-free  Download Thai Alphabet, Thai Letters Writing right away, and start to learn Thai language, practice lots of tests offline, anytime, anywhere!   Features:  Practice writing with guides before testing yourself, making learning extremely fast and stress-free.   Free Thai Alphabet, practice with Thai letters offline   With Thailand Alphabet, Thailand Letters Writing you can write anywhere! No longer be restricted to writing only when you have paper and a pen!   Thailand Alphabet, Thailand Letters Writing will save score and progress analytics  Please send us your feedback about to the Thailand Alphabet, Thailand Letters Writing app. Thank you and best regards! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.android.vending.CHECK_LICENSE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.CHECK_LICENSE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_WIFI_STATE']",
+}

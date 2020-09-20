@@ -1,0 +1,11 @@
+{
+"name" : "Chinese Vocab",
+"url" : "https://play.google.com/store/apps/details?id=com.chinese_vocab",
+"package" : "com.chinese_vocab",
+"category" : "Education",
+"description" : "Chinese Vocab is a helpful tool to learn the Chinese language and prepare for the HSK(Hanyu Shuiping Kaoshi, the official Chinese proficiency test) exam by studying HSK vocabulary. It contains a dictionary of over 26,000 words required for the exam across beginner to advanced levels which can be searched on using Chinese words.  Study Plan: Customizable regular quantitative to learn vocabulary by daily, weekly, or monthly. Provide self-planning to learn your favoriate words. Also provide the analysis capabilities to see learning progress.  Highlight Features: 1.Provides a richer Chinese database. 2.Support to show simplified Chinese and traditional Chinese. 3.Offers five-star types for favorite category. 4.Allow speak Chinese voice included network voice or TTS voice. 5.Support user defined book to add words as well as provide editing. 6.Provides a function to display Chinese or English only for remember. 7.Provide options for exam including time limitation, the number of questions, and testing types. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.VIBRATE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.SYSTEM_ALERT_WINDOW']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Periodic Table - Game",
+"url" : "https://play.google.com/store/apps/details?id=august.mendeleev.quiz",
+"package" : "august.mendeleev.quiz",
+"category" : "Educational",
+"description" : "Chemistry is a fundamental natural science that we encounter every day, it studies the properties of substances and their compounds. To simplify the study of Chemistry, we created a Game that will make the process of learning this wonderful science even more interesting!  Game - Periodic Table was created for schoolchildren, students, chemists with experience and for people who want to learn more about our world. We have gathered a huge amount of information about Chemical Elements, which can be easily remembered thanks to the game form of training. Its simple, you need to regularly play and play, collect more Atoms and discover new games and difficulty levels! Our game will also be useful for preparing for tests, quizzes, and even for important exams! Just play in between studying the main material.  Our game is under active development, with each update it will become better and better, more beautiful, informative and interesting, stay tuned for updates to our game and do not forget to leave feedback. Thanks to your feedback, we will make the game even better and will know what to strive for! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "GoGame",
+"url" : "https://play.google.com/store/apps/details?id=vn.gostream.gogame",
+"package" : "vn.gostream.gogame",
+"category" : "Educational",
+"description" : "GoGame l gii php ti u khi t chc cc tr chi trong cc bui s kin,  hot ng ngoi kho trong trng hc, to bi thi trc nghim i thng, hay dng cho cc chng trnh truyn hnh khi cn s gip  t khn gi trong trng quay. Ch cn duy nht 1 mn hnh ln  hin th cu hi, mi ngi chi khc ch n gin kt nt vi 1 m PIN  tham gia tr li, kt qu tr li c thng k t ng ngay lp tc sau khi kt thc tr chi. Bn c th tu chnh  to ra cc gameshow hp dn, tng tc cho nhm, tp th mt cch n gin v hiu qu. Hy  chng ti a cc bn n gn nhau hn! Xem chi tit hng dn ti: https://www.youtube.com/channel/UCN75efuvPmbDXofOx-jNPPA GoGame is the ultimate solution when organizing games during events, extracurricular activities in schools, creating test-taking quizzes, or using for television programs when you need help from the audience in the studio. Only need a large screen to display the question, every other player simply ends with a PIN to join the answer, the answer is automatically statistics immediately after the end of the game. play. You can customize to create attractive, interactive gameshow for groups, collectives in a simple and effective way. Let us bring you closer together! See detailed instructions at: https://www.youtube.com/channel/UCN75efuvPmbDXofOx-jNPPA ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

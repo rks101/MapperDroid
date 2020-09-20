@@ -1,0 +1,11 @@
+{
+"name" : "Test de citoyenneté canadienne 2020",
+"url" : "https://play.google.com/store/apps/details?id=com.bubblingiso.cacitizenshipfrench",
+"package" : "com.bubblingiso.cacitizenshipfrench",
+"category" : "Education",
+"description" : "Grce  cette application gratuite du test de citoyennet canadienne, vous pouvez facilement vous prparer au test de citoyennet au Canada. Pour devenir citoyen canadien, vous devrez passer le test de citoyennet. Le test dure 30 minutes et contient 20 questions  choix multiples. Vous devez passer avec au moins 15 questions (75%) rpondu correctement.  Caractristiques: -3 modes de pratique diffrents (Examen, Revue, et Bourrer) -prononcer toutes les questions en franais -prononcer toutes les rponses en franais -diffrentes questions en fonction de votre province / territoire slectionn With this free application of the Canadian Citizenship Test, you can easily prepare for the citizenship test in Canada. To become a Canadian citizen, you will have to pass the citizenship test. The test lasts 30 minutes and contains 20 multiple choice questions. You must pass with at least 15 questions (75%) answered correctly.  Characteristics: -3 different practice modes (Review, Review, and Stuff) -preach all questions in French -provide all answers in French -different questions depending on your selected province / territory ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

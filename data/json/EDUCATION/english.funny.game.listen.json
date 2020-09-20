@@ -1,0 +1,11 @@
+{
+"name" : "English Games - Listening",
+"url" : "https://play.google.com/store/apps/details?id=english.funny.game.listen",
+"package" : "english.funny.game.listen",
+"category" : "Education",
+"description" : "What you Learning English is a inflict? When You learn English, what you feel very sleepy and boring?  Great! you will not feel that with apps that English - Listening Game,because English - Listening Game help you can learn English as playing a game fun,Learning English is not boring.Learning English with you is an interesting.  English - Listening Game helping you listening, vocabulary and grammar training in English.  when you Complete level in the game, sure you will have a vocabulary and the listening skill very well.it is enough for daily communications by English.  So what you still await thing? you to download this amazing app now. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW']",
+}

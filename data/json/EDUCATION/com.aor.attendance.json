@@ -1,0 +1,11 @@
+{
+"name" : "Attendance",
+"url" : "https://play.google.com/store/apps/details?id=com.aor.attendance",
+"package" : "com.aor.attendance",
+"category" : "Education",
+"description" : "Attendance is an app for teachers that want to take attendances in their classes using their phones. This is the first beta release of the app so expect some rough edges here and there.  With Attendance you can create courses, terms and course occurrences; create groups of students with different schedules; add students to groups; and finally take attendances. Attendance status can be configured for each occurrence and are Present, Absent and Late by default.  Attendance also supports importing student lists from text files, importing student photos and you can backup and restore the whole database.  You can also add notes to a student in a particular class and add a topic to a class for future reference.  Export attendance data to CSV and HTML. In a future release, it will be possible to export to Excel, Markdown, Dokuwiki; and also e-mail students and a bunch of other planned features. ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

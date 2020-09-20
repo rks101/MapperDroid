@@ -1,0 +1,11 @@
+{
+"name" : "Blimpduino 2 Control APP (The Open Source Blimp)",
+"url" : "https://play.google.com/store/apps/details?id=com.jjrobots.blimpduino_v1",
+"package" : "com.jjrobots.blimpduino_v1",
+"category" : "Education",
+"description" : "(BETA) Control your blimpduino with this APP Heading/ Altitude and Assisted YAW and ALTITUDE HOLD control  How to use it: https://www.jjrobots.com/blimpduino-control-app-user-guide/ More info about the blimpduino: https://www.jjrobots.com/blimpduino-2/ Blimpduino 2.0 kit: https://www.jjrobots.com/product/blimpduino2-0/ ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

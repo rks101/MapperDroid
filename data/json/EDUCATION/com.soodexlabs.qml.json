@@ -1,0 +1,11 @@
+{
+"name" : "Examen de Licencia de Conducir",
+"url" : "https://play.google.com/store/apps/details?id=com.soodexlabs.qml",
+"package" : "com.soodexlabs.qml",
+"category" : "Education",
+"description" : "Ests preparndote para rendir el examen de manejo y obtener tu licencia de conducir?  SI! esta aplicacin es para vos!   Encontrars todas las seales de trnsito divididas por su categora. Cada seal cuenta con su descripcin as podrs estudiarlas.  Estudiaste las seales? Ponte a prueba con juego de seales que te ayudar a practicarlas.  Finalmente, prueba realizar un examen!  Los exmenes se arman de manera automtica cada vez siendo siempre diferentes. Puedes elegir la categora del examen desde motos, autos, camiones. Todas!! (A, B, C, D y E)  Cuando ests preparndote para rendir el examen de manejo y obtener el carnet de conductor, que mejor que aprovechar esos viajes en colectivo, tren o subte para ir practicando! Aprovecha tus tiempos y prepara el examen a tu ritmo, al final de cada examen podrs ver tu desempeo Y es 100% gratis!!! Are you preparing to take the driving test and get your drivers license? WHETHER! this application is for you!  Youll find all traffic signals divided by category. Each signal has its description so you can study them.  You studied the signs? Test yourself with game signals that will help you practice them.  Finally, an examination test! Tests are set up automatically each time being always different. You can choose the category of examination from motorcycles, cars, trucks. All!! (A, B, C, D and E)  When you are preparing to take the driving test and get the drivers license, you better take advantage of those trips by bus, train or subway to go to practice! Take your time and preparing exam at your own pace, at the end of each test you will see your performance And it is 100% free !!! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

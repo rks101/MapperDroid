@@ -1,0 +1,11 @@
+{
+"name" : "Degreed - Daily Learning Habit",
+"url" : "https://play.google.com/store/apps/details?id=com.degreed.android",
+"package" : "com.degreed.android",
+"category" : "Education",
+"description" : "Make learning a daily habit with Degreed. Capture all your learning - professional, informal, in the moment, and on the go - and get credit for it. With millions of resources in one place, Degreed helps you find, track, and measure the best learning materials from anywhere.  Capture What You Learn Instantly add everything youve learned to your Degreed profile. Anytime. Anywhere.  Curated Learning Content Get personalized learning content from the best resources delivered daily.  Save for Later Keep interesting articles and videos for later.  Share What Youre Learning Recommend to your friends, peers, and network. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

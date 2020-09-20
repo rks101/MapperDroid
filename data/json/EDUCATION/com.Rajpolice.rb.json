@@ -1,0 +1,11 @@
+{
+"name" : "RJ Police",
+"url" : "https://play.google.com/store/apps/details?id=com.Rajpolice.rb",
+"package" : "com.Rajpolice.rb",
+"category" : "Education",
+"description" : "This application provides you all the important notes and quizzes appearing in the Rajasthan Police Exam in simple language.  Full syllabus of written test is available in this application.  All notifications received by the official web of Rajasthan Police are available in this application.  This app contains such topics.   Complete syllabus  Study Music  Official notification  Recruitment process  Simple course  The best notes  Best study theme  Officially available law information from Rajasthan Police  Best App for preparation of The Rajasthan Police Recruitment Exam. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.SET_WALLPAPER', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SEND_SMS', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.SEND_SMS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Math Games - Addition",
+"url" : "https://play.google.com/store/apps/details?id=air.com.mstapps.twoplus",
+"package" : "air.com.mstapps.twoplus",
+"category" : "Education",
+"description" : "Use it for your brain training. Math games is highest addictive mathematical game in the app store - give it try!  Math games is free game that let you practice additions.  The Object of the game is evaluating the goal number by using sum operations. At the begining you should evaluate targeted number with two numbers. Then combination count will increase in the next levels. You have to be carefully in order to prevent failed selections. If you failed you will go to begining position.  Good Luck! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

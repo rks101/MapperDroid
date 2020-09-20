@@ -1,0 +1,11 @@
+{
+"name" : "Vachanamrut",
+"url" : "https://play.google.com/store/apps/details?id=com.ionicframework.vachnamrutam293857",
+"package" : "com.ionicframework.vachnamrutam293857",
+"category" : "Education",
+"description" : "Features.  Hindu Calendar Dates converted to English Dates  Short Summary of Every Vachnamrut at the beginning.  Ability to read without internet connection  Adjustable font size and color for ease of reading in any environment   Auto scrolling capabilities  Categorized by location   Bookmarks and Favorites for easy reference.   The Vachanamrut contains the teachings of Shree Swaminarayan Bhagawan, it is the most sacred and fundamental scripture in the Swaminarayan Sampraday. It contains the astute themes from The Bhagvad Gita, Vedas, Bhagvat Purana and many other books of the Hindu faith. The Vachanamrut features 262 transcripts of conversations and teachings of Shree Swaminarayan Bhagawan from his time on this earth. The book is divided into 9 sections based on geography, starting from the year 1819 to the year 1829. The Vachanamrut was compiled by 4 of Shree Swaminarayan Bhagawans closest disciples, and contains teachings ranging from self-control to the nature of Lords grace. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.WRITE_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+}

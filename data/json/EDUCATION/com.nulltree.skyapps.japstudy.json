@@ -1,0 +1,11 @@
+{
+"name" : "Japanese Study (hiragana+katakana)",
+"url" : "https://play.google.com/store/apps/details?id=com.nulltree.skyapps.japstudy",
+"package" : "com.nulltree.skyapps.japstudy",
+"category" : "Education",
+"description" : "Japanese Study  Do you want to study Japanese?  If so, you should memorize the first Japanese characters.  There is an app that allows you to memorize the quickest Japanese character.  Hiragana, of course, will be able to study with them katakana.  This is the biggest advantage of this app.  If the study only one week from the mouth, you will be able to proceed to the next step immediately.   This app provides the following features:.  1. Letter Study  - One character can learn.  - You can write and pronounce to hear.   2. Line Study  - You can study by line.  - You can write and pronounce to hear.   3. 50 Letters Study  - A table of 50 characters can be found in Japanese.  - Comparison of hiragana and katakana is simple.   4. Test  - Provide the Multiple-choice tests and short answer tests.  - Hiragana and Katakana can check separately. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

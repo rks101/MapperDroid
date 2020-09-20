@@ -1,0 +1,11 @@
+{
+"name" : "Saksham Kaksha - सक्षम कक्षा",
+"url" : "https://play.google.com/store/apps/details?id=in.gov.kurukshetra.kaksham",
+"package" : "in.gov.kurukshetra.kaksham",
+"category" : "Education",
+"description" : "Saksham Kaksha, an Android based free educational content application intends to augment the involvement of parents and community in the academic development of their wards. It also intends to simplify the teaching-learning process by improving the resources available to teachers inside the classrooms. The application contains more than 30,000 multiple choice questions based on the syllabi of different subjects from classes I to XII. Questions have been mapped to the textbook chapters to ensure alignment between the school syllabi and resources. In addition to the questions and answers, the Saksham Kaksha application also contains subject wise video links for helping parents and teachers in the teaching-learning process. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

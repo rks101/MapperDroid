@@ -1,0 +1,11 @@
+{
+"name" : "Maritime Knowledge: The Marine Education App",
+"url" : "https://play.google.com/store/apps/details?id=com.mtech.marine_e_learning",
+"package" : "com.mtech.marine_e_learning",
+"category" : "Education",
+"description" : "Maritime Knowledge Application is a result of complete efforts of research in the field of Marine education. The main aim of this application is provide quality education to Marine students.  We have a well course comprising online study materials, Video lectures on our website as well as Mobile app.  For using our Applications, Students save their time and energy by providing well structured and simplified study materials and video lectures by well experienced professors.  This will allow the students to access the quality education by anywhere in the world.  However, Maritime Knowledge Application is a students friendly and also completely free application. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECORD_AUDIO']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.mtech.marine_e_learning.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

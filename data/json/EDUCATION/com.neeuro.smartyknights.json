@@ -1,0 +1,11 @@
+{
+"name" : "Smarty Knights",
+"url" : "https://play.google.com/store/apps/details?id=com.neeuro.smartyknights",
+"package" : "com.neeuro.smartyknights",
+"category" : "Educational",
+"description" : "Come forth and challenge your mind! Master different cognitive skills and unleash the power of the brain!  Smarty Knights is a brain-training app with games and quizzes designed for children from 7 to 12 years old.  Play the games to practise and develop strong habits in staying focused, enhancing short-term and long-term memory, as well as reinforcing Mathematical concepts and English language skills.  Take the quizzes to track the development of each skill.  Using Neeuro SenzeBand, Smarty Knights reads Electroencephalogram (brainwave signals) to understand your level of focus and mental workload. Smarty Knights combines Neuroscience and Gamification to promote a higher level of mental wellness and cognitive skill training.  Use your focus to control and play the games!  Take on different cognitive challenges and compare your mental effort and skill levels! Start your journey with Smarty Knights! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'com.neeuro.smartyknights.permission.C2D_MESSAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.BLUETOOTH_ADMIN', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_SETTINGS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

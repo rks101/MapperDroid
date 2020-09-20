@@ -1,0 +1,11 @@
+{
+"name" : "iWonder AR",
+"url" : "https://play.google.com/store/apps/details?id=uk.co.expresspublishing.unityar.iwonder",
+"package" : "uk.co.expresspublishing.unityar.iwonder",
+"category" : "Education",
+"description" : "iWonder AR is a AR application for Express Publishing book for learning English. Scan your book to see AR content, watch amazing videos, play with Rolo, our super cool robot! ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.CAMERA', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.MODIFY_AUDIO_SETTINGS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

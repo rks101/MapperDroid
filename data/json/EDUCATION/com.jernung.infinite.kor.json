@@ -1,0 +1,11 @@
+{
+"name" : "Infinite Korean",
+"url" : "https://play.google.com/store/apps/details?id=com.jernung.infinite.kor",
+"package" : "com.jernung.infinite.kor",
+"category" : "Educational",
+"description" : "Learn Korean by playing fun and interactive games in space! No multiple choice, flashcards, or any other boring stuff!    Learn over 200 words.   Learn Korean naturally without using English!   Questions are asked in three different orders that include text, audio, and icons, which promotes better memory recall.   Review all words from each category with a challenging review game.   Switch between phonetic & hangul text to fit your learning style. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "I'm Learning Qur'an",
+"url" : "https://play.google.com/store/apps/details?id=com.homemade.read",
+"package" : "com.homemade.read",
+"category" : "Education",
+"description" : "Please write a comment and tell us what you think about Im Learning Quran.  With this program, you can learn how to read the Holy Quran by yourself using your tablet or smart phone.  By practicing 1 hour a day, you can learn to read the Quran with tajweed in a month.  This application does not contain any advertisements.  Sponsored by: Damla Publishing (http://www.damlayayinevi.com.tr)  Development Team  Prepared by: Hseyin Kutlu Arabic text recited by: smail Bier English text prepared and read by: M. Hasan Uncular Tajweed examples read by: smail Tavman English adaptation by: Muhammet Emre Sylemez Programmed by: Ahmet Uzun  Tags: Learn to read Quran, Tajweed practice, Surah Yasin, Surah Al-Fatihah, Surah Al-Fil, Surah Al-Quraysh, Surah Al-Maun, Surah Al-Kawthar, Surah Al-Kafirn, Surah An-Nasr, Surah Al-Masad, Surah Al-Ikhlas, Surah Al-Falaq, Surah An-Ns, Surah Ad-Duh, Surah Al-Inshirah, Surah At-Tn, Surah Al-Alaq, Surah Al-Qadr ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.android.vending.CHECK_LICENSE']",
+}

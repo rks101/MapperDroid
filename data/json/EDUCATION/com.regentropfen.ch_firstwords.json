@@ -1,0 +1,11 @@
+{
+"name" : "Capt'n Hippocampus First Words",
+"url" : "https://play.google.com/store/apps/details?id=com.regentropfen.ch_firstwords",
+"package" : "com.regentropfen.ch_firstwords",
+"category" : "Educational",
+"description" : "Captain Hippocampus is a fearless pirate and on his travels he has learned many languages. Can you name the things he tells you?  Its easy! Choose a language and a specific theme. The Captain reads a word and you have to find the matching picture!  This game is suitable for learning words. Either for small children or babys, that do not know specific words and their meaning or even to get started in learning a foreign language. The game is suitable for both children and adults. The first 3 levels are free and can be tested.  Currently the following languages are included: English, German, French (Canada), Russian, Bulgarian, Swedish ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

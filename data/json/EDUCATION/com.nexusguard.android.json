@@ -1,0 +1,11 @@
+{
+"name" : "Nexusguard Academy",
+"url" : "https://play.google.com/store/apps/details?id=com.nexusguard.android",
+"package" : "com.nexusguard.android",
+"category" : "Education",
+"description" : "Formulated by battle-tested cybersecurity experts, Nexusguard Academy is a cybersecurity learning and assessment platform that hones the cybersecurity skills of current practitioners. Nexusguard Academy features complete courses in DDoS attack mitigation solutions and advanced courses in vulnerability assessment and penetration testing (VAPT). Currently offered as an online, interactive learning platform, the DDoS attack mitigation course teaches incident responders to handle DDOS attacks in real time and help service providers and large network owners train their SOC analysts to secure their networks. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

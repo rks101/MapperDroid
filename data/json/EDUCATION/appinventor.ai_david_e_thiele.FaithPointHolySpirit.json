@@ -1,0 +1,11 @@
+{
+"name" : "Faith Point Holy Spirit",
+"url" : "https://play.google.com/store/apps/details?id=appinventor.ai_david_e_thiele.FaithPointHolySpirit",
+"package" : "appinventor.ai_david_e_thiele.FaithPointHolySpirit",
+"category" : "Education",
+"description" : "Faith Point - Holy Spirit is an Android Application that helps people to better understand what the Bible says about who the Holy Spirit is and what He is like.  It addresses numerous subjects about God such as: Person of the Holy Spirit, Work of the Holy Spirit, Operation of the Holy Spirit, Names, Titles, and Functions, Integral involvement, Enabling, Calling, Sending, and Guiding.  You might find this helpful in Bible studies, Sunday School lessons, or to spur yourself to a more in depth study of Holy Spirit. It is a handy reference and can be used as a conversation starter. Whether you are new to the Christian Faith, a long-time believer or just a curious individual, this free App is for you!  It is about 3 megs in size, so it wont take up much of your devices memory.  Be sure and check out other Android Apps in the Faith Point series. Also check out Share Good News 2! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.SEND_SMS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.SEND_SMS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

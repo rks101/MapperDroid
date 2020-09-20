@@ -1,0 +1,11 @@
+{
+"name" : "UN Calendar of Observances",
+"url" : "https://play.google.com/store/apps/details?id=org.un.mobile.calendar",
+"package" : "org.un.mobile.calendar",
+"category" : "Education",
+"description" : "United Nations observances promote awareness of and action on important political, social, cultural, humanitarian or human rights issues. The free UN Calendar Android app provides details of UN observances, as well as ways to get involved in related events and links to obtain further information. It illustrates how the United Nations makes a difference in peace and security, economic development, social development, human rights, the environment, international law, humanitarian affairs and global health.   The UN Calendar app features interactive components about UN achievements, links to related videos and photos and options for sharing information via social networking sites. It can store UN observances in the native phone calendar, with the option of a reminder alert. The app can also be used independently, or easily and safely disengaged from the native calendar.   Content is now available in all six UN official languages: Arabic, Chinese, English, French, Russian and Spanish, as well as Bahasa Indonesia and Kazakh. Simply change the language settings to access the app in your language! ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

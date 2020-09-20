@@ -1,0 +1,11 @@
+{
+"name" : "Nadurines",
+"url" : "https://play.google.com/store/apps/details?id=com.sorpresasdivertidas.nadurines",
+"package" : "com.sorpresasdivertidas.nadurines",
+"category" : "Educational",
+"description" : "You can take care of your baby Neala! Now with this baby care game, learn to save the planet.  Baby Neala is hungry, feed her porridge that you will prepare in the kitchen. But first you must go to the garden to grow your own vegetables and other plants to create food and bath products.  In the garden game you can plant seeds, water them, see how your plant grows, but be careful! Moles appear on the ground and some insects that you will have to remove from your garden.  Learn to take care of nature while Darwin gains energy:  Do the ice puzzle with Nil so that the animals can get to your house in the North Pole.  Clean the lake water with Neala and the fish will be happier.  Recycle all trash with Petra. Do you know what color everything goes?  Play with the fun mini-games of the Nadurines to win and unlock dresses, costumes and many gifts to take care of your baby Neala.  With this game we want your kids to learn basic actions to understand and respect nature. In addition, caring for a baby is something that greatly influences your emotional education because it encourages empathy and responsibility. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Phoenix Greens Parent Portal",
+"url" : "https://play.google.com/store/apps/details?id=com.mcb.phoenixgreens.activity",
+"package" : "com.mcb.phoenixgreens.activity",
+"category" : "Education",
+"description" : "MyClassboard provides communication app for Phoenix Greens parents using which they can download school announcements, event calendar, messages and etc. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.GET_TASKS', 'android.permission.READ_CALENDAR', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS', 'com.mcb.phoenixgreens.activity.permission.C2D_MESSAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_CALENDAR', 'android.permission.ACCESS_FINE_LOCATION', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_CALENDAR', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_CALENDAR', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

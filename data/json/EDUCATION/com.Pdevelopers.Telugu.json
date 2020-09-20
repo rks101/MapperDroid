@@ -1,0 +1,11 @@
+{
+"name" : "English Telugu Dictionary",
+"url" : "https://play.google.com/store/apps/details?id=com.Pdevelopers.Telugu",
+"package" : "com.Pdevelopers.Telugu",
+"category" : "Education",
+"description" : "Is a handy app featuring 50,000+ English words and their meaning in the Telugu. without Internet.   It is the best way to translate a word in the Telugu language. 100 % offline and free ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+}

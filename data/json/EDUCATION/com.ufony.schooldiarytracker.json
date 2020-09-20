@@ -1,0 +1,11 @@
+{
+"name" : "Tracker",
+"url" : "https://play.google.com/store/apps/details?id=com.ufony.schooldiarytracker",
+"package" : "com.ufony.schooldiarytracker",
+"category" : "Education",
+"description" : "Tracker is to be used by School drivers to transmit realtime location of the bus to the parents.  Driver has to select a route and hit the start button. Once started the bus will start transmitting real time location of the bus to all the parents of children mapped to that route. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_LOGS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_LOGS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

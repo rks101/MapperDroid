@@ -1,0 +1,11 @@
+{
+"name" : "Learn Kotlin in one day",
+"url" : "https://play.google.com/store/apps/details?id=com.SaifRaheem.LearnBasicsKotlin",
+"package" : "com.SaifRaheem.LearnBasicsKotlin",
+"category" : "Education",
+"description" : "Application features ================== 1- 77 lessons to learn the basics programming of the Kotlin language 2 - Learn the object oriented programming OOP for the Kotlin language 3 - a simplified explanation of each code 4 - see the Run of each code Run 5. Ability to edit and store code 6. Smooth design and easy navigation 7- About the Kotlin language   Keywords ======== Learn Kotlin Kotlin kotlen kotlan kootlin kotlan Kotlin and Java Kotelin Android Kotlin pdf Katlin explained Google Katlin Coutlin Bliss Cotlin programming Kotlin Course Coutlin M Java Course Catlin Kotlin in Arabic Kotlin with a touch Kotlin Hassouna kotlin vs java kotlin tutorial kotlin when kotlin data class kotlin android kotlin constructor kotlin native kotlin coroutines kotlin enum kotlin companion object kotlin language kotlin array kotlin apply kotlin anonymous class kotlin app kotlin abstract class kotlin android tutorial kotlin arraylist kotlin android extensions kotlin arrow kotlin a java create a kotlin app ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

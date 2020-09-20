@@ -1,0 +1,11 @@
+{
+"name" : "Italian Class Demo",
+"url" : "https://play.google.com/store/apps/details?id=com.ceardannan.languages.italian.demo",
+"package" : "com.ceardannan.languages.italian.demo",
+"category" : "Education",
+"description" : "Gain a mastery of Italian!  Italian Class offers a complete offline Italian course, together with interactive verb, vocabulary, grammar and listening exercises. All words and phrases are available to listen to as well. Great support when you learn Italian. Easy to practice your verb conjugations, vocabulary, grammar and phrases with.  In this demo only the 2 first lessons are available: * Tenses: Present, Gerund, Participle * 300 words * Basic grammar * 30 useful phrases  And the following features: * Highly customizable exercises on all of the above, with a fun awards system which makes practicing fun, with separate awards for the vocabulary, verbs, grammar, listening and speaking exercises. * Keeping track of your progress by saving statistics and summaries of all done exercises, together with errors made.  The fun of this demo lies in its fun, addictive and useful exercises.  The full version comes with tons of content, while the content of this demo is rather limited.  The app also contains a fun speaking exercise, which should not be taken very seriously as it is now Also, although basic voices are included, it is also possible to enable additional higher quality voices from within the app, but these have to be bought first from the third party company Svox.  If you are serious about learning Italian, please give this demo a try. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

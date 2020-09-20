@@ -1,0 +1,11 @@
+{
+"name" : "Daily Duas for kids",
+"url" : "https://play.google.com/store/apps/details?id=com.osratouna.dailydua",
+"package" : "com.osratouna.dailydua",
+"category" : "Education",
+"description" : "Daily Dua for Kids is a collection of all the Duas (prayer of supplication) that we do in our day to day life, with Arabic audio, English and French translation and illustrations.  ******* FEATURES ******* - 36 different Duas  - Kid-friendly interface!  - You can read Dua - You can listen Dua - Simple and attractive layout - Charming look to attract the children - Equally useful for every age of people - Very beautiful voice - English and French Translation of Dua  To change the language, click the action bar at the top right. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+}

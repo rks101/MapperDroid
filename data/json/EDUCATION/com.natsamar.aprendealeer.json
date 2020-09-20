@@ -1,0 +1,11 @@
+{
+"name" : "Spanish easy",
+"url" : "https://play.google.com/store/apps/details?id=com.natsamar.aprendealeer",
+"package" : "com.natsamar.aprendealeer",
+"category" : "Education",
+"description" : "Free for a limited time. New to Android!  Spanish easy is an educational game for tablets and smartphones. Allows, with spectacular results, learn letters and improve reading, learning regardless of the state in which you are. It is childs play, made for children, where they can easily navigate through intuitive menus and striking high-definition images.  The first level is aimed at children who do not know the lyrics. After hearing a distinctive sound, the child must solve the puzzle, while learning the letters of the alphabet by playing and having fun. After solving it, appears a pretty picture that shows if you got hit while trying to guess the sound.  The second level is for children who already know the lyrics. It is the best complement for how they form syllables and words and allows them to quickly improve their ability to read. These form the words that correspond to the sound heard. You have to place them in the correct order from left to right. If not, or if the letter is placed in an inappropriate place, sounds an error message and the letter is placed below the rightful place really. If the letter is positioned correctly know the name of the letter.  Give your child the opportunity to learn a multitude of sounds and scenes of animals, atmospheric elements, transport, etc..   Read Full Reviews at:  http://cappaces.com/category/aprendizaje/letras/aprendo-a-leer/ http://bit.ly/zU84ka ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.READ_CALL_LOG']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

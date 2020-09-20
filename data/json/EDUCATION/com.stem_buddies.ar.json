@@ -1,0 +1,11 @@
+{
+"name" : "STEM Buddies",
+"url" : "https://play.google.com/store/apps/details?id=com.stem_buddies.ar",
+"package" : "com.stem_buddies.ar",
+"category" : "Educational",
+"description" : "Welcome to the world of the STEM Buddies. Doc, Victor, Helix, Cookie and their robot dog Issy! The STEM Buddies love Science, Technology, Engineering and Math (STEM). They hang out by their treehouse and explore life and science while they play. They will make your children (age 4-9) love STEM, too.  We use storytelling, animations and activities to help children learn about STEM. This educational app is interactive and fun. It includes a series of short animated stories about the daily life of the STEM Buddies. Each story is centered around one STEM topic and has a set of learning objectives so you can check if your child has grasped the concepts introduced.   Key Features: Ads Free Aligned with international standards Gender neutral and age appropriate Short streamed videos Fun facts Coloring pages Questions and quizzes Matching games ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

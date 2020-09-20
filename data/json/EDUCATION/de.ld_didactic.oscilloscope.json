@@ -1,0 +1,11 @@
+{
+"name" : "Oscilloscope",
+"url" : "https://play.google.com/store/apps/details?id=de.ld_didactic.oscilloscope",
+"package" : "de.ld_didactic.oscilloscope",
+"category" : "Education",
+"description" : "This two-channel oscilloscope supports currently  Sensor-CASSY 1 and 2,  Pocket-CASSY 2 and Mobile-CASSY 2,  Micro-CASSY U and I. Supported quantities: U, I, F, B (depending on the connected sensor). Channels A, B, and t can be configured by touching the corresponding symbols.  Bluetooth pairing is only supported within the app. USB connections are possible only if the device supports the USB Host mode. WiFi sharing connects to an actual CASSY Lab 2 version or another app.  LEYBOLD is a brand of the LD DIDACTIC group.  by LD DIDACTIC GmbH, 2016 ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

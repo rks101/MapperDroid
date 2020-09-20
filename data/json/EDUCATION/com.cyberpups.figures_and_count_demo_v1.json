@@ -1,0 +1,11 @@
+{
+"name" : "Numbers for kids (demo)",
+"url" : "https://play.google.com/store/apps/details?id=com.cyberpups.figures_and_count_demo_v1",
+"package" : "com.cyberpups.figures_and_count_demo_v1",
+"category" : "Education",
+"description" : "This is an early learning app that has a set of games introducing numbers and counting to toddlers and children. While playing your kid will learn the digits, words for numbers and their right order. It will also teach them counting and improve their fine motor skills, attention and memory. And they would surely have fun!  There are recommendations for parents inside the app on how to make the best use of it, and make the learning process both educational and entertaining.  Different games are designed for kids of different levels of experience and abilities.The app can be easily adjusted (only in the full version) to make it interesting and fun for both toddlers and children.  All the games are available in the demo version with numbers from 1 to 6. In the full versions all the numbers from 0 to 9 and the number 10 are available.  The app contains several games: LEARN NUMBERS game will help children get familiarised with the names and signs of digits as well as counting.   COUNT THINGS, PICK THE NUMBER, MISSING DIGIT, GROUPS games are aimed to help children connect an amount of items to a corresponding number, its appearance and a word for it. They will also reinforce counting skills and help remember how the numbers look like.   PUZZLES and WRITE THE NUMBER will stimulate children to remember better how the numbers should be written and how they look like, to improve fine motor skills and become used to writing. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "RoboPad",
+"url" : "https://play.google.com/store/apps/details?id=com.bq.robotic.robopad",
+"package" : "com.bq.robotic.robopad",
+"category" : "Education",
+"description" : "RoboPad lets you control your robot with a mobile phone or tablet!  Currently you can control the PrintBots Renacuajo, Beetle and Evolution, but lots of friends will be joining them soon!  RoboPad uses Bluetooth to connect to the microcontroller board of the robot and then... let the fun begin!  In the web DIWO of bq, you can find all the information on mounting the Renacuajo and the other PrintBots: http://diwo.bq.com/en/tag/printbot-en/  You can also download the Arduino code necessary to control your PrintBot with RoboPad here:  http://diwo.bq.com/en/robopad-3/  Place your Renacuajo over a black line and activate the line-follower mode to let the Renacuajo follow the black line automatically. You can also make your Evolution robot avoid obstacles by itself. The Beetles movements can be also controlled by the amount of light in the light-avoider mode. For example, cover the left light sensor to turn left, or cover both sensors to stop the Beetle.  Remember to connect the Bluetooth module to the pins of the microcontroller board as follows:  TXD - pin 0 RXD - pin 1 VCC - 5V GND - GND  You can see a schematic of the connections at any time by clicking on the icon of the robot.  Available languages: English, French and Spanish.  The location permission is needed in order to search for near Bluetooth devices. You can only connect to paired robots if the permission is not accepted.   If you have any question or suggestion you can contact us by sending an email to diy@bq.com, Andy and Anita will be happy to answer you. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.BLUETOOTH', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH_ADMIN']",
+"perms_with_call" : "['android.permission.BLUETOOTH', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Class 10 Maths NCERT Solutions",
+"url" : "https://play.google.com/store/apps/details?id=com.studentzoneapps.hindimathsclass10ncertsolutions",
+"package" : "com.studentzoneapps.hindimathsclass10ncertsolutions",
+"category" : "Education",
+"description" : "Hindi Class 10 Maths NCERT Solutions app is specially designed for the Hindi class 10 students to help them prepare for their exams. It also helps them throughout the year to complete their homework on time and double check the answers.   This app contains answers of all the chapters included in the Hindi Class 10 NCERT Book:   Chapter 1:    Chapter 2:   Chapter 3:         Chapter 4:    Chapter 5:    Chapter 6:   Chapter 7:    Chapter 8:     Chapter 9:     Chapter 10:   Chapter 11:   Chapter 12:      Chapter 13:      Chapter 14:   Chapter 15:    Main Features:   This app is in easy Hindi Language.  Simple app. Works offline. No internet connection needed!  Professionally designed, user-friendly and intuitive interface.  Clear Font for better readability.  Easy to use.  Zooming Available ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'com.studentzoneapps.hindimathsclass10ncertsolutions.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

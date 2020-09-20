@@ -1,0 +1,11 @@
+{
+"name" : "Japanese Verbs",
+"url" : "https://play.google.com/store/apps/details?id=anhtn.app.projverbs",
+"package" : "anhtn.app.projverbs",
+"category" : "Education",
+"description" : "JAPANESE VERBS This is the app provides a list of the Japanese verb commonly used in elementary Japanese.  1. Quick view RU - Show verb dictionary-form (). NAI - Show verb nai-form (). TE - Show verb te-form (). TA - Show verb ta-form ().  2. Verb conjugation - Present - Negative - Past - TE form - Volitional - Potential - Imperative - Causative - Conditional - Passive  3. Support to speech with TTS (Text to speech of Google) 4. Create group of verbs. 5. Study with Flash card. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

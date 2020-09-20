@@ -1,0 +1,11 @@
+{
+"name" : "Himnario Iglesia de Cristo",
+"url" : "https://play.google.com/store/apps/details?id=com.R5TANA.HIDC.Himnario_IDC",
+"package" : "com.R5TANA.HIDC.Himnario_IDC",
+"category" : "Education",
+"description" : "Aplicacin de 905 cantos, con el propsito de alabar y glorificar a nuestro padre celestial, las alabanzas son una recopilacin de los himnos clsicos de la iglesia de Cristo y de otros himnos, que podrn ser utilizados para nuestro Dios. Que la gloria y la honra sea siempre para nuestro Padre Celestial. Application of 905 songs, for the purpose of praising and glorifying our heavenly father, the praises are a compilation of the classic hymns of the church of Christ and other hymns, which may be used for our God. May the glory and honor always be for our Heavenly Father. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

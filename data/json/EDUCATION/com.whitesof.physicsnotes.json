@@ -1,0 +1,11 @@
+{
+"name" : "Physics Notes",
+"url" : "https://play.google.com/store/apps/details?id=com.whitesof.physicsnotes",
+"package" : "com.whitesof.physicsnotes",
+"category" : "Education",
+"description" : "Please kindly RATE & SHARE this App as it is free :-)  Use Menu button for fast collapse of expanded lists, swipe horizontally to view images completely  The Physics Notes app is just physics running notes for students. The app will be aggregation of definitions and formulas for students in most systematically The app covers: 1) Basics of Physics 2) Units, dimensions and physical constants. 3) Motion in one, two three dimensions. 4) Laws of motion, Circular, Relative and projectile motion. 5) Friction, dynamics of rigid bodies. 6) Gravitation 7) Work, Energy and Power. 8) Conservation laws of energy 9) Momentum and Impulse 10) Collisions. 11) Properties of matter 12) Surface Energy and Surface tension 13) Kinetic theory of gases 14) Thermodynamics 15) Oscillations and Simple harmonic motion 16) Waves.  and more topics to come. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

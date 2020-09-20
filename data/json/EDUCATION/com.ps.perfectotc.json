@@ -1,0 +1,11 @@
+{
+"name" : "Perfect OTC, Perfect Online Training Centre , OTC",
+"url" : "https://play.google.com/store/apps/details?id=com.ps.perfectotc",
+"package" : "com.ps.perfectotc",
+"category" : "Education",
+"description" : "Perfect Online Training Centre, Lic Motivational App, Lic Plan Kaise Sale Kare.  Its an Unique Online Training Platform that build your Presentation Skill, Make you a Marketing tycoon. through this you accelerate your marketing performance & Earn Millions of benifits . ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

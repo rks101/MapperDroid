@@ -1,0 +1,11 @@
+{
+"name" : "French Verbs",
+"url" : "https://play.google.com/store/apps/details?id=org.muth.android.conjugator_demo_fr",
+"package" : "org.muth.android.conjugator_demo_fr",
+"category" : "Education",
+"description" : "Browse and search the conjugations of the most common French verbs. Ideal for everybody who wants to learn French and as a companion for trips to France, Belgium, Quebec and other French speaking countries.  Features: Small size Works off-line Verb-forms and translations searchable Search with Wildcards Grammar section All tenses (including composite tenses) Voice output (via Androids TTS, see below) Multiple color themes Move to SD card Mark favorites Optimized for Tablets  Also available: Pro version with more verbs Companion language learning app: Verb Conjugation Trainer English, French, German, Italian, Portuguese, Spanish language apps  Learn French verb with this handy study aid.  If you have any problems (e.g. sound) with the app please check our FAQ first: http://www.appicenter.net/verb-trainer If problems persist please email us at apps@appicenter.net ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

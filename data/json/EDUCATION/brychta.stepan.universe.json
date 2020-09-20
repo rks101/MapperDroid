@@ -1,0 +1,11 @@
+{
+"name" : "Universe",
+"url" : "https://play.google.com/store/apps/details?id=brychta.stepan.universe",
+"package" : "brychta.stepan.universe",
+"category" : "Education",
+"description" : "The Universe is an astounding place. From the smallest grains of matter to the most gigantic black holes, the cosmos is full of wonders and mysteries. In six chapters, we will witness the birth of the cosmos, submerge into the hearts of stars, uncover the secrets of life and travel to the very beginning of time itself. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

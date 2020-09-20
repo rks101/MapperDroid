@@ -1,0 +1,11 @@
+{
+"name" : "Chanukah Guide App",
+"url" : "https://play.google.com/store/apps/details?id=com.ertsoft.chanukah",
+"package" : "com.ertsoft.chanukah",
+"category" : "Education",
+"description" : "Are you ready for Chanukah? It starts Sunday evening, Dec 22nd, 2019. This brand new app will give you everything you need and more.  *** PLAY THE DREIDEL - READ THE PRAYERS - WATCH TUTORIAL ***  A brand new update designed for the Jewish Hanukkah Holiday Season.  A little light dispels much darkness!  The prayers are in six languages: Hebrew, English, Russian, Spanish, Portuguese, and French.  A marvelous addition to the wonderful Tefillin Guide and Mezuzah Guide. Good work Saber Design.  - Blessings in 6 Languages - Menorah Positioning - Social Networking Capabilities - Video Tutorial - 30min menorah countdown  It is important to note that the Menorah shown in this app is not enough to fulfill the Mitzvah. You will actually have to light a real Menorah made of candle or oil.  Chanukah also known as the Festival of Lights, Feast of Dedication, is an eight-day Jewish holiday commemorating the re-dedication of the Holy Temple (the Second Temple) in Jerusalem at the time of the Maccabean Revolt against the Seleucid Empire of the 2nd century BC.   Hanukkah is observed for eight nights and days, starting on the 25th day of Kislev according to the Hebrew calendar, which may occur at any time from late November to late December in the Gregorian calendar.  Have a Happy Hanukkah! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

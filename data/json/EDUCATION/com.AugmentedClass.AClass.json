@@ -1,0 +1,11 @@
+{
+"name" : "Augmented Class! Augmented Reality in Education",
+"url" : "https://play.google.com/store/apps/details?id=com.AugmentedClass.AClass",
+"package" : "com.AugmentedClass.AClass",
+"category" : "Education",
+"description" : "Do you want to use this App and be one of the firsts in testing our platform? Try it and if you like it please, register as beta user through www.augmentedclass.com  Augmented Class! is an easy platform to Create and Share Augmented Reality Contents & Interactions for Education! Doing it yourself!   Augmented Class! allows users to create their own Augmented Reality (AR) projects through a friendly interface, without previous knowledge in computer development, in an easy and quick way, which can later be used by teachers, students and parents through mobile devices, both in classrooms and out of them.   Nowadays, if an educator wants an AR app, it has to be custom developed and its usually limited. Our solution eliminates this barrier universalizing the access to AR, allowing users to be the ones designing their own projects and then sharing them.   DO IT YOURSELF WITHOUT ANY TECHNICIAN KNOWLEDGE! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

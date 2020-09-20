@@ -1,0 +1,11 @@
+{
+"name" : "JLPT Tá»« Vá»±ng N3 - Soumatome N3",
+"url" : "https://play.google.com/store/apps/details?id=tienjoneey.com.soumasomen3",
+"package" : "tienjoneey.com.soumasomen3",
+"category" : "Education",
+"description" : "Chi game l cch tt nht  hc v ghi nh t vng Nu bn ang tm ng dng  hc t vng ting nht luyn thi JLPT N3 th y l mt ng dng min ph gip bn hc ting nht thng qua nhng tr chi v hnh nh.  Chc nng chnh: * 4 tr chi gip bn hc t vng ting Nht  Hc t vng bng cch xem hnh nh v nghe cch pht m  Tm hnh nh thch hp vi t vng  Nghe v chn hnh nh thch hp  Chn t vng thch hp vi hnh nh  *Game rt d chi *ng dng c th s dng off-line Gaming is the best way to learn and memorize vocabulary If you are looking for an application to learn Japanese vocabulary JLPT N3, this is a free application that helps you learn Japanese through games and images.  Main functions: * 4 games to help you learn Japanese vocabulary  Learn vocabulary by watching pictures and listening to pronunciation  Find photos that match your vocabulary  Listen and select the appropriate image  Choose the appropriate vocabulary for the image  * The game is easy to play * Applications can be used off-line ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

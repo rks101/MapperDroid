@@ -1,0 +1,11 @@
+{
+"name" : "Pocket Thai Reading: Learn The Thai Alphabet",
+"url" : "https://play.google.com/store/apps/details?id=pocketthai.reading",
+"package" : "pocketthai.reading",
+"category" : "Education",
+"description" : "Want to learn to read Thai? Pocket Thai Reading is a step-by-step program to teach you all of the Thai alphabet and tone rules. This program is great for Thai language novices or advanced speakers who never learned the writing system.  Try the first three lessons for free today!  __________  Pocket Thai Reading contains:   12 Lessons: 100 pages of interactive content.   Professional Audio: Hundreds of crystal clear audio clips with both male and female native Thai speakers.   Interactive Quizzes: Each lesson has a randomly generated multiple choice quiz that changes each time you take it.   Mnemonics: These memory aids will help you remember the Thai alphabet.   Study at Your Own Pace: Designed to be effective at whatever pace works best for you.    Always With You: Pocket Thai Reading is anywhere that you are, no internet connection required.  __________  Which version of Pocket Thai is right for you?  Pocket Thai Master contains 38 lessons and teaches reading, speaking, and culture. It is ideal for serious students and anyone living and/or working in Thailand for 6 months or longer.  Pocket Thai Speaking contains 22 lessons and teaches the most important aspects of speaking and culture. Ideal for travelers and some long term visitors that want to learn the basics without a major investment of their time.  Pocket Thai Reading contains 12 lessons and teaches only the Thai script. It is aimed at people that probably speak Thai already but never learned how to read the Thai alphabet and tone rules.  __________  Want More Info?   Please email with any questions that you may have: Evan@Pocket-Thai.com   I respond to every email that I receive and answer questions, give advice, or listen to feedback!   More information is available on the website: Pocket-Thai.com. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.android.vending.BILLING']",
+}

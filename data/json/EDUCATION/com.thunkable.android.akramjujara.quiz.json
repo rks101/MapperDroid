@@ -1,0 +1,11 @@
+{
+"name" : "Hindi Islamic Quiz - Akram Jujara",
+"url" : "https://play.google.com/store/apps/details?id=com.thunkable.android.akramjujara.quiz",
+"package" : "com.thunkable.android.akramjujara.quiz",
+"category" : "Education",
+"description" : "- Dosto Ye Islamic Quiz Application He.  - Ye Application Me Islamic Sawal - Jawab He Quiz Ke Rup Me. - Is Se Aap Apna Islamic Knowledge Test Kar Sakte Ho.  - Ye Application EDUCATION Or KNOWLEDGE Purpose Ke Liye Banayi He ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.sec.android.provider.badge.permission.READ', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.huawei.android.launcher.permission.CHANGE_BADGE', 'com.htc.launcher.permission.READ_SETTINGS', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'com.sonymobile.home.permission.PROVIDER_INSERT_BADGE', 'com.majeur.launcher.permission.UPDATE_BADGE', 'com.huawei.android.launcher.permission.READ_SETTINGS', 'com.huawei.android.launcher.permission.WRITE_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.sec.android.provider.badge.permission.WRITE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'com.thunkable.android.akramjujara.quiz.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.SEND_SMS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SEND_SMS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+}

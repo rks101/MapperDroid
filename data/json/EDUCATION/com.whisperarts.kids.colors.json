@@ -1,0 +1,11 @@
+{
+"name" : "Learn Colors for Toddlers",
+"url" : "https://play.google.com/store/apps/details?id=com.whisperarts.kids.colors",
+"package" : "com.whisperarts.kids.colors",
+"category" : "Education",
+"description" : "Colors for Kids app will help your children to quickly learn colors and their tints. With the help of developing games they will learn colors of different objects and all colors of the rainbow. Your kid can also mix colors and get new ones.  After installing the key new features will be unlocked: colors mixing, sounds, color names and additional developing games.  Want to receive the latest news about the application? Subscribe to the news group https://www.facebook.com/WhisperArts ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Coursavy",
+"url" : "https://play.google.com/store/apps/details?id=com.coursavy.test",
+"package" : "com.coursavy.test",
+"category" : "Education",
+"description" : "Coursavy aims to empower and enable learners with the right mentorship in a disciplined, sincere and trustworthy learning environment. In a very short span of time, we have reached out to 50,000 UPSC / IAS aspirants which are being benefited by Daily Prelims Test, Personal Guidance Programs, LIVE Sessions, Comprehensive Subject Courses, The Hindu Mentorship at Coursavy. With the launch of the Coursavy application, we wish to enhance and personalise the learning experience of our students.   Coursavy Youtube Channel - https://www.youtube.com/Coursavy  You can access the website at https://coursavy.com  To ask any query go to the Support in your profile section on the app.  All the best! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Flashcards - study effectively",
+"url" : "https://play.google.com/store/apps/details?id=rolandos.karteikarten",
+"package" : "rolandos.karteikarten",
+"category" : "Education",
+"description" : "Rolandos Flashcards  study effectively  simple and modern design  create, modify, organize and study stacks of cards  directly in Rolandos Flashcards  automatically saved progress  share your stacks with friends for free  create stacks on your desktop computer  no ads  Learning languages made easy Learn languages by creating digital flashcards. Stacks of cards are created and studied directly in Rolandos Flashcards. Organize your stacks with keywords to find them faster. The exercises are stored in the built-in card box.  Effective - study on your way, wherever you are Rolandos Flashcards works without internet connection, therefore you are able to study everywhere at any time. Due to the effective interrogation mode and the simple navigation you stay focused.  Within a few seconds ready Rolandos Flashcards is efficient and fast - study while you are attending the bus or before you go out.  Share stacks with your friends Share your stacks with friends for free.  No charges, no advertisements  no distraction Education should be open to everyone, thats why we offer you Rolandos Flashcards for free. Study without publicity and focus on your objectives.  Digital flashcards  no more, no less We are actively working on improvements and new features - let us know your wishes! We appreciate your feedback.  Privacy We are interested in you and your experience with Rolandos Flashcards - and not in your data. We dont collect personal data (exceptions on rolandos.net/legal.html).  Were looking forward to having you join us.  Rolandos ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Peppa Pig: Paintbox",
+"url" : "https://play.google.com/store/apps/details?id=air.com.peppapig.paintbox",
+"package" : "air.com.peppapig.paintbox",
+"category" : "Educational",
+"description" : "Peppas Paintbox is a drawing application designed specially for Peppa fans! It brings together traditional drawing tools and some magical surprises that little ones will love.   You can draw straight onto canvas or choose a background or character to color in. Peppa and George will pop in from time to time to see how you are getting on and once you are done drawing, you can have your very own exhibition at Peppas school!   Features:   7 paintbrush colors  7 paint tin colors  39 character and prop stickers  10 animated stickers  6 magical drawing tools  3 Peppa backgrounds  3 characters to color in  Eraser  Choose to play with Peppa or George  Exhibition space on the wall at Peppas school  Save your drawing to camera roll  No adverts, no in-app purchases, just lots of painting fun! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "ChinesePod",
+"url" : "https://play.google.com/store/apps/details?id=llc.chinesepod.android",
+"package" : "llc.chinesepod.android",
+"category" : "Education",
+"description" : "ChinesePods official app puts our 4,000 lesson, Mandarin podcast library in your pocket. Learn real Mandarin as its spoken everyday.  * Stream & download full video and audio podcasts * Browse and study lessons through our hand-curated Playlists * Study each lessons accompanying vocabulary, dialogue, grammar notes and expansion materials. Break down everything to dive deeper into translations, pinyin and audio clips * Offline mode allows you to download and learn anywhere * Search and filter to discover the topics which interest you * Save vocabulary to Decks and learn with flashcards  Learn Chinese Mandarin by improving your Chinese skills in listening, grammar and speaking right now with ChinesePod! ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.READ_SYNC_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_SYNC_SETTINGS', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.GET_TASKS', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.AUTHENTICATE_ACCOUNTS', 'android.permission.FOREGROUND_SERVICE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

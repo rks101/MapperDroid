@@ -1,0 +1,11 @@
+{
+"name" : "UNMAS Explosive Hazards",
+"url" : "https://play.google.com/store/apps/details?id=com.un.unmas_explosive_hazards",
+"package" : "com.un.unmas_explosive_hazards",
+"category" : "Education",
+"description" : "This application is designed to complement the Landmine and Explosive Remnants of War (ERW) Safety Handbook developed by the United Nations.  Its ultimate aim is to provide general landmine, ERW and IED awareness and safety information to organizations and individuals working in the vicinity of areas affected by these devices in order to minimize the risk of accidents.  Additional languages will be added in 2019. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET']",
+}

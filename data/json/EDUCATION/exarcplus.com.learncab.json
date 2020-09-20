@@ -1,0 +1,11 @@
+{
+"name" : "LC Faculty App",
+"url" : "https://play.google.com/store/apps/details?id=exarcplus.com.learncab",
+"package" : "exarcplus.com.learncab",
+"category" : "Education",
+"description" : "LearnCab Faculty App, is mobile application developed for the faculties associated with LearnCab. The faculties are specialised in the professional courses like CA, CS, CMA etc. The application is developed to bridge the gap between the faculty and the LearnCab Management. The app lets the faculty book the studio anytime from anywhere and at ease. The features of the application are as follows: 1. View the course he/she is assigned to by the admin 2. Select the date and time slot as per your schedule 3. Book the studio to create a lecture 4. View your profile ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_ACCOUNTS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "LEARN to READ MUSIC NOTES PRO",
+"url" : "https://play.google.com/store/apps/details?id=com.martins.martin.musictrainerprofessionallite2",
+"package" : "com.martins.martin.musictrainerprofessionallite2",
+"category" : "Education",
+"description" : "By means of the integrated learning modules, you will easily learn to recognize all notes. In each module, the time that you need for the right response will be recorded. All best times will be entered in a record statistics table; something that you could provide for your music teacher.  Both beginners and advanced students will try to improve their best times and effortlessly earn great success. Music Trainer Professional Pro is very structured and comprehensible. Besides the three learning modules, it offers some practice sheets to learn notes, the circle of fifth and intervals.   Moreover, the interface allows you to switch between eight different note-naming systems used in major countries around the world. Convince yourself with our free version of Music Trainer Professional.  The PRO-version offers some extra features:  - learning all notes along with their signs  - all three different learning options for key signatures  - learning intervals - ad-free - many more  A real recommendation for every music student! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE', 'com.martins.martin.musictrainerprofessionallite2.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Korean Memorizer - learn to write and read Hangul",
+"url" : "https://play.google.com/store/apps/details?id=com.hajime.korean",
+"package" : "com.hajime.korean",
+"category" : "Education",
+"description" : "Learn Korean the easy way! Read, write and listen!   Totally free   Writing animation - watch and learn the stroke orders  Human pronunciation - hear how the characters are pronounced  Hangul writing practice - practice your writing right in the app  Easy-to-use  Flash cards  Romanization: allows those who cant read Korean hangul to phonetically pronounce it  Helps your memory  Works offline  Less than 5 minutes per day   Korean Hangul - Dont hesitate to contact us to give your suggestion and ideas. Thank you for your support!  Oh, and I already told you that the Korean Memorizer is totally free!? :D ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

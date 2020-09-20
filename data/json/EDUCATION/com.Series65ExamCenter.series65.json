@@ -1,0 +1,11 @@
+{
+"name" : "Series 65 Exam Center: NASAA Series 65 Test Prep",
+"url" : "https://play.google.com/store/apps/details?id=com.Series65ExamCenter.series65",
+"package" : "com.Series65ExamCenter.series65",
+"category" : "Education",
+"description" : "Pass your NASAA Series 65 exam with the help of the new Series 65 Exam Center app!  Thousands of Series 65 questions and their detailed explanations are now available at your fingertips.  Prepare for your Uniform Investment Adviser Law Exam - Series 65 by answering thousands of questions written by veteran NASAA and FINRA instructors.  Series 65 Exam Center covers all the chapters you need to review in order to succeed in your NASAA Series 65 exam:   Client Recommendations and Strategies   Economic Factors and Business Information   Investment Vehicle Characteristics   Laws, Regulations, and Guidelines  Features:  Detailed question explanations   FREE Question of The Day   5 final Series 65 exams each with 130 questions   Created by veteran NASAA and FINRA instructors with over 25 years of experience   Dedicated exam for each Series 65 chapter   Tens of Series 65 exams each with tens of questions   Offline support: After installing you dont need an internet connection   Native app optimized for speed and ease of use   No ads   Clear right/wrong answer indications   Exam summary with exam grades and more stats   Question I Got Wrong area that helps you revisit the questions you got wrong  Our mission at the Series 65 Exam Center is helping students pass their next NASAA Series 65 exam. Please send us feedback or questions at:  Series65@tulieducation.com ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+}

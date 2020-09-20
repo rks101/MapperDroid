@@ -1,0 +1,11 @@
+{
+"name" : "Enlitened",
+"url" : "https://play.google.com/store/apps/details?id=com.enlitened",
+"package" : "com.enlitened",
+"category" : "Education",
+"description" : "Student engagement, mental health and wellbeing are a growing challenge in higher education  both for students and universities.  Enlitened helps to address this challenge in a number of ways. First, it gives students an easy and quick way of providing the feedback universities need to improve the experience they provide to students.  Second, students get expert advice to help them improve their mental health and wellbeing, their social and academic relationships, and their learning experience at university. This advice becomes increasingly tailored and relevant the more the student engages with the app.  Third, the app gives students an enjoyable way of submitting ideas to make university life better. Students can also support other students ideas within the app.  Last but not least, students earn coins while using the app. They can use these coins to buy products and services on campus and online. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE']",
+}

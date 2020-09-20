@@ -1,0 +1,11 @@
+{
+"name" : "Asana Pranayama Mudra Bandha",
+"url" : "https://play.google.com/store/apps/details?id=net.biharyoga.yogapeeth.app.android.apmb",
+"package" : "net.biharyoga.yogapeeth.app.android.apmb",
+"category" : "Education",
+"description" : "APMB - Asana Pranayama Mudra Bandha is recognized internationally as one of the most systematic yoga manuals available today. Since its first publication by the Bihar School of Yoga in 1969, it has been reprinted 21 times and translated into many languages. It is the main reference text used by yoga teachers and students of BIHAR YOGA within the International Yoga Fellowship Movement, and many other traditions as well.  This comprehensive text provides clear illustrations, step by step directions and details of chakra awareness. It guides the practitioner or teacher from the simplest to the most advanced practices of the hatha yoga system. This book successfully brings the exposition of yoga practices to the standard of a university text.  The APMB app is based on Asana Pranayama Mudra Bandha book. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET']",
+}

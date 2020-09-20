@@ -1,0 +1,11 @@
+{
+"name" : "PowerSchool Events",
+"url" : "https://play.google.com/store/apps/details?id=com.crowdcompass.appneczfIUdVq",
+"package" : "com.crowdcompass.appneczfIUdVq",
+"category" : "Education",
+"description" : "Prepare to learn, connect, and get inspired with your peers across the PowerSchool community by attending a PowerSchool customer event. If youve already taken the first step by registering, make sure to get the most out of your experience by downloading and using the conference app. At PowerSchool events youll find everyone from K-12 curriculum leaders and tech directors to administrators, HR and finance directors, and superintendents. PowerSchool - Powering Brighter Futures ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_CONTACTS', 'android.permission.WRITE_CALENDAR', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.READ_CONTACTS', 'android.permission.BLUETOOTH', 'android.permission.READ_CALENDAR', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_CONTACTS', 'android.permission.WRITE_CALENDAR', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_CONTACTS', 'android.permission.READ_CALENDAR']",
+}

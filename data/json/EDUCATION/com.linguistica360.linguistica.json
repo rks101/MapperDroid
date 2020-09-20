@@ -1,0 +1,11 @@
+{
+"name" : "linguistica â€“ Learn Spanish, French and more",
+"url" : "https://play.google.com/store/apps/details?id=com.linguistica360.linguistica",
+"package" : "com.linguistica360.linguistica",
+"category" : "Education",
+"description" : "Study Spanish, French, Italian and German on the go through current events!  Since 2009, we have been producing weekly podcasts with news stories, conversation and culture in intermediate Spanish, French, Italian and German. Hosted by native speakers, our programs present news and discussion at a slow pace to help you improve comprehension.   Recommended by The Guardian, The Economist and The Washington Post, this program helps you learn French, Spanish, Italian or German with stories you care about at a pace you can understand.  Give it a try with our free app, which offers a portion of our weekly program: Two news stories per language every week with no payment and no need to sign up. Just download and play! ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

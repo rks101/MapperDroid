@@ -1,0 +1,11 @@
+{
+"name" : "Human body (male) educational VR 3D",
+"url" : "https://play.google.com/store/apps/details?id=com.rendernet.humanmale",
+"package" : "com.rendernet.humanmale",
+"category" : "Education",
+"description" : "Human body (male) This animation introduces the most important organ systems of the human body.  Our 3D scenes have been designed for students between 8 and 18 years of age but can be interesting for everyone.   Available languages: English, American English, Deutsch, Franais, Espaol, , , , , , Italiano, Portugus, Svenska, Trke, Nederlands, Norsk, Polski, Magyar  With the mozaik3D App, available in the Google Play store, you can access more than 1200 similar 3D scenes.  Mozaik Interactive 3D Our fully interactive scenes can be rotated, enlarged or viewed from pre-set angles. With the predefined views, you can easily navigate through the complex scenes. Some of the 3D scenes contain a Walk mode, enabling you to explore the scene yourself. Most of our 3D scenes include narrations and built-in animations. They also contain captions, entertaining animated quizzes and other visual elements. The 3D scenes are available in several languages, which also offers an opportunity to learn and practice foreign languages.   Usage and navigation Rotate the scene by dragging your finger.  Zoom the scene in or out by pinching with your fingers.  Pan the view by dragging with three fingers. Tap the buttons at the bottom to switch between predefined views. You can change the language and set other functions in the context menu. The context menu can be accessed by touching the bottom corners. Activate VR mode by pressing the VR goggles icon in the bottom right corner. In VR mode, tilt your head to right or left display the navigation panel. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

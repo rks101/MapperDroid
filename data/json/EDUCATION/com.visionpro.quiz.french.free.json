@@ -1,0 +1,11 @@
+{
+"name" : "French Test",
+"url" : "https://play.google.com/store/apps/details?id=com.visionpro.quiz.french.free",
+"package" : "com.visionpro.quiz.french.free",
+"category" : "Education",
+"description" : "Simple and Simple!!! With this quiz and flashcard, French vocabulary and grammar wont hurt you any more. Enjoy your learning with 3 different levels:  1. Elementary 2. Intermediate 3. Advanced  We have based this test on the standard French vocabulary and French grammar that you would find in any French language learning material, so that this proficiency test can measure your command of the French language regardless of your French language learning background. So if youve been learning French, see how well you do!  This app is also best for DELF, DALF and TCF learners Remember: Practice makes perfect, so using it everyday, your French will be better ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

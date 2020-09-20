@@ -1,0 +1,11 @@
+{
+"name" : "daypo tests online",
+"url" : "https://play.google.com/store/apps/details?id=air.daypo",
+"package" : "air.daypo",
+"category" : "Education",
+"description" : "This e-learning tool is designed for create, edit, save and publish online tests. You can create your own tests to improve your knowledges, totally free. Challenge your friends or simply share your tests with them. This learning tool has many options: time to answer, sections, checks, arrows questions, previews, images.... If you are a teacher you can make an exam to evaluate your students, and then upload it to www.daypo.net so that they can check it by themselves. You can share your tests and have your statistics, messages and records. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

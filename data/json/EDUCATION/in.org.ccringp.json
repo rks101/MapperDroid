@@ -1,0 +1,11 @@
+{
+"name" : "CCRI-CITRUS",
+"url" : "https://play.google.com/store/apps/details?id=in.org.ccringp",
+"package" : "in.org.ccringp",
+"category" : "Education",
+"description" : "Foundation stone of the Citrus Research Station as a Regional Station of Indian Institute of Horticultural Research (IIHR), Bengaluru was laid on 28th July, 1985 at Nagpur by the then Defence Minister of India Honbl e Shri Narsinha Rao in presence of the then Chief Minister of Maharashtra Shri. Shivajirao Nilangekar and Dr. K. L. Chadha, Director, IIHR, Bengaluru.  Keeping in view importance of citrus crops and tackle the burning problem of citrus black fly menace in those days, the Citrus Research Station was upgraded to independent National Research Centre for Citrus in April 1986 with the following mandate :  * To undertake basic and applied research to develop technologies for improvement and increased productivity in citrus. * To act as a repository for genetic resources and scientific information related to citrus. * To undertake research to develop technologies for better shelf life and utilization of citrus considering domestic and export needs. * To act as Centre of training in advanced research methodologies and technology upgradation in citrus. * To collaborate with relevant national and international organizations / Govt. agencies for citrus research and technology dissemination. * To provide consultancy services and undertake contract research to solve the problems of Citrus Industry of the country. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Sight Words - Reading Games",
+"url" : "https://play.google.com/store/apps/details?id=com.jdsoftwarellc.sightwords",
+"package" : "com.jdsoftwarellc.sightwords",
+"category" : "Educational",
+"description" : "Dolch Sight Words - Word Games for Preschool, kindergarten, and first grade through third grade.  The learning games help young kids have fun with Sight Words. The games help students get familiar with the sight words even at a preschool level. Sight words are common words that dont follow basic phonics and are designed to help kids read faster. Dolch Sight words are many of the most common written words. With practice, spelling becomes easier for these words that dont follow the rules. The word lists include multiple grade levels: Preschool, Kindergarten, first grade, second grade, and third grade.  The full version includes 6 Games. While this version includes only the first 2.  Word Search  ------------------- A classic word search with assisted audio to reinforce the learning. The levels are designed to slowly increases in difficulty as well as encouraging the child to complete each level.    Icecream Bubble Pop ------------------- Have fun popping bubbles as you stack a super ice cream cone. Watchout the ice cream might fall over.   Rat Race ------------------- Find the correct word to speed up your rat to win the race.   Jigsaw Puzzle ------------------- Listen to the sight word and then complete the jigsaw puzzle to see it.   Parachute Fish ------------------- Mr Pelican is hungry and it is his lucky day. Word Fish are parachuting down. Help him to learn to eat the right words.   Animals in Space  ------------------- Find the correct reading word to build a rocket. Blast off! ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERNET']",
+}

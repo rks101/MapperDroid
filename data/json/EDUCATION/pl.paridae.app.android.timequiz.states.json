@@ -1,0 +1,11 @@
+{
+"name" : "50 US States Quiz",
+"url" : "https://play.google.com/store/apps/details?id=pl.paridae.app.android.timequiz.states",
+"package" : "pl.paridae.app.android.timequiz.states",
+"category" : "Educational",
+"description" : "Do you know the capital cities of 50 US states? Can you indicate the correct location of state on the map? Do you want to know the state flags and state seals?  U.S. States Quiz will help you to learn!  Functionalities: - 10 levels of difficulty: - Levels 1 and 2 - states -> capitals - Levels 3 and 4 - flag of state - Levels 5 and 6 - location of state (on the USA map) - Levels 7 and 8 - seal of state - Levels 9 and 10 - capitals -> states - mode of learning without time pressure - ranking of top players, - online multiplayer game mode.  Your score is sum points from all levels. Test yourself by comparing your score with others in online ranking.  If you are preparing for a test or simply you are not able to remember what is the flag of California or the capital of Texas, this application will surely help you!  It is a kind of trivia of states of US.  ----------------------- Facebook Page: https://www.facebook.com/ParidaeMobile  ----------------------- ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'pl.paridae.app.android.timequiz.states.permission.C2D_MESSAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

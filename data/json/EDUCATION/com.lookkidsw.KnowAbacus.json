@@ -1,0 +1,11 @@
+{
+"name" : "Know Abacus",
+"url" : "https://play.google.com/store/apps/details?id=com.lookkidsw.KnowAbacus",
+"package" : "com.lookkidsw.KnowAbacus",
+"category" : "Education",
+"description" : "Abacus is a wonderful mathematical instrument used for calculation. This app will help your children learn about Abacus, Numbers, Counting, Addition, and Subtraction. This is the first step to tap the unexploited potential in their brain and unleash their mathematical capability.  Suitable for children age 5 and up, who know about numbers and some basic addition and subtraction.   * Counting with Abacus * Addition/Subtraction 1 digit * Addition/Subtraction 2 digits * Multiplication 1-2 digits * Division 1-2 digits * Mental math * Review lessons * Unlimited random lessons * Add new colorful abacus * Learning modes * Two-touch or multi-touch abacus * Support languages: English, French, Spanish, Turkish, Thai, Arabic, Portuguese, and Russian ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.READ_CALL_LOG']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.nokia.payment.BILLING', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.nokia.payment.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

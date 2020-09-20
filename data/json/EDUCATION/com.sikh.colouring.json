@@ -1,0 +1,11 @@
+{
+"name" : "Sikh Colouring",
+"url" : "https://play.google.com/store/apps/details?id=com.sikh.colouring",
+"package" : "com.sikh.colouring",
+"category" : "Educational",
+"description" : "Vaheguru! Sikh Colouring Books, since 2016, have become an entertaining and educational platform to teach the younger generation of Sikh children.   With this New App, we bring the same approach to the digital world. Children can enjoy colouring the trademark Sikh Colouring designs now on their favourite devices!   The first 5 drawings are included FREE of cost with full functionality. Additional drawings can be purchased as required. Soothing background music helps invite you to be relaxed and immerse yourself in the world of Sikh Colouring!   If you have any feedback or encounter any bugs, please email us at info@sikhcolouring.com   Exciting updates will be following shortly, so keep updated with the latest news by signing up to our newsletter on www.sikhcolouring.com.   Thank you for your ongoing support! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'com.sikh.colouring.permission.C2D_MESSAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

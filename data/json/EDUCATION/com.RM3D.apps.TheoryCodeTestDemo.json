@@ -1,0 +1,11 @@
+{
+"name" : "Theory Test Free 2020",
+"url" : "https://play.google.com/store/apps/details?id=com.RM3D.apps.TheoryCodeTestDemo",
+"package" : "com.RM3D.apps.TheoryCodeTestDemo",
+"category" : "Education",
+"description" : "Theory Test Free includes the latest questions , extremely easy to use and contains awesome lessons.  -All questions comes with voice pronunciation and more than 200 questions (all with real images). -Theory tests are hard to help you really pass the Test -Very great documentation and lessons in all sections(hazards, crossings, motorways, traffic Signs, weather conditions, vehicle security ...). -Practice mode with instant question correction and amazing explanation for each question with audio pronunciation ! -You can monitor your progress and save your results in profile mode .  Theory Test Free helps you to pass the Test easily and put you in the exam conditions ! download it now ! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Woordjes leren (gratis)",
+"url" : "https://play.google.com/store/apps/details?id=com.snamu.woordjesleren",
+"package" : "com.snamu.woordjesleren",
+"category" : "Education",
+"description" : "Eenvoudige gratis app om met kinderen van jaar of 5 om de eerste woordjes te leren.  Bevat  * leesplankje * fotos maken van opa, oma, papa en mama * uitspraak van klanken * plaatjes bij woorden zoeken en andersom * juiste plek van letter in woord zoeken  Woorden zijn voor groep 3 (NL) / klas 1 (BE)  Volledig in het Nederlands.  Instellingen voor ouders: 1. Blok letter of schrijfletters keuze 2. Eigen geluid opnemen Simple free app for children from 5 years old to learn the first words.  contains * Reading board * Taking pictures of grandfather, grandmother, mom and dad * Pronunciation of sounds * Find pictures with words and vice versa * Proper place of letters in word search  Words are for group 3 (NL) / Class 1 (BE)  Entirely in Dutch.  Settings for parents: 1. Block letter or write letters choice 2. Own sound recording ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Prime Number Counter",
+"url" : "https://play.google.com/store/apps/details?id=com.useless.primes",
+"package" : "com.useless.primes",
+"category" : "Education",
+"description" : "Shows a nice counter with a prime number. When you click the red button the counter animates to the next prime number.   This app is for people who have fun watching prime numbers.  The app is designed to imitate the Primer physical devices shown in this Numberphile video: http://www.youtube.com/watch?v=8UqCyepX3AI  More on the Primer physical device: http://www.karllautman.com/primer.html ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

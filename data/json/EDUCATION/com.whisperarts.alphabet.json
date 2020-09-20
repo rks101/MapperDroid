@@ -1,0 +1,11 @@
+{
+"name" : "Russian alphabet for kids",
+"url" : "https://play.google.com/store/apps/details?id=com.whisperarts.alphabet",
+"package" : "com.whisperarts.alphabet",
+"category" : "Education",
+"description" : "2 000 000 downloads - the best Russian Alphabet Educational App  Learn Russian Alphabet with your kids. Colourful pictures, big images. Shake the phone to get random letter.  Pronunciation of the letters and sounds helps children faster and easier to remember the alphabet.  For children from 2 to 7 years.  The application adapted to run on small screen size mobile phones, and on the Tablets.  Pro version include: - Educational games (guess the letter, guess the picture) - Selective pronunciation of the letters (just the sounds, letters, words only)  Want to receive the latest news about the application? Subscribe to the news group https://www.facebook.com/WhisperArts ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

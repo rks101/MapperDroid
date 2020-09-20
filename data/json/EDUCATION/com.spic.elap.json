@@ -1,0 +1,11 @@
+{
+"name" : "Phoenix",
+"url" : "https://play.google.com/store/apps/details?id=com.spic.elap",
+"package" : "com.spic.elap",
+"category" : "Education",
+"description" : "This app aims to track learning by students and teaching by teachers of Chandigarh government schools.   The application has been developed by the team of SPIC, Centre of Excellence (Chandigarh) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

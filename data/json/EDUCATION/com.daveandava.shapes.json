@@ -1,0 +1,11 @@
+{
+"name" : "Learn Shapes with Dave and Ava",
+"url" : "https://play.google.com/store/apps/details?id=com.daveandava.shapes",
+"package" : "com.daveandava.shapes",
+"category" : "Educational",
+"description" : "Ready, set, go! Try Dave and Avas new educational app for kids to learn shapes and colors.   WHY PARENTS AND KIDS LOVE THIS APP:  - There are 5 levels, your child can play for hours - Kids learn colors and shapes, compare big and small objects,  strengthen their fine motor skills - You get the chance to try it for free - Use the app offline - No third-party advertising  Parents Tested! Kid-friendly and safe!    TRY IT FOR FREE  You can download the app and play the 1st level for free. The additional purchase is applied to get access to all the shapes.    NO ADVERTISING  Our top priority is to provide a completely safe environment for your little ones. There are no third-party advertising or the ability for someone to contact your kids while learning shapes.    DOWNLOAD AND PLAY OFFLINE  Download the app and get your kids learning on the go. No need to use 3G/4G or WiFi connection.    LEARN & HAVE FUN  With a hands-on approach, well introduce shapes to any curious kid, ages 1-6. Your little ones will love to catch and match the stars, diamonds, circles, ovals, rectangles and other basic shapes.   Be aware! Some of the shapes may turn into naughty animals and run away!   Have questions or suggestions? We are here to help. Email us at app@daveandava.com ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "10 Words: Learn Languages Free, English is easy",
+"url" : "https://play.google.com/store/apps/details?id=com.appsci.tenwords",
+"package" : "com.appsci.tenwords",
+"category" : "Education",
+"description" : "Are you ready to learn a new language?  Learn English, French, German, Italian, Portuguese, Russian, Spanish or even Hindi in a fun way!  Learn up to *3650 words per year* by investing only 10 minutes per day!  Try the most efficient yet the simplest method to learn new words: the word cards!  Learn new words, recap them during the day and complete the quiz when youre ready! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

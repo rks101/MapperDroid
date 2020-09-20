@@ -1,0 +1,11 @@
+{
+"name" : "Tongue twisters",
+"url" : "https://play.google.com/store/apps/details?id=ru.wellapp.scorogen",
+"package" : "ru.wellapp.scorogen",
+"category" : "Education",
+"description" : "Tongue twisters are a great way to practice and improve pronunciation and fluency. They can also help to improve accents by using alliteration, which is the repetition of one sound. Theyre not just for kids, but are also used by actors, politicians, and public speakers who want to sound clear when speaking. Below, you will find some of the most popular English tongue twisters. Say them as quickly as you can. If you can master them, you will be a much more confident speaker. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

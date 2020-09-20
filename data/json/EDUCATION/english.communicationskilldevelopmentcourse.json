@@ -1,0 +1,11 @@
+{
+"name" : "English Communication Skill Development Course",
+"url" : "https://play.google.com/store/apps/details?id=english.communicationskilldevelopmentcourse",
+"package" : "english.communicationskilldevelopmentcourse",
+"category" : "Education",
+"description" : "English Communication Skill Development Course is a free English Learning Practical Course Book. It helps the learners know how to use communicative features while speaking English. This Course provides Vocabulary Building Words stoke which helps to speak English accurately.This course contains two Units. The first is Communicative Features and Conversation practices and the second is Words stock. You can speak English fluently and confidently. Please, feel free to send us your response to the mail themediahousenepal@gmail.com Enjoy the App ! ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_PHONE_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+}

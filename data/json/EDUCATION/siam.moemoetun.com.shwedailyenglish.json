@@ -1,0 +1,11 @@
+{
+"name" : "Shwe English Lessons",
+"url" : "https://play.google.com/store/apps/details?id=siam.moemoetun.com.shwedailyenglish",
+"package" : "siam.moemoetun.com.shwedailyenglish",
+"category" : "Education",
+"description" : ".    . Verb to be -   . Verb to do    . Vocabulary   . Basic Speaking  . Speaking Patterns -   pattern  . Speaking Patterns  . Song lyrics   .  .  Reading and Listening  .  . Phonetics   13. Clause   14. Passive Voice  15. Model Verb 16. Business English 17.  Level 1, 2 18. Quiz    10 ..... updates  updates  patterns  .. ... -------------------  5 stars ..    ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'siam.moemoetun.com.shwedailyenglish.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Do you speak Pulaar",
+"url" : "https://play.google.com/store/apps/details?id=mr.ftv.do_you_speak_pulaar",
+"package" : "mr.ftv.do_you_speak_pulaar",
+"category" : "Education",
+"description" : "Do you speak Pulaar is a book written by Mr. Aboou Sy. This book has been turned into a mobile application by a young programmer Kane Hamath Moussa.  You will discover in this application basic concepts to learn well Pulaar. Do you speak Pulaar is a book written by Mr. Aboou Sy. This book has been turned into a mobile application by a young programmer Kane Hamath Moussa.  You will discover in this application basic concepts to learn Pulaar. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERNET']",
+}

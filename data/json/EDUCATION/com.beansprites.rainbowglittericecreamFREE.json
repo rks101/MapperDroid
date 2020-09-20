@@ -1,0 +1,11 @@
+{
+"name" : "Rainbow Unicorn Glitter Ice Cream - Cooking Games",
+"url" : "https://play.google.com/store/apps/details?id=com.beansprites.rainbowglittericecreamFREE",
+"package" : "com.beansprites.rainbowglittericecreamFREE",
+"category" : "Education",
+"description" : "Do you love Rainbow Ice Cream? Do you love Unicorn Ice Cream, Popsicles, and Frozen Desserts? Then you will love Rainbow Unicorn Glitter Ice Cream - Cooking Games!  Take a trip to Glitter Beach, and enjoy making the yummiest Ice Cream Treats ever! This is your Best Ice Cream game ever where you can make Ice Popsicles, Ice Cream Sundaes, Ice Cream Cones, Ice Cream Bars, and more!  Summer is the best time of year to enjoy yummy frozen ice cream treats! Make them special with Unicorn decorations and a rainbow of flavors and toppings!  Ice lollies, Ice Cream Bars, Ice Cream Sundaes, and Ice Popsicles become an Ice Cream Dream!  Stack the Ice Cream Balls high In Ice Cream Cone Maker, and top them off with delicious candy and rainbow toppings!  Popsicles maker lets you dispense a rainbow of flavors into the Popsicle molds! Choose from fun Popsicle molds, and sticks!  Rainbow Unicorn Glitter Ice Cream is great fun for girls and boys who love to cook, and make things in the kitchen! Enjoy this game over the Summer with your family and Friends, and make the most popular dessert in the World! ",
+"desc_perms" : "['android.permission.WRITE_CONTACTS']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

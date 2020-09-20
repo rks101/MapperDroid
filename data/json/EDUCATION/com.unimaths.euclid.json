@@ -1,0 +1,11 @@
+{
+"name" : "Euclidean Algorithm : GCD and Linear Combination",
+"url" : "https://play.google.com/store/apps/details?id=com.unimaths.euclid",
+"package" : "com.unimaths.euclid",
+"category" : "Education",
+"description" : "This application teaches how to calculate GCD of two numbers by Euclidean Algorithm and express GCD as a linear combination of two numbers. This app differs from other apps in the following way: 1. Gives step by step solution for GCD as well as linear combination. 2. The linear combination is done in a very simple way. Just go through tutorial. Genearlly students calculate GCD but finds it difficult to express it as a linear combination. The app will definately help to overcome this. 2. Supports very large numbers (Try it!). Report any bugs to univrmaths@gmail.com or write them in reviews. Rate our App if you like! ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "[]",
+}

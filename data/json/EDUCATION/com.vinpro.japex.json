@@ -1,0 +1,11 @@
+{
+"name" : "Japex - Japanese Exam",
+"url" : "https://play.google.com/store/apps/details?id=com.vinpro.japex",
+"package" : "com.vinpro.japex",
+"category" : "Education",
+"description" : "You have a Japanese-Language Proficiency Test (JLPT)? You dont have time to prepare for the exam? All can be easily with Japex, you can try it at anytime and anywhere with your phone. Applications is indispensable for those taking the Japanese exam. - With a friendly interface, designed in accordance with the exam latest models, clear picture, good sound. - The tests will be updated after each exam. - After completing each test, you can view the results (number of correct answers, points, levels, tables answers ..) - The application is designed to target the your desire level: + Vocabulary: Level N1, N2, N3, N4, N5. + Grammar: Level N1, N2, N3, N4, N5. + Reading: Level N1, N2, N3, N4, N5. + Listening: Level N1, N2, N3, N4, N5. - Japex will help you study Japanese better everyday. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

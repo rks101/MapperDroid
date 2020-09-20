@@ -1,0 +1,11 @@
+{
+"name" : "HyperVision",
+"url" : "https://play.google.com/store/apps/details?id=com.blogspot.mathjoy.hypervision",
+"package" : "com.blogspot.mathjoy.hypervision",
+"category" : "Education",
+"description" : "We live in a world of 3 spatial dimensions, but mathematically there is no limit to the number of dimensions there can be. Rather than explore all of them, start small in dimension three plus one. HyperVision lets you explore what a cube in four dimensions is like. This object is known as a hypercube. As you rotate the hypercube in 4-dimensional space, it appears to shape shift, but it is always the same 4-dimensional shape. A 4D object has a 3D shadow, just like a 3D object has a 2D shadow. When the object moves, the shadow changes shape but the object remains the same.  In HyperVision, you can rotate the hypercube in 3 dimensions and 4 dimensions. You can also view it in 3D by using 3D glasses or by going cross-eyed. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

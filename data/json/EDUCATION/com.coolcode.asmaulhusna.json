@@ -1,0 +1,11 @@
+{
+"name" : "Remember Asma' Ul Husna",
+"url" : "https://play.google.com/store/apps/details?id=com.coolcode.asmaulhusna",
+"package" : "com.coolcode.asmaulhusna",
+"category" : "Educational",
+"description" : "Remember Asma Ul Husna is flash card game application to help memorize the 99 Names of Allah. Every single cards comes with sound and writing in english or malay translation. This application comes with mini game to test and match suitable meanings for each names. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

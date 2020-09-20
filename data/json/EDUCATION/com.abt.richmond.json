@@ -1,0 +1,11 @@
+{
+"name" : "Richmond Battle App",
+"url" : "https://play.google.com/store/apps/details?id=com.abt.richmond",
+"package" : "com.abt.richmond",
+"category" : "Education",
+"description" : "The Richmond Battle App is the perfect touring partner for your visits to Richmond, Virginia, and its area Civil War battlefields and historical sites. Our GPS-enabled tour application allows you to discover the great historical sites associated with the 1862 and 1864 campaigns for Richmond and inside the City itself. Using enhanced map capabilities, this product covers all the major battlefields from the first fighting at Seven Pines to the fall of Richmond!   Click on our virtual signs to access a wealth of information related to the very location where you are standing. Onboard historian videos, audio accounts from soldiers and civilians, photos, facts, and more are just a click away. Never has so much information been made available in such a portable device!  The Richmond Battle App is just one of our expanding lineup of mobile apps that are ready to be downloaded today. To learn more about all of our Battle App guide offerings visit our website at: www.battlefields.org/battleapps ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE']",
+}

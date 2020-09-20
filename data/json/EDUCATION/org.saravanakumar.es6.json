@@ -1,0 +1,11 @@
+{
+"name" : "Javascript - ES6 (ECMAScript)",
+"url" : "https://play.google.com/store/apps/details?id=org.saravanakumar.es6",
+"package" : "org.saravanakumar.es6",
+"category" : "Education",
+"description" : "Were moving to our new App! Live Code Editor, ES6 & ES7 features. Get it here:   https://play.google.com/store/apps/details?id=org.saravanakumar.javascriptplayground     ECMAScript 2015 (6th Edition) is the current version of the ECMAScript Language Specification standard. Commonly referred to as ES6, it defines the standard for the JavaScript implementation.  - ES6 Features contents with Easy and more examples.  - Easy navigation pages through right and left the tap on the screen.  - Easily read background colors and font styles.   We would love to hear any suggestions, questions or comments, please write into saravanakumargn@gmail.com. Thanks ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

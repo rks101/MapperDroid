@@ -1,0 +1,11 @@
+{
+"name" : "HTML Tag Book & Editor",
+"url" : "https://play.google.com/store/apps/details?id=html.tagbook.jameeljahangir",
+"package" : "html.tagbook.jameeljahangir",
+"category" : "Education",
+"description" : "Html tag book contains html 5 tags.It will be helpful for beginner who wants to learn html ,css, java script. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+}

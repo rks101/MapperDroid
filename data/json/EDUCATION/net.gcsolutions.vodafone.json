@@ -1,0 +1,11 @@
+{
+"name" : "Learning Studio",
+"url" : "https://play.google.com/store/apps/details?id=net.gcsolutions.vodafone",
+"package" : "net.gcsolutions.vodafone",
+"category" : "Education",
+"description" : "Learn on the go with Learning Studio mobile learning app. The mobile app delivers an innovative experience on your device allowing you to take the training, assessment & feedback, you need to succeed in current role or prepare for a new one. Access your digital training on the go, at your own time & convenience with mobile app. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_APP_BADGE', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'me.everything.badger.permission.BADGE_COUNT_WRITE', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'net.gcsolutions.vodafone.permission.C2D_MESSAGE', 'android.permission.WAKE_LOCK', 'com.sonymobile.home.permission.PROVIDER_INSERT_BADGE', 'com.majeur.launcher.permission.UPDATE_BADGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'me.everything.badger.permission.BADGE_COUNT_READ', 'com.google.android.c2dm.permission.RECEIVE', 'com.sec.android.provider.badge.permission.WRITE', 'com.htc.launcher.permission.READ_SETTINGS', 'android.permission.INTERNET', 'com.oppo.launcher.permission.WRITE_SETTINGS', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.oppo.launcher.permission.READ_SETTINGS', 'com.huawei.android.launcher.permission.READ_SETTINGS', 'com.huawei.android.launcher.permission.WRITE_SETTINGS', 'com.huawei.android.launcher.permission.CHANGE_BADGE', 'android.permission.VIBRATE', 'com.sec.android.provider.badge.permission.READ']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Akbar Birbal Stories in English",
+"url" : "https://play.google.com/store/apps/details?id=arena.akbarbirbal.englishstories",
+"package" : "arena.akbarbirbal.englishstories",
+"category" : "Education",
+"description" : "Here we have listed top 100+ stories of Akbar and Birbal which will definitely entertain you. We hope you will like our collection. We welcome your feedback to improve this app.  Some features of Akbar Birbal Kahaniyan English android app.   100+ best stories of Akbar and Birbal in Engilsh languate.  Simple app. Works offline. No internet connection needed!  Professionally designed, user-friendly and intuitive interface.  This app is in easy English Language.   Learn and improve your English with fun.  Easy to use.  Font can be re-sizable for you best view.  HD Graphics  Add stories as to your favorites list.  Swipe stories  Share stories with your friends.  Birbal, was a Hindu Brahmin advisor in the court of the Mughal Emperor Akbar. Birbal is mostly known for the folk tales which focus on his wit. Birbal was one of the nine jewels in Akbar darbar.  Akbar birbal english Akbar birbal in english          -  10   Akbar Birbal  This app is under the following categories: Akbar birbal story in English, akbar birbal stories in English with pictures, Raja Ki Kahani In English,Prerak kahaniyan, motivational stories,akbar birbal ke kisse, moral stories, English kahaniyan, rochak kahaniyan, dadi ma ki kahaniyan, best old stories, majedar kahaniyan, poranik katha English, gyanvardhak kahaniya, children stories ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'arena.akbarbirbal.englishstories.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

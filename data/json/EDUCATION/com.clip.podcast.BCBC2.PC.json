@@ -1,0 +1,11 @@
+{
+"name" : "Brown Chicken Brown Cow",
+"url" : "https://play.google.com/store/apps/details?id=com.clip.podcast.BCBC2.PC",
+"package" : "com.clip.podcast.BCBC2.PC",
+"category" : "Education",
+"description" : "The Brown Chicken Brown Cow Show is an adult oriented educational entertainment program, aimed at educating and entertaining people on a range of topics around body, gender, and sex positivity. We host shows around a monthly topic, and produce material for podcasts, nuggets (mini podcasts), vodcasts and blogs. This app brings all of our barnyard fun to you in one simple place - so you never miss out on a new release and it is easy to catch up on older ones! Join the sexiest and most inclusive barnyard on the internet! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_WIFI_STATE', 'com.motorola.android.permission.USEFMRADIO', 'com.clip.podcast.BCBC2.PC.permission.C2D_MESSAGE', 'android.permission.CAMERA', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'com.motorola.android.permission.USEFMRADIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

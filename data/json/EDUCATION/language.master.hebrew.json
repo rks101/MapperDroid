@@ -1,0 +1,11 @@
+{
+"name" : "Learn Hebrew Fast and Free",
+"url" : "https://play.google.com/store/apps/details?id=language.master.hebrew",
+"package" : "language.master.hebrew",
+"category" : "Education",
+"description" : "Learning Hebrew is actually a lot easier than you think. Thats one of the reasons I created learn hebrew fast and free. I wanted to show just how simple Hebrew can be if you take the right approach. This application is developed by Hebrew language experts, including over 6000+ Common words and phrases with 64 categories. Perfect search and manage your favourite items system. This is a pocket communication dictionary, recommended for anyone who wants to learn Hebrew including kids, students, travellers, and business people. Games and quizzes that support you to learn Hebrew. This application helps you translating Hebrew words into multiple languages at once (39 languages). User can record voice and create your favorite word list. Its free to learn Hebrew without internet connection. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

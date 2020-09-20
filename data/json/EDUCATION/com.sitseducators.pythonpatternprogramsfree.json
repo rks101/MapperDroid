@@ -1,0 +1,11 @@
+{
+"name" : "Python Pattern Programs Free",
+"url" : "https://play.google.com/store/apps/details?id=com.sitseducators.pythonpatternprogramsfree",
+"package" : "com.sitseducators.pythonpatternprogramsfree",
+"category" : "Education",
+"description" : "This app is full of pattern and other Python programs. In addition to this, there is a lot of study stuff related to Python programming as well.  Programs to print the numbers or symbols in different patterns (e.g. ASCII art -pyramid, waves etc.), are one of the frequently asked interview/examination programs mostly for Freshers. This is so because these programs test the logical ability and coding skills which are essential for any software engineer.  This app is very helpful for understanding how loops can be used to generate these different ASCII art patterns & also for other basic concepts of Python with the help of programs.  Core Features :  > 200+ Pattern printing programs including :   Symbol patterns  Number patterns  Character patterns  Series patterns  Sripal patterns  Wave-style patterns  > 250 Other Python programs including :  General utility programs  Basic programs  Class-Object  Inheritance  Module  Exception Handling  List  Tuple  Set  Dictionaries  Functions (def)  Sorting - Searching  Trick programs  > Study stuff  Short introduction to Python language.  Comparison of Python with other languages.  One liner definitions: general programming terms.  Operator precedence table  Python Keywords  ASCII table  Other Features :  Pattern category filter  Program search  Quick search  Change text size ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

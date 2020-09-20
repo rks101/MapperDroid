@@ -1,0 +1,11 @@
+{
+"name" : "Space Time Quest",
+"url" : "https://play.google.com/store/apps/details?id=org.laserlabs.spacetimequest",
+"package" : "org.laserlabs.spacetimequest",
+"category" : "Educational",
+"description" : "Have you ever wondered what it would be like to be in charge of a budget of 100 million!? Have you ever wondered what it would be like to manage a continent spanning science project, with the aim of making one of the most important discoveries of the last 50 years? In Space Time Quest you use your scientific skills to build the most sensitive gravitational wave detector ever, and use it to listen to the symphony of the Universe as never before!  Spread your budget wisely and optimise the different subsystems of an interferometric gravitational wave detector, of the same type as the real detectors, such as LIGO and Virgo. Be the first to detect the elusive gravitational waves, and the Nobel Prize will surely be yours!  Space Time Quest can be played in English, Spanish, Catalan, Dutch, German, Chinese, French, Italian and Russian! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

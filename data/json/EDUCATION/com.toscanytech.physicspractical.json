@@ -1,0 +1,11 @@
+{
+"name" : "Complete Physics",
+"url" : "https://play.google.com/store/apps/details?id=com.toscanytech.physicspractical",
+"package" : "com.toscanytech.physicspractical",
+"category" : "Education",
+"description" : "Complete Physics is an app for any student planning to learn or become good in physics. The main reason behind this app is to make students better in physics. You can learn with the tutorials that covers wide range of physics topics. Also it includes physics questions and a thought out solutions.   This app is enhance with a physics quiz to help you practice your knowledge of physics on the go. You can also search with the physics dictionary to get access to many physics terms and definitions   There is a physics note section where you can jot or save notes of items you want to remember or a summary of certain concept in physics.  Complete Physics basically covers syllabus for exams like WAEC, NECO, JAMB, KCSE, Post JAMB and GCE. Although eveyone can still use it.  The following toipcs are covered   Physics as a science   Kinematics  Fluid  Scalar and Vector  Force  Circular Motion  Energy  Momentum  Heat Energy and Thermodynamics  Optics  Waves  Magnetism  Electricity   Modern Physics  Nuclear Physics    Disclaimer: The questions and solutions section uses Past WAEC exam questions and solutions which is provided by WAEC for students planning to sit of WAEC exams   If you have a suggestion or issue with this app please kindly let me know through my email so that I will attend to it immediately. Remember to rate this app ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

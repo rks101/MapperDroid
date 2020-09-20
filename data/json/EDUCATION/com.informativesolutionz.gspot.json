@@ -1,0 +1,11 @@
+{
+"name" : "How to Find Your G Spot",
+"url" : "https://play.google.com/store/apps/details?id=com.informativesolutionz.gspot",
+"package" : "com.informativesolutionz.gspot",
+"category" : "Education",
+"description" : "The G-spot, also called the Grfenberg spot (for German gynecologist Ernst Grfenberg), is characterized as an erogenous area of the vagina that, when stimulated, may lead to strong sexual arousal, powerful orgasms and potential female ejaculation. It is typically reported to be located 58 cm (23 in) up the front (anterior) vaginal wall between the vaginal opening and the urethra and is a sensitive area that may be part of the female prostate.  So, dont waste your time. Download the app Now and Find out.   2018 Informative Solutionz ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'com.informativesolutionz.gspot.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

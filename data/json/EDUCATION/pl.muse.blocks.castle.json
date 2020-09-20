@@ -1,0 +1,11 @@
+{
+"name" : "Castle Blocks",
+"url" : "https://play.google.com/store/apps/details?id=pl.muse.blocks.castle",
+"package" : "pl.muse.blocks.castle",
+"category" : "Educational",
+"description" : "Get creative and see how easy it is to make a beautiful palace, a medieval stronghold or an ancient city.  Let your kids develop creativity and impress you with their imagination. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

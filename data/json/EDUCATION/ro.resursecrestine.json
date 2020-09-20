@@ -1,0 +1,11 @@
+{
+"name" : "Resurse Crestine",
+"url" : "https://play.google.com/store/apps/details?id=ro.resursecrestine",
+"package" : "ro.resursecrestine",
+"category" : "Education",
+"description" : "Resurse Cretine este un concept pornit la iniiativa ctorva tineri dornici s pun la dispoziia fiecruia o gam variat de resurse exclusiv cretine, organizate ntr-o baz de date cuprinztoare, care s constituie ajutor i hran pentru (lucrtori) cretini, indiferent de denominaiune, dar i o fereastr spre lume, lucrnd mpreun la avansarea mpriei lui Dumnezeu. Christian resources is a concept started at the initiative of several young people eager to provide everyone a variety of resources exclusively Christian, organized a comprehensive database that will provide help and food (workers) Christians, regardless of denomination, but and a window to the world, working together to advancing the kingdom of God. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

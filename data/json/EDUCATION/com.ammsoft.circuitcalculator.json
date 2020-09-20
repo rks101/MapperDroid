@@ -1,0 +1,11 @@
+{
+"name" : "Electronic Circuit Calculation",
+"url" : "https://play.google.com/store/apps/details?id=com.ammsoft.circuitcalculator",
+"package" : "com.ammsoft.circuitcalculator",
+"category" : "Education",
+"description" : "Using the simplified H model and the FET transconductance model, this application calculates the voltage gain (Av), input impedance (Zin) and output impedance (Zout) of the common emitter AC circuits, common emitter without bypass, common collector , Common base, common source, common source without bypass, common drain and common gate.  The calculation in AC uses simplified models for small signals.  The DC calculation for BJTs is done using IC = BETA * IB and for FETs the DC calculation is done using the Shockley equation.  Also has module for calculating color code of resistors. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.ammsoft.circuitcalculator.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

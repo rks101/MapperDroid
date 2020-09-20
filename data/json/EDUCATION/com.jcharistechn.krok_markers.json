@@ -1,0 +1,11 @@
+{
+"name" : "Krok-Markers",
+"url" : "https://play.google.com/store/apps/details?id=com.jcharistechn.krok_markers",
+"package" : "com.jcharistechn.krok_markers",
+"category" : "Education",
+"description" : "Krok-Markers is a comprehensive collection of keywords and markers for KROK 1-Exams (medicine).This app makes it easy and simple to prepare for KROK 1 Exams. It offers over 500+ must-know keywords and markers with a quick search for markers.  It is a quick and simplified way to prepare for KROK 1 Exams.Krok-Markers is designed for medical students studying in English Medium in Ukraine. Highly Recommended for Easy Preparation for KROK.  Krok-Markers App offers; List of must-know keywords and markers  Subject by subject selection  Requires No Internet connection for usage . Krok 1 Past Exams Questions (2016-2010)  Quick-Search for Markers and Questions(2015) Selected Color Atlas and Diagrams  Store your own marker and keywords  Get the best results in your exams with Krok-Markers App ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

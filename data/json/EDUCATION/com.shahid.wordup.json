@@ -1,0 +1,11 @@
+{
+"name" : "Wordup!",
+"url" : "https://play.google.com/store/apps/details?id=com.shahid.wordup",
+"package" : "com.shahid.wordup",
+"category" : "Education",
+"description" : "Wordup is a simple to use dictionary app which uses Wordnik.coms API as back-end. The app is still in its beta stage and hence many features might be missing.   The updates should almost arrive every 2 weeks, if everything goes well.   Please let me know what you think about Wordup! Your suggestions would help in the development of this app.   Kindly, leave a rating if you like it!  ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

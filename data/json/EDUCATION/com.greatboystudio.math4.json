@@ -1,0 +1,11 @@
+{
+"name" : "Math Game collection for Kids",
+"url" : "https://play.google.com/store/apps/details?id=com.greatboystudio.math4",
+"package" : "com.greatboystudio.math4",
+"category" : "Educational",
+"description" : "Math Game collection for Kids has many games to choose from, Practice mathematics, Suitable for all ages.  Features:  Has 9 mini-games, you can play one mini-game or play multiple mini-games at the same time.  Including Addition, Subtraction, Multiplication, Division, etc.  You can choose difficulty levels such as easy, normal and hard.  You can customize game rule such as a max question, time limit for an answer, endless, etc.  You can check the answer after playing the game, to check how you make mistakes.  You can view and check your statistics at any time. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

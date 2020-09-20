@@ -1,0 +1,11 @@
+{
+"name" : "NCERT Class 10th Science Sloution Hindi Medium",
+"url" : "https://play.google.com/store/apps/details?id=com.studentzoneapps.hindiclass10sciencesolution",
+"package" : "com.studentzoneapps.hindiclass10sciencesolution",
+"category" : "Education",
+"description" : "CBSE schools refer NCERT books which are universal in the entire country. So, a student who follows NCERT books will not have problem if he or she shift to another state because the syllabus is same anywhere. This is not the case for other boards.  The books preferred by these boards are easy for some while tough for others. Some have good teachers, lenient examination while some do not have these facilities. It is important how one has progressed in life in spite all of these.  Index ():    1: Chemical Reactions and Equations /       2: Acids, Bases and Salts / ,      3: Metals and Non  Metals /      4: Carbon and its Compounds /       5: Periodic Classification of Elements /       6: Life Processes /     7: Control and Coordination /      8: How do Organisms Reproduce? /     ?   9: Heredity and Evolution /       10: Light  Reflection and Refraction /        11: Human Eye and Colourful World /        12: Electricity /    13: Magnetic Effect of Electric Current /        14: Sources of Energy /      15: Our Environment /     16: Management of Natural Resources /        Main Features:   This app is in easy HindiLanguage.  Simple app. Works offline. No internet connection needed!  Professionally designed, user-friendly and intuitive interface.  Clear Font for better readability.  Easy to use.  Zooming Available   DISCLAIMER :  Owner of this application do not have any right on the content and images present in this application because all the content is collected from internet. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'com.studentzoneapps.hindiclass10sciencesolution.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS']" 
+"extra_perms" : "[]",
+}

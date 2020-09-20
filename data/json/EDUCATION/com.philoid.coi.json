@@ -1,0 +1,11 @@
+{
+"name" : "Constitution of India with MCQ",
+"url" : "https://play.google.com/store/apps/details?id=com.philoid.coi",
+"package" : "com.philoid.coi",
+"category" : "Education",
+"description" : "Entire Constitution of India is available in English and Hindi language & is neatly categorized into user friendly categories viz.   Preamble,   Parts,   Articles,   Schedules and   Amendments as notified by Govt. of India.   -  - Features of the App -   Available in OFFLINE mode (No internet required)  Contains offline MCQs (Multiple choice questions)  Polity eBooks (NCERT & NIOS) are available in Hindi and English medium for one click download  Online Notes and Articles to boost your UPSC IAS Preparation.   Option to Add articles, schedules etc to Favorites list for quick access.   * App is specially designed for students pursuing Law or Legal degree and preparing for Civil Services Examinations.  * Contains all the provisions of the Indian Constitution with all the amendment carried out till date. (till 101st [One Hundred and First] Amendment)  * Allows you to save and share any Article, Schedule, Amendment or a piece of text (selected by you) via various text sharing apps  -  Please let us know what you think about this app by Rating & Reviewing.   All the Best! ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_ACCOUNTS']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

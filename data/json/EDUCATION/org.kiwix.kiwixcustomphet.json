@@ -1,0 +1,11 @@
+{
+"name" : "Chemistry & Physics simulations",
+"url" : "https://play.google.com/store/apps/details?id=org.kiwix.kiwixcustomphet",
+"package" : "org.kiwix.kiwixcustomphet",
+"category" : "Education",
+"description" : "150 PhET interactive simulations to explore a wide range of science concepts. Ideal for use in the classroom or at home. These award-winning resources engage students through an intuitive, game-like environment that promotes exploration and discovery.  This app is motorised by Kiwix and uses open educational resources (Creative Commons Attribution license - CC-BY) developed by the PhET Interactive Simulations project at the University of Colorado Boulder.  We encourage you to support the mission of the PhET project and purchase the official PhET Android App! Price is only $0.99 for lifetime access. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

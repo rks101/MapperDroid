@@ -1,0 +1,11 @@
+{
+"name" : "Guitar Riff Free",
+"url" : "https://play.google.com/store/apps/details?id=com.veitch.learntomaster.grf",
+"package" : "com.veitch.learntomaster.grf",
+"category" : "Education",
+"description" : " Learn To Play Your Favorite Riffs on the Electric Guitar  Over 1000 Songs to learn from different eras and genres.  Highly configurable guitar with clean / distortion effects.  Resizable fretboard suitable for all devices and tablets.  High simulator quality and is quick and responsive.  ***** Riffs ***** Songs cover all genres: Rock, Indie, 60s, 70s, 80s, 90s, Naughties, Modern, Latin, Classical, Film Themes, TV Themes, Pop, Traditional. Well known riffs such as ACDC, Alice Cooper, Arctic Monkeys, Beatles, Cream, Deep Purple, etc:  ...and more  ***** Other Features *****  Professionally recorded digitised Fender Stratocaster sounds for each separate note or plug in the distortion!  Support for Left Handers  Focus on sections of the song to master those licks.  Adjust the speed and volume of the riff for playing along.  Highlight notes on/off to play by ear.  Standard note tab naming convention. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

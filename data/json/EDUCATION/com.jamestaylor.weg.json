@@ -1,0 +1,11 @@
+{
+"name" : "Worldwide Equipment Guide",
+"url" : "https://play.google.com/store/apps/details?id=com.jamestaylor.weg",
+"package" : "com.jamestaylor.weg",
+"category" : "Education",
+"description" : "The Worldwide Equipment Guide app provides the statistics you need to know about friendly and opposing force weapon systems. With over 100 separate pieces of equipment and more to be released with periodic updates, you will be able to rapidly reference any weapon system and determine its capabilities and limitations.   The Worldwide Equipment Guide app also leverages equipment data to enable side-by-side comparisons between two pieces of equipment. Finally, it offers a memorization aid to help you identify weapon systems and their capabilities from memory. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

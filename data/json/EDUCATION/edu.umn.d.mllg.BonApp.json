@@ -1,0 +1,11 @@
+{
+"name" : "Bon App",
+"url" : "https://play.google.com/store/apps/details?id=edu.umn.d.mllg.BonApp",
+"package" : "edu.umn.d.mllg.BonApp",
+"category" : "Education",
+"description" : "The French Pronunciation App from the Mobile Language Learning Group at the University of Minnesota Duluth (UMD).  The UMD Pronunciation App was designed and built through the collaboration of students and faculty at the University of Minnesota Duluth.   According to research on L2 pronunciation, just getting the speaker to hear their errors is 80% of the work. This app was designed to address that 80%. While there are numerous versions of acceptable French, we have opted for the French that is taught in most language programs. We will add more varieties as time permits. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.RECORD_AUDIO']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Class 12 Physics Solution Hindi Medium",
+"url" : "https://play.google.com/store/apps/details?id=com.studentzoneapps.hindiclass12physics",
+"package" : "com.studentzoneapps.hindiclass12physics",
+"category" : "Education",
+"description" : "CBSE schools refer NCERT books which are universal in the entire country. So, a student who follows NCERT books will not have problem if he or she shift to another state because the syllabus is same anywhere. This is not the case for other boards.  The books preferred by these boards are easy for some while tough for others. Some have good teachers, lenient examination while some do not have these facilities. It is important how one has progressed in life in spite all of these.  Index ():    1:     2:         3:     4:     5:     6:     7:        8:         9:      10:     11:     12:      13:         14:     15:     16:    17:  -  ,        Main Features:   This app is in easy Hindi Language.  Simple app. Works offline. No internet connection needed!  Professionally designed, user-friendly and intuitive interface.  Clear Font for better readability.  Easy to use.  Zooming Available   DISCLAIMER :  Owner of this application do not have any right on the content and images present in this application because all the content is collected from internet. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Five Little Mice (Cinco Ratoncitos) - learn shapes",
+"url" : "https://play.google.com/store/apps/details?id=com.encantosmedia.littlemice",
+"package" : "com.encantosmedia.littlemice",
+"category" : "Educational",
+"description" : "Come, sing learn and play with Canticos!  Follow these Little Mice on a mission to find and eat as much cheese as they possibly can before they get caught by the cat for lunch!   Activities in English & Spanish: Sing to me: Listen to a fun version of this adorable song set to beautiful hand paintings of mischievous little mice on a quest to fill their bellies. The words are highlighted as they are sung to help children follow along.  Read to me: Listen to an engaging reading of the song as you follow allow to the words on the screen.   Read to myself: Read the verses of the song at your own pace while you interact with the mice on the screen.   Learn shapes: As your child plays with the app he/she will also learn the names of many basic shapes in English and Spanish.  This childrens song is based on a popular nursery rhyme in Spanish called Cinco ratoncitos de colita gris or Five gray-tailed little mice and is perfect for children of preschool age, or parents who want to foster bilingual learning.   The English adaptation truly matches the melody of the original Spanish version so it is just as fun to sing in English as it is in Spanish.  --- Book: Buy the book Little Mice - Ratoncitos on Amazon here:  bit.ly/MiceRatoncitos  Apps: Download Canticos apps at CanticosWorld.com/apps  --- Visit CanticosWorld.com for more books, apps, and videos based on popular Spanish nursery rhymes and songs. --- ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

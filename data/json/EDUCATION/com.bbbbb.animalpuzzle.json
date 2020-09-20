@@ -1,0 +1,11 @@
+{
+"name" : "Animals puzzles for kids",
+"url" : "https://play.google.com/store/apps/details?id=com.bbbbb.animalpuzzle",
+"package" : "com.bbbbb.animalpuzzle",
+"category" : "Educational",
+"description" : "Animal puzzles - an educational game for children. Toddlers must assemble pieces of animals. The game is completely free, contains funny animals - dog, horse, cow, rooster, elephant, rhinoceros, giraffe, hippo, panda and other wild animals and pets. Funny animals jigsaw puzzles move their eyes, and when you assemble the puzzle, they come to life. This is a fun and educational learning game for preschool children. - Simple and intuitive interface. - No internet connection required - Suitable for kids  Educational games help kids: - develop fine motor skills - improve logical thinking - improve memory and attention - develop cognitive abilities Our educational games are suitable for boys and girls. Montessori educational games are a good way to develop all childrens skills. After the assembled puzzle becomes alive, you can hear the sounds of animals and pop balloons. The cartoon style of animals for the baby is so funny. Games for kids should be simple and free. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "[]",
+}

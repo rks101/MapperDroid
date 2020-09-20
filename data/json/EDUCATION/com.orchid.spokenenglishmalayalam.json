@@ -1,0 +1,11 @@
+{
+"name" : "Spoken English Malayalam",
+"url" : "https://play.google.com/store/apps/details?id=com.orchid.spokenenglishmalayalam",
+"package" : "com.orchid.spokenenglishmalayalam",
+"category" : "Education",
+"description" : "Spoken English Malayalam is very helpful app for learning to speak English with Malayalam. This app contains lessons that will give you special attention to English pronunciation. We added English proverbs and meanings. This app also includes the list of most common useful words in English.   Please visit our YouTube page https://www.youtube.com/OTechnologies   Please like us on Facebook: https://www.facebook.com/OrchidTechnologies.in ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+}

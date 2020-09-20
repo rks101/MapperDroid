@@ -1,0 +1,11 @@
+{
+"name" : "Baby games for 2 to 4 year olds",
+"url" : "https://play.google.com/store/apps/details?id=com.bimiboo.birthday",
+"package" : "com.bimiboo.birthday",
+"category" : "Educational",
+"description" : "Kidss educational games for children from 2 to 5 years. 15 educational preschool games for kids on the development of fine motor skills, coordination, logical thinking and visual perception. Games will help boys and girls in developing basic skills and pre-school education.  Our childrens app includes: - Kidss games for the development of logic - Games for kids to enhance memory - Puzzles for children - Learn the numbers for the smallest - Develops attention and perception - Educational games for children from 2 to 5 years  Our childrens learning games will appeal to both girls and boys.  Age: 2, 3, 4 and 5 years. Preschool education.  You will never find annoying ads inside our app. We are always glad to receive your feedback and suggestions. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

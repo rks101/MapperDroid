@@ -1,0 +1,11 @@
+{
+"name" : "Chemie názvosloví a testy",
+"url" : "https://play.google.com/store/apps/details?id=com.holucent.chemistry2",
+"package" : "com.holucent.chemistry2",
+"category" : "Education",
+"description" : "V aplikaci najdete teorii a pedevm testy na prvky Periodicke soustavy prvk, vzorce a nzvy oxid, sulfid, ditrid, halogenid, hydroxid a bezkyslkatch a kyslkatch kyselin.  Aplikace zaznamenv statistiky a podrobn vsledky test vetn asu a sprvn odpovdi ke kad otzce.  Obsahuje: - PSP - oxidy - sulfidy - kyseliny - hydroxidy - halogenidy - nitridy  Mete si tak zahrt ampiont a pokusit se umstit v tabuce nejlepch hr. In the application you will find the theory and especially tests for elements of the Periodic system of elements, formulas and names of oxides, sulfides, ditrides, halides, hydroxides and oxygen-free and oxygen acids.  The application records statistics and detailed test results, including time and correct answers to each question.  Includes: - PSP - oxides sulfides - acids hydroxides halides - nitrides  You can also play the championship and try to place the best players in the taboo. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.holucent.chemistry2.permission.C2D_MESSAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

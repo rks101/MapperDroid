@@ -1,0 +1,11 @@
+{
+"name" : "Kids Learn Shapes FREE",
+"url" : "https://play.google.com/store/apps/details?id=com.intellijoy.android.shapes",
+"package" : "com.intellijoy.android.shapes",
+"category" : "Educational",
+"description" : "A hands-on, real-life way for kids to learn shapes.  Wouldnt it be just wonderful if there was a simple game for preschoolers and kindergarten-aged children that made learning shapes enjoyable? There is! Its called Kids Shapes.   What activities are included?   Learning shapes using real-life objects  Recognizing shapes in their real-life settings   What will my children learn?  Your child will learn to recognize shapes in their real-life context. The shapes currently included are circle, rectangle, triangle, square, rhombus and oval.   What wont my children learn?  The game does not overload children and parents with too many audio and visual stimuli. Coping with stress and over-stimulation is therefore one skill that your kids wont be practicing during this game. Its clear focus makes the game a delight for children and a winning choice for parents.   Hey, how did you take the top spots in the Education section?   Educational games for young children is all we do. Our mission is: Delight children through learning.    Our games are laser focused. For example, the numbers game doesnt teach letters, and the letters game doesnt teach math. We keep the games simple but magically inviting and nourishing.   We strive to give children just the right balance between education and fun. So our games dont feature fun at the expense of education  or education at the expense of fun. We also know games that are too complicated dont involve and delight kids. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

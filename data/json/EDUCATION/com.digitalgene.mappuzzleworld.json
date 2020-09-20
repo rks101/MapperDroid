@@ -1,0 +1,11 @@
+{
+"name" : "Enjoy Learning World Map Puzzle",
+"url" : "https://play.google.com/store/apps/details?id=com.digitalgene.mappuzzleworld",
+"package" : "com.digitalgene.mappuzzleworld",
+"category" : "Educational",
+"description" : "This is a puzzle game where you can learn the position of the countries in the world.  I produced it for fun as a game to play lightly. Play many times in order to update the best time, and that competed in the World Ranking, you can learn while having fun.  You can see it in the [Gallery] to the variety of panel painting that you get. Please do your best to complete.  [Quick 20] is picked up randomly from 20 countries of major countries. [World] is all countries in this app. [Region] is each region such as Europe and Asia. [Selection] is to play in each content of interest, such as Football powerhouse, Number of Olympic medal.  (*)Due to the puzzle game, that are not included in some countries. The name of the country has a simplified notation.   [New modes Master and Maniac]   In response to various requests to include all countries, we have added the new Master and Maniac modes which include countries that were omitted previously because the puzzle pieces were too small.   (*) Even for regions that claim autonomy as countries, only pieces with 10 or more approved countries will be registered as a country.  (*) The number of countries in the Master and Maniac modes may change in future.  (*) Due to the characteristics of the puzzle, countries whose areas are too small may not be included in modes other than the Master and Maniac modes. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

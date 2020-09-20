@@ -1,0 +1,11 @@
+{
+"name" : "Speak Arabic For All 1 - Lite",
+"url" : "https://play.google.com/store/apps/details?id=com.IqraInnovations.SAFA1Lite",
+"package" : "com.IqraInnovations.SAFA1Lite",
+"category" : "Education",
+"description" : "Speak Arabic For All has been specially designed to help the absolute beginner learn how to speak Arabic.  > Example phrases are introduced gradually in a simple and easy to follow manner in a series of activities  > Example phrases are based on a natural question/answer format  > Thousands of different sentences to create  > Audio has been added to help with pronunciation  > Many different words are used to help improve the vocabulary of the user  > All text is vowelized to help the student to read it correctly  > New activities are regularly added  If you notice any errors or have any suggestion for improvement, please contact IqraI@outlook.com  All Rights Reserved - Iqra Innovations 2016-2017 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.SEND_SMS', 'android.permission.BLUETOOTH', 'android.permission.READ_EXTERNAL_STORAGE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS']",
+}

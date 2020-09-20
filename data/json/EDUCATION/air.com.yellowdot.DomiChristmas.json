@@ -1,0 +1,11 @@
+{
+"name" : "Domi Domi Christmas Blocks",
+"url" : "https://play.google.com/store/apps/details?id=air.com.yellowdot.DomiChristmas",
+"package" : "air.com.yellowdot.DomiChristmas",
+"category" : "Educational",
+"description" : "Let your child decorate the Christmas tree together with the cute characters and get Christmas presents as rewards.  Your child will follow color patterns and discover hidden pictures together with the cute characters. Beautiful artwork and fun sounds will guide your child through different activities.   Give your child an early Christmas present!  Key features: - recreating sequence of color blocks  - several difficulty levels - 8 cute characters - for ages 3-5 - sing along to Jingle Bells together with the cute creatures - get Christmas presents   The app supports the development of: - eye-hand coordination - spatial orientation - deduction skills - pattern & color recognition - touch typing skills - mnemonic skills - attention focus ability   Child friendly app: -No in-app purchases -No third-party advertising -No social media   Domi Domi has been created by a group of educational game designers and developers. The creation of the app was supervised by experienced early years educators. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.DISABLE_KEYGUARD', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

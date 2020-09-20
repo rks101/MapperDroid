@@ -1,0 +1,11 @@
+{
+"name" : "Taekwon-Do ITF Theory",
+"url" : "https://play.google.com/store/apps/details?id=info.vladalas.taekwondotheory",
+"package" : "info.vladalas.taekwondotheory",
+"category" : "Education",
+"description" : "The Application Taekwon-Do ITF Theory is intended for students of this Korean martial arts. It contains selected chapters of theory, which is an integral part of the Taekwon-Do study. In the application, you can find the following sections: - tenets of Taekwon-Do and their explanations, - composition of Taekwon-Do, - all 24 patterns, sequence of movements (in Korean transcription, English and Korean), a description of the significance and other information, - non-standard speeds of motions in patterns, - kicks in patterns, - list of attacking and blocking tools, - stances - theory of power, - moral culture, - history - General Choi Hong Hi, - Taekwon-Do oath, - Instructor titles and stripes, - Training secrets of Taekwon-Do, - practice suit, - Do Jang,  - Student / instructor relationship, - Dictionary. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Korean Pronunciation (Lite)",
+"url" : "https://play.google.com/store/apps/details?id=com.clusoft.hangulzzang_app_lite",
+"package" : "com.clusoft.hangulzzang_app_lite",
+"category" : "Education",
+"description" : "This is a test version for the app Korean Pronunciation.  Practice Korean letters and Pronunciation at once.  Should watch tongue movements and air flow when Korean is pronounced, which is the most effective in teaching or learning Korean pronunciation including K-pop pronunciation.   Write Korean letters and then watch how Korean tongue articulates the phonemes and syllables corresponding to the letters and words written.  You can also see the air flow inside mouth when Korean words are pronounced.  The best way to learn how to pronounce K-pop lyrics even if indirectly.  (Korean letters named Hangul was invented by King Sejong.)  Thls app is also represented by other symbolic words such as Korean alphabet pronunciation, Korean character pronunciation, Korean lyrics pronunciation, K-pop pronunciation, K-pop lyrics pronunciation, Korean diction, Korean phonics, Korean alphabets, Korean characters, Korean alphabet writing, Korean alphabet reading, Korean character writing, Korean character reading, Korean letter writing, Korean letter reading, Korean phonemes, Korean syllables, learn Korean, Kpop pronunciation, Kpop lyrics pronunciation, Korean alphabet, Korean character, Korean phoneme, Korean syllable,  and etc. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

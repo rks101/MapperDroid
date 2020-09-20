@@ -1,0 +1,11 @@
+{
+"name" : "E-Vidhyalay",
+"url" : "https://play.google.com/store/apps/details?id=com.educationvideos.gpsconline.evidhyalaya",
+"package" : "com.educationvideos.gpsconline.evidhyalaya",
+"category" : "Education",
+"description" : "Best Educational Application is out on Stores now, Any ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_INTERNAL_STORAGE', 'android.permision.CALL_PHONE', 'android.permission.CLEAR_APP_CACHE', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.INTERNET', 'android.permission.WRITE_INTERNAL_STORAGE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_INTERNAL_STORAGE', 'android.permision.CALL_PHONE', 'android.permission.INTERNET', 'android.permission.WRITE_INTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW']",
+}

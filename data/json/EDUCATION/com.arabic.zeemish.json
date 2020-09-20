@@ -1,0 +1,11 @@
+{
+"name" : "Learn Arabic for Beginners",
+"url" : "https://play.google.com/store/apps/details?id=com.arabic.zeemish",
+"package" : "com.arabic.zeemish",
+"category" : "Education",
+"description" : "Learn how to speak Arabic with lessons, courses, audio, activities and quizzes, including the alphabet, phrases, vocabulary, pronunciation, parts of speeches, grammar and many more.   CLass 1 : Basics  - Alphabets  - Alphabets Quiz  - Vowels Theory  - Vowels Pronunciation  - Alphabets Charts  - Numbers Theory  - Numbers Audio  - Numbers Quiz  - Noun  - Pronoun  - Verb  - Adjective  - Adverb  - Preposition  - Conjunction  - Body Parts  - Fruits and Vegetables   Class 2: Greetings  -Study List  -Slide Show  -English to Arabic Reading Quiz  -Arabic to English Reading Quiz  -English to Arabic Listening Quiz  -Arabic to English Listening Quiz   Class 3: Polite Expressions  Class 4 : Praise  Class 5: Days, Months and Seasons  Class 6 : Climate  Class 7 : Time  Class 8 : Common Questions  Class 9 : Directions  Class 10 : Instructions  Class 11 : Health and Safety  Class 12 : Shifts and Pay  Class 13 : Around the Office  Class 14 : Animals  Class 15 : Tools and Equipment  Class 16 : Measurement  Class 17 : People  Class 18 : Crops and Plants  Class 19 : Holidays and Sympathies  Class 20 : Agriculture ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

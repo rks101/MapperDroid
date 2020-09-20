@@ -1,0 +1,11 @@
+{
+"name" : "Biology Mitosis & Meiosis L",
+"url" : "https://play.google.com/store/apps/details?id=com.firstclassstanding.mitosis_meiosis",
+"package" : "com.firstclassstanding.mitosis_meiosis",
+"category" : "Education",
+"description" : "TOPICS 1. Chromosomes & Karyotypes 2. Mitosis 3. Meiosis 4. Binary Fission  LITE VERSION  The Lite version lets you preview the Learn, Interact, and Test section for each topic. If you like what you see you can unlock the full version with an in-App purchase.  Schools and Universities interested in volume purchases should contact First Class Standing to inquire about our Pro version.  -----------------------------------------  First Class Standing creates intuitive, interactive Science Apps for students. Each module guides you through a topic in three stages.  Stage 1: LEARN In this section the topic is introduced to you through an animated tutorial.  Stage 2: INTERACT Next, you get a chance to interact with the process by moving cellular components, selecting molecules, and initiating sequences.   Stage 3: TEST Finally, we give you a topic test to see how much youve learned. Then you can share your results with friends and teachers.  Our Apps are designed to compliment most high school Biology curriculum expectations (IB, AP, US, Canada), but may also suitable for many first year post secondary programs.   Each App is built around the concept of spaced learning to help you study more efficiently and effectively.  *Privacy: Our Apps do not log or collect any personal data, contain no cookies or trackers, and do not link to any third parties. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.android.vending.CHECK_LICENSE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

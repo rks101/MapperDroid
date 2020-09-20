@@ -1,0 +1,11 @@
+{
+"name" : "Vikaspedia Browser",
+"url" : "https://play.google.com/store/apps/details?id=com.cdac.vikaspediabrowser",
+"package" : "com.cdac.vikaspediabrowser",
+"category" : "Education",
+"description" : "The New Version of the application is available here https://play.google.com/store/apps/details?id=com.cdac.vikaspediabrowserstudio&hl=en  Vikaspedia, a multilingual, multi-sectoral online knowledge platform, is an initiative of Department of Electronics and Information Technology (DeitY), MCIT, GoI for providing e-knowledge and using ICT-based applications in regional languages for empowerment of under-served communities. It is presently available in 9 Indian languages, besides English and covers six key livelihood sectors. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

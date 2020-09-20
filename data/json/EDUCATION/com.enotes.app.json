@@ -1,0 +1,11 @@
+{
+"name" : "eNotes - The Literature Experts",
+"url" : "https://play.google.com/store/apps/details?id=com.enotes.app",
+"package" : "com.enotes.app",
+"category" : "Education",
+"description" : "The eNotes.com app provides access to a vast collection of study guides, homework help answers, and quizzes. Get quick help with any book, any question.   LITERATURE STUDY GUIDES  - Includes more than 30,000 titles, one of the worlds largest collections  - Written by experts, designed for students and teachers  - Fact-checked by eNotes editors   HOMEWORK HELP  - Real answers by real teachers to more than 350,000 homework help questions  - More than 1000 new expert answers published every week  - Each answer is personally evaluated by our editorial staff for originality and accuracy ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

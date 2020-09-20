@@ -1,0 +1,11 @@
+{
+"name" : "Countries And Capitals",
+"url" : "https://play.google.com/store/apps/details?id=com.rishabhk.countries",
+"package" : "com.rishabhk.countries",
+"category" : "Education",
+"description" : "The app provides a list of all the countries with relevant information like flags, continent, capital, currencies and languages.  Useful app for people who want to increase their knowledge about the vast world that is out there!  You can search for a particular country, favourite countries, get information for a random country, take quizzes, review quizzes to figure out the mistakes and so much more!  Key features:- ->Dual Theme - Light And Dark - Choose your favourite! ->Dual Quiz - Capitals and Flags ->Customizable Quiz - Choose quiz source, number of questions and time per question ->Star countries so that you can get back to them later ->Long press to bookmark country - During scrolling, down arrow takes you to the bookmarked country ->Random tab displays a country info at random ->Search for a particular country ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'com.rishabhk.countries.permission.C2D_MESSAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

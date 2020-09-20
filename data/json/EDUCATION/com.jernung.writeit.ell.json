@@ -1,0 +1,11 @@
+{
+"name" : "Write It! Greek",
+"url" : "https://play.google.com/store/apps/details?id=com.jernung.writeit.ell",
+"package" : "com.jernung.writeit.ell",
+"category" : "Educational",
+"description" : "Write It! Greek is the first writing recognition app for Greek! Try our writing recognition and youll never want to go back to tracing apps.   Hassle-free writing. Never get stuck or have to go back and reference how to write a letter.   Practice writing with guides before testing yourself, making learning extremely fast and stress-free.   Bite-sized lessons allow you to learn conveniently, even if you only have a few minutes.   Write anywhere! No longer be restricted to writing only when you have paper and a pen!  Stop referencing books, watching videos, and using tracing apps that never test you, download Write It! Greek now! ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

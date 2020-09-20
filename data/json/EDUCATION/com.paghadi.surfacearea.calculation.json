@@ -1,0 +1,11 @@
+{
+"name" : "Surface area and volume calculation",
+"url" : "https://play.google.com/store/apps/details?id=com.paghadi.surfacearea.calculation",
+"package" : "com.paghadi.surfacearea.calculation",
+"category" : "Education",
+"description" : "Surface area and volume calculation is a simple and smart tool to fine the volume of different shapes.   Its daily usage tool to speed up your performance.  Information on the definition of the shape and the formula used for calculation is also provided.  - Neat and Clean design. - You can also use offline. -  Friendly User Interface.   Categories  - Ball surface area - Cone Surface area - Cube Surface area - Cylindrical Tank Surface area - Rectangular Tank Surface area - Capsule Surface area - Cap Surface area - Conical Frustum Surface area - Ellipsoid Surface area - Square Pyramid Surface area  Best application tool for Mathematics education ! this application will help you to learn Surface area & volume calculation!   Let us know if you have any suggestions/issues. If you think any other formula should be listed, then do write to us at paghadidevelopers@gmail.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

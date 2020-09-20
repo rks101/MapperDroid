@@ -1,0 +1,11 @@
+{
+"name" : "Ghatna Chakra SSC General Studies in Hindi OFFLINE",
+"url" : "https://play.google.com/store/apps/details?id=ek.gh_sscgeneralstudieshindi",
+"package" : "ek.gh_sscgeneralstudieshindi",
+"category" : "Education",
+"description" : "Ghatna Chakra Presents - SSC General Studies in Hindi.  Most Important Current Affairs 2019 . Most Important Current Affairs 2018 . 1500 Indian History Question  1500 Indian Economy Question  1500 Indian Polity Question  1500 Indian Constitutions Question  1500 Indian Geography Question  1500 Indian World Geography Question  1500 Indian Modern History Question  1500 General Science Question Added 1000 One Linear General Knowledge Question . and Various Study Material for General Studies. Helpful in various exams like SSC, BANK PO, RRB, NTPC, IBPS etc. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

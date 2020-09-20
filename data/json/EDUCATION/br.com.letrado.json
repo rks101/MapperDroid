@@ -1,0 +1,11 @@
+{
+"name" : "Letrado",
+"url" : "https://play.google.com/store/apps/details?id=br.com.letrado",
+"package" : "br.com.letrado",
+"category" : "Education",
+"description" : "O jogo Letrado foi desenvolvido a partir do principio de que podemos aprender e nos divertir ao mesmo tempo.  Nele o jogador pilota uma nave e deve capturar as letras corretas que caem do cu para formar a palavra apresentada na parte superior da tela. A cada palavra formada o jogador ganha uma estrela e uma nova palavra  apresentada, caso o jogador capture uma letra que no faz parte da palavra selecionada ele perde uma vida.  Aproveito o jogo, forme quantas palavras conseguir, ganhes muitas estrelas e fique no topo do Ranking! The Literate game was developed from the principle that we can learn and have fun at the same time.  In it the player pilots a spaceship and must catch the correct letters falling from the sky to form the word displayed at the top of the screen. Every word formed the player earns a star and a new word is displayed if the player captures a letter that is not part of the selected word he loses a life.  I take the game, form as many words get, win a lot of stars and stay on top of the ranking! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

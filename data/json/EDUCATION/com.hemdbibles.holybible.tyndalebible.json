@@ -1,0 +1,11 @@
+{
+"name" : "Tyndale Bible - Original English Translation",
+"url" : "https://play.google.com/store/apps/details?id=com.hemdbibles.holybible.tyndalebible",
+"package" : "com.hemdbibles.holybible.tyndalebible",
+"category" : "Education",
+"description" : "Tyndale English Bible  This is the first formal bible translation in English. KJV Borrowed much of its text from the Tyndale Bible. For years this has been one of the leading and most read translations of the Bible. Tyndale Bible App also comes with other bible study tools to make your reading experience amazing.  The Tyndale Bible App also comes with a list of most popular prayers for your reference.  Tyndale Bible is your daily scripture reading companion - With the complete holy scriptures and your prayer guide. Holy Bible comes with both the new testament and the old testaments of the holy scriptures. Tyndale Bible is completely an offline bible without requiring internet connection to study the scriptures.   KEY FEATURES; Easy to read bible reader Offline bible  Share your favorite bible verse with your friends.  Daily Christian Prayers reference.  Easy to use Bible App Favorites and Bookmarks for your favorite bible verses.  Advance Bible search. Bible in the language that you will understand.  Gods word in its original form. Bible comes with a complementary English version of the holy scripture. Cross reference bible with the complementary bible version. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.hemdbibles.holybible.tyndalebible.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

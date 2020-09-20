@@ -1,0 +1,11 @@
+{
+"name" : "Bharat Ko Jano",
+"url" : "https://play.google.com/store/apps/details?id=bharatkojano.com",
+"package" : "bharatkojano.com",
+"category" : "Education",
+"description" : "In view of the above, Bharat Ko Jano (i.e. Know Your Country) Quiz Competition is prepared and staged among the School & College students so as to present a true and glorious picture of our great country before them. The aim of the competition is to inspire the youth of the country and those living abroad, to love and be proud of their country. It aims to mentally prepare them to make some sacrifices for the all-round development of our great country and propagate its greatness to the world.  The syllabus for such a vast subject cannot be precisely defined. However, it can be said that the Quiz mainly comprises Indian History, Geography, Religion & Culture, Polity & Constitution, Books & Authors, Sports & Entertainment, Literatures & Personalities, and other miscellaneous subjects like Founders, Important Dates, Recipients of Important Honours and Prizes, Historical Facts, Projects, Scientific Achievements, Current Affairs etc. etc. In one sentence, it can be said that everything about India or related to India is a part of the syllabus. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

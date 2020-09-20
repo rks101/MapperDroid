@@ -1,0 +1,11 @@
+{
+"name" : "Bebop Band 3",
+"url" : "https://play.google.com/store/apps/details?id=com.macmillan.bebopband3",
+"package" : "com.macmillan.bebopband3",
+"category" : "Education",
+"description" : "With the Bebop Band 3 app, children explore and have fun learning the English language through music  and parents can sing along too!   Ideal for young learners, the Bebop Band 3 app will help to boost your childs English vocabulary and test their memory through:    8 animated musical stories linked to daily routines  61 video flashcards  all including American Sign Language translations  8 action song videos to sing and dance along to  32 engaging interactive games.   The app provides a great way for children to build and practice their language skills at home, and may also be recommended by teachers for use alongside level 3 of Macmillan Educations Bebop course for pre-school. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET']",
+}

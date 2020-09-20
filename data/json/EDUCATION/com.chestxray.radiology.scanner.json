@@ -1,0 +1,11 @@
+{
+"name" : "Chest X-ray interpretation",
+"url" : "https://play.google.com/store/apps/details?id=com.chestxray.radiology.scanner",
+"package" : "com.chestxray.radiology.scanner",
+"category" : "Education",
+"description" : "CHEST X-RAYS (CXRs) are one of the oldest noninvasive methods for identifying abnormalities in the chest  Develop unique analytical skills thanks to a new innovative systematic approach, illustrated with thousands of examples. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

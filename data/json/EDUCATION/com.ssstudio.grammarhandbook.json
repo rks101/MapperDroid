@@ -1,0 +1,11 @@
+{
+"name" : "English Grammar Handbook",
+"url" : "https://play.google.com/store/apps/details?id=com.ssstudio.grammarhandbook",
+"package" : "com.ssstudio.grammarhandbook",
+"category" : "Education",
+"description" : "English Grammar Handbook! The best app to learn English Grammar.  Grammar In Use - Active Or Passive Voice, Adjectives, Adverbs; - Articles, Auxiliary Verbs, Conditionals, Conjunctions, Determiners; - Idioms, Interjections, Introduction, Nouns, Phrases, Prepositions; - Pronouns, Quantifiers, Question Tags, Reported Speech, Tenses, Verbs.  Grammar Tenses - Present Tense - Past Tense - Future Tense  Grammar Test - Practice test - Many question about Grammar in Use: Active Or Passive Voice, Adjectives, Adverbs ...  Tenses Quiz - English tenses test - Many question about grammar tenses: Present, past and future tense.  Vocabulary - Many common word, list confused words  Speaking English - Some tips, preparation for speaking  Reading Comprehension - Many passages and question to practice  Writing English skills   English videos: Many videos for learn english  English Grammar Test  - English Quiz - Over 5000 English grammar test questions  And its FREE!! Thank you all for using my our app. If you like it, please rate for us 5 star to support us. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

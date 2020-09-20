@@ -1,0 +1,11 @@
+{
+"name" : "Read Korean game Hangul punch",
+"url" : "https://play.google.com/store/apps/details?id=com.nakashimajohn.hangeul",
+"package" : "com.nakashimajohn.hangeul",
+"category" : "Education",
+"description" : "I want to follow the Korean stars tweets!  But , I can not understand ..Hangul characters . I can not read completely ...  For such myself, I made!  Its Practice mode  to practice the basic Hangul characters one by one. You will master the configuration of the Hangul characters by this mode!  When you master the structure of a character , you will want to be able to read the word ! At that time, please challenge  bout mode to play against the rival!  In the  bout mode  , the words of food relationship will appear. If you do not master reading of a word, you can not win the bout!  Now, Lets master the Korean characters in boxing ! Then, I become a follower of Korean star , Ill catch completely up-to-date information !   < How to Play > Hangul characters are displayed on the screen . Select a hangeul punch.  If it is correct , punch will hit! Great! When wrong in the bout, counter will hit you!  If you understand the structure of a character, then you can punch! Do your best! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

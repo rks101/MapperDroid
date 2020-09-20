@@ -1,0 +1,11 @@
+{
+"name" : "MPSC Notes Pre (PSI /STI /ASO)",
+"url" : "https://play.google.com/store/apps/details?id=com.mpsc.stipsiasonotespre",
+"package" : "com.mpsc.stipsiasonotespre",
+"category" : "Education",
+"description" : "Police Sub Inspector, Sales Tax Inspector and Assistant Section Officer. These three Exams are Most Important Class-2 Exams Conducted By Maharashtra Public Service Commission. These Exams Conducted in three Phase. Preliminary, Mains and Interview.  From 2017 Maharashtra Lokseva Aayog will conduct Single Preliminary Exam for All three Posts. So Syllabus of All three Exams for Preliminary Level is Same.  We designed our app as per the Syllabus. Users will get MPSC Notes in Marathi for Preliminary Exam in this App. This App will be Very Useful for those student, Who are preparing for PSI, STI or ASO Exam.  Also we are working on MPSC State Services Notes App. it will also Release Soon. Regards.      Features:-  *Total Offline App. Internet Connection is Only required for Regular Updates. Once Notes Downloaded in App then You Can Read it Offline.   * Total Free App. We Dont Charge Any Hidden Fee   * Monthly Updates.  * All Subject Notes are added as per MPSC Syllabus. In Marathi Language.  * Download Section is not Available in this App. for Download Section Use our Current Events App.  * Subject Available According to MPSC Syllabus. 1. Current Events (Chalu Ghadamodi) 2. History (Itihas) 3. Geography (Bhugol) 4. Political Science (Rajyavyavastha) 5. Economics (Arthvyavastha) 6. General Science.(Samanya Vigyan) ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

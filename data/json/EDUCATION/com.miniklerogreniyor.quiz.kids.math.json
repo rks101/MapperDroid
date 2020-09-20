@@ -1,0 +1,11 @@
+{
+"name" : "Math Games",
+"url" : "https://play.google.com/store/apps/details?id=com.miniklerogreniyor.quiz.kids.math",
+"package" : "com.miniklerogreniyor.quiz.kids.math",
+"category" : "Educational",
+"description" : "Free math games for everyone. Best math practice. Improve your mathematics.  Categories: Addition Subtraction Multiplication Division Exponentiation Square Root  Now download and play for free!  It has been designed suitable for both the smartphones and the tablets.  Languages: English, Czech, French, German, Italian, Polish, Portuguese, Russian, Spanish, Turkish. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

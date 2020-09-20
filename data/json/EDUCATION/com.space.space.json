@@ -1,0 +1,11 @@
+{
+"name" : "Space: Spaced Repetition System for Flashcards",
+"url" : "https://play.google.com/store/apps/details?id=com.space.space",
+"package" : "com.space.space",
+"category" : "Education",
+"description" : "Space is an easy-to-use Spaced Repetition System (SRS) app. Create and learn flashcards wherever you are in the most effective way possible.  Whether you are preparing for your next exam or learning about the universe, simply create your own decks and flashcards in an instant. Space will make learning more enjoyable with a simple and engaging interface.   Manage your decks and cards  Easily group flashcards into decks  Create, edit, and delete decks   Cross-device synchronisation  Manage your decks on desktop by visiting https://getspace.app  Always keeps your decks in sync between devices   Customize the experience  Switch between light and dark color themes  Select unique cover images for your decks   Enable Space Mode  Uses the Sans Forgetica font to display text on flashcards  Scientifically proven method to enhance recollection  The mission of Space is to make learning effective and joyful. We hope youll join us!  ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

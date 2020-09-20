@@ -1,0 +1,11 @@
+{
+"name" : "Jagananna Gorumudda",
+"url" : "https://play.google.com/store/apps/details?id=mdm.ap.nic.schoolattendanceapp",
+"package" : "mdm.ap.nic.schoolattendanceapp",
+"category" : "Education",
+"description" : "Mid Day Meal Scheme was launched by the Government of India which helps poor pupils from rural and urban areas and resolves issues of lack of nutrition, food security and access to education.Mid-Day Meal mobile app is meant for effective monitoring of daily and monthly mid-day meal data to be sent by the schools. The app once installed on android device, need Internet to send MDM figures as MDM in charge has option to send the daily attendance against meals consumed pupil count figures through the app. This simplifies the job of MDM in-charge, who just has to enter his login credentials in app to feed the data. The higher authorities at Block, District and State level have a very simple web portal for effective and efficient monitoring of daily as well as monthly data transmission by all the schools falling under their jurisdiction. The authorities would analyse the attendance data for calculating foodgrain allocation to schools.This system introduces transparency in food delivery and utilization mechanism by completely eliminating ghost students/teachers. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.company.app.fileprovider.READ', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.company.app.fileprovider.READ', 'android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

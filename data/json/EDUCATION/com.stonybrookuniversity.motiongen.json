@@ -1,0 +1,11 @@
+{
+"name" : "MotionGen",
+"url" : "https://play.google.com/store/apps/details?id=com.stonybrookuniversity.motiongen",
+"package" : "com.stonybrookuniversity.motiongen",
+"category" : "Education",
+"description" : "MotionGen is an iOS and Android app for synthesizing and simulating planar four-bar linkages. - It solves the motion generation problem for N-position problems. - Incorporates fixed- and moving-pivot and line constraints for 3 and 4 position problems. - Use MotionGen to design and simulate single degree of freedom linkages for your robot or machine.  This app needs Android version 5.1 or above to function properly.  See https://www.stonybrook.edu/commcms/motiongen for help and support. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

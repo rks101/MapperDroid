@@ -1,0 +1,11 @@
+{
+"name" : "CISSP Practice Exams By Applied Knowledge",
+"url" : "https://play.google.com/store/apps/details?id=com.densigner.cissp",
+"package" : "com.densigner.cissp",
+"category" : "Education",
+"description" : "CISSP by Applied Knowledge is A exam simulation that goes further.   The CISSP has a fairly complex means of examination called CAT or CISSP CAT where the amount of questions received is based on the competency of the exam taker, CISSP by Applied Knowledge simulates this with varying the length of the exam simulation by competency.   Every Question and explanation is written by someone whom has passed the exam and is an industry Expert  The CISSP exam contains 8 domains :- Security and Risk Management 15% Asset Security 10% Security Architecture and Engineering 13% Communication and Network Security 14% Identity and Access Management (IAM) 13% Security Assessment and Testing 12% Security Operations 13% Software Development Security 10%  CISSP by Applied Knowledge allows the user to test them selves on each domain and find their areas of knowledge that need work before they take the exam with each question having a explanation written in an easy to understand way.   Applied Knowledge is not affiliated with CISSP or (ISC). ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

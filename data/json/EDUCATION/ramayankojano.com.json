@@ -1,0 +1,11 @@
+{
+"name" : "Ramayan Ko Jano",
+"url" : "https://play.google.com/store/apps/details?id=ramayankojano.com",
+"package" : "ramayankojano.com",
+"category" : "Education",
+"description" : "Ramanyan Ko Jano Android Mobile Application by Bharat Vikas Parishad Haryana West Pant ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

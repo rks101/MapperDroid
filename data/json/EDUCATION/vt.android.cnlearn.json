@@ -1,0 +1,11 @@
+{
+"name" : "Chinese Grammar Test",
+"url" : "https://play.google.com/store/apps/details?id=vt.android.cnlearn",
+"package" : "vt.android.cnlearn",
+"category" : "Education",
+"description" : "This grammar test is the best way to improve your Chinese grammar knowledge. Stunning minimalist design and clear user interface make it easy to test your Chinese language skills. This Chinese Grammar Test app is perfect for Intermediate and Upper-Intermediate levels. We have managed to put 20 Chinese grammar units (for each level) in each test in a way that each question is a part of a certain unit.  When you complete your Chinese test you see which aspects of Chinese grammar you are good at and which of them require more practice. When you make a mistake the app explains you why your answer was not correct. Simple explanations will help you revise information about grammar details.  Try not to do all 1200 Chinese exercises at once. Use this app to get information about your good and bad sides. Take a grammar test once or twice a week during your curriculum and analyze your results. Focus not on mistakes but on the explanations given.  With the progress page provided in the app you can see your total score and result in each Chinese test. There are three scales from bad to perfect which indicate your percentage. If your total score is colored green then you are ready for a new level. Application has more than 1000 multiple choice exercises for beginner Chinese level, 1500 multiple choice exercises for intermediary Chinese level, 2000 multiple choice exercises for advanced Chinese level. HSK1500 HSK2000 HSK2000 HSK2000  TAG: Simple Chinese Grammar, Learn Chinese, Chinese Test, Chinese HSK, HKS Reviewn Simple Grammar, Chinese Grammar Exercise, Chinese Practice, Study Chinese ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

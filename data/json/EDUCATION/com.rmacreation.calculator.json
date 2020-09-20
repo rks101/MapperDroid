@@ -1,0 +1,11 @@
+{
+"name" : "Calculator with History memory & GST Calculation",
+"url" : "https://play.google.com/store/apps/details?id=com.rmacreation.calculator",
+"package" : "com.rmacreation.calculator",
+"category" : "Education",
+"description" : "#New:- GST (Goods and Services Tax) calculation has been added with gst rates(ex : 3%, 5%, 12%, 18%, 28%). our gst calculator will give you proper breakdown of IGST, CGST & SGST  This is your daily calculation app available for free. It comes with a beautiful design and easy to use user interface.  you can do tax calculation or your everyday math homework with this calculator.  It offers a history saving feature with date and time.    Key features of our app:  Display large display that shows full expression at the top of the display and the calculated result at the bottom. example: 2+3+5= ans:10  Calculates in the correct mathematical order our calculator performs the calculations in the correct mathematical order. example: 2+3*5-1= 16  Themes comes with free themes or backgrounds  History or memory the history/memory save is always very helpful. tap on history items to copy paste.  Multiple history calculation you can even calculate multiple history items like: history 1 + history 3  history 5  percentage calculation correct calculation of percentage, example :  600 + 5% = 630 600 - 5% = 570 600 * 5% = 30 600  5% = 12000    If you want to see any new features or report any bug feel free to mail us at rmacreation249@gmail.com   Background images are from pixabay.com [Royalty Free] ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

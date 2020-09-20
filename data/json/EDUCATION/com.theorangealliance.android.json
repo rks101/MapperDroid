@@ -1,0 +1,11 @@
+{
+"name" : "The Orange Alliance",
+"url" : "https://play.google.com/store/apps/details?id=com.theorangealliance.android",
+"package" : "com.theorangealliance.android",
+"category" : "Education",
+"description" : "The Orange Alliance is a project to help make FIRST Tech Challenge (FTC) information more accessible.  This app is the easiest way to access all the great content on http://theorangealliance.org on your Android device.  Are you a developer? Check out the source on GitHub: https://github.com/orange-alliance  Feel free to reach out to us through our Discord serve or contact us at contact@theorangealliance.org. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

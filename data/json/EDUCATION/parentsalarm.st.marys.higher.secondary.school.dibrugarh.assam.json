@@ -1,0 +1,11 @@
+{
+"name" : "St.Mary's Higher Sec School",
+"url" : "https://play.google.com/store/apps/details?id=parentsalarm.st.marys.higher.secondary.school.dibrugarh.assam",
+"package" : "parentsalarm.st.marys.higher.secondary.school.dibrugarh.assam",
+"category" : "Education",
+"description" : "St.Marys Higher Sec School ",
+"desc_perms" : "[]",
+"manifest_perms" : "['parentsalarm.st.marys.higher.secondary.school.dibrugarh.assam.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'com.example.gcm.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.example.gcm.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

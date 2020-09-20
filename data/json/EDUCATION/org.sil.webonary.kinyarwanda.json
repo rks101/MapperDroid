@@ -1,0 +1,11 @@
+{
+"name" : "Kinyarwanda Dictionary 1.0",
+"url" : "https://play.google.com/store/apps/details?id=org.sil.webonary.kinyarwanda",
+"package" : "org.sil.webonary.kinyarwanda",
+"category" : "Education",
+"description" : "This is Iriza Basic Kinyarwanda Dictionary written in todays Kinyarwanda orthography and based on Comparative African Wordlist (CAWL). This is an attempt to the future creation of Iriza Dictionary for East African Community that will contribute to the alleviation of language barriers and promote the socio-economic interaction among the regional communities.  Kinyarwanda is the national language and one of the four official languages of the Republic of Rwanda which are English, French and Kiswahili.  According to linguist scholars, Kinyarwanda is probably, after Kiswahili the second largest spoken language in the Bantu group. It is a sister dialect of Kirundi, the national language of Burundi and Giha, another dialect spoken in Tanzania.  More than 30 million people speaks Kinyarwanda or its dialects. Rwanda has around 12 million people right now, Burundi whose population understand well Kinyarwanda has around 11 million. Besides the Giha speakers, there are also ethnic Banyarwanda in Southern Uganda in the Kigezi district known as Bafumbira. Other Kinyarwanda speakers are Banyamulenge in Southern Kivu and other Congolese Banyarwanda in Masisi and Rutshuro in Northern Kivu in the Democratic Republic of Congo. Kinyarwanda belongs to the interlacustrine (Great Lakes) Bantu languages. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

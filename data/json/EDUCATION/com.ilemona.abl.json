@@ -1,0 +1,11 @@
+{
+"name" : "british vs american words",
+"url" : "https://play.google.com/store/apps/details?id=com.ilemona.abl",
+"package" : "com.ilemona.abl",
+"category" : "Education",
+"description" : "American Peoples vs British Peoples. Based Off The Most Commonly Used For Things, However, People In One Country Might Say Both Things.  Given the amount of places around the world that English is spoken, various differences are bound to emerge. Despite how much the USA and UK have in common, there are enough differences between their two versions of the English language that someone may not always understand exactly what someone from the other country is saying. Fortunately, the US State Department has created a series of useful graphics to help clear things up.  The US and the UKs imperial histories and modern influence over the world have changed the English language forever. Because it was exported to countries all over the world, it has been forced to accept different  Even if youre a native speaker of UK or US English, theres a good chance youll learn something new here. Let us know what the most surprising discovery for you was in the comments! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SET_WALLPAPER', 'android.permission.SET_WALLPAPER_HINTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SET_WALLPAPER', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

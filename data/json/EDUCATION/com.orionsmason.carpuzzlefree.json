@@ -1,0 +1,11 @@
+{
+"name" : "Car Games for Kids: Puzzles",
+"url" : "https://play.google.com/store/apps/details?id=com.orionsmason.carpuzzlefree",
+"package" : "com.orionsmason.carpuzzlefree",
+"category" : "Education",
+"description" : "Do your kids love cars? Do they love planes, fire trucks, police cars, and driving too? Look no further. Car Games for Kids: Fun Cartoon Airplane, Police Car, Fire Truck, and Vehicle Jigsaw Puzzles HD for Toddler and Preschool is a fun animated puzzle game for toddlers, preschoolers, and kids from ages 2 to 6.  The app includes twelve different child and toddler friendly, jigsaw-style puzzles with options to change the number of pieces and remove other helpers. The puzzles start off easy to play and can be made more challenging- perfect for the little one in your life who loves cars, trucks, driving, racing, and puzzles!  When the puzzles are complete your kids will be able to watch a cartoon animation of the different vehicles or be able to drive the car in the puzzle! Driving the car is simple, they press a button and it goes racing across the screen. While the car is racing across the screen, they can also honk the horn!  Car Games for Kids features virtual jigsaw pieces for learning shape recognition and matching- great for educational purposes or just for fun! Good for one of your childs first puzzle games.  Features: * Fun, creative graphics by illustrator Jenny Tiffany. * 12 different fun car, truck, or plane puzzles to choose from! * Positive encouragement. * Fun interactive stars and bubbles to pop! * Choose your own difficulty! Increase the number of pieces from 9 up to 24 as your childs fine motor and spatial skills improve! * Easy for kids to use and control.  Please note that this is the free version of the app. The free version includes four puzzles with the option to unlock the other 8 via in-app purchase. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

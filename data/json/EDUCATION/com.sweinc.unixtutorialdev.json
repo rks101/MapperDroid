@@ -1,0 +1,11 @@
+{
+"name" : "Unix Tutorial",
+"url" : "https://play.google.com/store/apps/details?id=com.sweinc.unixtutorialdev",
+"package" : "com.sweinc.unixtutorialdev",
+"category" : "Education",
+"description" : "Unix has been a pancake for the administrators from olden times. Around 33% of the servers in the world run on Unix operating system.  Several applications and databases are built to work with Unix. It makes the lives of administrators easy by allowing scripting at every level to give the finer control. Therefore, its always worth to learn Unix and scripting in Unix.  The app is designed to help beginners and advanced level programmers.  It starts from basics and provides details about different flavors of Unix.   All the required details about the commands of Unix have been provided.   Different sections have been created for theory, commands and examples. The most useful examples make the learners understand the Unix scripting in a clear way.  The app has an attractive user interface. You may mark certain page as favorite and a also you may mark a page as completed when you finish learning it.  We look forward for your feedback about the app. Please send your feedback to (sweinc.4u@gmail.com)  Please make use of the app and share it with your friends and colleagues who may find it useful for their career. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS', 'android.permission.WRITE_CONTACTS']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

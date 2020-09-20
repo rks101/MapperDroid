@@ -1,0 +1,11 @@
+{
+"name" : "TOPIK Test Prep",
+"url" : "https://play.google.com/store/apps/details?id=com.jquiz.topik",
+"package" : "com.jquiz.topik",
+"category" : "Education",
+"description" : "TOPIK, or Test of Proficiency in Korean is a Korean language test offered five times annually (in Jan, Apr, Jul, Oct, Nov) to foreigners in Korea and twice annually (Apr, Oct) to people studying Korean in other countries. TOPIK is administered by the National Institute for International Education - NIIED. (Hangul: .)  TOPIK test is divided into four parts: vocabulary & grammar, writing, listening, and reading.  Our app only focus on Reading part. Right now there are 3000 questions available! Just download and practice everyday! Good luck!  Thanks for using TOPIK Test Prep app. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.sec.android.provider.badge.permission.WRITE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.htc.launcher.permission.READ_SETTINGS', 'com.sec.android.provider.badge.permission.READ', 'com.google.android.c2dm.permission.RECEIVE', 'com.jquiz.topik.permission.C2D_MESSAGE', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

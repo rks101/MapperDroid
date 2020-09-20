@@ -1,0 +1,11 @@
+{
+"name" : "YouthAlive",
+"url" : "https://play.google.com/store/apps/details?id=com.youthalive",
+"package" : "com.youthalive",
+"category" : "Education",
+"description" : "Youth Alive is a program designed to build resilience among teens and young adults by equipping them to make healthy choices. Through the Youth Alive Program teens can better understand their gifts and their purpose.  Many today are trapped, becoming enslaved by addictions such as alcohol, tobacco, drugs, pornography, gaming, media. Youth Alive focuses on nurturing relationships that build resilience against these at-risk behaviors that plague young people around the world.  Youth Alive promotes a healthy, purpose-driven life for any teen seeking to live a fulfilling life free from addictions and emotional pain. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW']",
+}

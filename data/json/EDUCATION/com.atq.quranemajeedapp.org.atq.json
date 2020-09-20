@@ -1,0 +1,11 @@
+{
+"name" : "Aasan Tarjuma e Quran - Mufti M. Taqi Usmani",
+"url" : "https://play.google.com/store/apps/details?id=com.atq.quranemajeedapp.org.atq",
+"package" : "com.atq.quranemajeedapp.org.atq",
+"category" : "Education",
+"description" : "Aasan Tarjuma Quran - Urdu Translation (Tarjuma) and Short Tafseer by Mufti Muhammad Taqi Usmani.  :    :      Application Features:  - Complete Aasan Tarjuma Quran by Mufti Muhammad Taqi Usmani - Colored Word by Word Quran Translation - Advance Search functionality in Quran, Translation (Tarjuma) and Tafseer - Latest Material Design UI - Five (5) Different Arabic Fonts - Four (4) Different Urdu Fonts - Multiple Color Themes - Customize Arabic Font Size and Color - Customize Urdu Font Size and Color - Save Unlimited Bookmarks - Continue from Last Read Ayah - Share Ayah with or without Quran Translation (Tarjuma) and Tafseer - Customize Layout: List/Slider - Quick Jump to Ayah - Quick Jump to Ruku - Mushaf Mode: Recite Quran with Translation (Tarjuma) or Tafseer - Translation Mode: Recite Quran Translation (Tarjuma) only - Share Multiple Ayat - View Ruku and Para information for every Ayah - Dark and Night themes for better readability at Night - Ability to show/hide Word by Word, Quran Translation (Tarjuma) and Tafseer  Please share this app with your family and friends and give us your valuable feedback on PlayStore or via Email.  Jazak Allah khair ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

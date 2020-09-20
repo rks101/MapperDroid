@@ -1,0 +1,11 @@
+{
+"name" : "ABC Teacher - Learn, Write and Play with ABC",
+"url" : "https://play.google.com/store/apps/details?id=com.homeapps.kidsabc",
+"package" : "com.homeapps.kidsabc",
+"category" : "Education",
+"description" : "This app is a simple offline ABC learning application. Kids can learn alphabets, practice with different color pencils and play interesting and fun games.  Learn: Learn uppercase and lower case letters with beautiful pictures and voice over.  Practice: Start ABC writing practices with different color pencils.  Play: Interesting and fun learning alphabet games which motivates kids towards learning. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

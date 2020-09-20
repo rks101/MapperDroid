@@ -1,0 +1,11 @@
+{
+"name" : "Listen And Repeat English",
+"url" : "https://play.google.com/store/apps/details?id=vnsupa.com.listenandwrite",
+"package" : "vnsupa.com.listenandwrite",
+"category" : "Education",
+"description" : "100 lessions with 2000 English Conversations to listen and write. Listen to the questions and answer.  Improve your listening skill. Listen everyday will help you improve your listening English Skill. Speaking English pratice. Listen English with full audios.  -----Contents----- Daily English Conversation by Topics 1. Family 2. Restaurant 3. Books 4. Travel 5. Website 6. Accident 7. Childhood memory 8. Favorite rooms 9. Presents 10. Historical place 11. Newspaper/ Magazine 12. A memorable event 13. A favorite subject 14. A museum 15. A favorite movie 16. A foreign country 17. Parties 18. A teacher 19. A friend 20. A hotel 21. A letter 22. Hobbies 23. Music 24. Shopping 25. Holiday ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'vnsupa.com.listenandwrite.permission.C2D_MESSAGE', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

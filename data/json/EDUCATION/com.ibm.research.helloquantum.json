@@ -1,0 +1,11 @@
+{
+"name" : "Hello Quantum",
+"url" : "https://play.google.com/store/apps/details?id=com.ibm.research.helloquantum",
+"package" : "com.ibm.research.helloquantum",
+"category" : "Educational",
+"description" : "Think quantum computing is hard? Maybe, maybe not, or maybe both at the same time? Explore the building blocks of quantum mechanics in a series of puzzles.   The rules of how to play Hello Quantum are easy to pick up, yet tricky to perfect. But by mastering them, youll be learning key behaviors in the mysterious world of quantum mechanics to progress forward.  Made with love by IBM Q and University of Basel ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

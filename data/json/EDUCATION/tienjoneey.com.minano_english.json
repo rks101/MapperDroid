@@ -1,0 +1,11 @@
+{
+"name" : "JLPT N4 & N5 Vocabulary - Play & Learn - Minano",
+"url" : "https://play.google.com/store/apps/details?id=tienjoneey.com.minano_english",
+"package" : "tienjoneey.com.minano_english",
+"category" : "Education",
+"description" : "Play games is the best way to learn and remember Japanese Vocabulary. If you are looking for an app to learn Japanese vocabulary for beginners. This app is a free app to help you learn Japanese vocabulary for beginners with pictures and games.   It will be fun to learn vocabulary with games of this app  FEATURES  * 5 Games for learning Japanese Vocabulary  Look and learn with pictures and games  Choose mean matching with word  Find image matching with word  Listen and choose image which match word   Choose word which match picture  *Easy to store and manage your favorite items  *Easy to use and play games! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

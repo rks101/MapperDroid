@@ -1,0 +1,11 @@
+{
+"name" : "Happy Farm",
+"url" : "https://play.google.com/store/apps/details?id=com.stGalileo.fruitWicth.happyfarm",
+"package" : "com.stGalileo.fruitWicth.happyfarm",
+"category" : "Educational",
+"description" : "Swap crops in this fun match 3 game and boost your experience with awesome power-ups. Play through hundreds of levels and collect different rewards, and dont forget to go for the big matches- try to link 4 or 5 items to generate massive explosions.  There are amazing new fruits, splendid new booster and a relaxing world to experience fruit time! lots of juicy fruits! Hundreds of levels of fun and sweetness are waiting for you!  match fruits and crops! Fun addictive gameplay! thousands of challenging and unique match-3 levels! completely free, you can win all levels without paying! fun boss-fight levels! Defeat the Giant and show him whos the boss! play levels to top the leaderboards and beat best players in the world! no Wi-Fi or Internet connection required to play! powerful and fun magic boosters and power-ups will help you!  Enter the sweetest adventure and travel through magical lands of treats, mixing, matching and finding treats for your furry best friends ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['com.android.vending.BILLING']",
+}

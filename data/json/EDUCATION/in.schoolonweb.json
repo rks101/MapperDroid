@@ -1,0 +1,11 @@
+{
+"name" : "School On Web",
+"url" : "https://play.google.com/store/apps/details?id=in.schoolonweb",
+"package" : "in.schoolonweb",
+"category" : "Education",
+"description" : "SchoolOnWeb android application has been designed keeping in mind the difficulties faced by teachers of our Government version subscribers in managing marks and other academic records of students. Now tabulation and marksheet generation for Government schools will be easier with this application as Teachers would be able to enter or edit the marks as per their convenience using this application. It enables the staff to easily enter marks of various subjects, enter daily or monthly attendance of students, modify the profile of students, update photo of the students, view report card and merit list. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.neoeyed.sdk.permissions', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'com.neoeyed.sdk.permissions', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Asteroid 365",
+"url" : "https://play.google.com/store/apps/details?id=com.asteroid365.asteroid365",
+"package" : "com.asteroid365.asteroid365",
+"category" : "Education",
+"description" : "Asteroid365 - Institute Automation Software is the product of VriendeLike Software, which is a global Software development firm committed to innovation, quality and service. Founded in 2008. VriendeLikes has been delivering cutting-edge solutions in areas like Web Applictation, Software Development, Software Re-engineering, Web Solutions and Application Development. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.sonyericsson.home.permission.BROADCAST_BADGE', 'com.sec.android.provider.badge.permission.READ', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_ASSISTED_GPS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'android.permission.ACCESS_LOCATION', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'com.asteroid365.asteroid365.permission.C2D_MESSAGE', 'com.htc.launcher.permission.READ_SETTINGS', 'com.sec.android.provider.badge.permission.WRITE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_GPS', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_ASSISTED_GPS', 'android.permission.ACCESS_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_GPS', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

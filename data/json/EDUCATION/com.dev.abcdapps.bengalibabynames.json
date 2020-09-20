@@ -1,0 +1,11 @@
+{
+"name" : "Bengali Baby Names",
+"url" : "https://play.google.com/store/apps/details?id=com.dev.abcdapps.bengalibabynames",
+"package" : "com.dev.abcdapps.bengalibabynames",
+"category" : "Education",
+"description" : "Attractive features of this App are: - Its very user friendly and also have a attractive design. - It has a great collection of Bengali Baby Names of boys and girls. - There is a listing of alphabets A to Z - You can reserve your favorite names which helps you to choose name easily - You can easily remove name from your favorite list. - You can easily search names according their alphabets.  - With this app you can easily find the meaning of your name with the help of searching options.  Tag: - Bengali cute name of boy - Muslim Baby Names - Hindu Baby Names - Muslim Baby Names in English - Muslim Baby Names in Bengali - Hindu Baby Names in English - Hindu Baby Names in Bengali - Bengali cute name of girl - Bengali Baby Names with meaning - Baby Names in Bengali  - Bangla Baby Names - Muslim Baby Names with Bengali meaning. -    -    -Hindo shisuder nam -Shishuder nam ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.dev.abcdapps.bengalibabynames.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

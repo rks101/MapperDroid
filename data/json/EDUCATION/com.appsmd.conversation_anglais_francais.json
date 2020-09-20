@@ -1,0 +1,11 @@
+{
+"name" : "Learn French conversation with English",
+"url" : "https://play.google.com/store/apps/details?id=com.appsmd.conversation_anglais_francais",
+"package" : "com.appsmd.conversation_anglais_francais",
+"category" : "Education",
+"description" : "Learn French conversation with English.  The French English dialogue app to improve their English and French skills. Improve your daily French conversation skills with hundreds of lessons and thousands of audio files.   Learn how to speak French for everyday use. conversation is a means of communication that helps you learn the language quickly and effectively with dialogues you can easily communicate with strangers.  Dialogues in French and on English that helps you improve your level of communication and know grammar and conjugation and learn new English and French words. Learn two languages at the same time French English in a simple and easy way with conversation.  You are systematically coached to get more control over the English and French language with every lesson you take.  Main characteristics:  ability to select content. more than 100 ordinary conversations (with sound). plus 2000 most common French and English phrases and words. Easy to use.    Learn French Speaking French is easy and fun with app conversation French English ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

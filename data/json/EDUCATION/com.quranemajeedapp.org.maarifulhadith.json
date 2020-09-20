@@ -1,0 +1,11 @@
+{
+"name" : "Maarif ul Hadith - Maulana M. Manzoor Naumani",
+"url" : "https://play.google.com/store/apps/details?id=com.quranemajeedapp.org.maarifulhadith",
+"package" : "com.quranemajeedapp.org.maarifulhadith",
+"category" : "Education",
+"description" : "Maarif-ul-Hadith by Maulana Muhammad Manzoor Naumani - Complete 8 volumes  App Features:  Complete Maarif-ul-Hadith with Arabic and Urdu Beautiful User Interface Easy Navigation Customize-able Arabic and Urdu Fonts Go to Last Read Hadith Quick Jump to Hadith Number Various Color Themes Share Hadith Unlimited Bookmarks  Do read and benefit from this app insha Allah and help us spread the message of Islam to as many people as possible.  Also, do give your feedback about the app.  Jazk Allhu Khayran ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

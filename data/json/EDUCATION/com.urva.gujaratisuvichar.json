@@ -1,0 +1,11 @@
+{
+"name" : "Gujarati Suvichar",
+"url" : "https://play.google.com/store/apps/details?id=com.urva.gujaratisuvichar",
+"package" : "com.urva.gujaratisuvichar",
+"category" : "Education",
+"description" : "This app provide you the different categories of Gujarati Quote or Gujarati Suvichar and Good Thought in Gujarati Share these Heart Touching lines of Suvichar with your friends or Loved Ones or in your Circle through which one can realize the importance of life. Because imagination is more important than knowledge. * App Include Different Type * -    -   -   -   -   -   -  -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -  /   -   -   -   -   -   -   -   -   -   -   -   -   - -  - -  - -  -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   / -  -   -   -   -    -    -    -   -   -   -   -   -   -   - -   -   -  -    -    -    -    -   -    -    - .   -    -    -   -    - .     -    -  ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE']",
+}

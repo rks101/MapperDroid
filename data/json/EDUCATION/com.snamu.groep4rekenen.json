@@ -1,0 +1,11 @@
+{
+"name" : "Rekenen leren groep 4 (gratis)",
+"url" : "https://play.google.com/store/apps/details?id=com.snamu.groep4rekenen",
+"package" : "com.snamu.groep4rekenen",
+"category" : "Education",
+"description" : "Rekenen leren groep 4 (gratis). Klas 2 voor Belgi.  Gratis voor kinderen om rekenen te leren: * Koopsommen * Optelsommen * Minsommen * Splitsen maken Arithmetic Learning Group 4 (free). Class 2 for Belgium.  Free for children to learn to count: * Single premiums * Adding Ommen * minsommen * Create Split ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Telugu Satakamulu",
+"url" : "https://play.google.com/store/apps/details?id=com.saiuniversalbookstore.telugusathakamulu",
+"package" : "com.saiuniversalbookstore.telugusathakamulu",
+"category" : "Education",
+"description" : "A beautiful application that presents you all time favorite Sathakas.   Immerse yourselves in the beautiful words written long ago.  If you remember the Satakhas we all used to love, you will want your next generation to cherish the same. We bring together the well illustrated Satakhas for everyone that would simply light up a smile.  This small application will smartly touch you to the evergreen Telugu Sathakas. A simple & elegant way to share poetry with your family & friends.  Why delay then, download the app and use it offline   Share this app with your friends and have a good time!  Watch this space for more updates.  Please rate this app if you like.   Most popular Sathakas available in the app 1) vemana satakamulu 2) sumathi satakamulu 3) kumara satakamulu 4) bhaskara satakamulu 5) bathruhari satakamulu 6) dhasaradhi satakamulu 7) sri kalahasthiswara satakamulu 8) shiva satakamulu 9) govinda namalu 10) rama sankeerthanamulu ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.saiuniversalbookstore.telugusathakamulu.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

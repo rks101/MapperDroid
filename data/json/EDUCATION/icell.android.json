@@ -1,0 +1,11 @@
+{
+"name" : "iCell",
+"url" : "https://play.google.com/store/apps/details?id=icell.android",
+"package" : "icell.android",
+"category" : "Education",
+"description" : "***Updated 3.6.1***  iCell now works even better on the iPhone. We have added larger text for all descriptions and included the ability to change text description levels for the iPhone as well as the iPad.   iCell gives students, teachers, and anyone interested in biology a 3D view inside a cell. Included are examples of three types of cells: animal, plant, and bacteria. Learn about the various parts of the cell, which biologists, biochemists, and DNA researchers at the HudsonAlpha Institute study and use to advance the limits of biotechnology.  You can use your finger to tap on parts of the cell to select and zoom in on that particular organelle. Each organelle comes with a name and a short description of its function in the cell.  For a better view of each cell, hold down one finger on the screen, and drag to rotate around the cell or selected organelle. You can zoom in and out by pinching or flaring with two fingers at once.  We hope you enjoy! ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

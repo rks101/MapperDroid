@@ -1,0 +1,11 @@
+{
+"name" : "Savanna - Puzzles and Coloring Games for Kids",
+"url" : "https://play.google.com/store/apps/details?id=com.magisterapp.savana",
+"package" : "com.magisterapp.savana",
+"category" : "Educational",
+"description" : "- Two Games in One - Puzzles and Colors for Kids - Puzzles with Interactive Background - Drawings to Color  Our children will enjoy learning and playing with the Animals of the Savanna. The child will have also fun discovering all the interactive objects in the background and can hear all the sound of the game characters.  In the full version you will find 18 puzzles and you can paint all the Animals. In the Lite Version there are 6 puzzles.  ASSOCIATIONS AND LOGIC  Logical associations and puzzles are one of the best ways for small boys and girls to learn while having fun. Our association games enable kids to start identifying differences and group elements by shape, colors and type of object.  MAGIC BORDER  The only drawings to color in using the trademark technology Magic Border. This means you dont have to be a grown up to color in the drawings, while always staying inside the lines!  CHARACTERISTICS  - Suitable for babies and infants - Learn shapes and colors, for boys and girls - Learn animal sounds - Simplified puzzles for girls and boys - For playing alone or with the family, together with mum and dad - Great logic practice aimed at pre-school age - Free trial version - A range of drawings just like a coloring book - Characters designed for boys and girls - Over 20 MILLION downloads worldwide  Intuitive and Simple Game is designed for Kids. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+}

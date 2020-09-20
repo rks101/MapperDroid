@@ -1,0 +1,11 @@
+{
+"name" : "GeoGebra Scientific Calculator",
+"url" : "https://play.google.com/store/apps/details?id=org.geogebra.android.scicalc",
+"package" : "org.geogebra.android.scicalc",
+"category" : "Education",
+"description" : "Replace your traditional calculator with this easy to use app. You may even use it in tests with our special exam mode which turns your phone or tablet into a handheld calculator. Millions of people around the world use GeoGebra to learn math and science. Join us!  The GeoGebra Scientific Calculator includes:  Computations with fractions   Trigonometric functions: sin, cos, tan  Statistics functions  Exponential functions and logarithms  Wed love to hear from you: send us your questions or feedback via Twitter @geogebra or to support@geogebra.org ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "iLearn: Alphabet for Preschoolers",
+"url" : "https://play.google.com/store/apps/details?id=com.forqan.tech.iLearnLetters",
+"package" : "com.forqan.tech.iLearnLetters",
+"category" : "Education",
+"description" : "This application is one of the iLearn series for learning letters, numbers, colors, shapes, sorting and more.  The application contains 5 fun and very educational sections which help the small kids to know the alphabet while enjoying: 1) Match the letter and images starts with the letters to its wooden shadow. 2) Letter Puzzles: create the letters from small pieces. 3) Match letters 4) Letters memory game 5) Letters tracing.  The application support 7 different languages: English, Spanish, Russian, Portuguese, Arabic, German and French.  In addition to the above 2 sections, the application contains 3 different activities which also help the small kiddos learn the letters: 1) Fisherman: the kid is asked to fish the fish who have specific letters from an aquarium. 2) Bubbles The kids is asked to pop the bubbles which contain a specific letter.  And The application has a fun balloon popping activity so the small kids will have fun and time for rest while learning.  Adults can enjoy this app to learn letters in 7 different languages including English, Spanish and Arabic.  Enjoy! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+}

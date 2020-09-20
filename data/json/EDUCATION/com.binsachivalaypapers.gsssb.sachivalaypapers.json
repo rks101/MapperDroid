@@ -1,0 +1,11 @@
+{
+"name" : "Bin Sachivalay Clerk Papers 2019",
+"url" : "https://play.google.com/store/apps/details?id=com.binsachivalaypapers.gsssb.sachivalaypapers",
+"package" : "com.binsachivalaypapers.gsssb.sachivalaypapers",
+"category" : "Education",
+"description" : "In this application you can find all old paper of GSSSB Clerk and bin sachivalay exams.  >this papers is very useful for upcoming clerk and sachivalay class-3 examination.  > you can easily solve it with answer key that provide in this app. so use this app and do batter preperation for gaun seva pasandagi mandal (GSSSB) examination .   > Which papers are included ? GSSSB Senior Clerk  GSSSB Head Clerk - Social Welfare Inspector GSSSB Bin sachivalay Clerk office assistant GSSSB Binsachivalay clerk GSSSB JUN CLERK PAPER Head clerk paper GSSSB Police Sub-Inspector Nashabandhi ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.binsachivalaypapers.gsssb.sachivalaypapers.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "DoReMiNotas Read Music",
+"url" : "https://play.google.com/store/apps/details?id=com.fappseasy.doreminotas",
+"package" : "com.fappseasy.doreminotas",
+"category" : "Education",
+"description" : "The simplest and most effective way of learning musical notes on the staff!  It will no longer be difficult to read music. With DoReMiNotas you can improve your music reading skills, mastering the identification of each note according to its placement on the staff.  Learn the notes at your own pace, anytime, anywhere!  1. Choose the clef. Treble Clef, Bass Clef, Alto Clef or Tenor Clef. 2. Select the group of notes, from 3 notes to all notes. 3. And start practicing!  You can also verify your answers and results.  English - Spanish - French - Japanese - Korean - Chinese - Portuguese  www.doreminotas.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

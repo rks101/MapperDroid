@@ -1,0 +1,11 @@
+{
+"name" : "Times tables",
+"url" : "https://play.google.com/store/apps/details?id=nl.fampennings.multiply",
+"package" : "nl.fampennings.multiply",
+"category" : "Education",
+"description" : "With this application the multiplication tables can be practiced. Single tables as well as combinations of tables can be practiced. Exercises that are answered wrongly, are repeated later on.  The app also supports a test mode: all 100 multiplications will have to be answered. Just like at school, time is also recorded.  The results are reported at the end. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

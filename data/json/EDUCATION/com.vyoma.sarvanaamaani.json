@@ -1,0 +1,11 @@
+{
+"name" : "Learn Sanskrit Pronouns",
+"url" : "https://play.google.com/store/apps/details?id=com.vyoma.sarvanaamaani",
+"package" : "com.vyoma.sarvanaamaani",
+"category" : "Education",
+"description" : "Features: 1. Understand and learn simple pronouns through animations, construct simple sentences using pronouns. 2. Animations are used to make the learning fun and easy. 3. Tell Me More section gives an enthusiastic learner added information about Sansktit Alphabets 4. Games will help you learn and have fun at the same time. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

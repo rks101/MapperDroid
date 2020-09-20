@@ -1,0 +1,11 @@
+{
+"name" : "SalusGame",
+"url" : "https://play.google.com/store/apps/details?id=com.salusplay.salusgame",
+"package" : "com.salusplay.salusgame",
+"category" : "Education",
+"description" : "SalusGame es el serious game con el que los alumnos de los Msters y Cursos de Formacin Continuada SalusPlay aprendern y se evaluarn. SalusGame is the serious game with which the students of the Masters and Continuing Education Courses SalusPlay will learn and be evaluated. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

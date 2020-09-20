@@ -1,0 +1,11 @@
+{
+"name" : "Brain Booster - The ultimate brain training!",
+"url" : "https://play.google.com/store/apps/details?id=dfmv.brainbooster",
+"package" : "dfmv.brainbooster",
+"category" : "Education",
+"description" : "Brain Booster is the best brain development application    It offers a complete training on all points: mental calculation, memorization and reflection as well as logic.     More than fifteen games are available to train you on a daily basis.     Trophies    Earn trophies by completing as many exercises as possible and become the best!     Statistics    To monitor your progress, a statistical system is in place. It will allow you to follow your progress, and thus see in which area you are stronger and weaker. Which will allow you to improve considerably over time!     Classic exercises like additions, subtractions to the more complex serializing and big int, there is something for everyone.   To motivate you to continue your adventure, and to train as much as possible there is a notification system to remind you to train!     You will understand, if you stick to it, you can make great progress! Please rate the app and give a review so I can improve it. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.INTERNET', 'com.android.alarm.permission.SET_ALARM', 'android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NOTIFICATION_POLICY']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

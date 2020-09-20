@@ -1,0 +1,11 @@
+{
+"name" : "Quran Juz-30 - Mahad al Zahra",
+"url" : "https://play.google.com/store/apps/details?id=com.mahaduszahra.iquran",
+"package" : "com.mahaduszahra.iquran",
+"category" : "Education",
+"description" : "An exclusive app of Juz 30 for easy and quick memorization of small Surahs recited in Salat, with various recitation options. Whats New   - Please uninstall the older version before downloading this version. - Uthmanic Script with Mushaf page for clear recitation and easy memorization.  - Amazing feature with four recitation options:  - al-Murattal  - al-Muhaffiz - al-Moallim - al-Mujawwad  - Audio repeat options to help with memorization; repeat a single verse multiple times; repeat Surahs or select a range of verses to loop over. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

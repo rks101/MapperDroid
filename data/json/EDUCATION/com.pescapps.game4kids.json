@@ -1,0 +1,11 @@
+{
+"name" : "Educational Games 4 Kids",
+"url" : "https://play.google.com/store/apps/details?id=com.pescapps.game4kids",
+"package" : "com.pescapps.game4kids",
+"category" : "Educational",
+"description" : "New pescAPPs game! This fun application contains 12 games designed for kids. In English, Spanish and Portuguese. With this game kids will learn:  - The animals name and sound - Distinguish shapes - Learn to paint and colors - Time: Hours and minutes - The emotions: angry, surprised, happy - Piano: Musical notes and 12 songs - Improve their memory, logic and concentration  - Play 3 in a row  - Play 4 in a line - Solve mazes - Pinball: Motor skills and spatial vision.  Perfect for preschoolers!  Thank you for download pescAPPs games, with our games children can learn while having fun. If you have any questions or suggestions please contact us. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE']",
+}

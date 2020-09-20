@@ -1,0 +1,11 @@
+{
+"name" : "Behaim Globe",
+"url" : "https://play.google.com/store/apps/details?id=org.kde.marble.behaim",
+"package" : "org.kde.marble.behaim",
+"category" : "Education",
+"description" : "Martin Behaim and collaborators created the globe at the time of Columbus first sea travel to the west. View fascinating 3D digital imagery from the original globe taken in an elaborate process over several years.  The original globe can be visited in the Germanisches Nationalmuseum (GNM) in Nuremberg, Germany. Thanks to the GNM for making the data available under the CC-BY-SA license. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

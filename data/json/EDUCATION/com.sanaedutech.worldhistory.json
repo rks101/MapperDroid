@@ -1,0 +1,11 @@
+{
+"name" : "World History",
+"url" : "https://play.google.com/store/apps/details?id=com.sanaedutech.worldhistory",
+"package" : "com.sanaedutech.worldhistory",
+"category" : "Education",
+"description" : "World Events/History e-Book and Quiz  Quick e-Book concept from Sana Edutech presents you a fast user-interface that helps you explore all study materials pertaining to the subject in superb-fast way. This educational app with a new concept design helps you in preparing for exams as well refreshing your knowledge in a much faster way compared to any other e-book format.  - Users can scroll the seek bar and instantly read / go-through the materials - Adequate pictorial representation for you to remember the contents  - Contents presented in an organised way for your quick access (in matter of seconds) - Carefully compiled Historical world events since the Big-bang theory till date - 1000s of Questions on History presented in lucid Quiz format - Instantaneous evaluation of your Quiz results, know your strength. - All presented in an elegant user-interface, all contents unlocked FREE  History Contents include:  - Ancient World History - Medieval World - Greeks and Romans - Egyptian, Chinese, Sumerian Civilisation - Middle Ages - Medieval World - Modern Age - World Revolution - 19th Century - Contemporary World - Modern world - International Organisations - World Wars ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

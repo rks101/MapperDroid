@@ -1,0 +1,11 @@
+{
+"name" : "Math for Second Grade Lite",
+"url" : "https://play.google.com/store/apps/details?id=math.tweaknow.com.mathforsecondgrade",
+"package" : "math.tweaknow.com.mathforsecondgrade",
+"category" : "Education",
+"description" : "Math for Second Grade is designed specifically to help second grade children to learn and practice math easily in your hand phone or tablet. Unlike study using a traditional worksheet from a book, by using our app your children will be provided with random generated questions every time their start to practice. This will keep your children challenged.  All questions generated for every subjects are designed to conform with second grade math curriculum in most countries.   Subjects included in the program:   Number to 100  Ten and Units  Position  Comparing Numbers  Ordering Numbers  More Than and Less Than  Number Patterns  Round Numbers  Shapes  Solids  Symmetry  Halves and Quarters  Addition  Subtraction ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

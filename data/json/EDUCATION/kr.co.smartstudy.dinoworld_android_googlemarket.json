@@ -1,0 +1,11 @@
+{
+"name" : "Pinkfong Dino World",
+"url" : "https://play.google.com/store/apps/details?id=kr.co.smartstudy.dinoworld_android_googlemarket",
+"package" : "kr.co.smartstudy.dinoworld_android_googlemarket",
+"category" : "Education",
+"description" : "Discover all your favorite dinosaurs at [Pinkfong Dino World]!  From the mighty T-Rex to the giant Brachiosaurus -- watch animated videos and play fun games featuring all these dinosaurs. Learn fun facts and become a dinosaur expert at the end of the day!  [FEATURES]  1. Watch fun dinosaur videos! - Sing-along to 12 different songs with catchy tunes and fun dinosaur facts. - Watch the popular T-Rex song, Im a Chef Today, If Dinosaurs were still alive, Dinosaurs A to Z and many more!  2. Play interactive dinosaur games! - The app includes variety of interactive games featuring kids favorite dinosaurs. - Feed the T-Rex, brush Brachiosaurus teeth, and play hide-and-seek with the Triceratops.  - Dig up dinosaur fossils to discover surprises.  3. Learn dinosaur names & facts with flash cards! - Learn all about dinosaurs -- their names, diet size and origin -- with fun flash cards.  Join the adventure now to the Boom-boom-Dino World! ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Countries of Europe Quiz - Maps, Capitals, Flags",
+"url" : "https://play.google.com/store/apps/details?id=com.Maple.EuropeanCountriesQuiz",
+"package" : "com.Maple.EuropeanCountriesQuiz",
+"category" : "Educational",
+"description" : "Test and improve your knowledge of the countries of Europe using the many standard and customizable quizzes available in the Countries of Europe Quiz app.  Quizzes cover 6 topics about the European countries:  Locations on a map  Capital cities  Most populous cities  Flags  Coat of arms  Country abbreviations (ISO 3166-2)  You can also choose between 2 quiz formats:  Find the countries on a map of the European continent  Multiple choice questions  Customizable quizzes allow you to choose which European countries to test, as well as the topic. Past results for each country are displayed to highlight your progress at each topic.   Standard quizzes allow you to learn each topic by progressing through a series of levels, each covering additional countries.   The game language can easily be changed in-app to English, French, German, Spanish, Portuguese, and Italian.  This app includes the sovereign states on the European continent that are members of the United Nations. 2 transcontinental countries, Russia and Turkey, which are in both Europe and Asia, have also been included in this app. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_COURSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+}

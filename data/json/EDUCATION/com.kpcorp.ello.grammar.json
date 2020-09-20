@@ -1,0 +1,11 @@
+{
+"name" : "Ello English Grammar - Listening - ESL Free",
+"url" : "https://play.google.com/store/apps/details?id=com.kpcorp.ello.grammar",
+"package" : "com.kpcorp.ello.grammar",
+"category" : "Education",
+"description" : "Elllo English Grammar is free application that I created in my spare time because I am a full-time teacher, so the application is basic, but I try to improve it from time to time.  The aim of the app is to make learning English grammar easy, effective, and free. If you have any idea to impove this app, dont hesitate to send me an email via the support email inside the app.  With this application, you can: - Learn all English grammars at one place - Listen to all kind of English accents with a lot of quiz to test your listening skill - Add your favorite grammars or audios  Happy Learning!! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.SEND_SMS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SEND_SMS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

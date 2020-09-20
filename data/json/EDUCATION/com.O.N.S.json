@@ -1,0 +1,11 @@
+{
+"name" : "ONS",
+"url" : "https://play.google.com/store/apps/details?id=com.O.N.S",
+"package" : "com.O.N.S",
+"category" : "Education",
+"description" : "The Network is most highly recommend thing in our communication and connection. Nowadays everyone has connected with their colleges,relations and friends through network which is why it makes easy to communicate and to put our view or share our experiences. In the same thing we all are known about our requirement and essential to know these things. It has problem so how can it be resolved so this blog application you do help. The best online networks solution we are going to provide you and hope it will help you to resolve your query and get full satisfaction. ",
+"desc_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_CONTACTS']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

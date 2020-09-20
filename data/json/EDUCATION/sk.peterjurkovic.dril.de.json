@@ -1,0 +1,11 @@
+{
+"name" : "Dril - german effectively",
+"url" : "https://play.google.com/store/apps/details?id=sk.peterjurkovic.dril.de",
+"package" : "sk.peterjurkovic.dril.de",
+"category" : "Education",
+"description" : "Dril is an application for learning not only German words and phrases. The application is based on a method of repetition, which is an effective way of remembering vocabulary and other various information.    Features: - Creating your own textbooks, lesson, vocabulary - Synchronization with web.drilapp.com - XLS, CSV, WEB imports of vocabulary - Backups & Restores - Works off-line - Pronunciation - Simple statistics - Is FREE and no Ads! - And many more features! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Speed Math",
+"url" : "https://play.google.com/store/apps/details?id=com.aor.speedmath",
+"package" : "com.aor.speedmath",
+"category" : "Educational",
+"description" : "An easy and fast paced math game for everyone. Get high scores, unlock achievements and try to beat your friends. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

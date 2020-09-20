@@ -1,0 +1,11 @@
+{
+"name" : "English Listening Full Audios",
+"url" : "https://play.google.com/store/apps/details?id=com.ocoder.english.listen.speaking.listening.ielts.toeic.full",
+"package" : "com.ocoder.english.listen.speaking.listening.ielts.toeic.full",
+"category" : "Education",
+"description" : "English Listening Full Audios is a free app. This contain about more than 450 Listening Lessions Audios, they will help you improve your listening skill.  Listen English Full Audios will help you in basic listening, intermediate listening and advance english listening. This app contain dictionary to help you translate any word that you do not understand by 1 click. English - Vietnamese English - Japanese English - Korean English - Hindi  and much more dictionaries ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

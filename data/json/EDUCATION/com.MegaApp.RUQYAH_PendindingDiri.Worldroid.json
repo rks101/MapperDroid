@@ -1,0 +1,11 @@
+{
+"name" : "RUQYAH - Pendinding Diri & Kediaman(Pengusir Jin)",
+"url" : "https://play.google.com/store/apps/details?id=com.MegaApp.RUQYAH_PendindingDiri.Worldroid",
+"package" : "com.MegaApp.RUQYAH_PendindingDiri.Worldroid",
+"category" : "Education",
+"description" : "RUQYAH ialah rawatan dan ikhtiar yang paling berkesan dan mujarab dengan menggunakan ayat-ayat suci AL-QURAN sebagai Pendinding Diri mahu pun Rumah Kediaman kita. Apabila Ayat-Ayat RUQYAH diperdengarkan kepada seseorang yang mengalami gangguan atau di dalam Rumah Kediaman yang mengalami gangguan, INSYA ALLAH gangguan tadi akan hilang .  Selain memperdengarkan Ayat-Ayat RUQYAH ini, kita juga perlu mengikut beberapa panduan rawatan seterusnya apabila sesudah selesai RUQYAH. Semua panduan rawatan ini terdapat di dalam aplikasi ini.  Kita juga digalakkan berdoa kepada ALLAH yang maha kuasa supaya di berikan kesembuhan dan kesihatan yang baik. Denagn izinnya sahaja segala penyakit dan masalah dapat diselesaikan..  INSYA ALLAH.... ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

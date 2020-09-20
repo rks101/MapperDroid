@@ -1,0 +1,11 @@
+{
+"name" : "Aprender los Números",
+"url" : "https://play.google.com/store/apps/details?id=air.AprenderlosNumeros",
+"package" : "air.AprenderlosNumeros",
+"category" : "Education",
+"description" : "Aprende los Nmeros  Disfruta de esta aplicacin, es una herramienta muy til en el aprendizaje de los nmeros para nios desde 0 hasta 8 aos de edad.  Toca los nmeros para escuchar su pronunciacin y ver objetos relacionado con una voz amigable y graciosa para ayudara en el proceso de aprendizaje.  Colorea, Prcticas, juegos y mas...  Disfruta junto con tu bebe y fortalece el aprendizaje con esta aplicacin. Learn the Numbers  Enjoy this application, it is a very useful tool in learning numbers for children from 0 to 8 years of age.  Touch the numbers to hear their pronunciation and see objects related to a friendly and funny voice to help in the learning process.  Color, practices, games and more ...  Enjoy together with your baby and strengthen learning with this application. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+}

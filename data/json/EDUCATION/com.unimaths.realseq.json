@@ -1,0 +1,11 @@
+{
+"name" : "Sequences of Real Numbers",
+"url" : "https://play.google.com/store/apps/details?id=com.unimaths.realseq",
+"package" : "com.unimaths.realseq",
+"category" : "Education",
+"description" : "This application gives a concise introduction to sequences of real numbers. The topics covered are  1 Sequence and subsequence  2 Convergence of sequence  3 Monotone sequence  4 Bounded sequence  5 Cauchy sequence  6 Limit superior and inferior  7 Basic Results  It also contains ample number of solved examples and a brief introduction to foundations of Mathematics. It is useful for under-graduate and graduate students of Mathematics. The fetures of this app are  1. Works offline 2. No Ads 3. Developed in LaTeX 4. Mobile Responsive Content  Suggestions are welcome. Write them at univrmaths@gmail.com. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

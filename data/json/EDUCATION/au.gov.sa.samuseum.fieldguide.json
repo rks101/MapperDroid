@@ -1,0 +1,11 @@
+{
+"name" : "Field Guide South Australia",
+"url" : "https://play.google.com/store/apps/details?id=au.gov.sa.samuseum.fieldguide",
+"package" : "au.gov.sa.samuseum.fieldguide",
+"category" : "Education",
+"description" : "Learn more about the biodiversity of South Australia. See detailed descriptions of South Australias mammals, reptiles, birds, insects and marine life combined with stunning images and sounds. This app provides a rich reference that can be used in urban, bush and coastal environments. The content has been developed by scientists from the South Australian Museum and other museums around the country. The app holds descriptions of more than 800 species, encompassing birds, fishes, lizards, snakes, mammals, marine invertebrates, insects, spiders, snails, slugs, butterflies and moths. This is still only a fraction of the complete faunal record of South Australia. Our team will continue to add new species and refine descriptions.  If you have trouble either downloading the app or with the app crashing, please refer to our app support page.(http://museumvictoria.com.au/discoverycentre/museum-victoria-apps/mv-field-guide-to-victoria-app/support/) ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.CHECK_LICENSE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.android.vending.CHECK_LICENSE']",
+}

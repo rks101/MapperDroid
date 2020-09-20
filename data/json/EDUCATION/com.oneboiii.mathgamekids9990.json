@@ -1,0 +1,11 @@
+{
+"name" : "Math For Kids : Add, Subtract, Multiply, Divide",
+"url" : "https://play.google.com/store/apps/details?id=com.oneboiii.mathgamekids9990",
+"package" : "com.oneboiii.mathgamekids9990",
+"category" : "Educational",
+"description" : "Learn maths with math games full of colors. More graphically attractive maths games coming soon! Learn and practice basic maths for kids.  Addition, Subtraction, Multiplication, Division all have various math exercises to practice maths like: Learn, Practice, Maths Quiz, Fill in the blanks, Match answers, Timed mode and True-False.  Math suitable for nursery kids, 1st-grade kids, 2nd-grade kids, yet also a good challenge for parents and adults. Add, subtract, multiply, divide, with numerous exercises. Practice exercises similar to math exercises in schools and preschools. Math games Good for toddlers, kids, teenagers, and grownups.  Run a math race and accelerate your car by answering math questions.  One of the smallest math app on Google Play in size! Increase your brain power with an excellent educational game for learning mathematics. Math Game of addition, subtraction, multiplication and division are full of colors. Each game shows a score after completion to keep in track the improvement. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

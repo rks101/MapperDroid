@@ -1,0 +1,11 @@
+{
+"name" : "Gender Equality Bingo",
+"url" : "https://play.google.com/store/apps/details?id=net.brianfitzgerald.bingo",
+"package" : "net.brianfitzgerald.bingo",
+"category" : "Educational",
+"description" : "Play Gender Equality Bingo to help challenge sexism and exclusion at conferences and meetings everywhere! Panel all male? Woman interrupted? Moderator doesnt call on women in the audience with questions? BINGO! Share each event on social media with the conference hashtag to shine a spotlight on behaviours good and bad. There are two boards: one made up of positive events, the other negative. Dont forget to applaud progress!   This app has been created by Women4Oceans. How come?   Because to save our oceans requires the best of everyone! All our voices need to be heard. Gender Equality Bingo is designed to shed light on dismissive or inappropriate behaviours at conferences and elsewhere. For example highlighting all male panels, lack of racial diversity or reference to a womans appearance. We hope this tool will help level the playing field and lead to more productive outcomes at conferences. From climate change to overfishing and plastic pollution, there really is no time to waste when it comes to our blue planet! This Bingo app is not limited to ocean conferences and can be used across all sectors.  This app is produced by Women4Oceans. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

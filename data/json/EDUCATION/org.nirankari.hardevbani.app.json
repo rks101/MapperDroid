@@ -1,0 +1,11 @@
+{
+"name" : "Hardevbani - Nirankari Mission",
+"url" : "https://play.google.com/store/apps/details?id=org.nirankari.hardevbani.app",
+"package" : "org.nirankari.hardevbani.app",
+"category" : "Education",
+"description" : "Hardevbani app allows for following features:  i) Ability to read any verse of Hardevbani in multiple languages ii) Ability to search based on the contents of verse or based on keywords iii) Ability to favorite any verse for reference later ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_FINE_LOCATION', 'org.nirankari.hardevbani.app.permission.C2D_MESSAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

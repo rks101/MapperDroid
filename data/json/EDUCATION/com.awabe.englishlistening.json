@@ -1,0 +1,11 @@
+{
+"name" : "English listening daily",
+"url" : "https://play.google.com/store/apps/details?id=com.awabe.englishlistening",
+"package" : "com.awabe.englishlistening",
+"category" : "Education",
+"description" : "Listening is the most important skill in English. This software will help you to practice English listening easier. The voice from conversations is quite slow. Therefore, you can listen almost words in the conversations.  FEATURES  English conversation with slow voice.  Commonly-used English phrases & vocabularies  Easy to store and manage your favorite items   Pretty UI, simple and user-friendly,support multi language  Huge amount of audio content  Remind learn English  *Easy to use, easy to understand, easy to practice! *Improve quickly listening skills, gain more useful and practical English *You can download audio to use OFFLINE.   Developed by Awabe. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

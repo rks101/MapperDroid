@@ -1,0 +1,11 @@
+{
+"name" : "A Hebrew Word A Day",
+"url" : "https://play.google.com/store/apps/details?id=com.processingbox.onewordperdayiw",
+"package" : "com.processingbox.onewordperdayiw",
+"category" : "Education",
+"description" : "Very simple and efficient when you want to learn a new language, simply get a new word each day.  Each day you will receive a notification at the desired time informing you a new word is available. It will be displayed with its translation.  You did forget a translation ? Dont worry, all words and their translation are saved in a list that you can display at any time.  With this method you can learn gradually without difficulty. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+}

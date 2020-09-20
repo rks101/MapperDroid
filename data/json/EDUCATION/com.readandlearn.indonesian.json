@@ -1,0 +1,11 @@
+{
+"name" : "Read & Learn Indonesian",
+"url" : "https://play.google.com/store/apps/details?id=com.readandlearn.indonesian",
+"package" : "com.readandlearn.indonesian",
+"category" : "Education",
+"description" : "Learn to read Indonesian (Bahasa Indonesia) starting from simple sentences, moving on to increasingly more difficult ones - all with English translations and a list of vocabulary on the same page! Like this, even total beginners will be able to start reading instantly. The app keeps track of which words you know, and will only show definitions for words you dont know yet. Flashcards and exercises help reinforce what youve learned while reading, helping you improve both your vocabulary and grammar.  You can also load your own texts into the app - via files or copy & paste - with all the support of Google translations, vocab list, flashcards & automatically generated exercises available for any text. You can listen to any sentence read out loud, at your preferred speed, to make sure you know how the words are pronounced & improve your listening skills. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Kheti badi ki jaankari (рдЦреЗрддреА)",
+"url" : "https://play.google.com/store/apps/details?id=com.khetibadikijaankari.kheti",
+"package" : "com.khetibadikijaankari.kheti",
+"category" : "Education",
+"description" : "The app contain the following topics-  Farming of onion Farming of potato ladyfinger arming Cabbage cultivation Gourd cultivation Pea Farming Brinjal cultivation Tomato farming Radish cultivation Patagobi farming farming of garlic Cucumber cultivation Bitter gourd cultivation Pumpkin farm Turnip cultivation Spinach farming Carrot farming Arabic farming Parwal farming Troi farming Sweet potato cultivation Maize cultivation Paddy farming Jowar Barley cultivation Wheat farming Millet cultivation Sava farming Oat cultivation Urad farming Gram cultivation Lentil cultivation Moong cultivation Cultivating beans Mango cultivation Guava cultivation Banana cultivation Papaya cultivation Soybean cultivation Mustard cultivation   If you like this app please rate us. Thank You.                .         -                                                                                                                                      .  ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'com.khetibadikijaankari.kheti.permission.C2D_MESSAGE', 'android.permission.INTERNET', 'android.permission.RESTART_PACKAGES']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.RESTART_PACKAGES', 'android.permission.ACCESS_FINE_LOCATION']",
+}

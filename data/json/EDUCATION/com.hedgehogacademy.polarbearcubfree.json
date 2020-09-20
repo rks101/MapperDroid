@@ -1,0 +1,11 @@
+{
+"name" : "Polar Bear Cub - Fairy Tale with Games Free",
+"url" : "https://play.google.com/store/apps/details?id=com.hedgehogacademy.polarbearcubfree",
+"package" : "com.hedgehogacademy.polarbearcubfree",
+"category" : "Educational",
+"description" : "A story about Polar Bear Cub and his friends Owlet and Baby Seal in the North. The plot includes logic and educational tasks for kids 3-5 years old. The tasks were designed by a child psychologist based on the training materials for toddlers and preschoolers.  Example tasks: recall who lives in which house; place the pictures in the correct order; puzzles; memory cards; guess the logic of a sequence of objects; find the correct walrus; find two similar pieces of ice; mazes for toddlers and other educational mini-games for small children. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+}

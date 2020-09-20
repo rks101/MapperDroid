@@ -1,0 +1,11 @@
+{
+"name" : "English Thaddar",
+"url" : "https://play.google.com/store/apps/details?id=com.mmswdev.englishthaddar",
+"package" : "com.mmswdev.englishthaddar",
+"category" : "Education",
+"description" : "In this app, one can learn English grammar and practice the knowledge using the quizzes provided. By practicing the quizzes, you can be more familiar with the theories learned from the lecture pages. More lessons and quizzes would be added periodically.  Grammar lessons, conversations, vocabulary lists and quizzes are added. We will try our best to cover the topic as much as possible with as few errors as possible. However, if there are any omissions or errors, please feel free to let us know.  This app is supported by ads. This app is made available for free without any in-app purchases.  Privacy Policy * English Thaddar App does not collect any personally identifiable information from the app. * English Thaddar App does collect anonymous usage information to analyze and improve the experience for the app. That information is only used in aggregation as statistics. * English Thaddar App uses Googles Admob advertising service. Their privacy policy can be found at https://www.google.com/intl/en/policies/privacy/. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.mmswdev.englishthaddar.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

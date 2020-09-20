@@ -1,0 +1,11 @@
+{
+"name" : "MPSC Daily Current Events",
+"url" : "https://play.google.com/store/apps/details?id=com.mpsc.currentevents",
+"package" : "com.mpsc.currentevents",
+"category" : "Education",
+"description" : "Features:-  * Total Offline App. Internet Connection is Only required for Regular Updates. Once Notes MPSC Current Affairs Downloaded in App then You Can Read it Offline.   * Current Affairs App in Marathi  * Total Free App. We Dont Charge Any Hidden Fee   * Daily Updates. (Regular Daily Update Size is less than 50KB Per Day)   * Download Available Download Section is Available for Students. Maharashtra Lokseva Aayog Previous Year Question Papers , Maharashtra Public Service Commission Exam Material , Chalu Ghadamodi , Books . Students can Download Various Notes in PDF Format in their Device. They can Take the Printout of those Notes.  This is current affairs app . Its Useful for ias preparation , bank exam preparation , mpsc exam preparation , clerk exam preparation , ssc exam preparation , railway exam , bank preparation . So this is complete exam preparation app with Good general knowledge app. In this App User will get daily current affairs and gk .  There are Lot of competitive exam apps , general awareness app , gk apps in english , current affairs quiz app , exam paper app , upsc exam app . But Our App is Unique in All Features. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "[]",
+}

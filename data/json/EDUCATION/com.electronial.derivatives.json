@@ -1,0 +1,11 @@
+{
+"name" : "Derivatives",
+"url" : "https://play.google.com/store/apps/details?id=com.electronial.derivatives",
+"package" : "com.electronial.derivatives",
+"category" : "Education",
+"description" : "This app contains all common derivative functions. The app is free and easy to use Formula types:   Derivation rules  Basic functions  Exponential functions  Logarithmic functions  Trigonometric functions  Hyperbolic functions ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

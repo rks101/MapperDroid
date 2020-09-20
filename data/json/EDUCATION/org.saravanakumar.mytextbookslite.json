@@ -1,0 +1,11 @@
+{
+"name" : "Tamilnadu Text Books - 2019",
+"url" : "https://play.google.com/store/apps/details?id=org.saravanakumar.mytextbookslite",
+"package" : "org.saravanakumar.mytextbookslite",
+"category" : "Education",
+"description" : "2017, 2018, 2019 Tamilnadu school Textbooks.   ,    .       .     QR code-   Website   .    YouTube   ---  QR Code Scanner & Direct website link  Educational related Youtube Videos list.  New 2018, 2019 Tamil & English medium books. ---  This will be helpful for students, teachers and who preparing for civil service examinations, TNPSC Group exams, and competitive examinations.  - Thanks to School Education Department, Tamil Nadu Textbook and Educational Services Corporation and Government of Tamil Nadu  We would love to hear any suggestions, questions or comments, please write to kalviapp@gmail.com.   Thanks. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.STORAGE', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "DBMS RDBMS Tutorial",
+"url" : "https://play.google.com/store/apps/details?id=com.HealthFitnessAndTutorials.DbmsRdbmsTutorial",
+"package" : "com.HealthFitnessAndTutorials.DbmsRdbmsTutorial",
+"category" : "Education",
+"description" : "Learn to program and build innovative arduino projects using the Arduino Microcontrollers, with this free tutorial.   DBMS Tutorial app collections of Categories are below and provide all this Topic Like, DBMS TUTORIAL DBMS - Overview DBMS - Architecture DBMS - Data Models DBMS - Data Schemas DBMS - Data Independence  ENTITY RELATIONSHIP MODEL Er Model - Basic Concepts Er Model - Representation Er Model - Generalization, Aggregation  RELATIONAL MODEL CoddS Rules Relational Data Model Relational Algebra Er To Relational Model SQL Overview  RELATIONAL DATABASE DESIGN Database Normalization Database Joins  STORAGE AND FILE STRUCTURE Storage System File Structure  INDEXING AND HASHING Indexing Hashing  TRANSACTION AND CONCURRENCY Transaction Concurrency Control Deadlock  BACKUP AND RECOVERY Data Backup Data Recovery Etc...  App Features: - Rich Layout - Easy Navigation - Mobile Friendly Format - Best and Free for All. - The entire collection all over topic. - Totally Free Application DBMS Language Tutorial, DBMS Tutorial, Learn DBMS in Detail, DBMS programming language, DBMS Tutorial with example, Programing using DBMS, RDBMS Language Tutorial, RDBMS Tutorial, Learn RDBMS in Detail, RDBMS programming language, RDBMS Tutorial with example, Programing using RDBMS ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

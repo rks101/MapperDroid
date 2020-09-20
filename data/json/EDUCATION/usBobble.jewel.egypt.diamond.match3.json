@@ -1,0 +1,11 @@
+{
+"name" : "Egypt Diamond Match",
+"url" : "https://play.google.com/store/apps/details?id=usBobble.jewel.egypt.diamond.match3",
+"package" : "usBobble.jewel.egypt.diamond.match3",
+"category" : "Educational",
+"description" : "egypt diamond match The ultimate match-3 game in an ancient Egypt Best experience, graphics and puzzles on your Android phones/Tablets! Never miss-out the match-three (match 3) quest!  Egypt diamond match is an free addictive games and delicious adventure filled with colorful game crunching effects and well designed casual puzzles for you to play in subway time! With jewel style to smash and eliminate in each level, is twice the fun but familiar to play. So lets get started to crush now!   more than 1000 puzzles to solve  challenging bonus levels with free rewards  magical boosters to blast your score  best jewel games online right now  addictive theme and storyline  Match 3 or more jewels, gems or diamonds in a row to clear the board. Create lightning crunching effects when you match 4, and make matches of 5 to get a huge mega jewel! Colorful stones that you need to combine for higher scores and executive wins. Make combos of special jewels together and solve the puzzle in your own way!  If you really like the match puzzel 3 game, also very love of Egyptian culture, lets start your journey in Egypt world ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE']",
+}

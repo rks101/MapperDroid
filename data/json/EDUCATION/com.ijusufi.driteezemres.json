@@ -1,0 +1,11 @@
+{
+"name" : "Drite e Zemres",
+"url" : "https://play.google.com/store/apps/details?id=com.ijusufi.driteezemres",
+"package" : "com.ijusufi.driteezemres",
+"category" : "Education",
+"description" : "Drit e Zemrs aplikacion i ri per androidI krijuar nga Imerja Jusufi nga Gostivari student i Inxhinieris Informatike ne USHT. Aplikacioni ne fjale eshte mjaft i thjeshte per tu perdorur dhe mjaft efikas dhe i nevojshem, permban te dhena te ndryshme nga feja Islame. Ne te mund te gjeni: -Takvimin ditore per Maqedonine, Kosoven, Shqiperin, Itali, Zvicer, Gjermani.. si dhe ne te gjitha vendet ku gjenden Shqiptaret Musliman; -Drejtimin e kibles. -Duat e nevojshme dhe degjimin e tyre me ze si dhe shqiptimin e tyre. -Hadithe nga Muhammedi a.s. -Video live nga Meka. -Marrja e abdestit. -Lutje te ndryshme -Mbulesa Islame -Si dhe shume gjera tjera te perditshme te nevojshme.. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

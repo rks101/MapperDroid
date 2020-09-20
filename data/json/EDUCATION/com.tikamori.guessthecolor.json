@@ -1,0 +1,11 @@
+{
+"name" : "Learn colors while playing! Mixing colors",
+"url" : "https://play.google.com/store/apps/details?id=com.tikamori.guessthecolor",
+"package" : "com.tikamori.guessthecolor",
+"category" : "Education",
+"description" : "Do you want your baby learning colors? Do you want to discover by your own the difference between amaranth and sapphirine colors? Do you wander what will you get if mix different shades of colors? We have an easy solution for you! Free application Learn colors while playing! is created special for you and your baby! Absolutely self-facilitated your child will learn a lot of new colors, and its just an exciting game for him!   Raise a little artist!  Children like friendly intuitive interface of our application with cute red cat, who is going to teach your baby lots of new colors and shades, even in foreign language, if you prefer to choose one of six of them.  Application Learn colors while playing! consists more than 50 colors and shades, including rare ones, like amaranth, indigo, sapphirine  terracotta.   PRO Version Unlocker (Remove Ads)   We have 4 kinds of activity for your baby: 1. Learning colors. 2. Choose the right color, looking at its name. 3. Choose the right name of the color, looking at the colored fish. Be attentive! If youre wrong - the cat eats the fish! 4. During the game your kid will study how to separate compound color, how to mix the new one using simple colors and will eventually get the principles of forming colors.  Voice prompts are included. Kids can hear the name of every colour.  Learn colors with us! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

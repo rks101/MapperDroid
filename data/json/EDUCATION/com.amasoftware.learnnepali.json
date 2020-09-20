@@ -1,0 +1,11 @@
+{
+"name" : "Learn Nepali",
+"url" : "https://play.google.com/store/apps/details?id=com.amasoftware.learnnepali",
+"package" : "com.amasoftware.learnnepali",
+"category" : "Education",
+"description" : "Learn Nepali is a simple app for anyone who wishes to learn Nepali fast and easy.  Learn Nepali contains over 10000 commonly-used Nepali words and phrases for travelers and beginners in 15 categories and over 100 subcategories. You can choose your native language from 60+ languages. Improve your Nepali vocabulary today.  After just a month you will be able to handle important Nepali conversations for:  Transportation  Shopping  Directions  Making friends and socializing  Dining  Working  And much more!   FEATURES  High quality translations made by Nepali speakers  Support multiple languages. Translate over 60 languages to Nepali.  Quiz games   Search system  No internet connection required ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

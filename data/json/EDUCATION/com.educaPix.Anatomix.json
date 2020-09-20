@@ -1,0 +1,11 @@
+{
+"name" : "Anatomix - Human Anatomy",
+"url" : "https://play.google.com/store/apps/details?id=com.educaPix.Anatomix",
+"package" : "com.educaPix.Anatomix",
+"category" : "Educational",
+"description" : "INCLUDES: - Skeletal System - Muscular System - Circulatory System - Respiratory System - Digestive System - Urinary System - Nervous System  NEXT: - Endocrine System - Reproductive System - Senses - Neurons - Cells  Anatomix is an educational tool designed to help you learn the anatomy of the human body. It has different levels and it allows you to adapt the content to each student, which makes it work for all ages.   Try it free and unlock the content that you need or the complete collection (including future content) at a great discount.   If you have a suggestion or something doesnt work the way you want it to, dont hesitate to contact us at support@educaPix.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

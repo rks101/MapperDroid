@@ -1,0 +1,11 @@
+{
+"name" : "English verbs conjugation - offline",
+"url" : "https://play.google.com/store/apps/details?id=app.dev.english_verbs_conjugation",
+"package" : "app.dev.english_verbs_conjugation",
+"category" : "Education",
+"description" : "English Verbs Conjugation allows you to learn regular and irregular english verbs. It contains the most common english verbs. more then 8000 verbs. The conjugation of 8000 english verbs offline.  Features: -Verb Conjugation to learn English. - English Regular and Irregular Verbs. - Infinitive, Simple Past and Past Participle forms. - Verb Conjugations for: Present (Present Simple, Present Continuous, Present Perfect, Present Perfect Continuous), Past (Past Simple, Past Continuous, Past Perfect, Past Perfect Continuous), Future (Future Simple, Future Continuous, Future Perfect, Future Perfect Continuous), Conditional (Conditional Simple, Conditional Continuous, Conditional Perfect, Conditional Perfect Continuous). - Languages available : English, French, German. - Fast search in verbs. and offline conjugation access. - List mode. - Favorites section of English verbs. -Clean and Simple user interface for smooth interaction and easy, fast utilisation. -Support all kinds of screens.(phone, tablets). Small size ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "World Map 2020 FREE",
+"url" : "https://play.google.com/store/apps/details?id=com.appventions.worldmapfree",
+"package" : "com.appventions.worldmapfree",
+"category" : "Education",
+"description" : "*** World Map has over 6500 Five Star Reviews! ***  View a large quick reference World Map on your Android Device today!  Get to know the World Geography!  Contains Up-To-Date World Maps!  Did you know? ------------- South Sudan became the worlds 195th country following separation from Sudan on 9 July 2011   Features --------- - Political World Map Atlas - Find a country easily with a convenient globe map - Educational reference map for students, school, and university - Up to date maps - Great for education - View every nation and its major cities in one large map - No internet connection is required. The worldmap is stored on your Android and can be viewed Offline.  A quick reference map to quickly find countries and cites like United Kingdom, Australia, Sydney, Melbourne, Japan, Tokyo, China, Shanghai, USA, Brazil, Sao Paulo, Brasilia, California, New York, Europe and More!  Users Love World Map!  Explore the World Map on your Android today!  Try it for Free! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COURSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

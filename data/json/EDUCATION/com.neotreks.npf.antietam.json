@@ -1,0 +1,11 @@
+{
+"name" : "Antietam Trail Map App",
+"url" : "https://play.google.com/store/apps/details?id=com.neotreks.npf.antietam",
+"package" : "com.neotreks.npf.antietam",
+"category" : "Education",
+"description" : "The Antietam Trail Map App is the perfect companion for your visit to Antietam National Battlefield. Produced with the help of park rangers and historians, this app provides you with a personal tour of the park that is concise and easy-to-use. Gain additional insights as you follow the parks auto tour or as you tour the battlefield from the comfort of your home. An audio tour and videos provide even more information about the bloodiest day in American history. Best of all, this tour is adaptable to your schedule, allowing you to make the most of your time at the park, whether youve got an hour or a whole day.  The Antietam Trail Map App is just one of our expanding lineup of Battle Apps that are ready to be downloaded today. To learn more about all of our Battle App offerings visit our website at: https://www.battlefields.org/battleapps. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "English - Spanish Translator",
+"url" : "https://play.google.com/store/apps/details?id=com.tiawy.translator.esen",
+"package" : "com.tiawy.translator.esen",
+"category" : "Education",
+"description" : "It is now very easy to translate words and texts from Spanish to English or from English to Spanish. Whether you write or talk, you can do the fastest translation.   This app contains the following features:  - Translate words and sentences - Translation by talking - Translate from clipboard - Simple and user-friendly interface - Instant search - Instant start  Traductor gratuito del espaol al ingls y del ingls al espaol. Free translator from Spanish to English, and from English to Spanish. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.sec.android.provider.badge.permission.READ', 'android.permission.RECORD_AUDIO', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.huawei.android.launcher.permission.CHANGE_BADGE', 'com.htc.launcher.permission.READ_SETTINGS', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'com.sonymobile.home.permission.PROVIDER_INSERT_BADGE', 'com.majeur.launcher.permission.UPDATE_BADGE', 'com.huawei.android.launcher.permission.READ_SETTINGS', 'com.huawei.android.launcher.permission.WRITE_SETTINGS', 'com.tiawy.translator.esen.permission.C2D_MESSAGE', 'com.sec.android.provider.badge.permission.WRITE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE']",
+}

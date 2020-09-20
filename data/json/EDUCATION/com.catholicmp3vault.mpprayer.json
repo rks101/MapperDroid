@@ -1,0 +1,11 @@
+{
+"name" : "Catholic Prayer Audio Collection",
+"url" : "https://play.google.com/store/apps/details?id=com.catholicmp3vault.mpprayer",
+"package" : "com.catholicmp3vault.mpprayer",
+"category" : "Education",
+"description" : "Listen to many audio talks about prayer, meditations on the mysteries of the Rosary and Stations of the Cross, and a history of devotions. You can also pray along with audio recitations of the Rosary and Divine Mercy Chaplet.  HOW IT WORKS  Download the app for free to listen to samples of the library. Upgrade to the full version to have unlimited access to the complete library of talks.  These MP3s are streamed, not downloaded, so they take up no storage space on your device. A connection is required for the MP3 to play properly. To own these MP3s to manage yourself, go to our website to purchase the library.  REINSTALL OR PUT ON ANOTHER DEVICE  If you need to reinstall this app or wish to add it to another Android device, download the free version, select the Upgrade button, and go through the purchase process again. If using the same Google Play account, you will not actually be charged again.   To learn more about our other audio apps, or to download our MP3 libraries, visit www.CatholicVault.com. Contact us at catholicvault@gmail.com. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

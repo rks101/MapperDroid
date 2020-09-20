@@ -1,0 +1,11 @@
+{
+"name" : "Analogy Quiz",
+"url" : "https://play.google.com/store/apps/details?id=com.sanaedutech.analogy",
+"package" : "com.sanaedutech.analogy",
+"category" : "Education",
+"description" : "Logical Analogy Quiz   You shall be given with four images (with one missing image) and the fun is to find the missing image from answers given below.  It is a simple fun way to test your logical skills. The more you practice, you shall improve your logical capability. This Quiz app shall be used to test your skills, improve the way you think as well to prepare for any competitive exams.  - 20 sets of Quiz each with 20 questions - Any number of re-tests can be taken  - Practice mode of quiz where in you know the right answers immediately (no timing) - Timed mode of quiz where you have to attend 20 questions in 20 minutes - Detailed report of all quiz that you have taken - Review the right answer against any wrong answers - Font size, Bug-reporting and Results-viewing options - Designed for Phones as well Tablets (large resolution screens)  Fun way to prepare for MBA, Management entrance exams, Bank, GRE, GMAT like any exam. App is designed in such a way that person of any age in any country could use and benefit.  Above all, it is fully free ! ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.READ_CALL_LOG']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

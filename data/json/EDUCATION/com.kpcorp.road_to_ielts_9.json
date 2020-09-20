@@ -1,0 +1,11 @@
+{
+"name" : "IELTS Tips - Preparation - Road to 8.0 Free",
+"url" : "https://play.google.com/store/apps/details?id=com.kpcorp.road_to_ielts_9",
+"package" : "com.kpcorp.road_to_ielts_9",
+"category" : "Education",
+"description" : "If you are looking for IELTS tips and tricks application, so you are in the right place. This  IELTS Tips will help you to get the IELTS band 8.0 with a lot of tips, tricks, and practices.  Features: - Vocabularies: you will learn a lot of new words and phrases. - Reading - Writing - Listening - Speaking  This app is completely free. It can work offline, so you can bring it anywhere you want. Happy learning!!! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET']",
+}

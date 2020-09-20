@@ -1,0 +1,11 @@
+{
+"name" : "Six Qualities",
+"url" : "https://play.google.com/store/apps/details?id=com.lemonoapps.sixqualities2",
+"package" : "com.lemonoapps.sixqualities2",
+"category" : "Education",
+"description" : "Six Qualities is a great application to read and listen to the selected ahadith from the book Muntakhab Ahadith (by Sheikh Yusuf Kandhalavi Rahimahullah). This application displays/reads over 1500+ Ahadith and 200+ Verses of Quran related to Iman, Salat, Ilm and Dhikr, Ikram ul Muslimeen, Ikhlas and Dawat & Tabligh.  Here are the key features: 1. All Ahadith related to six qualities from Muntakhab Ahadith. 2. For each quality, the app remember which hadith you read last time. So when you enter into that quality, it directly takes you to that hadith. 3. It also plays audio (human voice) of the ahadith. This is downloaded from our online server. 4. You can choose to play one hadith repeatedly. 5. No internet connection is needed for reading hadith. 6. Added Arabic & Bangla (more will be added gradually) 7. Search 8. Share Hadith with friends 9. Verses of Quran also added 10. Avoiding the Irrelevant also added as new chapter  Related to: Islam, Muslim, Hadith, Quran, Sunnah, Tabligh, Dawat, Iman, Salah, Salat  We will regularly improve and launch better versions. Insha Allah. ",
+"desc_perms" : "['android.permission.WRITE_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

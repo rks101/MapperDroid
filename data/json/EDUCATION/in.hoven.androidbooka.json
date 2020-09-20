@@ -1,0 +1,11 @@
+{
+"name" : "Interview Question for Android",
+"url" : "https://play.google.com/store/apps/details?id=in.hoven.androidbooka",
+"package" : "in.hoven.androidbooka",
+"category" : "Education",
+"description" : "This book contains questions and answers on the Android OS and SDK. Android developers can benefit from the information provided in a clean form. ANSWERS ARE MOSTLY A REPETITION FROM THE GOOGLE ANDROID DEVELOPERS GUIDE, so no originality is claimed. This book can be used to brush up your knowledge just before an interview. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Truck Builder - Truck Simulator Games for kids",
+"url" : "https://play.google.com/store/apps/details?id=com.imayi.truckbuilderfree",
+"package" : "com.imayi.truckbuilderfree",
+"category" : "Education",
+"description" : "Kids can assemble 18 different kinds of cars and trucks in three workshops. Once they finish assembling, they can drive their creation and start their road adventure!  Friendly interaction! Easy to control! Drive from underground caves to the Midwest highways, with a variety of fun props, the children will enjoy on their road. Now, come and drive down the road! Pick a car, racing car or tractor. Are you ready for the adventure?   Features: 18 different kinds of cars for assembling 3 types of road driving experiences, including caves, cities, and mountain roads in the US Midwest  No rules or time pressures. Explore at your own pace   Great for toddlers and preschoolers, ages 2-5 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Urdu Poetry, Urdu Shayari of Famous Poets | Rekhta",
+"url" : "https://play.google.com/store/apps/details?id=org.Rekhta",
+"package" : "org.Rekhta",
+"category" : "Education",
+"description" : "Rekhta.org is the worlds largest website for Urdu poetry and literature. The Rekhta app is your gateway to the world of shers and ghazals in three different scripts- Hindi, Urdu and Roman. Enjoy shers and ghazals categorized according to poets and topics and even moods. To ease the learning of readers not familiar with the language, we have also enabled word-meanings at a click in the app. With thousands of poets to choose from, it is the best way to enjoy poetry on the go.   Download the app to sample the finest in Urdu literature and more.  Rekhta App Features:  Roman, Devnagri & Urdu Scripts  Meaning of each word on a click  Robust Search feature  20,000+ Ghazals & Nazms  20,000+ Shers (divided in categories like Romantic Shayari, Wine Shayari, Sad Shayari etc.)  2,000+ Poets  Additional Features:  Share Sher & Shayari on Facebook, Twitter, Whatsapp & SMS  Updated regularly with new poets and poetry ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

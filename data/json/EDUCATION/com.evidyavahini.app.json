@@ -1,0 +1,11 @@
+{
+"name" : "eVV 2.0",
+"url" : "https://play.google.com/store/apps/details?id=com.evidyavahini.app",
+"package" : "com.evidyavahini.app",
+"category" : "Education",
+"description" : "Department of School Education and Literacy (DoSE&L), Jharkhand aims to create an integrated digital platform called e-Vidyavahini to ensure robust governance of the school and effective service delivery. e-Vidyavahini shall serve as single centralized dynamic platform for monitoring of all key parameters to ensure effective delivery of quality education to all the schools in the state. It shall also serve as a two way communication platform to address issues and grievances of schools, and education officials at multiple levels. e-Vidyavahini shall be developed as a combination of mobile application and a web portal with dashboards and MIS to capture multiple parameters related to school infrastructure, delivery of schemes, learning outcomes, program implementation, academic initiatives, resource management etc. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.CALL_PHONE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.USB_PERMISSION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.USB_PERMISSION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET']",
+}

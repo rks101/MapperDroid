@@ -1,0 +1,11 @@
+{
+"name" : "how to pray in islam",
+"url" : "https://play.google.com/store/apps/details?id=com.kinoapps.how.to.pray17",
+"package" : "com.kinoapps.how.to.pray17",
+"category" : "Education",
+"description" : "This application is wonderful because it teaches Muslim prayer step by step salah namaz ,If you are looking for a salah guide on learning salah ,then download this Islamic application now in order to know about adequate information about performance of islamic prayer.  We are working on an application that includes muslim pro free prayer times azan quran qibla ,ajan with pray time india , ajan with pray time saudi jeddah and azan prayer and times in canada  Salah (Muslim prayer,; informally pronounced as ?alat; pl. ?alawat), called namaz (Persian:) in some languages, is one of the Five Pillars in the faith of Islam and an obligatory religious duty for every Muslim. It is a physical, mental, and spiritual act of worship that is observed five times every day at prescribed times.  At the end thank you for using our app and supporting us by rating this application. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

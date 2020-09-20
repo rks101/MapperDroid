@@ -1,0 +1,11 @@
+{
+"name" : "Russian Alphabet Mastery - 3 Hour Cyrillic",
+"url" : "https://play.google.com/store/apps/details?id=com.caesar.rusalphabet",
+"package" : "com.caesar.rusalphabet",
+"category" : "Education",
+"description" : "Using Contextual Learning, this FREE app gives you the ability to read and pronounce Russian in just under 3 hours.   Russian Alphabet Mastery 2.0 is normally available as part of the paid RussianAccelerator.com online program, but is now available free to app users.  If youve been putting off learning Cyrillic or have tried reading Russian with little success, its time to finally master it. Contextual learning makes it fast and easy.  This app uses video instruction so please allow extra time to download. Also, if memory space is an issue on your device, bear in mind you will only need this app for a few days.  So download now and in a few hours youll be reading Russian. Enjoy! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

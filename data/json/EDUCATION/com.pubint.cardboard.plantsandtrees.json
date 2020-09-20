@@ -1,0 +1,11 @@
+{
+"name" : "PI VR Plants and Trees",
+"url" : "https://play.google.com/store/apps/details?id=com.pubint.cardboard.plantsandtrees",
+"package" : "com.pubint.cardboard.plantsandtrees",
+"category" : "Education",
+"description" : "Look around a virtual reality deciduous forest and see the seasons change.  Learn about oaks, maples, sycamores, and more through videos, photographs, and animations. Test your knowledge with a built-in brain teaser.  This app is companion content for the book Encyclopaedia Britannica: Plants and Trees. When prompted to scan, look for the QR code located on the first page of your PI VR Plants and Trees book in order to access interactive content. Visit pilbooks.com/PIVRPlantsandTrees for more information. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

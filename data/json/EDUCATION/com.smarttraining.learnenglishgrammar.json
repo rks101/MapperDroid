@@ -1,0 +1,11 @@
+{
+"name" : "Learn English Grammar (Offline)",
+"url" : "https://play.google.com/store/apps/details?id=com.smarttraining.learnenglishgrammar",
+"package" : "com.smarttraining.learnenglishgrammar",
+"category" : "Education",
+"description" : "Learn English Grammar app is the best way to learn and practice English. it help improve your English grammar and get ready for an English grammar test or just improve your writing and speaking quickly. Learn English app will give you knowledge about aspects of English grammar with clear, understandable explanations, and many examples.  Features:  English Grammar In Use - 200+ grammar lessons - Active Or Passive Voice, Adjectives, Adverbs, Articles, Auxiliary Verbs, Conditionals, Conjunctions, Determiners, Idioms, Interjections, Introduction, Nouns, Phrases, Prepositions, Pronouns, Quantifiers, Question Tags, Reported Speech, Tenses, Verbs  English Grammar Quiz - Over 5000 questions for play to learn  English Vocabulary test - Over 6000 Vocabulary question to help you improve English Vocabulary  Spoken English  600 Esential words  Irregular verbs  Free English Grammar app  English Grammar Offline  We hope this app will help full for you! Thanks for using our application. Please rate 5 star to support us. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

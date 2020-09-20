@@ -1,0 +1,11 @@
+{
+"name" : "Gurbani Path (Offline App)",
+"url" : "https://play.google.com/store/apps/details?id=com.sekhontech.srigurugranthsahibji",
+"package" : "com.sekhontech.srigurugranthsahibji",
+"category" : "Education",
+"description" : "The aim to make this app is to, let people recite Guru Granth Sahib Ji on the go. This is offline app, so no internet is required to operate it. Now you can also listen Akhand Path Sahib 24x7.  Also it contains all the Nitnem Gurbanis. There is one great feature of this app known as Sehaj Path Diary, where you can add about how much Path has been done in a day and it calculate the time devoted in the recitation of Guru Granth Sahib Ji. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CALL_PHONE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CALL_PHONE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "G1 Driver's Handbook",
+"url" : "https://play.google.com/store/apps/details?id=com.Originals.nikhiljassal.g1handbook",
+"package" : "com.Originals.nikhiljassal.g1handbook",
+"category" : "Education",
+"description" : "G1 Drivers Handbook will help you pass G1 written test, this application contains almost 200 Questions on Traffic Signs and Rules of the road. Check your nearest test location . This Application will help you prepare and pass G1 Written test. ",
+"desc_perms" : "['android.permission.ACCESS_COARSE_LOCATION']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.Originals.nikhiljassal.g1handbook.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

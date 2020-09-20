@@ -1,0 +1,11 @@
+{
+"name" : "MobiLearn: курсы, лекции, шпаргалки",
+"url" : "https://play.google.com/store/apps/details?id=com.eschool.app",
+"package" : "com.eschool.app",
+"category" : "Education",
+"description" : ", ,           !   7000        .      !          !  ,   , ,    !        . Courses, lectures, cheat sheets and many other various educational materials in one mobile application!  Over 7000 different teaching materials in a concise and clear form. Teach anything, anytime!  The application has everything for your comfortable learning! Night mode, font resizing, bookmarks, search and even translator! The application can be used both online and offline. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

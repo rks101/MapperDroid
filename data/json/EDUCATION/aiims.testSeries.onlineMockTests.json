@@ -1,0 +1,11 @@
+{
+"name" : "AIIMS Online Test Series Mock Tests",
+"url" : "https://play.google.com/store/apps/details?id=aiims.testSeries.onlineMockTests",
+"package" : "aiims.testSeries.onlineMockTests",
+"category" : "Education",
+"description" : "AIIMS Online Test Series Mock Tests Best for AIIMS 2019 and 2020 AIIMS Previous Year Papers AIIMS AITS AIIMS Chapter Test AIIMS ChapterWise and SubjectWise Previous Year Papers AIIMS Assertion -Reasons Questions Practice ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'aiims.testSeries.onlineMockTests.permission.C2D_MESSAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

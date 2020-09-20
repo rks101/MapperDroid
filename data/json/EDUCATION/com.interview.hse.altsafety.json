@@ -1,0 +1,11 @@
+{
+"name" : "altSafety: HSE Interview Top Questions & Answers",
+"url" : "https://play.google.com/store/apps/details?id=com.interview.hse.altsafety",
+"package" : "com.interview.hse.altsafety",
+"category" : "Education",
+"description" : "altSafety: Safety Interview provides you a range of interview questions and their easy to understand, effective and smart answers for safety officer, safety supervisor, safety engineer and safety manager that can help you to be successful in getting your dream job  App features, contents and Uses:   Safety officer/supervisor interview questions and answers  HSE officer/supervisor interview questions and answers  Also helpful for fire watcher interview  Useful for fresher and experienced hse professionals  It has many QnA that are also asked in nebosh igc examination  Mechanical, Electrical or any other supervisors can also use this app to understand potential hazards and safety precautions for different work activities  It is one of the best interview app  This app covers the following topics:  Work at height safety  Confined space safety  Excavation safety  Fire safety  Rigging safety/lifting safety  Scaffolding safety  Abrasive/sand blasting safety  Hot work safety  Industrial radiography safety  Welding safety  And much more  This safety app can be very helpful for those who are preparing for HSE job interview. This job interview app may work as your HSE guide that provides you the most asked job interview questions and answers in Heath, Safety and Environmental field that will definitely help in making you ace for your next interview. We have made all possible effort so that you can be successful in your dream job interview. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

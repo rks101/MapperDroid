@@ -1,0 +1,11 @@
+{
+"name" : "Kanji Memory Hint 3 [English]",
+"url" : "https://play.google.com/store/apps/details?id=jp.jfkc.KanjiMemoryHintApp.En3",
+"package" : "jp.jfkc.KanjiMemoryHintApp.En3",
+"category" : "Education",
+"description" : "1. Description Study kanji the fun way using mnemonic picturesand check your understanding with two types simple of games! Recommended for: Elementary level in Japanese Anyone interested in Japanese letters  2. Features Features pictures, sound, animation, kanji and example sentence to help you remember the kanji. Includes games for checking your understanding of the kanji youve learned. Includes simple explanations about the Japanese writing system and the characters used in it.  Kanji table allows you to tap each Kanji to hear how kanji word is pronounced.  3. Tested Devices Samsung Galaxy S5, Samsung Galaxy S4, Sony Xperia Z Ultra, HTC J ONE, Lenovo A916, Asus ZenPhone 2, Asus ZenPhone 3, Huawei Ascend G620S, LG Nexus5, Asus Nexus7 2012, Sony Xepria Z3 SOL26 *Requires Android 4.4 or later  4.Contact the Developer If you have any questions or suggestions please feel free to sendthem to us at the following email address. app-kc@jpf.go.jp ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

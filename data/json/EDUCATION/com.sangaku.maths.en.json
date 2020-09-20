@@ -1,0 +1,11 @@
+{
+"name" : "Math theory",
+"url" : "https://play.google.com/store/apps/details?id=com.sangaku.maths.en",
+"package" : "com.sangaku.maths.en",
+"category" : "Education",
+"description" : "Sangaku Maths App is an open educational resource that offers the whole theory of mathematics from Secondary to first courses of technical degrees. An own theory, created by an interdisciplinary team, which stands for very didactic explanations and examples.  Over 1000 printed pages of math theory. The contents are organized in 9 essential branches of mathematics: algebra, geometry, recreational mathematics, calculation and analysis, applied mathematics, probability and statistics, fundamentals, discrete mathematics and number theory. Each is divided into subjects, categorized by difficulty, to help you in your learning process.  More than 500 issues, available in English, Spanish and Catalan, are what make this app a perfect resource to complement your learning. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Daily Italian Verbs - Learn Italian",
+"url" : "https://play.google.com/store/apps/details?id=com.titan.app.verb.italian",
+"package" : "com.titan.app.verb.italian",
+"category" : "Education",
+"description" : "Help to remember all of the conjugations of each verb. Useful for everyone who wants to learn Italian and as a companion for trips to Italy.  Features:  Over 500 Italian verbs in 18 tenses  Small size  Works off-line  Verb forms & translations searchable  Wildcard search  Mark favorites  FREE ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

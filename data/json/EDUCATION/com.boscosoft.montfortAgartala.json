@@ -1,0 +1,11 @@
+{
+"name" : "Montfort School Agartala",
+"url" : "https://play.google.com/store/apps/details?id=com.boscosoft.montfortAgartala",
+"package" : "com.boscosoft.montfortAgartala",
+"category" : "Education",
+"description" : "Montfort School Agartala is an application for parents of the schools which are partnered with BOSCO SOFT TECHNOLOGIES PVT LTD (www.boscosofttech.com) through the School ERP called SmartSchool. Parents can track their wards performance, attendance, homework, photo gallery of the schools activities. Parents are notified regularly through SMS and if they fail to read the SMS they can still check the information through the app for the current date or the previous dates.   Features: 1. Registering multiple Schools and multiple wards, 2. Instant update of the information of the ward, 3. Notification of Announcements from the School office or the principal desk, 4. Notification of absence or late coming of the ward, 5. Notification on remarks of the ward, 6. Presentation of the Performance through Exams and Class Tests, 7. Photo Gallery of the School functions, ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

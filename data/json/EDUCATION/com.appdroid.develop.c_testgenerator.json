@@ -1,0 +1,11 @@
+{
+"name" : "C-TEST GENERATOR",
+"url" : "https://play.google.com/store/apps/details?id=com.appdroid.develop.c_testgenerator",
+"package" : "com.appdroid.develop.c_testgenerator",
+"category" : "Education",
+"description" : "This app C-TEST GENERATOR is specially to help you prepare yourself successfully for various tests that include C - TEST or CLOZE - TEST.   This may be various language tests (e.g. TOEFL, TEFL, GMAT, KPDS, etc.), or entrance tests in the Studienkolleg and a language test when applying for a job at a foreign company,  Also, it is scientifically proven that practicing such tests will broaden your vocabulary and improve your grammar. This means you can learn the language faster and more efficiently! Good luck with our app! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

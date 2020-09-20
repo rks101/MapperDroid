@@ -1,0 +1,11 @@
+{
+"name" : "Catverbs – Verbs en Català",
+"url" : "https://play.google.com/store/apps/details?id=uk.co.busydoingnothing.catverbs",
+"package" : "uk.co.busydoingnothing.catverbs",
+"category" : "Education",
+"description" : " Ms que 8000 verbs catalans conjugats plenament  No necessita una connexi a Internet  Gratut i sense anuncis  More than 8000 Catalan verbs fully conjugated  You do not need an Internet connection  Free and no ads ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

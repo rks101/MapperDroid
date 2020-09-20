@@ -1,0 +1,11 @@
+{
+"name" : "TED TV",
+"url" : "https://play.google.com/store/apps/details?id=com.ted.android.tv",
+"package" : "com.ted.android.tv",
+"category" : "Education",
+"description" : "Enjoy our new and improved TED app for Android TV!  Our amazing speakers are experts ontopics rangingfrom science to business to global issues -- their talkswill feed your curiosity,spark conversation and leave you feeling inspired.  The new homepage of the TED app includes recommended talks updated every day. And with our refreshed layout, playlists and talks are easier than ever to navigate.  Plus, allow Google Assistant to help you control the TV if you want to play, pause, fast-forward, etc.  So sit back, relax and get ready to learn something new. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.amazon.permission.media.session.voicecommandcontrol', 'com.android.providers.tv.permission.WRITE_EPG_DATA', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.providers.tv.permission.READ_EPG_DATA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'com.amazon.permission.media.session.voicecommandcontrol', 'com.android.providers.tv.permission.WRITE_EPG_DATA', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.providers.tv.permission.READ_EPG_DATA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

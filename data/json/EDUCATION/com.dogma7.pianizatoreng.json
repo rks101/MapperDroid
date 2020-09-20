@@ -1,0 +1,11 @@
+{
+"name" : "Pianizator— piano tutorials  for beginners",
+"url" : "https://play.google.com/store/apps/details?id=com.dogma7.pianizatoreng",
+"package" : "com.dogma7.pianizatoreng",
+"category" : "Education",
+"description" : "The simplest piano tutor. Shows how to play. There are short pieces of famous song used as lessons.  The main goal of the Pianizator isnt to teach the whole song performance (sometimes its impossible using only piano). We aim to help absolute beginners quickly overcome its fear and save they of regular boring lessons (there are rock nrolls and raves here). Its just watching and learning how to play a melody using only finger.   At first, we made lessons from very best known parts, but further weve began to add melodies fragments as much as possible. If is not enough for you or you want to learn a new song that doesnt exist here, feel free to tell us. Text comment here or send email and we will try to make lessons you wanted.   Good luck! ",
+"desc_perms" : "['android.permission.SEND_SMS', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

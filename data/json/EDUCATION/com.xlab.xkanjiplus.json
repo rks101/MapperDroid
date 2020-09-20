@@ -1,0 +1,11 @@
+{
+"name" : "Xkanji Plus",
+"url" : "https://play.google.com/store/apps/details?id=com.xlab.xkanjiplus",
+"package" : "com.xlab.xkanjiplus",
+"category" : "Education",
+"description" : "Xkanji l ng dng tra cu kanji min ph vi cc tnh nng ni tri v khc bit h tr ngi hc ting Nht hu ch nht trn thit b di ng v tablet ca mnh. Khng ch tra cu kanji bng cc cch thng thng khc, bn c th nhp ch vit tay v qut hnh nh t cn tra qua camera, kt qu hin th y  cch vit theo trnh t cc nt, cch pht m, ngha ca t, v d i km, b th. ng dng  c gii thiu trn knh truyn hnh VCTV 2 v t gii thng mt trong hai sn phm xut sc nht trong cuc thi Coding Inspiration 2014. Tnh nng:  Tra cu kanji bng cch nhp ch vit tay;  Tra cu kanji bng cch qut hnh nh qua camera;  Tra cu kanji bng cch nhp pht m theo onyomi, kunyomi v ngha Hn Vit;  Thm cc ch kanji vo danh sch yu thch;  Lu li lch s tra cu. Vi ni dung c su tm v bin tp cng phu, xkanji l cng c tra cu khng th thiu i vi ngi hc ting Nht. Nu c bt k ng gp hoc thng bo li, bn c th lin lc vi sphoton qua a ch support@sphoton.com. Xin chn thnh cm n s ng gp ca bn  sn phm ngy cng hon thin hn. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

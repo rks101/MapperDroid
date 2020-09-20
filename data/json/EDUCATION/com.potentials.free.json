@@ -1,0 +1,11 @@
+{
+"name" : "Transport Problem: The Method of Potentials",
+"url" : "https://play.google.com/store/apps/details?id=com.potentials.free",
+"package" : "com.potentials.free",
+"category" : "Education",
+"description" : "The transport problem is a mathematical problem of linear programming of a special kind. It can be considered as a problem about the optimal plan for transporting goods from points of departure to points of consumption, with minimal costs for transportation. And it is in this application that you can determine the minimum cost of transportation, the method of potentials  Application Features - Special keyboard for more convenient data entry; - Full, step by step description of solutions; - Ability to save decisions; - Ability to edit saved solutions - Works without access to the Internet  web version - https://linprog.com/main-potentials  Keywords: Matrix games, special maths, simplex method, the traveling salesman problem, the dual task, dynamic programming, transport problem, the method of potentials, Hungarian method ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'com.potentials.free.permission.C2D_MESSAGE', 'android.permission.VIBRATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

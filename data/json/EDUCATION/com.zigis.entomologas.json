@@ -1,0 +1,11 @@
+{
+"name" : "Entomologas",
+"url" : "https://play.google.com/store/apps/details?id=com.zigis.entomologas",
+"package" : "com.zigis.entomologas",
+"category" : "Education",
+"description" : "This application is dedicated to people willing to discover the surrounding world and insects in particular. Application author is a biology and computer science student from Lithuania.  * 150 Lithuanian insect groups and species from all the major orders with high quality photos, interesting facts and detailed information about appearance, life cycle, distribution, ecology, evolution. * Simple information dedicated to introduce with insects. * Quiz with 300 questions, which will help to know Lithuanian insects easier! * Learning progress meters near every insect group, which will fill up each time quiz questions are answered correctly. * Order key, which can be used for educational purposes. * Ability to zoom pictures by moving fingers down or pinching with them. * Application does not need internet connection!  Application can be freely used for the teaching purposes. It will be forever free and ad less! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

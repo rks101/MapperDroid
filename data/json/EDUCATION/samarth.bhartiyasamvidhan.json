@@ -1,0 +1,11 @@
+{
+"name" : "Bhartiya Samvidhan Hindi (Notes & MCQ)",
+"url" : "https://play.google.com/store/apps/details?id=samarth.bhartiyasamvidhan",
+"package" : "samarth.bhartiyasamvidhan",
+"category" : "Education",
+"description" : "  -    - Constitution Of India  Bhartiya Samvidhan application contains the information(Notes & MCQ) about constitution of india in Hindi Language.  Read and Practice various topics in Hindi Language format and increase knowledge regarding India Constitution.  This app is very useful for the students and other people who are preparing for government exams like UPSC, CSAT,RAS,IAS , PCS ,Bank PO ,IBPS.RPSC, MPPSC, UPPSC..UPSC, IAS, LDC RAS, SCRA, RAILWAY, PATWARI, RRB, UDC and many more.   Basically this application is divided into main following category :  * Notes : Read Different topic notes in detail  - History - Preamble - Articles - Schedule - Parts  * Question & Answer : Read questions and its answer.  * Test : This test or exam is only for preparation.    Feature :   * Beautiful user friendly interface.  * Chang text size for better readability.  * Set bookmark page(Only Note).  * Share App link to each other via social media like Whatsapp,Facebook,email and etc.  Disclaimer :  All type of content present in this application is collected from different sources also do not provide any kind of guarantee,if there is any issue or violates your any type of rights please send us email at samarthsoftsolutions@gmail.com ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "[]",
+}

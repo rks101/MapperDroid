@@ -1,0 +1,11 @@
+{
+"name" : "Fluffy Slime Maker game: Diy Slime Simulator",
+"url" : "https://play.google.com/store/apps/details?id=com.tt.make.real.satisfying.slime.without.glue.or.borax",
+"package" : "com.tt.make.real.satisfying.slime.without.glue.or.borax",
+"category" : "Educational",
+"description" : "Have you tried DIY Slime Making before? No? Welcome to the Fluffy Slime Maker Game ! Super Slime Squishy Makeover game in which you can learn how to make DIY Squishy Slime without use of borax and glue.   Be a best DIY Sime Squishy maker in this DIY squishy makeover game. Be a professional Color Slime Master and make stretch jelly toy. So, you can open your own DIY Slime maker factory and make slime DIY jelly toy squishy with different strategies.   Strategy #1: Pour some sugar and hand soap into bowl. Steer the mixture with spatula spoon and put into freezer. Now, Crazy Fluffy Slime is ready to stretch and play. Strategy #2: Add some sugar, toothpaste and hand soap into bowl. Make a mixture and freeze it for some time. You can play with Color Slime Diy jelly toy squishy.  Strategy #3: Mix sugar and shampoo completely in the bowl. Freeze it and Play with it as you want.  Features:  Make Slime DIY squishy jelly in different ways.  Avoid use of borax and glue.  Perform well to unlock scenes.   Get experience of slime making.  Improve your hidden abilities.  Epic graphics with Interactive and addictive background sounds.  Smooth User game play control. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Paramount -рддрд░реНрдХрд╢рдХреНрддрд┐- Reasoning in Hindi Offline",
+"url" : "https://play.google.com/store/apps/details?id=ek.paramountreasinhindi",
+"package" : "ek.paramountreasinhindi",
+"category" : "Education",
+"description" : "Content Details:- *****************************************    (ODD-ONE OUT)   (PAIR FORMATING)   (CODING EQUATION)   (CODING  DECODING)      (PROBLEMS BASED ON ENGLISH ALPHABET)    (DIRECTION TEST)   (BLOOD RELATION)   (CODED RELATIONSHIP)         (SITTING ARRANGEMENT  QUESTIONS BASED ON LATEST PATTERN)    (RANKING ARRANGEMENT TEST) 1-  (PUZZLE-1) 2-  (PUZZLE -II) 3- (PUZZLE -III) 4- (PUZZLE -IV) 5-       (CALENDAR)  (CLOCK)   (NUMBER SERIES)   (MISSING NUMBER)   (VENN DIAGRAM)  (DICE)    (CUBE AND CUBOID)     (SYLLOGISM) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET']",
+}

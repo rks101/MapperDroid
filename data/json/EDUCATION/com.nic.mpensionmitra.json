@@ -1,0 +1,11 @@
+{
+"name" : "mPensionMitra",
+"url" : "https://play.google.com/store/apps/details?id=com.nic.mpensionmitra",
+"package" : "com.nic.mpensionmitra",
+"category" : "Education",
+"description" : "------------     ? ------------ ..   , , ,                ..                             -    ..                    ,           - / / /                         ,         ,   ,                ,    ,                                     ------------      --------------- ~            ~    ~        -    ~           ~      ~, , ,      / / / /      ------------     ? ------------ ~            ~    ~        -    ~           ~      ~, , ,      / / / /       ----------------------------------------------------------------------------------------  Email: ega.mpsc@gmail.com Website: http://pensions.samagra.gov.in Facebook: https://www.facebook.com/SamagraMP ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.nic.mpensionmitra.permission.C2D_MESSAGE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "N1 Kanji Japanese",
+"url" : "https://play.google.com/store/apps/details?id=bg.fmi.gery.n1kanji",
+"package" : "bg.fmi.gery.n1kanji",
+"category" : "Education",
+"description" : "The application helps the user prepare for the N1 exam. It focuses on Kanji compounds - reading and meaning. It consists of multiple quizzes. While regularly practicing answering the quizzes, the user gradually memorizes how the kanji compounds are read and their translation. Rather than treating the kanji separately, this application focuses on compounds of kanji hieroglyphs. As a result, the user also learns the kanji required for the N1 level and combinations they can appear in. Study Japanese with N1 Kanji! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'bg.fmi.gery.n1kanji.permission.C2D_MESSAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

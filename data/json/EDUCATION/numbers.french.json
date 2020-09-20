@@ -1,0 +1,11 @@
+{
+"name" : "Learn numbers in french",
+"url" : "https://play.google.com/store/apps/details?id=numbers.french",
+"package" : "numbers.french",
+"category" : "Education",
+"description" : "The best application to learn numbers in french.  An perfect application for kids who want to learn french numbers, as for student and adults who want to train their skills.  Learn all the numbers from 1 to 1000 with pronounciation and zoom to the numbers in words. All numbers are converted to french words.  Convert any numbers into french words. A power ful tool to convert numbers, with pronounciation, zoom, copying and sharing option.  An interactive game to find numbers from it words in french. A perfect tool to learn with fun with three levels of difficulty. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

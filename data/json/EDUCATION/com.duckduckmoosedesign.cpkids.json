@@ -1,0 +1,11 @@
+{
+"name" : "ChatterPix Kids by Duck Duck Moose",
+"url" : "https://play.google.com/store/apps/details?id=com.duckduckmoosedesign.cpkids",
+"package" : "com.duckduckmoosedesign.cpkids",
+"category" : "Education",
+"description" : "Create ChatterPix with friends and family as silly greetings, playful messages, creative cards, or even fancy book reports. Simply take a photo, draw a line to make a mouth, and record your voice. And best of all, its FREE!   AGES: 5-12  CATEGORY: Creative Expression  TOOLS: 22 stickers, 10 frames and 11 photo filters  ABOUT DUCK DUCK MOOSE: (A subsidiary of Khan Academy) Duck Duck Moose, an award-winning creator of educational mobile apps for families, is a passionate team of engineers, artists, designers, and educators. Founded in 2008, the company has created 21 top-selling titles and has received 21 Parents Choice Awards, 18 Childrens Technology Review Awards, 12 Tech with Kids Best Pick App Awards, and a KAPi award for Best Childrens App at the International Consumer Electronics Show.  Khan Academy is a nonprofit with a mission to provide a free, world-class education for anyone, anywhere. Duck Duck Moose is now part of the Khan Academy family. Like all Khan Academy offerings, all Duck Duck Moose apps are now 100% free, without ads or subscriptions.  For kids ages 2-6, dont miss Khan Academy Kids, our new early learning app to help young children with reading, writing, math and social-emotional development!  Wed love to hear from you! Visit us at www.duckduckmoose.com or drop us a line at support@duckduckmoose.com. ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE']",
+}

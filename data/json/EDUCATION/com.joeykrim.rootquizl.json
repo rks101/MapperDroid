@@ -1,0 +1,11 @@
+{
+"name" : "Root Quiz - Limited",
+"url" : "https://play.google.com/store/apps/details?id=com.joeykrim.rootquizl",
+"package" : "com.joeykrim.rootquizl",
+"category" : "Education",
+"description" : "Ever wonder how much you know about Root on Android? Ever wonder what else there is to learn about Root?  A simple quiz will gauge your knowledge of Root on the Android device. Compare, compete, and share your results!  The limited version allows one full Basic or Advanced quiz. Same questions and same quality as the Pro version.  Overall goal is to help everybody further their knowledge, including myself, in a fun manner.  The overall rankings are listed: http://www.rootquiz.com/results  Personalized banners are available to display results: http://www.rootquiz.com/badges  Please send me feedback! Always looking to improve my applications! I try to respond to all emails!  I want to improve the application! Please contact me via email, twitter, IRC or on the forums with feedback, both good and bad. Thanks for your support! ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS']",
+}

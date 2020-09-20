@@ -1,0 +1,11 @@
+{
+"name" : "Learn Spanish Free Offline For Travel",
+"url" : "https://play.google.com/store/apps/details?id=asi.education.language.learnspainish",
+"package" : "asi.education.language.learnspainish",
+"category" : "Education",
+"description" : "Learn Spanish is an application developed by Spanish language experts. This is a pocket communication dictionary, used in offices, schools, amusement parks, shopping centers, airports, bus stations, train stations, tourist attractions. .. Its free to learn Spanish without internet connection. Features: 1. Sort threads by topic for use in many situations 2. Suggest common and common terms of communication 3. Standard pronunciation guide in Spanish 4. Record your voice 5. Create your favorite word list ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

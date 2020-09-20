@@ -1,0 +1,11 @@
+{
+"name" : "Vehicle Sounds",
+"url" : "https://play.google.com/store/apps/details?id=com.vehicle.sounds.toddler",
+"package" : "com.vehicle.sounds.toddler",
+"category" : "Education",
+"description" : "Vehicle Sounds(Kids Learning Vehicles) application was developed especially for kids and toddlers. Learning vehicles is a very simple and funny program. Vehicle sound app aims to entertain kids while teaching vehicle sounds. Kids will have a good time by learning different vehicle sounds. (Car, bus, plane, bicycle, truck etc.) Transportation Sounds.   - 58 Vehicles - Quiz - Matching Game - Vehicle Puzzles -Vehicle sound ringtone  The vehicle puzzle game will develop your childs motor skills, problem solving ability. Attention is enhancing. Vehicle puzzle game free is especially suitable for boosting visual attention. Vehicle puzzle for kids is a game for pre-school and kindergarten.  Vehicle sounds for kids free provides several language supports (English / German / French / Russian / Portuguese / Japanese / Korean / Turkish / Spanish ).  Kids Learning Vehicles application is compatible with almost all Android devices, however in any problem let us know, we will proceed immediately.  ATTENTION: Images and sound files which were used in this application, were obtained from various sources on the internet that labeled them as freely distributable. Therefore, if you discover any file in this application which you recognize as copyrighted, please email me. In this way, I will remove them immediately. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

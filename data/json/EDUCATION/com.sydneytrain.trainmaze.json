@@ -1,0 +1,11 @@
+{
+"name" : "Train Maze",
+"url" : "https://play.google.com/store/apps/details?id=com.sydneytrain.trainmaze",
+"package" : "com.sydneytrain.trainmaze",
+"category" : "Educational",
+"description" : "Train Maze is a fun puzzle game that challenges you to move carefully through a sequence of tricky obstacles on virtual train platforms.  This educational app for 5-12 year olds has been created by Sydney Trains to encourage safe behaviour at train stations and supports rail safety programs taught in primary schools across Sydney.  How to play:  Tap and release to move  Reach the goal in the fewest number of moves  Watch out for obstacles along the platforms   Make it to Level 7 to become a station safety superstar! ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

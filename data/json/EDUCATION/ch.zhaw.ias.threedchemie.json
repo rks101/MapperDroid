@@ -1,0 +1,11 @@
+{
+"name" : "3D-Chemie",
+"url" : "https://play.google.com/store/apps/details?id=ch.zhaw.ias.threedchemie",
+"package" : "ch.zhaw.ias.threedchemie",
+"category" : "Education",
+"description" : "Die App 3D-Chemie wurde in Zusammenarbeit zwischen dem ICBT und dem IAS (www.zhaw.ch/lsfm) entwickelt und durch Frderungsgelder fr E-Learning durch die ZHAW finanziert.  Durch die App soll das dreidimensionale Vorstellungsvermgen der Studierenden fr molekulare Strukturen geschult und gefrdert werden, da die dreidimensionale Struktur molekularer Verbindungen hufig das Verhalten bzw. die Funktion erklrt oder bestimmt. Die Studierenden sollen zudem in die Lage versetzt werden, chemische und biologische Strukturen unabhngig von spezifischer (und teurer) Software visualisieren zu knnen. Zudem sind neue Strukturen durch Dozierende einfach erfass- und vermittelbar. The app 3D-Chemie was developed in cooperation between the ICBT and the IAS (www.zhaw.ch/lsfm) and funded by the ZHAW through funding for e-learning.  The app is intended to train and promote the students three-dimensional imagination for molecular structures, since the three-dimensional structure of molecular compounds often explains or determines behavior or function. The students should also be able to visualize chemical and biological structures independent of specific (and expensive) software. In addition, new structures can be easily grasped and communicated by lecturers. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.FLASHLIGHT']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Kamusi Ya Karne Ya 21",
+"url" : "https://play.google.com/store/apps/details?id=com.symatechlabs.longhorn.kamusi",
+"package" : "com.symatechlabs.longhorn.kamusi",
+"category" : "Education",
+"description" : "Kamusi Ya Karne Ya 21 android app is a digital Swahili dictionary of Longhorn Publishers Limited. The product is suitable for use by primary school pupils, secondary school students, university students, Kiswahili teachers and lecturers, Kiswahili experts, researchers and all Kiswahili speakers in the world. The app is also recommended for Swahili learners across the globe.  The product has been integrated with interactive materials, hyperlinks among many other features. Groups such as Misemo (sayings), Nahau (idioms) and Methali (proverbs) have been segregated and placed independently to ensure the user utilizes the app efficiently and effectively.   The authors of Kamusi Ya Karne Ya 21 are great Kiswahili experts who have taught Swahili language in a number of universities in East and Central Africa. They are: 1. Prof. James. S Mdee 2. Adam Shaffi Adam 3. Prof. Kimani Njogu ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

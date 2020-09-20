@@ -1,0 +1,11 @@
+{
+"name" : "Bennett University",
+"url" : "https://play.google.com/store/apps/details?id=in.edu.bennett.bennettuniversityapp2",
+"package" : "in.edu.bennett.bennettuniversityapp2",
+"category" : "Education",
+"description" : "This is the official app for Bennett University, Greater Noida (UP) INDIA setup by the largest media house in India.   This app will provide students, faculty and parents an insight of the campus activities, assistance and resources like time-table, attendance, result, library, learning management system, helpdesk etc can be accessed through this app.   The official notices and event calendar are also a part of this app. This app will help students, faculty and parents to get latest updates. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

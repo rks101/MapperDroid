@@ -1,0 +1,11 @@
+{
+"name" : "Telugu Bhakti App",
+"url" : "https://play.google.com/store/apps/details?id=com.saiuniversalbookstore.TeluguBakthi",
+"package" : "com.saiuniversalbookstore.TeluguBakthi",
+"category" : "Education",
+"description" : "This app makes you feel the divine vibrations around by reading these amazing divine devotional matters.  Telugu Bhakti app provides different devotional matters under different categories for devotees at single place.  Get this App for a very blissful divine experience and easy-to-read format on any mobile device!  Why delay then, download the app and use it offline   Share this app with your friends and have a good time!  Watch this space for more updates.  Please rate this app if you like. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.saiuniversalbookstore.TeluguBakthi.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

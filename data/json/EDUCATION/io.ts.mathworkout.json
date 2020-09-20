@@ -1,0 +1,11 @@
+{
+"name" : "Math Workout - Math Games",
+"url" : "https://play.google.com/store/apps/details?id=io.ts.mathworkout",
+"package" : "io.ts.mathworkout",
+"category" : "Education",
+"description" : "Do you want to keep your mind healthy and your brain functional? then its a perfect game for you. Lets get over the idea that mathematics is boring, here you can see that its interesting and beautiful.  Math Workout - Math Games is both designed for rest and training purposes, we offer you to spend your spare time usefully and train your brain playing game, how cool that sounds!  Categories: Addition Subtraction Multiplication Division  Languages available: English Spanish Portuguese French Russian  We are open to any suggestions and ideas, enjoy the game. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_APP_BADGE', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'me.everything.badger.permission.BADGE_COUNT_WRITE', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'android.permission.WAKE_LOCK', 'com.sonymobile.home.permission.PROVIDER_INSERT_BADGE', 'com.majeur.launcher.permission.UPDATE_BADGE', 'android.permission.ACCESS_NETWORK_STATE', 'me.everything.badger.permission.BADGE_COUNT_READ', 'com.sec.android.provider.badge.permission.WRITE', 'com.htc.launcher.permission.READ_SETTINGS', 'android.permission.INTERNET', 'com.oppo.launcher.permission.WRITE_SETTINGS', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.oppo.launcher.permission.READ_SETTINGS', 'com.huawei.android.launcher.permission.READ_SETTINGS', 'com.huawei.android.launcher.permission.WRITE_SETTINGS', 'com.huawei.android.launcher.permission.CHANGE_BADGE', 'com.sec.android.provider.badge.permission.READ']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

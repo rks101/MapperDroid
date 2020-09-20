@@ -1,0 +1,11 @@
+{
+"name" : "Sesame for Military Families",
+"url" : "https://play.google.com/store/apps/details?id=com.sesameworkshop.SSMFresources",
+"package" : "com.sesameworkshop.SSMFresources",
+"category" : "Education",
+"description" : "This is an app for the loved ones of those who serve, which will help teach your child life skills.  Developed for parents and caregivers: The Sesame Street for Military Families app puts all of Sesames bilingual (English & Spanish) resources for military families right in your pocket! Use your mobile device to access engaging videos, articles, storybooks, parent guides, and more to help you support your preschool and school-aged children as they encounter transitions common to military families.   Because of the sensitive topics in this app, we highly recommend that a parent or guardian previews the materials before co-viewing with a child.   TOPIC AREAS INCLUDE  Deployments  Homecomings  Injuries  Grief   Self-Expression   About Sesame Street for Military Families  This app and its materials are an extension of Sesame Workshops ongoing efforts to support our troops and their families. Related materials include the Feel Electric! app for military children, social media including Facebook.com/SesameStreetForMilitaryFamilies, and the website MilitaryFamiliesNearAndFar.org, which provides engaging tools for military children to create, communicate, and stay connected. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

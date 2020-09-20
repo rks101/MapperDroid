@@ -1,0 +1,11 @@
+{
+"name" : "Christmas Jigsaw Puzzles Game - Kids & Adults ğŸ�„",
+"url" : "https://play.google.com/store/apps/details?id=se.appfamily.puzzle.christmas.free",
+"package" : "se.appfamily.puzzle.christmas.free",
+"category" : "Educational",
+"description" : "This Christmas app features loads of jigsaw puzzles with a festive atmosphere. If you cant wait to meet Santa Claus, build a snowman, or pick out a Christmas tree, this game has got you covered! With 30 different jigsaw puzzles, featuring beautiful pictures of gingerbread people, decorations, presents, and more, you or your kids will be sure to have a great holiday!  In this relaxing puzzle game for kids and adults you can choose whether to use 6, 9, 12, 16, 30 or 56 pieces, adjusting the difficulty to the appropriate skill level.  This educational app for kids and adults includes fun rewards to pop.  Please note: the app contains advertisements shown after every 4 puzzles played. Advertisements can be disabled via an in-app purchase.  Features: - Enjoy 30 different Christmas puzzles - Change difficulty setting - Play with 6, 9, 12, 16, 30 or 56 pieces - easy for kids, challenging for adults - Fun rewards for each puzzle - Enjoying the game? Child-proof in-app purchase allows you to safely and easily remove all advertisements from the game.  What do you think about our Christmas game? Love it? Hate it? Let us know in your review.  Music: Stoic Morning Kevin MacLeod (incompetech) Licensed under Creative Commons: By Attribution 3.0 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

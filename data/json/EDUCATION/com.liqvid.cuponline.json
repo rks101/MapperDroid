@@ -1,0 +1,11 @@
+{
+"name" : "EnglishMate Confident",
+"url" : "https://play.google.com/store/apps/details?id=com.liqvid.cuponline",
+"package" : "com.liqvid.cuponline",
+"category" : "Education",
+"description" : "Dear App Users Welcome to this mobile-based self-learning experience. EnglishMate | Confident App is an interesting way to practice English. The app provides you access to more practice tasks corresponding to each session that you take up in class. The methodology has three components: concept, activity and practice. The sessions have concept videos to help you understand the concepts through scenarios; role plays to let you simulate scenarios and reflect on your speech; and quizzes to test your understanding of the concept. There is also opportunity for vocabulary practice through the record-and-compare feature; this feature provides you the opportunity to record your voice and compare it with the pre-recorded expert voice. You will find the exercises engaging, and these will add to the benefit of the learning programme you have enrolled for. Happy learning! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.liqvid.cuponline.permission.C2D_MESSAGE', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.WAKE_LOCK', 'android.permission.RECORD_VIDEO']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_VIDEO']",
+}

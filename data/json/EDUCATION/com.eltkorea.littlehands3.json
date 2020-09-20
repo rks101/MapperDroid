@@ -1,0 +1,11 @@
+{
+"name" : "Little Hands 3",
+"url" : "https://play.google.com/store/apps/details?id=com.eltkorea.littlehands3",
+"package" : "com.eltkorea.littlehands3",
+"category" : "Education",
+"description" : "  (Little Hands)   EFL         4  .     ,         .          . Little Hands      21   .                           CLIL                                        E-Kit Little Hands is a fun and easy four-step process for very young EFL learners to enter an English classroom for the first time. The easy-to-use series builds creativity, improves communication and motor skills through art, music and play. The series has an alphabet book and a phonics book, laying the foundation for early literacy. With Little Hands, children enjoy learning English and become confident learners in the 21st century.   Key Features  simple vocabulary and useful expressions  Lovely characters and charming stories  songs and songs  Vivid illustration and art projects  Age appropriate CLIL content  Alphabet and phonics support   Series Strengths  Fun and easy introduction to basic English  Language recycling and connection  social and emotional skills development;  E-Kit of integrated teachers with rich support materials and activities ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.CHECK_LICENSE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.CHECK_LICENSE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

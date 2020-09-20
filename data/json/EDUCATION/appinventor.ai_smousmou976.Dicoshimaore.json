@@ -1,0 +1,11 @@
+{
+"name" : "Dico shimaore / shingazidja / kibushi",
+"url" : "https://play.google.com/store/apps/details?id=appinventor.ai_smousmou976.Dicoshimaore",
+"package" : "appinventor.ai_smousmou976.Dicoshimaore",
+"category" : "Education",
+"description" : "Dictionnaire hors-ligne avec indications de recherche pour tous les mots approchants. Ce dictionnaire indique les classes de mots, les pluriels et certaines expressions courantes ou thocratiques, ainsi que de laudio. Il fournit aussi un tableau des classes de mots et une table de conjugaisons, + un mode apprentissage, un quiz, et la possibilit de composer une liste personnelle. Vous trouverez enfin quelques extraits des saintes critures traduites en shimaore. Offline dictionary with search indications for all near words. This dictionary indicates word classes, plurals and some common or theocratic expressions, as well as audio. It also provides a table of word classes and a conjugation table, + a learning mode, a quiz, and the ability to compose a personal list. You will finally find some excerpts of the holy writings translated into shimaore. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.SEND_SMS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SEND_SMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+}

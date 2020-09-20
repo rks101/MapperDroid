@@ -1,0 +1,11 @@
+{
+"name" : "Times Coaching",
+"url" : "https://play.google.com/store/apps/details?id=in.timescoaching",
+"package" : "in.timescoaching",
+"category" : "Education",
+"description" : "TIMES COACHING CENTRE Batra Cinema Complex, Mukherjee Nagar, New Delhi-110009 Phone: +91 9319781441,9953600107 Technical Support: +91 9999276559  Technical Support: +91 9953600109 Support Time: 10AM-07PM(Mon-Sat) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.RECORD_AUDIO', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

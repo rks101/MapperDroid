@@ -1,0 +1,11 @@
+{
+"name" : "Write It! Arabic",
+"url" : "https://play.google.com/store/apps/details?id=com.jernung.writeit.ara",
+"package" : "com.jernung.writeit.ara",
+"category" : "Educational",
+"description" : "Write It! Arabic is the first writing recognition app for the Arabic alphabet! Try our writing recognition and youll never want to go back to tracing apps.   Hassle-free writing. Never get stuck or have to go back and reference how to write a letter.   Practice writing the alphabet with guides before testing yourself, making learning letters extremely fast and stress-free.   Bite-sized lessons allow you to learn how to write the alphabet quickly, even if you only have a few minutes to spare.   Review the letters you have already learned in review mode.   Write the alphabet anywhere! No longer be restricted to writing only when you have paper and a pen!  Stop referencing books, watching videos, and using tracing apps that never test you, download Write It! Arabic now for the fastest way to learn the Arabic alphabet! ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

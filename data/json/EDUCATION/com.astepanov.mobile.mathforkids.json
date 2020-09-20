@@ -1,0 +1,11 @@
+{
+"name" : "Math for kids: numbers, counting, math games",
+"url" : "https://play.google.com/store/apps/details?id=com.astepanov.mobile.mathforkids",
+"package" : "com.astepanov.mobile.mathforkids",
+"category" : "Educational",
+"description" : "Exciting educational games for boys and girls with cute and funny animals:   count numbers and items in direct and reverse order (counting numbers up to 20)  write numbers with tracing (writing numbers up to 9)  learn and repeat the pronunciation of numbers   discover basic arithmetics (addition, subtraction and comparison) using illustrated math exercises  listen math tasks and answer by voice  On each level new animal from the zoo accompanies your child in the fascinating world of mathematics. Colourful animals with natural sounds are fully animated, they help the child to learn math and encourage the childs success.   Unique features (speech synthesis, voice and handwriting recognition) support more than 40 languages and help your toddler, kindergarten or preschool child to learn math in the most entertaining way with an easy to use app that has a simple user interface specially designed for kids.  Your child can fully focus on education and enjoy cool math games. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

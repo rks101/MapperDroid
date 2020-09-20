@@ -1,0 +1,11 @@
+{
+"name" : "Your Move With Andy Stanley",
+"url" : "https://play.google.com/store/apps/details?id=com.subsplash.thechurchapp.northpointyourmove",
+"package" : "com.subsplash.thechurchapp.northpointyourmove",
+"category" : "Education",
+"description" : "The Your Move app gives you on-demand access to the full video collection of Your Move episodes. Extra features include easy share functionality, audio listening, conversation and application tools, and opportunities to further connect with Your Move with Andy Stanley. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.VIBRATE', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.subsplash.thechurchapp.northpointyourmove.permission.MAPS_RECEIVE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_BACKGROUND_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.subsplash.thechurchapp.northpointyourmove.permission.MAPS_RECEIVE', 'android.permission.ACCESS_BACKGROUND_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

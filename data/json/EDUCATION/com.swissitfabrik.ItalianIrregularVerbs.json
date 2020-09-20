@@ -1,0 +1,11 @@
+{
+"name" : "ITALIAN IRREGULAR VERBS CONJUGATION + PREPOSITIONS",
+"url" : "https://play.google.com/store/apps/details?id=com.swissitfabrik.ItalianIrregularVerbs",
+"package" : "com.swissitfabrik.ItalianIrregularVerbs",
+"category" : "Education",
+"description" : "-------------------------------------- COMING REAL SOON NOW... -------------------------------------- A new snappier version is in the Q2/20 pipeline. In the meantime, please download the current PRO version at a limited SPECIAL price while still available!  Got a DATE and need a ROSE? Do you know that you can indeed search for these valid _conjugated_ Italian verbs besides the root / infinitive forms and more (but with vastly different meanings)?  ITALIAN IRREGULAR VERBS CONJUGATION + PREPOSITIONS  The only off-line App with the most comprehensive collection of irregular Italian verbs and dictionary database. Text-to-Speech (TTS) voice pronunciation, prepositions, advanced search filters and more pack in an easy-to-use, user configurable, colour-coded, clean and uncluttered interface. Flexible and quick search function at your fingertips from infinitive root to various conjugated verb tenses and forms with search history log.  Optimised for mobile hand-held devices (works with tablets too)! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.c2dm.permission.SEND', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.c2dm.permission.SEND', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

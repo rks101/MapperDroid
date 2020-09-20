@@ -1,0 +1,11 @@
+{
+"name" : "Spelling Bee : Top 100",
+"url" : "https://play.google.com/store/apps/details?id=io.kodular.domingotambasacan.spellingquizbeetop100",
+"package" : "io.kodular.domingotambasacan.spellingquizbeetop100",
+"category" : "Education",
+"description" : "Play with your friends, anytime anywhere.  - OFFLINE version - Included the top 100 common misspelled words - Added 400 more words - With 20 seconds timer - Answer can be revealed by using coins - Friendly design  Difficulties:  Normal Suitable for pupils and high school students. Let them familiarize with the common misspelled word.  Hard Intended for college students and those taking board and civil service exam. Includes the top 100 commonly used on reviewers. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.SET_WALLPAPER', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SEND_SMS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

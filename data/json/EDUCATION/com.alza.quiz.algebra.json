@@ -1,0 +1,11 @@
+{
+"name" : "Algebra for Beginner",
+"url" : "https://play.google.com/store/apps/details?id=com.alza.quiz.algebra",
+"package" : "com.alza.quiz.algebra",
+"category" : "Educational",
+"description" : "Algebra for Beginner deals with several topics usually found in Elementary Algebra. It is essentially a game to introduce student to algebra.  Lesson & quiz The game consists of levels, with lesson and quizzes available on each level.  Inside of each quiz in a level, player will be asked to find the missing value of an unknown number that is represented by a letter symbol (e.g: x,y). The lesson in each level provides player with the skill required to find the missing value.  To progress in the game level, player need to obtain stars in each available quizzes at corresponding level. Star(s) can be obtained by performing well in taking the quiz, implying that the player has already grabbed the level lesson well.  Problem pattern Increasing level number represent more complex steps to find the missing value. Each levels may contains one or more sub level quiz with same level of difficulty but different patterns of problem.  Gradually increasing difficulty is aimed to teach skills needed to simplify an algebraic expression one pattern of problem at a time. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.VIBRATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

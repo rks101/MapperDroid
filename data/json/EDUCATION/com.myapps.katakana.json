@@ -1,0 +1,11 @@
+{
+"name" : "Katakana Pro",
+"url" : "https://play.google.com/store/apps/details?id=com.myapps.katakana",
+"package" : "com.myapps.katakana",
+"category" : "Educational",
+"description" : "Katakana Pro offers a simple and effective way to learn Japanese Katakana. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+}

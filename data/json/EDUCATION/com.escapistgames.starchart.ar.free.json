@@ -1,0 +1,11 @@
+{
+"name" : "Star Chart AR",
+"url" : "https://play.google.com/store/apps/details?id=com.escapistgames.starchart.ar.free",
+"package" : "com.escapistgames.starchart.ar.free",
+"category" : "Education",
+"description" : "Star Chart AR lets you explore the Earth in Augmented Reality through the window of your phones screen. All in real time!  *** ARCore compatible device required to experience AR Modes ***  Included in Star Chart AR are: - AR Earth - the Earth beautifully rendered in realtime for AR viewing - AR Orrery - the solar system including the sun, planets, major moons, dwarf planets, asteroid & kuiper belts, and major asteroids (available as an in-app upgrade)  Star Chart AR is best experienced with ample room and good lighting. We like to view it outdoors when scaled to maximum size or on a large clear table when scaled down.  Move your device in a circular motion while looking at the surface you would like the device to detect. An overlay will appear on the detected surface and fade out after a few seconds. Tap to place the AR object on a detected surface.   Controls are: - Tap to place the AR object - Pinch to scale the AR object - Two finger tap to go back  * A list of ARCore supported devices can be found here: https://developers.google.com/ar/discover/supported-devices ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.CAMERA', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE']",
+}

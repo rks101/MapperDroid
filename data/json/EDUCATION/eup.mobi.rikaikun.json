@@ -1,0 +1,11 @@
+{
+"name" : "Japanese Dictionary Rikai",
+"url" : "https://play.google.com/store/apps/details?id=eup.mobi.rikaikun",
+"package" : "eup.mobi.rikaikun",
+"category" : "Education",
+"description" : "Japanese English dictionary (Rikai Jisho) designed simple but very adequate for people learning Japanese. Rikai including Japan - English, English - Japanese Kanji. Full-lookup feature using Kanji, Hiragana, Romanji, voice and drawings Kanji   Basic features: - Look up words in the Japanese language, english, Romanji, hiragana - Pronounce online, Romanji and hiragana - Look kanji with full stroke - Learn to write kanji, demonstrates how to write a kanji - JLPT N1, N2, N3, N4, N5, kanji, vocabulary - My vocabulary, highlight and organize your vocabulary effectively - Flashcard, practicing vocabulary, kanji flashcard method for remembering simpler.  Data: - More than 170,000 word dictionary Japanese - English - More than 12000 letters kanjii; - More than 120,000 examples.  When you need immediate assistance, please contact by mail: eup.mobi@gmail.com ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

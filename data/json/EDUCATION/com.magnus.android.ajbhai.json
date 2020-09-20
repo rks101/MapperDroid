@@ -1,0 +1,11 @@
+{
+"name" : "College Search Engine",
+"url" : "https://play.google.com/store/apps/details?id=com.magnus.android.ajbhai",
+"package" : "com.magnus.android.ajbhai",
+"category" : "Education",
+"description" : "As part of an ongoing research study, we investigated how college students conduct everyday life research  what types of information needs they have, and what information sources and practices they use to satisfy these needs. The College Search Engine can be used as an application for search the college and manage the college information as well as students information. The system is an online application that can be used to easily search the colleges according to the students interest. The main goal of this project is to create a platform where one can find best college and complete information of that college including fee structure, courses available, additional facilities. Suggestion will also be provided that for which course a student can go according to his previous stream and future interest.  The Student has to register himself on the application first then he can login to the application with his registration id and password. Now there are courses available at the homepage, student can go through that courses and read description accordingly. Search Engine provided there to search the colleges. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

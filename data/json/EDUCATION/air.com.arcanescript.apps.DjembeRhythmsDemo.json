@@ -1,0 +1,11 @@
+{
+"name" : "Djembe Rhythms (Demo)",
+"url" : "https://play.google.com/store/apps/details?id=air.com.arcanescript.apps.DjembeRhythmsDemo",
+"package" : "air.com.arcanescript.apps.DjembeRhythmsDemo",
+"category" : "Education",
+"description" : "If you are learning or want to learn Djembe drum playing, this application will help you to upgrade your skill and go deep in world of Djembe Rhythms. You will hear tradition rhythms from the mother of Djembe playing - Africa. You can find a lot of amazing rhythms for different times in peoples lives: birth, harvest, war and more. You will also hear how different parts of these rhythms are played separately or together. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.DISABLE_KEYGUARD', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+}

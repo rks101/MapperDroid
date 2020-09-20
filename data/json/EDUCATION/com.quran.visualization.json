@@ -1,0 +1,11 @@
+{
+"name" : "Quran Visualization",
+"url" : "https://play.google.com/store/apps/details?id=com.quran.visualization",
+"package" : "com.quran.visualization",
+"category" : "Education",
+"description" : "Listen to the Quran which is recited by following reciters:  ** Mishary Rashid Al Afasy ** Raad Muhammad Al Kurdi ** Idris Abkar ** Salman Al Utaybi ** Muhammad al Haidan ** Saeed Al Khateeb ** Mevlan Kurtishi ** Syed Sadaqat Ali ** Haroon Ahmed ** Muhammad Al Muqit  Understand the message of Quran which is translated by the following translators: ** Abdul Haleem ** Dr. Ghali ** Dr. Mustafa Khattab ** Dr. Mustafa Khattab, The Clear Quran ** Mufti Taqi Usmani ** Muhsin Khan ** Pickthall ** Sahih International ** Sayyid Abul Ala Maududi ** Yusuf Ali.  Thanks to Quran Visualization Community for bringing up the innovative idea of spreading the knowledge. Lots of Respect to all Reciters and Translators. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

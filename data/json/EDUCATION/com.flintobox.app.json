@@ -1,0 +1,11 @@
+{
+"name" : "Flintobox: Engage 2-12 Yr Old Kids At Home. Better",
+"url" : "https://play.google.com/store/apps/details?id=com.flintobox.app",
+"package" : "com.flintobox.app",
+"category" : "Education",
+"description" : "Want to know how to engage children better, at home?  Do you have questions regarding early childhood development? Want to read what the experts say about parenting?   You are at the right place.   The new Flintobox app answers to all your questions about early childhood development, engaging your child meaningfully and parenting.    The new app is your one-stop solution for all your Flintobox subscription related queries.   What can you do with the all-new Flintobox app?   - Google Sign-in, OTP login - Edit your username and upload a display picture - Upload photos of your childs Flintobox creations - Track your order - Know when your next box will arrive - Watch product videos of your subscribed themes - Renew your subscription - Invite Friends to try Flintobox  - Download worksheets  - Watch DIY videos - Chat with our customer support - Read Parenting articles by experts ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'com.flintobox.app.permission.C2D_MESSAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

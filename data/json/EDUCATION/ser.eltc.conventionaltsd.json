@@ -1,0 +1,11 @@
+{
+"name" : "Conventional TSD",
+"url" : "https://play.google.com/store/apps/details?id=ser.eltc.conventionaltsd",
+"package" : "ser.eltc.conventionaltsd",
+"category" : "Education",
+"description" : "The idea behind making of Conventional TSD, a bilingual app (English & Hindi) for providing ease of access and get early troubleshooting. So, as to achieve safe and punctual train operation in Indian Railway. This is one of the its own kind android app in Indian Railway. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

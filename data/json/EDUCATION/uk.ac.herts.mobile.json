@@ -1,0 +1,11 @@
+{
+"name" : "Herts Mobile",
+"url" : "https://play.google.com/store/apps/details?id=uk.ac.herts.mobile",
+"package" : "uk.ac.herts.mobile",
+"category" : "Education",
+"description" : "Herts Mobile, the app for University of Hertfordshire Students, Staff and Visitors.   With Herts Mobile you can: - Find your way around campus and get directions to any building or room. - View local bus stops and see upcoming departures. - Receive notifications for timetable changes, events and more. Choose the types of notification youd like to receive so you only get the updates youre interested in.  - Find answers to your questions with Ask Herts including information on Registration, Food and Drink, Sports, Entertainment, Societies and more. - Find available computers by building, floor and zone.  What would you like to see next in Herts Mobile? Let us know! ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.USE_CREDENTIALS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_ACCOUNTS', 'android.permission.MANAGE_ACCOUNTS', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

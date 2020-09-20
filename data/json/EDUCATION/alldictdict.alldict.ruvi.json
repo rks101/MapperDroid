@@ -1,0 +1,11 @@
+{
+"name" : "Russian-Vietnamese Dictionary",
+"url" : "https://play.google.com/store/apps/details?id=alldictdict.alldict.ruvi",
+"package" : "alldictdict.alldict.ruvi",
+"category" : "Education",
+"description" : "This is a Russian-Vietnamese and Vietnamese-Russian Dictionary(- , T in Ting Vit-Nga)  This new dictionary is more than just a dictionary. You can search words, from which you can also listen to the pronunciation. This is all very clear and it works as easy as a dictionary should, because its all offline!  Of course, you can do anything you expect from a dictionary, but there is more: It also has an extensive word trainer! This trainer is personal, which means you can add all the words to your personal dictionary and learn those words with the word trainer.  The word trainer has different exercises, which makes you practice all that is necessary: Your writing skills, your listening skills, your pronunciation, and your reading skills.  This makes that the app is indispensable when learning a language! It is suitable for any level. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

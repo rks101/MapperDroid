@@ -1,0 +1,11 @@
+{
+"name" : "Picurul de miere zilnic",
+"url" : "https://play.google.com/store/apps/details?id=com.picuruldemierezilnic.android",
+"package" : "com.picuruldemierezilnic.android",
+"category" : "Education",
+"description" : "Este un proiect de citire a Bibliei, avnd ca scop principal stimularea citirii sistematice a Scripturii i cunoaterea acesteia. Conine planul de citire a Bibliei ntr-un an sau trei cu ntrebri sptmnale. It is a Bible reading project, whose main purpose is to stimulate the systematic reading of Scripture and its knowledge. Contains the Bible reading plan in a year or three with weekly questions. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.majeur.launcher.permission.UPDATE_BADGE', 'android.permission.READ_APP_BADGE', 'com.huawei.android.launcher.permission.CHANGE_BADGE', 'com.sec.android.provider.badge.permission.READ', 'android.permission.RECEIVE_BOOT_COMPLETED', 'me.everything.badger.permission.BADGE_COUNT_WRITE', 'com.oppo.launcher.permission.WRITE_SETTINGS', 'com.huawei.android.launcher.permission.READ_SETTINGS', 'android.permission.WAKE_LOCK', 'com.huawei.android.launcher.permission.WRITE_SETTINGS', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'com.sonymobile.home.permission.PROVIDER_INSERT_BADGE', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'com.sec.android.provider.badge.permission.WRITE', 'com.oppo.launcher.permission.READ_SETTINGS', 'me.everything.badger.permission.BADGE_COUNT_READ', 'com.htc.launcher.permission.READ_SETTINGS', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

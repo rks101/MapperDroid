@@ -1,0 +1,11 @@
+{
+"name" : "Pi Ultimate -  Memorize and Train Pi Digits",
+"url" : "https://play.google.com/store/apps/details?id=com.richardsoderman.ultimatepi",
+"package" : "com.richardsoderman.ultimatepi",
+"category" : "Education",
+"description" : "Do you want to learn some of the infinite PI decimals?   Yes? Well, youve come to the right app. With this pi trainer app youll learn the PI decimals in a competitive way! Get as many points you can by entering the pi decimals. Try to enter the pi decimals as fast as you can to get combos that increases your points! The longer the combo the more points you get!!  You can: - Study pi and memorize digits on the help page. - View you pi high score and your longest combo in the stats page. - Challenge yourself or just casually train pi decimals in the go page.  Ultimate pi: helps you learn pi by letting you study the decimals and then typing them out indicating when you typed the wrong digit and showing the correct one for you to learn by your mistakes.  Why learn pi decimals?  - Impress your friends at parties. - Its so fun! - Increase your memory capacity. - Training something is better than nothing.  Share your results with others via social media or as a message so you know that you are better at remembering pi than your friends :D  Start training pi decimals today! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

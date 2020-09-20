@@ -1,0 +1,11 @@
+{
+"name" : "10th class maths solution in hindi",
+"url" : "https://play.google.com/store/apps/details?id=jaikalki.biomagzine.com.class10ncertmathhindi",
+"package" : "jaikalki.biomagzine.com.class10ncertmathhindi",
+"category" : "Education",
+"description" : "10th class maths solution in Hindi App contain Ncert Mathematics book of class 10 solution in Hindi Medium.  Key:: Works without internet connection.  10th class maths solution in Hindi app Included : (content)  Ch-1   Ch-2  Ch-3       Ch-4   Ch-5   Ch-6  Ch-7   Ch-8     Ch-9     Ch-10  Ch-11  Ch-12     Ch-13     Ch-14  Ch-15   Please RATE US:  1. Please RATE this application 5 STARS, if you find this app benefited you.  2. We are always in the look out on how to improve our apps. If you have any suggestion or question about this app,   Once again, Dont Forget to Rate Us, Bcz your appreciation will encourage us to work harder and smarter. Thanks to all.  Please kindly email us at: E-mail Us : freetutionclasses@gmail.com ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

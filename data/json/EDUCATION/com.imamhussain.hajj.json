@@ -1,0 +1,11 @@
+{
+"name" : "Hajj Assistant - Imam Hussain Holy Shrine",
+"url" : "https://play.google.com/store/apps/details?id=com.imamhussain.hajj",
+"package" : "com.imamhussain.hajj",
+"category" : "Education",
+"description" : "The Hajj app is implemented in both the Arabic and English language.  This Hajj guide app assists you with detailed step by step instructions for each hajj obligation. We have compiled full and detailed information about each and every obligation all from Sayed Ali Al-Sistanis resources. The app is packed with hundreds of Questions and answers regarding Hajj Fiqh and is implemented with its own search engine to allow you to find similar issues people have faced that you may experience.  It is designed to function both online and offline in order to serve you whether you are out and about fulfilling your hajj obligation or just exploring the City as a tourist. Ziyarat and Dua are integrated into the app, therefore you wont have to worry about carrying many books with you.   The App Features a tourism guide that comprises of maps for Mecca, Medina, Muzdalifah, Mina and Arafat. It allows you to search for any place you want to visit. It allows you to download the Maps that you need in order to use them when you are roaming Mecca or Medina without an internet connection. It also provides turn by turn navigation to the places you want to visit via GPS navigation.  App design and programming: Mohammad Rada Kily Server side control panel and API : Mohammad Rada Kily ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_CALENDAR', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_CALENDAR', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_CALENDAR', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_CALENDAR', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW']",
+}

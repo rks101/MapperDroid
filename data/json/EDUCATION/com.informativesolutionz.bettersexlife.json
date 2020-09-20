@@ -1,0 +1,11 @@
+{
+"name" : "How to Get a Better Sex Life",
+"url" : "https://play.google.com/store/apps/details?id=com.informativesolutionz.bettersexlife",
+"package" : "com.informativesolutionz.bettersexlife",
+"category" : "Education",
+"description" : "In the movies, sex always looks great. But if youre like a lot of men, sex may not be as good as you think it could be. You might feel anxiety, concerns about your performance, or even self-consciousness about your body. No matter what the scenario, it just feels like youre not having sex as often as everyone else.  To get it yours better too Download this app Now.   2018 Informative Solutionz ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.informativesolutionz.bettersexlife.permission.C2D_MESSAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

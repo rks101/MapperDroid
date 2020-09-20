@@ -1,0 +1,11 @@
+{
+"name" : "Online Business Ideas",
+"url" : "https://play.google.com/store/apps/details?id=com.freemobileapps.onlinebusinessideas",
+"package" : "com.freemobileapps.onlinebusinessideas",
+"category" : "Education",
+"description" : "Without an idea, it is hard to put your mind into starting your own business. It is time to get your creative juices flowing with our Online Business Ideas. We have a ton of ideas that can help you take the first steps in starting your own business and get over the challenging first step.   In your Online Business Ideas App, weve put together 20 online business ideas to help get your start. Some so simple that you can get started with them tomorrow. Our guide is not an end all be all guide, we hope that once you have chosen the direction you want to take that you will continue to preparing and research the idea outside of this app.  Included in our list of Online Business Ideas: * Getting a Domain * Selling Apps * Selling Your Designs  * Starting a freelancing company * Building Websites * Starting your own blog * and much much more.   If you are interested in starting your own online business and want some great ideas to get your FREE Online Business Ideas app today and start your journey on making a little extra income every month. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SET_WALLPAPER', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE']",
+}

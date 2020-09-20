@@ -1,0 +1,11 @@
+{
+"name" : "Learn Quran",
+"url" : "https://play.google.com/store/apps/details?id=com.alhuda.learnquran",
+"package" : "com.alhuda.learnquran",
+"category" : "Education",
+"description" : "The app Learn Quran helps in developing a deeper understanding of the Quran through its translation and explanation by Dr. Farhat Hashmi. The app can be used to explore the Quran, memorize its word-by-word translation and gain an in-depth understanding of it by listening to the explanation of any of the verses.  Features:    Translation and explanation of the Quran in Urdu by Dr. Farhat Hashmi.  Translation is also available in Hindi. More languages to be added soon, including English, German & French  Tap on any verse and press play button to listen to its audio translation, tafsir or recitation  Go to any verse by entering that verse number  Root Words  Make any verse your favorite  Share the verses of Quran and its audio on social media  Copy the text to clipboard.  Pinch to zoom text size.  Note: Internet connection is required to play the audios. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Eps-Topik Exam Paper",
+"url" : "https://play.google.com/store/apps/details?id=com.Topik.kiranchhetri.eps_topikexampaper",
+"package" : "com.Topik.kiranchhetri.eps_topikexampaper",
+"category" : "Education",
+"description" : "Hello user,  This is Korean Eps-Topik Exam Paper. you can read and test this Exam paper even if youre offline.and you can download this app easily. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

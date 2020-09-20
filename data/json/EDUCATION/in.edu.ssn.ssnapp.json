@@ -1,0 +1,11 @@
+{
+"name" : "SSNCE",
+"url" : "https://play.google.com/store/apps/details?id=in.edu.ssn.ssnapp",
+"package" : "in.edu.ssn.ssnapp",
+"category" : "Education",
+"description" : "Missing out on important updates from college, placement or exam cell? Unsure of which club to follow? Having trouble getting to know your bus routes when its most needed? Brooding over the library fines which went unnoticed? Wanna build a professional network? Introducing the SSNCE app which is a one stop solution to all your daily problems.   * Get timely updates on feeds, events, workshops and placements from respective departments & exam cell.   * Connect with the members of the various clubs and be the first to know all the fruitful opportunities provided by them to develop your skills.  * Manage your internals, exam schedules and results with ease.  * Renew your library books with one click from your place.  * Have hassle free mornings by looking for bus routes on the go.   * Build a professional network by connecting with the alumni of SSN through AlmaConnect.  So what are you still waiting for? Download the app, now available in dark mode! ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CALL_PHONE']",
+}

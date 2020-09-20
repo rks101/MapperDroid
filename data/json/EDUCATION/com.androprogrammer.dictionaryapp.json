@@ -1,0 +1,11 @@
+{
+"name" : "Offline Dictionary",
+"url" : "https://play.google.com/store/apps/details?id=com.androprogrammer.dictionaryapp",
+"package" : "com.androprogrammer.dictionaryapp",
+"category" : "Education",
+"description" : "A Portable Offline English to Hindi and Gujarati Dictionary app for free to download.  An elegant and a minimalist digital dictionary app comprising the meaning of more than 35,000 words in both Hindi and Gujarati version. It comes with an advanced search functionality where you need to just type the initial letters of any English word in the search box and you will get the list of available words.  It also has a quiz feature based on your searches to help you out in expanding your vocabulary. So, now learning English is no more a dream! Get this wonderful Offline Dictionary app to find out the meaning in both Hindi and Gujarati Language with Proper synonyms and Antonyms.  Features: - Offline Search and Data available - Minimal interface - Easy search functionality with Gujarati, Hindi and English - Includes meaning of more than 35,000 words - Quiz to improve your vocabulary - Share Feature ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

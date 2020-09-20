@@ -1,0 +1,11 @@
+{
+"name" : "Class 12 Maths NCERT Solutions",
+"url" : "https://play.google.com/store/apps/details?id=com.studentzoneapps.mathsncertclass_12",
+"package" : "com.studentzoneapps.mathsncertclass_12",
+"category" : "Education",
+"description" : "Class 12 Maths NCERT Solutions app is specially designed for the CBSE class 12 students to help them prepare for their exams. It also helps them throughout the year to complete their homework on time and double check the answers.   This app contains answers of all the chapters included in the CBSE Board class 12 NCERT book:   Chapter 1: Relations and Functions  Chapter 2: Inverse Trigonometric Functions  Chapter 3: Matrices  Chapter 4: Determinants  Chapter 5: Continuity and Differentiability  Chapter 6: Application of Derivatives  Chapter 7: Integrals  Chapter 8: Application of Integrals  Chapter 9: Differential Equations  Chapter 10: Vector Algebra  Chapter 11: Three Dimensional Geometry  Chapter 12: Linear Programming  Chapter 13: Probability   Main Features:   This app is in easy English Language.  Simple app. Works offline. No internet connection needed!  Professionally designed, user-friendly and intuitive interface.  Clear Font for better readability.  Easy to use.  Zooming Available ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.studentzoneapps.mathsncertclass_12.permission.C2D_MESSAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

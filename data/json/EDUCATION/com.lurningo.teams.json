@@ -1,0 +1,11 @@
+{
+"name" : "Lurningo for Teams",
+"url" : "https://play.google.com/store/apps/details?id=com.lurningo.teams",
+"package" : "com.lurningo.teams",
+"category" : "Education",
+"description" : "Lurningo for Teams is the corporate learning platform from Schoolguru. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.lurningo.teams.permission.C2D_MESSAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.SET_ALARM', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.SET_ALARM', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

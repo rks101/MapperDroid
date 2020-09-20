@@ -1,0 +1,11 @@
+{
+"name" : "NYU Mobile",
+"url" : "https://play.google.com/store/apps/details?id=com.nyu.nyumobile",
+"package" : "com.nyu.nyumobile",
+"category" : "Education",
+"description" : "NYU Mobile is the official mobile app designed to enhance the experience of New York University students. This app will help you navigate NYU on the go and see the rich life of NYU through university information, events, photos, and more.  NYU Mobile allows you to:  - See class assignments and announcements - Check campus shuttle routes - Schedule Safe Ride transportation - See dining menus - See where to print on campus - Search the campus map - Find contact information in the NYU Directory - Check the University events calendar - Search for jobs on Handshake - Browse University news - Receive University Info Alerts, including push notifications - And more ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

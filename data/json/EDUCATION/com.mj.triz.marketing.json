@@ -1,0 +1,11 @@
+{
+"name" : "TRIZ crossover MARKETING",
+"url" : "https://play.google.com/store/apps/details?id=com.mj.triz.marketing",
+"package" : "com.mj.triz.marketing",
+"category" : "Education",
+"description" : "TRIZ crossover MARKETING mobile application enables the utilization of TRIZ tools and techniques in the world of marketing. It was developed to improve creativity of people working in marketing departments and relating functions of the organization.  Many companies today are market oriented, following a definition by the Chartered Institute of Marketing: Marketing is the management process responsible for identifying, anticipating and satisfying customer requirements profitably.  Creativity and innovation in marketing has always been among the most crucial drivers of success. The ability to find solutions that competitors are not anticipating and to recognize opportunities by predicting future customers needs is of paramount importance.  Today TRIZ is recognized as one of the best tools for innovating and problem solving. Its use ensures the discovery of new approaches by minimal consumption of companys resources and maximal effect on potential customers.   TRIZ prides itself for providing innovative solutions in R&D. It can therefore be equally successful in the field of marketing where avoiding conventional logic is of premium value. This application provides a following selection of powerful TRIZ tools creating a mindset that enables practitioners to find quantum leap improvements:  40 inventive principles  Contradictions  Ideality  Trends of evolution  Resources  System operator (9 windows) and others  The goal of this Application is to use concepts of TRIZ tools to encourage immediate innovation, creatively improve efficiency and effectiveness of marketing operations, and get a better insight leading to better decision making. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

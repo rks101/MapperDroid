@@ -1,0 +1,11 @@
+{
+"name" : "Radio English - Official app",
+"url" : "https://play.google.com/store/apps/details?id=com.spotlightenglish.radio",
+"package" : "com.spotlightenglish.radio",
+"category" : "Education",
+"description" : "SpotlightEnglish.com offers 15 minute audio and video programme for English learners. It uses a special method of broadcasting. Compared with standard English programming, Spotlight uses a slower speaking speed, and a smaller vocabulary. This makes Spotlight easier to understand for listeners around the world.   Spotlight programmes cover many interesting topics and help you practice your English reading, listening, and pronunciation.  The Spotlight English app offers 5 programmes every week. You can listen to these programmes, and read along with scripts. You can stream programmes, download, and share with friends. You can also make a list of your favourites. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.DOWNLOAD_WITHOUT_NOTIFICATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.DOWNLOAD_WITHOUT_NOTIFICATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

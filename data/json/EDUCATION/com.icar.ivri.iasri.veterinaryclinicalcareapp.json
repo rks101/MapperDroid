@@ -1,0 +1,11 @@
+{
+"name" : "IVRI-Veterinary Clinical Care App",
+"url" : "https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.veterinaryclinicalcareapp",
+"package" : "com.icar.ivri.iasri.veterinaryclinicalcareapp",
+"category" : "Education",
+"description" : "This App is targeted to impart knowledge and skills to Graduating Veterinarians & Field Veterinary Officers about  most frequent clinical conditions encountered in field conditions related to medicine (Mastitis, Bloat, TRP, Ketosis, Milk fever, Ruminal impaction & Calf diarrhoea), gynaecology (Pyometra, Anestrus, Repeat Breeding, Dystocia, RFM, Uterine torsion, Uterine prolapse, Cervico- vaginal prolapse & COD) & surgery (Urolithiasis, Caesarean Section, Hernia, Castration, Fracture & Wound). The App covers information about each of these conditions under the various subheads viz., About, Symptoms, Diagnosis, Treatment and Prevention & Control. In the surgery related cases information on preoperative and postoperative procedures  are detailed. Educational videos on important surgical procedures like Tube Cystostomy, External Skeletal Fixation etc have been included in the App for enhancing surgical skills in some advance surgeries. The App also contains links to various important organizations dealing with animal health. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.icar.ivri.iasri.veterinaryclinicalcareapp.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

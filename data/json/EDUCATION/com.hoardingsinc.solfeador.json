@@ -1,0 +1,11 @@
+{
+"name" : "Solfeador - Music reading",
+"url" : "https://play.google.com/store/apps/details?id=com.hoardingsinc.solfeador",
+"package" : "com.hoardingsinc.solfeador",
+"category" : "Educational",
+"description" : "Learning the name of the notes in a staff can be a game, an addictive game. Can you get to the last level with three stars?  Improve your sheet music reading with this game. Features:  * Learn treble and bass clefs * English notation (A, B, C...), Latin (italian) notation (Do, Re, Mi...) and German notation * Statistics to measure your improvement  For getting 3 stars the total time (including penalization) must be under 20 seconds. Under 30 seconds, you get two stars and under 40 seconds, you get one star. To unlock the next level, you need at least one star. The penalization for each failure is 15 s.  Start your way to music sight reading! Solfege made fun! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

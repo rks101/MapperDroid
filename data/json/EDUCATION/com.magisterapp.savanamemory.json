@@ -1,0 +1,11 @@
+{
+"name" : "Africa Games for Kids - Animals Puzzles",
+"url" : "https://play.google.com/store/apps/details?id=com.magisterapp.savanamemory",
+"package" : "com.magisterapp.savanamemory",
+"category" : "Educational",
+"description" : "Care for details and focus on younger players make Africa an educating, relaxing application for your children.  Designed for children aged 3 and up, it is simple to use.  Features:  - 4 Games: Matching Game, Stickers, Colors and Music for Kids - Compatible with all devices - Very high resolution images for exploiting the features of HD displays - Audio effects and background music - Continuously updated with new characters and levels  Try the free version now. All levels will be unlocked in the complete version.  ++ STICKERS ++ - 50 stickers to stick - 12 albums to complete with lots of characters - Simplified albums - Complex albums for older children - Use your imagination and artistic flair to position the stickers as you want  ++ MATCHING GAME ++ - 40 characters to discover - 4 levels of difficulty - Simple and user-friendly even for the youngest children - improve your memory  ++ DRAWINGS TO COLOR IN ++ - Simplified use of colors - 20 drawings to color in - 30 colors - Save your drawings  Have fun! ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

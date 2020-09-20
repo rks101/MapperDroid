@@ -1,0 +1,11 @@
+{
+"name" : "French Spanish Translator",
+"url" : "https://play.google.com/store/apps/details?id=com.vertaler.fres",
+"package" : "com.vertaler.fres",
+"category" : "Education",
+"description" : "This free app is able to translate words and text from French to Spanish, and from Spanish to French. Best app for easy and fast translations, which can be used like a dictionary. If you are a student, tourist or traveler , it will helps you to learn the language!   This translator contains the following features: - Translate words and sentences - Translate from clipboard - Simple and user-friendly interface - Instant search - Instant start  Traducteur gratuit du franais  lespagnol et de lespagnol vers le franais. Traductor gratuito del francs al espaol y del espaol al francs. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

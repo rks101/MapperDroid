@@ -1,0 +1,11 @@
+{
+"name" : "kids song - best offline nursery rhymes",
+"url" : "https://play.google.com/store/apps/details?id=com.uzmafariz.kidssongenglish",
+"package" : "com.uzmafariz.kidssongenglish",
+"category" : "Education",
+"description" : "Songs which contains 40 (forty) most popular songs were created with the aim to educate student with songs appropriate to the age which is expected to form a good person. An offline application, just with one download, no longer need an internet connection to play.   Easy for preschoolers to access and play alone Great way to enrich vocabulary and learn new sounds Perfect for a baby-centric family singalong An excellent preschool learning app for those first English language lessons  We apologize if there are errors on this application. Hopefully this application is useful for the children education.   Hope it is useful ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "[]",
+}

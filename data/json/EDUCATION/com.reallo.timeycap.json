@@ -1,0 +1,11 @@
+{
+"name" : "TimeyCap : Student Planner, Schedule & Timetable",
+"url" : "https://play.google.com/store/apps/details?id=com.reallo.timeycap",
+"package" : "com.reallo.timeycap",
+"category" : "Education",
+"description" : "TimeyCap helps students & pupils to manage their study time for completing their studies successfully. Setting a deadline to your goals, making you more effective and productive, where you do your best work to complete your Homework / Assignments at time.   * Track deadline for assignments / exams due dates. * Settings a deadline for completing your own study goals. * Countdown timer for each goal * Watch your goals in daily / monthly / yearly view * Divide your goals into sub goals / sub tasks * Get applause on goal completion * Create custom categories / tags * Watch your last 7 days progress statistics * Motivational quotes * Priority for each goal (Minor, Medium, Major, Critical) * Option to backup your data locally * Reminder for each goal * Optional Timer Mode for goals (including notification bar updating + alarm at end). * Multiple timers support. * Group multiple sub-tasks into new goal (long press on the sub-goal). * Timetable for week schedule.  Credits: Images in the Homework & Exams sections designed by freepik [https://www.freepik.com/] ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.DISABLE_KEYGUARD', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET']",
+}

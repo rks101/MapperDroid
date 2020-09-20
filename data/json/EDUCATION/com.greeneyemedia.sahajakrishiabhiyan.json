@@ -1,0 +1,11 @@
+{
+"name" : "Sahaja Krishi Abhiyan",
+"url" : "https://play.google.com/store/apps/details?id=com.greeneyemedia.sahajakrishiabhiyan",
+"package" : "com.greeneyemedia.sahajakrishiabhiyan",
+"category" : "Education",
+"description" : "Any agricultural production or Animal Farming using Sahaja Yoga Techniques called Sahaja Krishi, An electromagnetic vibration which is made of five elements (Earth, Water, Fire, Wind, Sky) called as Param Chaitannya can bring positive transformation in plants, animals, fish, birds etc, The Param Chaitannya can transformed the agricultural products such as seeds, feeds, water etc. and then are used for routine agricultural production.  The cool breeze flowing due to kundalini awakening not only nourishes humans but also supports all the living beings and elements like gardening, vegetables, herbs and plants, flowers, horticulture, tissue culture, poultry etc. through Sahaja Krishi techniques not only increases the productivity of crops but also protects them and gives them quality. Today every farmer can choose Sahaja Krishi and increase the crop yield with same efforts and without the use of chemical fertilizers. ",
+"desc_perms" : "['android.permission.vibrate']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Magic Paint",
+"url" : "https://play.google.com/store/apps/details?id=math.magicpaint",
+"package" : "math.magicpaint",
+"category" : "Educational",
+"description" : "The purpose of this app is to help your baby master the basics of math. The app is optimized for preschool and elementary school children. I have created this app for my own child and have been constantly upgrading it. The app has three modes Triplets game, Training and Colouring.  The Triplets game helps understand and memorize addition and subtraction within ten. The child is given three digits and two operators and has to compose the case him/herself. Whats so special about it? The child visually memorizes the case itself and can see what will happen if he changes the digits. Now there is no need to scissor out paper digits. The program itself indicates whether or not your child has composed the case right.  Training is an easy-to-handle tool for effective instruction of your child. Forget about countless slips of paper with cases written on them! Everything is right here: addition, subtraction, multiplication and division. After solving the problem the results are saved and can be seen on the stats page, the graph represents the results and the number of errors. This helps to track the dynamics of learning.  Once your child has learnt to solve the cases, you wont have to study with him. After the solving you will always be able to see the way he or she has solved it.  Today there is no app with similar functionality. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

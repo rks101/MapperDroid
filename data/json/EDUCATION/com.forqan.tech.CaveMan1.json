@@ -1,0 +1,11 @@
+{
+"name" : "Preschool Math Adventures-1",
+"url" : "https://play.google.com/store/apps/details?id=com.forqan.tech.CaveMan1",
+"package" : "com.forqan.tech.CaveMan1",
+"category" : "Education",
+"description" : "A basic math application for preschool kids helping them learn numbers and counting.  This application is the first of a series of three application covering a couple of mathematical skills expected by 3-5 years preschoolers.  This application is about numbers with 4 sections: 1. Numbers tracing: 0- 9. 2. Numbers puzzles: build the numbers 0-9 from pieces. 3. Numbers detection. 4. Counting: counting objects up to 10. 5. Number memory.  We, at Kideo, have always sought to provide the best for your children through applications designed, and directed each age group separately, our belief in the feature each evolutionary stage passes by your son, but in order to lend life skills and the mentality to learn and grow and play correctly and properly, and to communicate with his peers and the environment surrounding it.  Enjoy! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.DISABLE_KEYGUARD', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Katakana Memory Hint [English]",
+"url" : "https://play.google.com/store/apps/details?id=jp.jfkc.KatakanaMemoryHintApp.En",
+"package" : "jp.jfkc.KatakanaMemoryHintApp.En",
+"category" : "Education",
+"description" : "1. Description  Study katakana the fun way using mnemonic pictures  and check your understanding with a variety of quizzes!  Recommended for: Complete beginners in Japanese Anyone interested in Japanese letters  2. Features  -Features pictures, sound and animation to help you remember the katakana characters. -Includes quizzes for checking your understanding of the katakana youve learned. -Includes simple explanations about the Japanese writing system and the characters used in it. -A katakana table allows you to tap each katakana to hear how its pronounced.  3. Tested Devices  AndroidSamsung Galaxy S5 ,Samsung Galaxy S4 ,Sony Xperia Z Ultra ,HTC J ONE ,Lenovo A916 , Asus ZenPhone 2 , Huawei Ascend G620S , LG Nexus5 , Asus Nexus7 2012 , Sony Xepria Z3 SOL26  4.Contact the Developer  If you have any questions or suggestions please feel free to send  them to us at the following email address. app-kc@jpf.go.jp ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+}

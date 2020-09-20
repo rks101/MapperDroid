@@ -1,0 +1,11 @@
+{
+"name" : "Lakhmir Singh & Manjit Kaur Solutions for Class 10",
+"url" : "https://play.google.com/store/apps/details?id=com.appforstudent.lakhmirsinghandmanjitkursolutionclass10",
+"package" : "com.appforstudent.lakhmirsinghandmanjitkursolutionclass10",
+"category" : "Education",
+"description" : "Lakhmir Singh & Manjit Kaur Solutions Class 10  ncert class 10 solution offline  NCERT / CBSE CLASS 10 ALL SUBJECT SOLUTION ADDED-   Lakhmir Singh & Manjit Kaur Solutions Class 10 Chapters  Physics  Chemistry  Biology    Physics Chapter 1  Electricity Chapter 2  Magnetic Effects of Electric Current Chapter 3  Sources of Energy Chapter 4  Reflection of Light Chapter 5  Refraction of Light Chapter 6  The Human Eyes And The Colorful World    Chemistry Chapter 1  Chemical Reactions and Equations Chapter 2  Acids, Bases and Salts Chapter 3  Metals and Non-metals Chapter 4  Carbon And Its Compounds Chapter 5  Periodic Classification Of Elements    Biology Chapter 1  Life Processes Chapter 2  Control and Coordination Chapter 3  How do Organisms Reproduce? Chapter 4  Heredity and Evolution Chapter 5  Our Environment Chapter 6  Management Of Natural Resources ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

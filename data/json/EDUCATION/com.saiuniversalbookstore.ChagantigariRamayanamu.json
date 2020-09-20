@@ -1,0 +1,11 @@
+{
+"name" : "Ramayanam by Chaganti Garu",
+"url" : "https://play.google.com/store/apps/details?id=com.saiuniversalbookstore.ChagantigariRamayanamu",
+"package" : "com.saiuniversalbookstore.ChagantigariRamayanamu",
+"category" : "Education",
+"description" : "Shri Rama, Jaya Rama, Jaya Jaya Rama!  According to an age-old belief, the recital of the divine epic will get rid of all the evils and poverty from homes and also each chapter of Ramayana will bring different kind of divine blessing to the listener and to her or his home.  As we all know Ramas life and journey is one of adherence to dharma despite harsh tests and obstacles and many pains of life and time.  This condensed representation helps devotees to listen and know the transcendental deeds of Lord Shri Ram.  Why delay then, download the app and use it offline   Share this app with your friends and have a good time!  Watch this space for more updates.  Please rate this app if you like.  Chapters featured in the app: 1) Bala Kanda 2) Ayodhya Kanda 3) Aranya kanda 4) Kishkindha kanda 5) Sundara Kanda 6) Yuddha Kanda 7) Uttara kanda 7) Devotional matters ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.saiuniversalbookstore.ChagantigariRamayanamu.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

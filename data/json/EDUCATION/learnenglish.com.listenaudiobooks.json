@@ -1,0 +1,11 @@
+{
+"name" : "Listen AudioBooks",
+"url" : "https://play.google.com/store/apps/details?id=learnenglish.com.listenaudiobooks",
+"package" : "learnenglish.com.listenaudiobooks",
+"category" : "Education",
+"description" : "Listen AudioBooks  you can also browse and listen from a wide selection of genres:  Fiction favorites including romance novels, literary short stories, mystery, and science fiction  Textbooks and reference titles for MCAT and other exams and courses  Make this your go-to Bible app for full-length audio versions of the King James Bible and other religious audio books, meditations and prayer books, including the Quran   Learn a new language with hundreds of new educational audio courses for 45+ different languages  Huge selection of family-friendly books for kids, toddlers, and teens Thank you ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_ALL_DOWNLOADS', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_ALL_DOWNLOADS', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Disha",
+"url" : "https://play.google.com/store/apps/details?id=in.dishacareerinstitute.examsystem",
+"package" : "in.dishacareerinstitute.examsystem",
+"category" : "Education",
+"description" : "Disha Career Institute started in May 2009 With only 20 Students in a small classroom at location Since then it went on growing every year.  It is ambition & vision of Shri Akhil Singh to transform the life of needy and poor students by providing them excellent education and career guidance and to prepare honest government servants .The hard work & Sincere efforts of this one man resulted in a huge increase in Students Strength. Soon the need arose to expand.  The main purpose of this institute is to provide excellent education and career guidance for various competitive exams to its students so that they can excel in their career.  The Institute is structured on the strong principle of consistency and hard work, and be scientific approach based on perfect planning and proper guidance. The Institute provides coaching for all subjects related to SSC-CG/.SSC-CHSL / IBPS/ IAS/ PCS / Railways and other government services.  Institute has best in breed, highly knowledgeable and well experienced faculties for different subjects. Institute provides state of art infrastructure and well equipped computer lab facilities to its students.   Institute has on an average 1500 Students every year & over the past 7 years it has made lives of more than 7000 Students Successful. Till date   Institute has received many Awards of excellence in Teaching field and for inspiring and dedicated work for civilized Society at national and State level. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

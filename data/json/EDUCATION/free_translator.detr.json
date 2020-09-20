@@ -1,0 +1,11 @@
+{
+"name" : "German-Turkish Translator",
+"url" : "https://play.google.com/store/apps/details?id=free_translator.detr",
+"package" : "free_translator.detr",
+"category" : "Education",
+"description" : "This Free translator can quickly translate from German to Turkish and Turkish to German (Deutsch-Trkisch bersetzer, Trk-Alman Tercman) words as well as complete sentences. Instant translation and the full validity of the words. - This App will be very useful to people studying a foreign language (travelers, students and everyone who raise their level of language) - Its interface is very simple and easy to use - Due to the favorites list and the history you can look through the translated information offline  Software features: - Translation of words and phrases. - Voice input - Favorites - History - Interface settings. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

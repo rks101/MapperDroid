@@ -1,0 +1,11 @@
+{
+"name" : "What's that flower?",
+"url" : "https://play.google.com/store/apps/details?id=sk.ab.herbs",
+"package" : "sk.ab.herbs",
+"category" : "Education",
+"description" : "Have you ever wondered what is the name of a beautiful flower you have just seen in the park? Whats that flower? will help you to find it out. Choose flowers color, habitat and number of petals and your options are narrowed from more than 1000 to couple of dozens. Then scroll the list and choose the right one. Read about it and enjoy power of knowledge. Be the wise one.  Internet connection is required to run this application!  In app purchase: - search by photo - observations - offline mode - custom filter - change order or number of filters.  - search in English or Latin names or in taxonomy - remove ads ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING']",
+}

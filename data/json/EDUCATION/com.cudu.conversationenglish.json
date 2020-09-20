@@ -1,0 +1,11 @@
+{
+"name" : "English Conversation Practice - Cudu",
+"url" : "https://play.google.com/store/apps/details?id=com.cudu.conversationenglish",
+"package" : "com.cudu.conversationenglish",
+"category" : "Education",
+"description" : "English Conversation Practice with CUDU.  We have many conversations that would help you to improve your speaking skills and make you feel like talking with native speakers.  You can learn how to speak English like a native speaker through dialogue lessons  The application helps you immediately improve your communication skill in English (in daily communication, travel, shopping, work, weather ...), support for learning, research, job, travel, study abroad, labor export ...  * Main features of the application: - Nearly 200 topics covering all aspects of life - Daily communication - Welcome to English - Ask for time, weather, location, money, phone, mail - Famous idiom, or use. - Hundreds of common sentences - The full explanation, the difficulty in communication in English - Real sound, clear vivid - Learn English conversation form - Learn basic grammar - Common English phrases: They are classified in detail and easy to use. - Practice the most authentic live conversation.  I hope that we can help you improve your communication skill in English. ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.VIBRATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+}

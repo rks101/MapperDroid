@@ -1,0 +1,11 @@
+{
+"name" : "My  ePathShala",
+"url" : "https://play.google.com/store/apps/details?id=students.the.paathshala.staff",
+"package" : "students.the.paathshala.staff",
+"category" : "Education",
+"description" : "With this application various segments can be benefited as:- a) Students : Can get Class Update, give quiz, Track attendance , can view performance report, lodge complaints/grievances.  b) Teachers : Can send information to their batch, give quiz, take attendance, assign task, keep track of projects.  c) Staff : Can send information/Time Table, Track attendance, address grievances, view fee details.  d) Parent/Guardian: Can view attendance of students, can view performance, lodge complaints. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CALL_PHONE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

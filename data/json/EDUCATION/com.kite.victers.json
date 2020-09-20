@@ -1,0 +1,11 @@
+{
+"name" : "Victers Live Streaming",
+"url" : "https://play.google.com/store/apps/details?id=com.kite.victers",
+"package" : "com.kite.victers",
+"category" : "Education",
+"description" : "VICTERS Indias epoch making first broadband network on EDUSAT for schools VICTERS (Versatile ICT Enabled Resource for Students) - inaugurated by H.E. A P J Abdul Kalam the President of India on 28th July, 2005 in Thiruvananthapuram has revolutionized classrooms through interactive IP based technology. Kerala has since demonstrated how EDUSAT could be used to successfully empower teachers. The scheme which is being executed by IT@School Project of Government of Kerala, is mainly intended to meet the demand for an Interactive Satellite based Distance Education system for the country. It strongly reflects Indias commitment to use space technology for national development, especially for the development of the population in remote and rural locations. VICTERS offers interactive virtual classrooms that enable the school students as well as the teachers to directly communicate with the subject experts and educationists. It also ensures the dissemination of high quality education to the students and teachers from the original source. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

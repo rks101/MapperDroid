@@ -1,0 +1,11 @@
+{
+"name" : "Portuguese Verb Conjugator",
+"url" : "https://play.google.com/store/apps/details?id=com.itipton.portugueseverbs",
+"package" : "com.itipton.portugueseverbs",
+"category" : "Education",
+"description" : "View over 1000 Portuguese verbs in 18 tenses. With simple navigation and built in search, you can find the verb you need in seconds.   Now with audio!! Not sure how to pronounce a verb? You can now hear how every verb is pronounced. Just tap on the button next to the conjugation. Note: this functionality requires an Internet connection.   Save a list of your favourite verbs.   View verbs that you have recently looked at.  Includes the ability to copy, email and SMS verb conjugations. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

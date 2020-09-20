@@ -1,0 +1,11 @@
+{
+"name" : "Belajar Bahasa Jepang",
+"url" : "https://play.google.com/store/apps/details?id=balimedia.com.belajarbahasajepang",
+"package" : "balimedia.com.belajarbahasajepang",
+"category" : "Education",
+"description" : "Aplikasi ini di buat untuk mempermudah belajar bahasa jepang, sangat cocok untuk pemula yang baru memulai belajar bahasa jepang. Berisi berbagai contoh kata dan kalimat yang di bagi menjadi 90+ lebih kategori   Aplikasi ini berisi - Contoh Grammar - Salam dalam bahasa jepang - Angka dalam bahasa jepang - Anggota Tubuh dalam bahasa jepang - Cuaca dalam bahasa jepang dll This application is made to facilitate learning Japanese, it is suitable for beginners who are just starting to learn Japanese. Contains various examples of words and sentences which are divided into 90+ more categories  This application contains - Grammar example - Greetings in Japanese - Numbers in Japanese - Body members in Japanese - Weather in Japanese etc. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

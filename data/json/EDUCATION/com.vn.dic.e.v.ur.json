@@ -1,0 +1,11 @@
+{
+"name" : "Urdu Dictionary Offline - Translate English Urdu",
+"url" : "https://play.google.com/store/apps/details?id=com.vn.dic.e.v.ur",
+"package" : "com.vn.dic.e.v.ur",
+"category" : "Education",
+"description" : "Functions  Full English - Urdu dictionary, use offline.  Full Urdu - English dictionary, use offline.  Sound offline: human voice with standard pronuciation.  Quick translate dialog: allow you translate text from any in your device.  Reminder function: remind your vocabulary everyday. You will learn your words quickly.  Translate text function: you can translate a sentence or a paragraph very fast.  Vocabulary game: allow you play game to learn new vocabulary.  Developer by Bibo Learn English. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.VIBRATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE', 'com.android.vending.CHECK_LICENSE', 'android.permission.GET_ACCOUNTS', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.USE_CREDENTIALS']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.CHECK_LICENSE', 'android.permission.GET_ACCOUNTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+}

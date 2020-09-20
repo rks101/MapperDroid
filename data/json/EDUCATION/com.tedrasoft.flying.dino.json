@@ -1,0 +1,11 @@
+{
+"name" : "Flying without feathers - a tale of dinosaurs",
+"url" : "https://play.google.com/store/apps/details?id=com.tedrasoft.flying.dino",
+"package" : "com.tedrasoft.flying.dino",
+"category" : "Education",
+"description" : "Flying without feathers is the tale of Tony, a funny flying dinosaur, who, due to his impatience, is faced with a no-exit situation. The exhilarating story of the baby-pterodactyl is a starting point for developing further discussions to encourage children to remember their own mischief and tricks, what caused them and how they managed to overcome them. Original story with dinosaurs and coloring application for kids. This educational tale is helping your child to learn how to develop and overcome difficulties. The coloring section is fun and help kids develop imagination and creativity. The application can be used like an audio book but you can also read the story yourself. Enjoy Tony and his story of learning to fly! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.tedrasoft.flying.dino.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'com.tedrasoft.flying.dino.WAKE_LOCK', 'com.tedrasoft.flying.dino.INTERNET', 'com.tedrasoft.flying.dino.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.tedrasoft.flying.dino.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.tedrasoft.flying.dino.WAKE_LOCK', 'com.tedrasoft.flying.dino.INTERNET', 'com.tedrasoft.flying.dino.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

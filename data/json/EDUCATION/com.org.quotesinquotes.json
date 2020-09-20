@@ -1,0 +1,11 @@
+{
+"name" : "Famous Quotes",
+"url" : "https://play.google.com/store/apps/details?id=com.org.quotesinquotes",
+"package" : "com.org.quotesinquotes",
+"category" : "Education",
+"description" : "Famous quotes is a collection of best quotes from famous personality. With the aim to motivate people and create a harmony in their life, the app welcome all.   Features:  Wisdom and motivational quotes from great personalities of all time  Add any personality in your favorite list  Share best quotes to your friends easily  Save any your favorite quotes in your favorite list  Daily new quotes added  Read about the famous personalities  Simple user interface with faster performance  Famous quotes is free to download and use app.  Best app for quotes.  Tags:famous quotes , best quotes and status, quotes and status, status and quotes, quotes for whatsapp, quotes for instagram, motivational quotes, love quotes, friendship quotes, sad quotes, best app, best status and quotes.  Thanks for downloading. :) ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_CONTACTS']",
+"manifest_perms" : "['android.permission.SET_WALLPAPER', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.SET_WALLPAPER', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Pocket Black Hole",
+"url" : "https://play.google.com/store/apps/details?id=org.laserlabs.pocketblackhole",
+"package" : "org.laserlabs.pocketblackhole",
+"category" : "Educational",
+"description" : "Pocket Black Hole is a simple app that allows you to play with the light-bending effect of a black hole. Take a selfie, or a photo of your friends, with a black hole!  A black hole is a very compact and massive object, in fact its gravity is so strong that it will bend the path of light passing close by. If the light gets too close, it cannot escape, and that is why the object appears to us as a black hole in the sky.  Our app does not use the full equations from Einsteins theory of general relativity to compute this distortion. Instead we are using a much simpler formula to create a similar visual effect. ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

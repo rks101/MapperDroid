@@ -1,0 +1,11 @@
+{
+"name" : "Microsoft Learn Chinese",
+"url" : "https://play.google.com/store/apps/details?id=com.microsoft.chineselearning",
+"package" : "com.microsoft.chineselearning",
+"category" : "Education",
+"description" : "Have fun learning the most widely spoken language in the world, Chinese! Designed for all levels of Chinese learners, this app focuses on the most exciting part of the language: speaking it. By exploring a wide variety of everyday scenarios, you become exposed to essential vocabulary and grammar structures, helping you to speak Mandarin the way natives do. Best of all, its entirely free!  Artificial Intelligence Scoring. Advance grading system to perfect your pronunciation and practice conversation with our chatbots.   Professional Course Material. Designed by experienced teachers and aligned with the HSK difficulty classification.  Personalize Learning Program. Tailored to your unique needs and match you to conversations at your level.  Conversational Interface. Role play interface and abundant scenarios for practice. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

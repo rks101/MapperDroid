@@ -1,0 +1,11 @@
+{
+"name" : "Shikshak Diary(Teacher Guide)",
+"url" : "https://play.google.com/store/apps/details?id=com.appvishwa.teacherguide",
+"package" : "com.appvishwa.teacherguide",
+"category" : "Education",
+"description" : "Shikshak diary is developed by keeping in mind that it should solve any problem came into mind of School teachers in Maharashtra. Shikshak Diary is online application which will interact with backend and will update daily and gives you refreshed information daily. Interface of this application is very advanced but very easy to use and each section contains more and more images so to provide more visual data for understanding. This application contains various categories in which information is given so user can get particular information.  Application contains Section like: -GR -Records -Schemes -Important Websites -Android Apps -Software -Audio/Video -Blogs -General Knowledge -RTE -Important news -School Slider -Months Special and many more ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'com.appvishwa.teacherguide.permission.C2D_MESSAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SET_WALLPAPER', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE']",
+}

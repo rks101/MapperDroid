@@ -1,0 +1,11 @@
+{
+"name" : "EF Mentor: Words",
+"url" : "https://play.google.com/store/apps/details?id=com.ef.mentorapp",
+"package" : "com.ef.mentorapp",
+"category" : "Education",
+"description" : "This application requires an existing EF account.  EF Mentor: Words helps you learn new words.   Search the Oxford Learners Dictionary for words and phrases  Complete personalized activities for the words you add  Study regularly and see your vocabulary grow!  EF Mentor: Words helps you learn more, faster.   Spaced study scheduling maximizes memorization and learning speed  Unique, varied activities generated for each student  Fast 2-minute practice wherever and whenever you want  Adjusts to your learning level  For EF students learning a language abroad, vocabulary from the syllabus is automatically added to your word list each week.  Includes content adapted from Oxford Learners Dictionaries  Oxford University Press 2016 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.ef.mentorapp.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

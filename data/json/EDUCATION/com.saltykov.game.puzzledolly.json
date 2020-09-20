@@ -1,0 +1,11 @@
+{
+"name" : "Fun puzzle with Dolly. Without advertising",
+"url" : "https://play.google.com/store/apps/details?id=com.saltykov.game.puzzledolly",
+"package" : "com.saltykov.game.puzzledolly",
+"category" : "Educational",
+"description" : "Play childrens games with Dolly the sheep . Puzzles for children and kids from 1 year to 5 years. This childrens game is designed specifically for young children. It will help in the development of logic and fine motor skills and will suit both boys and girls. This is not just puzzles for kids, but also a developmental game, because each task consists of 2 parts: - To assemble a puzzle for children from 2 years; - Arrange animals and objects in their places  Game features: - The game is suitable for children and kids from 1 year to 6 years - Beautiful and intuitive interface. - Dolly the funny sheep keeps track of your progress. - Game development of motor skills, teaches logical thinking and develops attention. - 5 amazing puzzles for children from 3 to 4 years old with a continuation - Animation of characters during the assignment.  Dolly Games specializes in developing interactive games for children. Puzzles for children of 3 years are designed specifically for children of preschool age and include educational games for girls and boys aged 2 to 5 years. In our applications there is no third-party advertising. We are always happy to receive your feedback and suggestions. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

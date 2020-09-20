@@ -1,0 +1,11 @@
+{
+"name" : "Japanese alphabet (Hiragana)",
+"url" : "https://play.google.com/store/apps/details?id=com.ndcsolution.hiragana",
+"package" : "com.ndcsolution.hiragana",
+"category" : "Education",
+"description" : "Hiragana & Katakana application helps you to master basic Japanese characters Hiragana and Katakana in the very awesome way.   Features:  * Full Hiragana and Katakana characters: basic, dakuten and combo * Native speaker sounds (offline available) * Variety exercise types to help you master these characters * Simple, clear but beautiful graphics design * Learn directly from the main screen with Ninja icon  An application which must have for every Japanese learner. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

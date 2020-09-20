@@ -1,0 +1,11 @@
+{
+"name" : "Full Excel Course |Excel Tutorial | Excel Software",
+"url" : "https://play.google.com/store/apps/details?id=com.manjuapps.fullexcelcoursenew",
+"package" : "com.manjuapps.fullexcelcoursenew",
+"category" : "Education",
+"description" : "Full Excel Course   Note : This is not a Microsoft Corporation Application. This is just a Complete Excel Tutorial Application.  This is a very use full Application for all Excel Users By using this Application may learn Excel easily learn complete Excel This Application having : ** Excel Basic  - Excel Rows and Columns - Enter text a number in a Cell - How to edit text in cell  - How to change the color of a cell and many more  ** Chart in Excel - How to sort data in excel - Create an Excel Chart - Move and resize  - Chart Style and Layout and many more  ** Conditional Logic - The if Function - Conditional formatting in Excel - Count if - Sum if  ** Formulas - The SUM function - How to Multiply in Excel - Subtract and Divide - Combining the Arithmetic Operators and many more ** Functions - The Average Function - The date function - Time Function in Excel - A time table project and many more  ** Data processing Data  - Data tables in Excel - A second data table - Excel scenarios - Goal seek and many more ** Spreadsheet - How to auto fill in Excel - Entering simple addition formula - The sum function in excel - How to use a paste special and many more ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

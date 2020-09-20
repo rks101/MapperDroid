@@ -1,0 +1,11 @@
+{
+"name" : "CJS Amics",
+"url" : "https://play.google.com/store/apps/details?id=com.magan.amics",
+"package" : "com.magan.amics",
+"category" : "Education",
+"description" : "El Centro Juvenil Amics es una asociacin salesiana dedicada a la educacin en el tiempo libre de nios y jvenes. Se trata de un ambiente de amplia acogida, con gran diversidad de propuestas, caracterizado por el protagonismo juvenil. Enfocado desde la experiencia y pedagoga de Don Bosco como parte del estilo educativo.  La propuesta educativa tiene como principal objetivo educar y evangelizar en el tiempo libre, ofrecer un lugar donde los jvenes, en especial aquellos ms desfavorecidos, se sientan protagonistas. The Amics Youth Center is a Salesian association dedicated to the leisure education of children and young people. It is an environment of wide reception, with a great diversity of proposals, characterized by the youth protagonism . Focused from the experience and pedagogy of Don Bosco as part of the educational style.  The main objective of the educational proposal is to educate and evangelize in leisure time, to offer a place where young people , especially the most disadvantaged, feel protagonists . ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_CALENDAR', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.READ_CALENDAR', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.READ_CALENDAR', 'android.permission.INTERNET', 'android.permission.WRITE_CALENDAR', 'android.permission.ACCESS_NETWORK_STATE']",
+}

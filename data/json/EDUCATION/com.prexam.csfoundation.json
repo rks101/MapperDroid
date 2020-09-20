@@ -1,0 +1,11 @@
+{
+"name" : "CS - Foundation  Prep App",
+"url" : "https://play.google.com/store/apps/details?id=com.prexam.csfoundation",
+"package" : "com.prexam.csfoundation",
+"category" : "Education",
+"description" : "Dont just read through books but make sure you have useful information to crack your exams. This app helps you prepare for your exams using scientifically designed tools in improve your performance and increase your confidence to face actual exam. Take Time Based tests for just practice on the go to test your knowledge.  Covers following subjects: - BUSINESS ENVIRONMENT & ENTREPRENEURSHIP  - BUSINESS MANAGEMENT ETHICS & COMMUNICATION  - BUSINESS ECONOMICS  - FUNDAMENTALS OF ACCOUNTING & AUDITING  In this FREE version you would get 3 tests free in Take a Test and few free questions for 3 Chapters for each subject in Practice Qs. The premium App costs Rs.590. In Premium App you will receive unlimited Take a Test as well practice through complete question bank using Practice Qs  This App does not require Internet connection. Internet connection would be required only to download, update or buy premium. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.GET_ACCOUNTS']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

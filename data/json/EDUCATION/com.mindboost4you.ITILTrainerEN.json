@@ -1,0 +1,11 @@
+{
+"name" : "ITIL Trainer EN",
+"url" : "https://play.google.com/store/apps/details?id=com.mindboost4you.ITILTrainerEN",
+"package" : "com.mindboost4you.ITILTrainerEN",
+"category" : "Education",
+"description" : "The ITIL Trainer helps you to prepare for the ITIL Foundation Exam.  Information on the ITIL Foundation exams: 1. You should try to answer all 40 questions. 2. There is only one correct answer per question. 3. You have 1 hour to complete the exam. 4. Maximum score is 40. Minimum to pass is 26.  About this App: A. At each start, the order of questions and answers are reshuffled. B. Practice anywhere you want (offline) C. Settings: Sound on/off, Reset high scores and progress, restore in-app purchases. D. After completion the question sets, you can especially go through the incorrectly answered questions again, as many times until you have answered all questions correctly. E. You can interrupt the question sets at any time and continue later. F. In this free version you will find a set with 40 questions. Additional training sets, which include 40 questions each, can be purchased by clicking More trainings.  Copyright:  2017 Thomas Hauck info@mindboost4you.eu ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+}

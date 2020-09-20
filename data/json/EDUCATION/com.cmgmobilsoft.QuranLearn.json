@@ -1,0 +1,11 @@
+{
+"name" : "ElifBa",
+"url" : "https://play.google.com/store/apps/details?id=com.cmgmobilsoft.QuranLearn",
+"package" : "com.cmgmobilsoft.QuranLearn",
+"category" : "Education",
+"description" : "Bu uygulama Kuran arzusu olanlar iin hazrlanm bir almadr. renmeyi kolaylatrmak ve hzlandrmak amacyla iindeki bilgiler btnyle seslendirilmitir. Okuma da gerekli olan harf ve hareke bilgileri ile zet olarak baz okuma kurallar da sizlere sunulmutur. ElifBa uygulamasna sesli namaz dualar ve sureleri de eklenmitir. ElifBa uygulamas, grsel olarak gelitirilmekte olup istek ve nerilerinizi Mail yolu ile iletebilirsiniz.  Eski srm isteyenler ElifBa Lite uygulamasn indirebilir. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

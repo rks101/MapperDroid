@@ -1,0 +1,11 @@
+{
+"name" : "KyoroChanAdventure2 in the Sea",
+"url" : "https://play.google.com/store/apps/details?id=tv.kidsstar.app.KyoroChanAdventure02",
+"package" : "tv.kidsstar.app.KyoroChanAdventure02",
+"category" : "Education",
+"description" : "The choco bird named as Kyorochan was stolen golden eggs which are his treasures by Black Kyorochan again.  This time, Kyorochan starts his adventure to get golden eggs back in the sea cave !!  Kids can operate Kyorochan freely in the seas to swipe on the screen. You can enjoy amazing and interesting animations and jokes at sparkly points in the map !! Can you find all animations, hidden stages, and educational games ?  Features - Get Prizes to collect 3 golden eggs and stamps !! 1 stamp is available by 1 game complete, and you will be entered to win great prizes !! Lets play many times and get great prizes !!  We offer a monthly drawing for MORINAGA Assorted Sweets.  - Educational Games This app contents some educational games supervised by by Professor Yuji Ikegaya in the Laboratory of Chemical Pharmacology at the University of Tokyo.  *Lean Colors and Shapes *Picture matching game *Lean colors *Shape matching game *Lean shapes ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'tv.kidsstar.app.KyoroChanAdventure02.permission.C2D_MESSAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

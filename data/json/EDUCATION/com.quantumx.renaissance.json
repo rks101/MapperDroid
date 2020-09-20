@@ -1,0 +1,11 @@
+{
+"name" : "Renaissance Training Center",
+"url" : "https://play.google.com/store/apps/details?id=com.quantumx.renaissance",
+"package" : "com.quantumx.renaissance",
+"category" : "Education",
+"description" : "RTC Mobile App is an application that enables prospective trainee to view available courses and enroll at Renaissance Training Center. With this application, trainees will be able to find suitable schedules and facilitate payment thru different payment channels without the need to personally visit the RTC Office. A hassle-free way to secure your preferred schedule of training.  RTC Mobile Apps features:  Real time training schedules and available slots  Selection of MARINA Accredited Courses and In-house Maritime Courses  Convenient and Secured Payment Methods  Hassle- Free, Long Line- Free Registration/Enrollment ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.GET_ACCOUNTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

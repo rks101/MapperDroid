@@ -1,0 +1,11 @@
+{
+"name" : "IR e-Locos TSD",
+"url" : "https://play.google.com/store/apps/details?id=ettc.bza.scr",
+"package" : "ettc.bza.scr",
+"category" : "Education",
+"description" : "This App consists troubleshooting guidelines of 3phase locomotives, conventional locos and EMUs. This App is having salient features like bi-linguial option with easy switch over facility, guiding troubleshooting in 2 mode ie. quick troubleshooting and detailed troubleshooting with hyperlinking of many photographs and instructions where required. This app also guides with loco circuits(Electrical and Pneumatic), safety instructions, technical procedures to be followed on various occasions by the loco pilots and the highlighted feature of the app is especially easy accessibility of the trouble with search option on typing an related alphabet. as well as typing a fault number which enables to be utilised by the staff who are having minimum qualification like I.T.I. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.SEND_SMS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.SEND_SMS', 'android.permission.INTERNET']",
+}

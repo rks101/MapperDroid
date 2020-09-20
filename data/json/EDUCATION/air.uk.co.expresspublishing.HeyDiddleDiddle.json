@@ -1,0 +1,11 @@
+{
+"name" : "Happy Rhymes 1 - Story 4",
+"url" : "https://play.google.com/store/apps/details?id=air.uk.co.expresspublishing.HeyDiddleDiddle",
+"package" : "air.uk.co.expresspublishing.HeyDiddleDiddle",
+"category" : "Education",
+"description" : "Express Publishing enters the world of Play Store with Happy Rhymes 1.   Get a sneak peek at what Happy Rhymes 1 has to offer in this free version! Bring your favourite nursery characters to life!   Hey Diddle Diddle includes:   *Fully interactive story  *Animated song and story  *Interactive fun activities & games  *Picture dictionary with audio   Suitable for children 2-8 years old.   Innovative interaction for tablets and smartphones running Android. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

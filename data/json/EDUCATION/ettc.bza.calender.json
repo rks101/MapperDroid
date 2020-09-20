@@ -1,0 +1,11 @@
+{
+"name" : "ETTC TRAINING CALENDAR",
+"url" : "https://play.google.com/store/apps/details?id=ettc.bza.calender",
+"package" : "ettc.bza.calender",
+"category" : "Education",
+"description" : "Electric Traction Training Centre, Vijayawada imparts training for various categories of staff of Running, TRS and TRD Departments of Indian Railways. This APP contains Training Calender of all courses being offered by ETTC/BZA. This APP also contains information about the Timings and Instructions to be followed by Trainees at ETTC/BZA. This APP also has important contact numbers of Supervisors at ETTC/BZA. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.SEND_SMS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.SEND_SMS', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Golden Ratio DIY",
+"url" : "https://play.google.com/store/apps/details?id=com.ttapps.fsgolden",
+"package" : "com.ttapps.fsgolden",
+"category" : "Education",
+"description" : "Golden Ratio : Compare the facial features with the Golden Ratio ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET']",
+}

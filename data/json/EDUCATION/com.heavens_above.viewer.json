@@ -1,0 +1,11 @@
+{
+"name" : "Heavens-Above",
+"url" : "https://play.google.com/store/apps/details?id=com.heavens_above.viewer",
+"package" : "com.heavens_above.viewer",
+"category" : "Education",
+"description" : "When can I see the ISS? Whats that light in the sky? The official Heavens-Above app provides you with precise pass predictions for the ISS, visible satellites and radio satellites. Main features include:   Live sky chart  See whats in the sky above you right now or at a given moment.  Pass predictions  Get precise predictions for passes of the International Space Station (ISS) and most visible satellites.  Radio satellites  Get passes for amateur radio satellites, complete with uplink and downlink information.  All calculations performed locally  Predictions are generated right on your phone so you only need a data connection every few days.  Orbit and ground track  See details about the orbit of any selected satellite rendered and with all relevant data.  Satellite details  Get detailed information about any satellite, as provided by our Heavens-Above website.  Timeline  Get a visual overview over passes and animate the position of satellites on the sky chart and on the ground track.  Night mode  An optional red on black color scheme to preserve your night vision.  Tracker  Easily find or identify any object in the sky by orienting your device towards it.  Calendar Integration  Quickly add interesting passes to your calendar so you wont miss them.  Financed by adverts This version integrates advertisements to make it available for free. Get Heavens-Above Pro to remove the adverts. ",
+"desc_perms" : "['android.permission.WRITE_CALENDAR', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.READ_CALENDAR']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

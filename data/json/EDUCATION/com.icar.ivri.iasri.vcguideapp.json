@@ -1,0 +1,11 @@
+{
+"name" : "IVRI-Vaccination Guide App(टीकाकरण गाइड)",
+"url" : "https://play.google.com/store/apps/details?id=com.icar.ivri.iasri.vcguideapp",
+"package" : "com.icar.ivri.iasri.vcguideapp",
+"category" : "Education",
+"description" : "The IVRI-Vaccination Guide App designed and developed by ICAR-IVRI, Izatnagar, UP & IASRI, New Delhi is targeted to impart knowledge and skills to Graduating Veterinarians, Field Veterinary Officers, Paravets, Livestock, Poultry & Pet Owners about vaccination in domestic animals, poultry and pets. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.icar.ivri.iasri.vcguideapp.permission.C2D_MESSAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

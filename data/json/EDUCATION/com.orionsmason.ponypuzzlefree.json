@@ -1,0 +1,11 @@
+{
+"name" : "My Pony Games for Little Girls",
+"url" : "https://play.google.com/store/apps/details?id=com.orionsmason.ponypuzzlefree",
+"package" : "com.orionsmason.ponypuzzlefree",
+"category" : "Education",
+"description" : "Do your girls love little ponies, cute horses, and cool unicorns? Do they love fairy tales and puzzles too? Look no further. My Pony Games for Girls: Little Pony Jigsaw Puzzles for Kids and Toddlers who Love Horses and Princess Unicorn Ponies for Free is a fun animated puzzle game for toddlers, preschoolers, and girls from ages 1 to 6.   The app includes twelve different kid and toddler friendly, jigsaw-style puzzles with options to change the number of pieces and remove other helpers. The puzzles start off easy to play and can be made more challenging- perfect for the little one in your life who loves a little pony, cool unicorns, and fun horses!   The puzzles come to life once complete with scenes including fairy tale castles, my pony princesses, and cute flying unicorns!   This high quality pony game puzzle app features virtual jigsaw pieces for learning shape recognition and matching- great for educational purposes or just for fun! Good for one of your childs first puzzle games.   Features:  * Fun, cool, and creative graphics by illustrator Tim Demeter.  * 12 different of my fun little princess pony puzzles to choose from in this game!  * Fun interactive stars and bubbles to pop, animated ponies, and flying unicorns at the end of puzzles!  * Choose your own difficulty! Increase the number of pieces from 9 up to 24 as your childs fine motor and spatial skills improve!  * Easy for kids to use and control.   Please note that this is the free version of the app. The free version includes four puzzles with the option to unlock the other 8 via in-app purchase.   For more information on our privacy policy, please visit: http://scottadelman.com/privacy-policy/ ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

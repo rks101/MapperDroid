@@ -1,0 +1,11 @@
+{
+"name" : "Highway code",
+"url" : "https://play.google.com/store/apps/details?id=com.deepriverdev.highwaycode",
+"package" : "com.deepriverdev.highwaycode",
+"category" : "Education",
+"description" : "The complete Highway Code 2020 contains all the rules, regulations and traffic signs from The Official UK Highway Code. The App covers everything you need to know about driving safely in the UK.  COMPLETY FREE  NO ADS OR BANNERS  - Contains the latest 2020 UK highway code  - Includes a full list of traffic signs from The Official UK Highway Code  - Menu allows easy navigation through topics  - Search for specific rules using keywords   - Links to actual laws on legislation.gov ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'com.android.vending.CHECK_LICENSE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

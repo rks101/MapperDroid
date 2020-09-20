@@ -1,0 +1,11 @@
+{
+"name" : "TCSRDTTI",
+"url" : "https://play.google.com/store/apps/details?id=com.tcs.tcsrdtti",
+"package" : "com.tcs.tcsrdtti",
+"category" : "Education",
+"description" : "The Tata Chemicals society for rural development  Technical training institute (TTI), a part of CSR hand of Tata Chemical Ltd., is a unique initiative set up to deliver sustainable vocational education and skills training for the benefit of youth in India. TTI has commenced its activities by setting up high-quality multi-skills training center in Mithapur. These training center will offer short- and medium-term skill training programs for aspiring youth between the age of 18 to 30 years, helping them gain employable skills and empowering them to pursue sustainable livelihoods in the world of work. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'com.tcs.tcsrdtti.permission.C2D_MESSAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

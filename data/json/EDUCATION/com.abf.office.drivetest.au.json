@@ -1,0 +1,11 @@
+{
+"name" : "AU Driving Test&Learners Test",
+"url" : "https://play.google.com/store/apps/details?id=com.abf.office.drivetest.au",
+"package" : "com.abf.office.drivetest.au",
+"category" : "Education",
+"description" : "Use our training exercises if your desired result is not only to pass the exam, but to also use the knowledge gained in practice.  In addition to the training exercises  the application shows the graph of your training progress and grants you access to all of the questions that appear on the Australian RTAs Drivers Knowledge Test (DKT), divided into categories, road signs, simulations of the actual DKT test format and the option to work on your errors.  And its all free and without an internet connection.  We hope that you will appreciate the convenience of our application.  AU Driving Test & Learners Test coming up for car, rider, rider snv, heavy rigid vehicle and heavy combination rigid vehicle.  Best way to learning and prepare to driving theory test. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

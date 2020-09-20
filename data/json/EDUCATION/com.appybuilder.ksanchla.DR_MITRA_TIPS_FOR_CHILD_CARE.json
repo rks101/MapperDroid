@@ -1,0 +1,11 @@
+{
+"name" : "Dr Mitra (Tips For Child Care)",
+"url" : "https://play.google.com/store/apps/details?id=com.appybuilder.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE",
+"package" : "com.appybuilder.ksanchla.DR_MITRA_TIPS_FOR_CHILD_CARE",
+"category" : "Education",
+"description" : "Audio-video Presentation In mp4 Format (total 45 Presentation) For Education Of Layman in Gujarati Language For Child-care Regarding General Heath, Development, Nutrition, Vaccination, Common Symptoms, Diseases, New Borne, Systemic Diseases, Intensive Care, Adolescence Care, etc ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SET_WALLPAPER', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.SEND_SMS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.SEND_SMS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

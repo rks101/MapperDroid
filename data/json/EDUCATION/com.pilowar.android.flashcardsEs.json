@@ -1,0 +1,11 @@
+{
+"name" : "Flashcards for Kids in Spanish",
+"url" : "https://play.google.com/store/apps/details?id=com.pilowar.android.flashcardsEs",
+"package" : "com.pilowar.android.flashcardsEs",
+"category" : "Education",
+"description" : "The application has 500 sound flashcards in Italian language with bright images which are divided into topics.  Flashcards are an easy and interesting way for your child recognize the world around them. Approved worldwide by child psychologists, teachers and parents themselves, flashcards are ideal for very young children and those up to 7 years of age!   During a childs formative years, developmental cards are almost a necessity, and not just for entertainment. Flashcards are great for games and just starting conversations with your child. Plus theyre great fun!   Start playing with your child by showing them flashcards three times a day. Do one or two sections at a time and for just 2-3 seconds for each card. Play close attention to your childs level of engagement  when they become disinterested, stop the game.   As time progresses you should be able to increase the length of each period you use the cards, but again pay attention to your childs level of interest as these cards work best when your child is fully engaged.   If you have any remarks regarding the application, or suggestions for its improvement, please feel free to contact us via shgamedev@gmail.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_WIFI_STATE']",
+}

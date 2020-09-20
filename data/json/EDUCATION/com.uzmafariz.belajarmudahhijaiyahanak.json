@@ -1,0 +1,11 @@
+{
+"name" : "Game Edukasi Anak Belajar Hijaiyah",
+"url" : "https://play.google.com/store/apps/details?id=com.uzmafariz.belajarmudahhijaiyahanak",
+"package" : "com.uzmafariz.belajarmudahhijaiyahanak",
+"category" : "Educational",
+"description" : "Belajar mudah Hijaiyah merupakan salah satu aplikasi yang akan membantu anak-anak dalam belajar mengenal, menghafal dan menulis huruf hijaiyah yang dikenal juga sebagai huruf arab.  Beberapa fitur yang terdapat dalam aplikasi ini diantaranya adalah: 1. Pengenalan huruf hijaiyah dengan metode interaktif dan pengulangan otomatis 2. Permainan tebak huruf hijaiyah Learning is easy Hijaiyah is one application that will help children to learn to recognize, memorize and write letters hijaiyah also known as the Arabic alphabet.  Some of the features contained in this application are: 1. Introduction letter hijaiyah with interactive and automatic repetition method 2. The game guess the letter hijaiyah ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

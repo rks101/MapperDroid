@@ -1,0 +1,11 @@
+{
+"name" : "Memory Ladder - Numbers Trainer",
+"url" : "https://play.google.com/store/apps/details?id=speednumbers.mastersofmemory.com.memoryladder_speednumbers",
+"package" : "speednumbers.mastersofmemory.com.memoryladder_speednumbers",
+"category" : "Education",
+"description" : "Memory Ladder is a simple tool for those interesting in memory training. This version will help you train in number memorization.  You can control: * Number of digits to memorize * Time alloted to memorize * Grouping of Digits  This is a redesign of Memory Ladders number memorization challenge. This version is simpler and much more user friendly. My hope is that it is just as effective as a training tool.  This version of Memory Ladder has many improvements: * Decluttered the interface * Setting configurations can be saved * Black text on white background and no grid lines * More spacing between digits and rows * Current position is highlighted * Can recall line by line or all at once * The app works in both portrait and landscape * You can leave the app and come back without having to start over * After submission of recall you go straight to review  If you have any comments or concerns send an email to mastersofmemorycontact@gmail.com ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS']",
+"manifest_perms" : "['speednumbers.mastersofmemory.com.memoryladder_speednumbers.permission.C2D_MESSAGE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Golden Thread Tarot",
+"url" : "https://play.google.com/store/apps/details?id=com.ionicframework.tarot371308",
+"package" : "com.ionicframework.tarot371308",
+"category" : "Education",
+"description" : " Our main app has moved!  Golden Thread is no longer being updated, but weve been doing some heavy improvements for our new app,  Labyrinthos Tarot . Find us on the play store.  Golden Thread Tarot is a modern approach to an ancient tradition. Our belief is that tarot is not about revealing a fixed future, but giving you access to the self knowledge you need to make better decisions.  Features: 0. Your Mirror - as you save and store readings in your log, we build up data about you and your cards, making it easy for you to find patterns where they were once hidden. 1. Tarot Database - sortable and searchable database of cards, giving you details on meanings, keywords, suits and number. 2. Guided Readings - use either digital cards or physical cards to ask and reflect on your questions. 3. Log Your Readings - save and store not only your cards, but how you felt about them. Build a database of your thoughts and feelings and see yourself reflected back at you. 4. Illustrated Lessons - make learning the underlying foundation of tarot simple. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERNET']",
+}

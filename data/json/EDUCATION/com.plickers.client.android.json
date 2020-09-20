@@ -1,0 +1,11 @@
+{
+"name" : "Plickers",
+"url" : "https://play.google.com/store/apps/details?id=com.plickers.client.android",
+"package" : "com.plickers.client.android",
+"category" : "Education",
+"description" : "Plickers lets you poll your class for free, without the need for student devices. Just give each student a card (a paper clicker), and use your Android smartphone or tablet to scan them to do instant checks-for-understanding, exit tickets, and impromptu polls. Best of all, your data is automatically saved, student-by-student, at plickers.com.  Happy teaching! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.WAKE_LOCK', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Pilot Airplane Exam",
+"url" : "https://play.google.com/store/apps/details?id=com.inquisitive.pilotairplaneexam",
+"package" : "com.inquisitive.pilotairplaneexam",
+"category" : "Education",
+"description" : "A straightforward app that helps you prepare for the Private Pilot-Airplane Exam. Clean and super intuitive user interface design. Focus on studying, not on how to use an app. Questions and answers are personally crafted. No internet connection required. No need to carry heavy books or to print bulky note cards.  The PAR or Private Pilot-Airplane Exam are designed to test your knowledge in many subject areas. Most pilot certificates and ratings require the applicant to pass a knowledge test, also called the written test. The knowledge test results are valid for a period of 2 years, and are usually a prerequisite for practical tests.   I hope this app will help you ace the PAR and smoothly obtain to your pilot license! Thank you very much and enjoy!   Disclaimer: This application is just an excellent tool for self-study and exam preparation. Its not affiliated with or endorsed by any testing organization, certificate, test name or trademark. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_CREDENTIALS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

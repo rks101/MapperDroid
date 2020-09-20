@@ -1,0 +1,11 @@
+{
+"name" : "Archaeologist - Ancient Egypt",
+"url" : "https://play.google.com/store/apps/details?id=com.magisterapp.ancientegypt",
+"package" : "com.magisterapp.ancientegypt",
+"category" : "Educational",
+"description" : "Do you know the story of the goddess Isis? No ...? No problem, with this app you will learn tons of fascinating things about ancient Egypt  Children will have fun looking for the entrance to the secret rooms and then doing excavations, like a real archaeologist, to discover all of the finds and treasures hidden in the pyramids. Once all of the pieces have been found, everyone heads to the laboratory for the cleaning and reconstruction phase.  The graphics of the game are filled with detail, colour and fun animations designed specially for little ones, with tons of educational information about the Egyptian world.  Children who try out the game will never stop excavating and reconstructing the various things they find.  All designed to ensure lots of fun for you and your children.  * Excavate to find the entrance to the secret rooms  * Eight different excavation settings  * Find all of the hidden treasures  * Clean and reconstruct all of the objects that you find  * Read and learn about the mysteries of ancient Egypt  Try it now. You will be glad that you did and your children will have a ton of fun.   SECURITY FOR YOUR CHILDREN  MagisterApp creates high quality apps for children.No third party advertising. This means no nasty surprises or deceiving advertisements.  Millions of parents trust MagisterApp. Read more and tell us what you think on www.facebook.com/MagisterApp.  Have fun! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "qdex Play",
+"url" : "https://play.google.com/store/apps/details?id=com.quanser.qdex",
+"package" : "com.quanser.qdex",
+"category" : "Education",
+"description" : "qdex by Quanser makes it easy to build custom learning modules for mobile devices. With our simple-to-use free creation tool, you can go from a blank slate to a fully-functioning interactive module in minutes. No development experience required.  qdex is designed exclusively for mobile devices so that you can harness the full extent of their computational power. App elements go beyond simple text to include advanced mathematical solvers, real-time communication streams, hardware-accelerated graphics, and access to onboard device sensors.  Discover why qdex is the most powerful and customizable eLearning platform... period. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

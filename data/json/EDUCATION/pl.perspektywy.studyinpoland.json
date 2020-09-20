@@ -1,0 +1,11 @@
+{
+"name" : "Study in Poland",
+"url" : "https://play.google.com/store/apps/details?id=pl.perspektywy.studyinpoland",
+"package" : "pl.perspektywy.studyinpoland",
+"category" : "Education",
+"description" : "Study in Poland platform is addressed to students and candidates for students. It presents most important information on English taught study programmes offered by 58 best Polish universities.  Study in Poland provides information on: - advantages of studying in Poland, a unique European country of dynamic economy, open people and rich history and culture. - 58 best Polish universities - 720 study programmes (in English): medicine, IT, engineering, business, humanities, arts and sciences.  Poland is an attractive new European educational destination. Study in Poland will help you find the study of your dreams in the country of Madam Curie, Chopin and Copernicus. Highest quality teaching, great study atmosphere and affordable tuition  these are some of the main advantages of choosing Poland as study destination. Make the right choice!  The Study in Poland program is a joint project of the Conference of Rectors and Perspektywy Education Foundation. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

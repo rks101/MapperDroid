@@ -1,0 +1,11 @@
+{
+"name" : "Ching Link",
+"url" : "https://play.google.com/store/apps/details?id=com.chingatome.ching_link",
+"package" : "com.chingatome.ching_link",
+"category" : "Education",
+"description" : "Le logiciel ChingLink vous permet de diffuser facilement auprs de vos lves les feuilles dexercices que vous avez cres sur ChingAtome ChingLink The software allows you to easily distribute to your students the worksheet that you created on ChingAtome ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

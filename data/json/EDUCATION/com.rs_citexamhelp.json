@@ -1,0 +1,11 @@
+{
+"name" : "RS_CIT Exam help",
+"url" : "https://play.google.com/store/apps/details?id=com.rs_citexamhelp",
+"package" : "com.rs_citexamhelp",
+"category" : "Education",
+"description" : "RS_CIT app is help in exam for perpation of cit exam.  1000+ qestion answer are there for all kind of paper.  There 8 subject are there. all have 100+ qestion answer  If you have this app then your exam will be greate.  With mobile exam app you can perpared any time and any where.  You can perpared many exam such as Rs-cit,HSSC, RSSC, SCC, PGDAC, DCA, Railway exam, Bank Clerk, LDC, exam, Airforce exam , Delhi police , Rajasthan Police Navy, Army ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

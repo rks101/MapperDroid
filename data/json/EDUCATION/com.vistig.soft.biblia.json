@@ -1,0 +1,11 @@
+{
+"name" : "Biblia ortodoxa",
+"url" : "https://play.google.com/store/apps/details?id=com.vistig.soft.biblia",
+"package" : "com.vistig.soft.biblia",
+"category" : "Education",
+"description" : "Biblia Cretin Ortodox n limba romn.  Coninutul Bibliei este cel tiprit sub ndrumarea PF Teoctist cu aprobarea Sfntului Sinod.  Conine Vechiul Testament i Noul Testament, complet offline (nu necesit Internet). Incepand cu versiunea 1.2, s-au adaugat semne de carte (bookmarks) la Biblie. Astfel, puteti sa adaugati semne de carte personalizate pentru a facilita lectura Sfintei Scripturi.  O noua pagina de Ajutor a fost adaugata, care contine instructiuni pentru folosirea semnelor de carte. O alta functionalitate importanta a fost adaugata care permite marirea textului in cadrul Bibliei.  Doamne ajuta!    tags: biblia crestin ortodoxa romana testament Christian Orthodox Bible in Romanian. Bible content is printed under the guidance of the Holy Synod PF Theoctistus with approval.  Contains the Old Testament and the New Testament, completely offline (no Internet required). Starting with version 1.2, were added to bookmarks (bookmarks) in the Bible. Thus, you can add custom bookmarks to facilitate the reading of Holy Scripture. A new Help page was added, which contains instructions for using bookmarks. Another important functionality has been added that allows increasing text in the Bible.  God help you!    tags: Romanian Orthodox Christian bible testament ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

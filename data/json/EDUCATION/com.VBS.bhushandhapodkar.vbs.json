@@ -1,0 +1,11 @@
+{
+"name" : "VBS (Virtual Book Store)",
+"url" : "https://play.google.com/store/apps/details?id=com.VBS.bhushandhapodkar.vbs",
+"package" : "com.VBS.bhushandhapodkar.vbs",
+"category" : "Education",
+"description" : "The app facilitates engineering students from 1st to 4th year of all branches with the latest RTMNU Question papers & Handwritten notes for 1st year Engineering students as per RTMNU syllabus. All the updated question paper are provided here in this app. All the question papers are available for free. The notes are in a simple and easy language. You will also get here syllabus, Timetable, News, viva -questions etc. you and also check result easily in this app. The notes are checked by authorized faculties. One app for all the essential materials required to excel in Examination. No internet, No problem. Get offline access to your downloaded exam materials. Intuitive UI for easy accessibility and search within the application. Access every subject, each question paper right on your fingertip from anywhere, anytime. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.VBS.bhushandhapodkar.vbs.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "PI VR Life on the Ice",
+"url" : "https://play.google.com/store/apps/details?id=com.pubint.cardboard.lifeontheice",
+"package" : "com.pubint.cardboard.lifeontheice",
+"category" : "Education",
+"description" : "Step on a boat and visit Antarctica! See Antarctic animals such as penguins, seals, and an orca whale. Learn about Antarctic animals through videos, photographs, animations, and more. Test your knowledge with a built-in quiz.  This app is companion content for the book Encyclopaedia Britannica: Life on the Ice. When prompted to scan, look for the QR code located on the first page of your PI VR Life on the Ice book in order to access interactive content. Visit http://pilbooks.com/PIVRLifeontheIce for more information. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

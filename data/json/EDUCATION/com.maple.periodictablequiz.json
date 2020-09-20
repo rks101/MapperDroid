@@ -1,0 +1,11 @@
+{
+"name" : "Periodic Table Quiz",
+"url" : "https://play.google.com/store/apps/details?id=com.maple.periodictablequiz",
+"package" : "com.maple.periodictablequiz",
+"category" : "Educational",
+"description" : "Test and improve your knowledge of the chemical elements using the many customizable quizzes available with the Periodic Table Quiz app.   Quizzes are available in three formats:  - Find the elements on the periodic table - Multiple choice - Text input  Six question and answer configurations are available:  - Name to Atomic Number - Name to Atomic Symbol - Name to Atomic Weight - Atomic Number to Name - Atomic Symbol to Name - Atomic Weight to Name  The atomic numbers, weights, symbols, and names of all 118 chemical elements can be studied for free using this app. A single in-app purchase is available that removes the menu ads.  The game language can easily be changed in-app to English, French, Spanish, German, Simplified Chinese, Traditional Chinese, Japanese, Korean, Italian, Indonesian, Russian, Portuguese and Arabic. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

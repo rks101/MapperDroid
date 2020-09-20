@@ -1,0 +1,11 @@
+{
+"name" : "PNB Univ",
+"url" : "https://play.google.com/store/apps/details?id=net.gcsolutions.pnbunivapp",
+"package" : "net.gcsolutions.pnbunivapp",
+"category" : "Education",
+"description" : "PNB Univ gives you the power to take your learning with you. Now access all your courses and take tests and quizzes on your smartphone or tablet. PNB Univ is the mobile solution for Punjab National Bank Employees.  - Log on to the Learner App with your PNB Univ credentials - View Assigned courses and tests - View your progress - Access content and play directly on your device - Receive notifications for new assigned content - View consolidated report card - View News and Announcements  PNB Univ requires a valid PNB Univ LMS learner account to function ",
+"desc_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'com.sec.android.provider.badge.permission.WRITE', 'com.htc.launcher.permission.READ_SETTINGS', 'com.sec.android.provider.badge.permission.READ', 'net.gcsolutions.pnbunivapp.permission.C2D_MESSAGE', 'com.majeur.launcher.permission.UPDATE_BADGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Grammar Master",
+"url" : "https://play.google.com/store/apps/details?id=kup.moemoetun.shwegrammaroffline",
+"package" : "kup.moemoetun.shwegrammaroffline",
+"category" : "Education",
+"description" : ".. app  ..Intermediate Level  .. app   offline .   Unit ()     ...APK  ..  Offline .. Cambridge Essential Grammar in Use ..UI  app  .. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'kup.moemoetun.shwegrammaroffline.permission.C2D_MESSAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

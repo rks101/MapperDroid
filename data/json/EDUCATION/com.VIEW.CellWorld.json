@@ -1,0 +1,11 @@
+{
+"name" : "Cell World",
+"url" : "https://play.google.com/store/apps/details?id=com.VIEW.CellWorld",
+"package" : "com.VIEW.CellWorld",
+"category" : "Education",
+"description" : "Enter the mysterious world of the cell. Travel through translucent blue cytoplasm and feel the hypnotic movement of the cell membrane. Discover the details of each cell part by navigating in game-like fashion to the Nucleus, Mitochondria, Ribosomes and more. Become immersed the in this amazing microcosm of nature and click to explore how this stunning and miraculous element powers the entire body. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

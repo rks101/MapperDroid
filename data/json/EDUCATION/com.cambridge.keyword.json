@@ -1,0 +1,11 @@
+{
+"name" : "English Master: Key Word Transformation B2 (FCE)",
+"url" : "https://play.google.com/store/apps/details?id=com.cambridge.keyword",
+"package" : "com.cambridge.keyword",
+"category" : "Education",
+"description" : "Use of English part 4 200 individual assessments Expert-reviewed Designed for revision Timed exam simulations No ads! No internet connection required - use it on the bus!  Google Play is the safest place to download Android apps. Downloading Cracked apps from free APK sites put you at risk of malware and encourages piracy. Please only get this app from Google Play.  This edition of practice tests has been written to closely replicate the Cambridge exam experience, although it is also suitable for any English language student working at CEFR B2 level.  Each of its 200 exam-styled, single-sentence Key Word Transformation (Part 4) assessments carries a lexico-grammatical focus, testing lexis, grammar and vocabulary.  Each assessment comprises a sentence, followed by a key word and an alternative sentence conveying the same meaning as the first but with a gap in the middle. Use the key word provided to complete the second sentence so that it has a similar meaning to the first sentence. You cannot change the key word provided. Each correct answer is broken down into two marks.  About the author: Laura Broadbent is an educational materials writer currently based in the UK. She previously taught Cambridge exam courses in Spain and has published learning and assessment resources with Oxford University Press, Cambridge University Press, Pearson Education and National Geographic. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

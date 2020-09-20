@@ -1,0 +1,11 @@
+{
+"name" : "Vikaspedia Browser 2",
+"url" : "https://play.google.com/store/apps/details?id=com.cdac.vikaspediabrowserstudio",
+"package" : "com.cdac.vikaspediabrowserstudio",
+"category" : "Education",
+"description" : "Vikaspedia, a multilingual, multi-sectoral online knowledge platform, is an initiative of Ministry of Electronics and Information Technology (MeitY), MCIT, GoI for providing e-knowledge and using ICT-based applications in regional languages for empowerment of under-served communities. It is presently available in 22 Indian languages, besides English and covers six key livelihood sectors. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

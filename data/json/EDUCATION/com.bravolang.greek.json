@@ -1,0 +1,11 @@
+{
+"name" : "Learn Greek Phrases | Greek Translator",
+"url" : "https://play.google.com/store/apps/details?id=com.bravolang.greek",
+"package" : "com.bravolang.greek",
+"category" : "Education",
+"description" : "Easily learn Greek phrases and words! Speak Greek with confidence!  By using this Learn Greek app, you can learn Greek phrases and words from our native Greek speaking parrot. The parrot works together with you to practice your speaking and listening skills, wherever and whenever you are. Learning Greek can never be easier!  When traveling to Greece (e.g., Athens), you can ask the parrot to speak on behalf of you. Language barrier will no longer stop you from communicating with Greek people!  FEATURES   - Commonly-used Greek phrases & words - Pronunciation recorded by native speaker - Instant search by Greek or English - No Internet connection required - Customizable font size  ABOUT Bravolol   - Web site:  http://www.bravolol.com   - Facebook:  http://www.facebook.com/Bravolol   - Twitter:  https://twitter.com/BravololApps  - Instagram: https://www.instagram.com/bravolol/  - Email:  cs@bravolol.com ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "NISHTHA APP",
+"url" : "https://play.google.com/store/apps/details?id=ncert.ciet.nishtha",
+"package" : "ncert.ciet.nishtha",
+"category" : "Education",
+"description" : "NISHTHA : National Initiative for School Heads and Teachers Holistic Advancement  NISHTHA is a capacity building programme for Improving Quality of School Education through Integrated Teacher Training. It aims to build competencies among all the teachers and school principals at the elementary stage. The functionaries (at the state, district, block, cluster level) shall be trained in an integrated manner on learning outcomes, school based assessment, learner  centred pedagogy, new initiatives in education, addressing diverse needs of children through multiple pedagogies, etc. This will be organized by constituting National Resource Groups (NRGs) and State Resource Groups (SRGs) at the National and the State level who will be training 42 lakhs teachers subsequently. A robust portal/Management Information System (MIS) for delivery of the training, monitoring and support mechanism will also be infused with this capacity building initiative. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

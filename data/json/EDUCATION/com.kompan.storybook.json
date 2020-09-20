@@ -1,0 +1,11 @@
+{
+"name" : "HC Andersen Read Along",
+"url" : "https://play.google.com/store/apps/details?id=com.kompan.storybook",
+"package" : "com.kompan.storybook",
+"category" : "Education",
+"description" : "Read, listen to and follow in text, images and read-aloud versions the wonderful fairy tales of Hans Christian Andersen: The Ugly Duckling, The Little Mermaid and The Tinderbox.   See the animated stories unfold in front of your eyes, while you read them or follow the images and text while getting them read aloud in English  or one of the other 14 language versions.   -All fairy tales illustrated with beautifully colored, animated drawings.   -Choose among 2 modes  getting stories read out loud or reading yourself.   -Experience the 3 different fairytales - each fully read aloud in your native language or one of 14 other languages.   -15 languages supported: Catalan, Chinese, Danish, Dutch, English (UK), English (US), Finnish, French, German, Italian, Japanese, Korean, Norwegian, Russian, Spanish, Swedish.   -Easy to use for even the youngest kids (reading not required to play).   -No in-game purchases or links to websites. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

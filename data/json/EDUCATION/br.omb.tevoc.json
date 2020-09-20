@@ -1,0 +1,11 @@
+{
+"name" : "TOEIC and IELTS Vocabulary",
+"url" : "https://play.google.com/store/apps/details?id=br.omb.tevoc",
+"package" : "br.omb.tevoc",
+"category" : "Education",
+"description" : "FREE!! Improve your vocabulary for TOEIC and IELTS Test by using this app. It has both IELTS Academic Word list and General Word list with more 2000 words for IELTS test. Beside, it also has 600 essential words for TOEIC Test. TOEIC & IELTS Vocabulary app was divided into many topics to easy study and remember them. Practice and learn vocabulary daily through this app makes perfect.   Also, with simple and eye-catching design of interface help you have a great experience.  SPECIALLY, We added Dictionary support you in translating for 26 common languages includes:  - English - Spanish  - Arabic - Chinese - Czech - Danish - Dutch - Finnish - French - German - Greek - Hindi - Hungarian - Indonesian - Italian - Japanese - Korean - Norwegian - Polish - Portuguese - Romanian - Russian - Swedish - Swahili - Turkish - Esperanto - Vietnamese  ACHIEVEMENT TOEIC & IELTS Vocabulary is among the quickest, and most intelligent ways for everyone to improve their vocabulary. Regardless of education level or age, TOEIC & IELTS Vocabulary will help master the words that are essential to academic and business success. Learn this app you could actually make speaking well cool again and pass IELTS or TOEIC Test easily with high score. We completely believe it!  Now, its time you discover it. Hope that you like it.  All contributing comments please send to our email (tuanmythkt@gmail.com). We appreciate your contributions to our success. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

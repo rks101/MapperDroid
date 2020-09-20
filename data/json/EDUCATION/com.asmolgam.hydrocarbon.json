@@ -1,0 +1,11 @@
+{
+"name" : "Hydrocarbons: Chemical Structures & Formulas Quiz",
+"url" : "https://play.google.com/store/apps/details?id=com.asmolgam.hydrocarbon",
+"package" : "com.asmolgam.hydrocarbon",
+"category" : "Educational",
+"description" : "This application is for students studying organic chemistry, for teachers and organic chemists. There are more than 180 structural formulas.  Hydrocarbons are the fundamental class of organic compounds. So it is very important to know their chemical names.   Questions are divided into 6 topics. There are all major classes of hydrocarbons. The database is prepared by a PhD chemist. Begin with basic structures such as methane CH4, benzene C6H6, and isomers of octane C8H18. Then proceed to advanced subjects. Learn about benzopyrene C20H12 and cubane C8H8. The most common names (IUPAC or trivial) are provided.   183 structures of: * Alkanes. * Cycloalkanes. * Alkenes and Alkynes. * Dienes and Polyenes. * Aromatic hydrocarbons. * Polyaromatic hydrocarbons.  Choose the game mode:  * Spelling quizzes (easy and hard). * Multiple-choice questions (with 4 or 6 answer options). * Time game (give as many answers as you can in 1 minute). A learning tool: * Flashcards.  The app is translated into 8 languages, including English, German, Spanish, and many others. So you can learn the names of the hydrocarbons in any of them.  It is a perfect app for students taking organic chemistry classes, preparing for tests, exams, and even chemistry olympiads. ",
+"desc_perms" : "['android.permission.READ_CALL_LOG', 'android.permission.READ_CONTACTS']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.asmolgam.hydrocarbon.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

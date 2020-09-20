@@ -1,0 +1,11 @@
+{
+"name" : "Speaking With Key Answers for CELPIP",
+"url" : "https://play.google.com/store/apps/details?id=com.celpip.speaking.answers",
+"package" : "com.celpip.speaking.answers",
+"category" : "Education",
+"description" : "CELPIP Speaking tests with sample answers is an application to help you get a high score in your CELPIP general test, it contains Speaking tests, Reading tests and Writing test with sample answers for all the tests.  Just to state the well known obvious, there are eight CELPIP speaking tasks. Allotted time: 20 mn Before the first part, youll be given a practice question just to be familiarized with the microphone and get more comfortable with it. Then the serious stuff begins. (preparation time: 30 sec/ speaking time: 60 sec) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

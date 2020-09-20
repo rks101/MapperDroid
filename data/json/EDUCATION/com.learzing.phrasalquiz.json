@@ -1,0 +1,11 @@
+{
+"name" : "English Phrasal Verbs Quiz: Learn Phrasal Verbs",
+"url" : "https://play.google.com/store/apps/details?id=com.learzing.phrasalquiz",
+"package" : "com.learzing.phrasalquiz",
+"category" : "Education",
+"description" : "If you are learning or teaching English and you like educational quiz games, this free English Phrasal Verbs Quiz is what you need!  Challenge yourself - check your knowledge and learn new English phrasal verbs. The quiz contains 500 phrasal verbs.   Questions and answers are shuffled randomly every time you play. Play multiplayer one on one with your friends!  English teachers would find it a useful tool in their EFL/ESL teaching. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

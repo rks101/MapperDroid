@@ -1,0 +1,11 @@
+{
+"name" : "Chhattisgarh GK",
+"url" : "https://play.google.com/store/apps/details?id=com.Chhattisgarhgk.Chhattisgarhsamanyagyan",
+"package" : "com.Chhattisgarhgk.Chhattisgarhsamanyagyan",
+"category" : "Education",
+"description" : "This exam is very useful for various exam like patwari,group c,and other state exam,Topic wise details in hindi .  This app contain the following topics- Chhattisgarh at a glance (   ) First in Chhattisgarh (    ) District of Chhattisgarh (   ) Festival of Chhattisgarh(  ) Fair of Chhattisgarh (   ) ST of Chhattisgarh (     ) Jewelery of Chhattisgarh (   ) Books of Chhattisgarh (   ) Universities in Chhattisgarh (  ) National Santuaries in Chhattisgarh (       ) Rivers in Chhattisgarh (    )   Note - This app is update time to time. If you like this app .Please rate us,Thank you. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

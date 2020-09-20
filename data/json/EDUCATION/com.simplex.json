@@ -1,0 +1,11 @@
+{
+"name" : "OR Commented",
+"url" : "https://play.google.com/store/apps/details?id=com.simplex",
+"package" : "com.simplex",
+"category" : "Education",
+"description" : "Operational Research Commented (ORC) is an expert level solver for the operational research field. It is able to solve a wide range of linear programming problems with extensive comments regarding the solution process.   * Simplex algorithm, including two-phase simplex method * Ability to find dual LP (linear problems) * Sensitivity and Post-Optimal Analysis of the LP  * Solving transportation problems using Least-Cost Method, North-West Corner Method, Vogels Approximation Method (VAM) * The potential method for optimal solution improvement * English, French, Spanish, Portuguese, Russian, Ukrainian languages * Graphs for LP with 2 variables * Offline operation research tool (does not require internet)  ORC is a mathematical engine verified by professors of Kyiv Polytechnic Institute (Ukraine). For over 4 years it has helped over 25,000 users across the globe. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "MED Admin",
+"url" : "https://play.google.com/store/apps/details?id=com.jupsoft.MEDAdmin",
+"package" : "com.jupsoft.MEDAdmin",
+"category" : "Education",
+"description" : "MED Admin is an app which aims to mark attendance of DAMS Pvt Ltd Students. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

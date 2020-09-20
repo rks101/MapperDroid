@@ -1,0 +1,11 @@
+{
+"name" : "Korean Word Search Game",
+"url" : "https://play.google.com/store/apps/details?id=com.silvermoonapps.koreanwordsearchgame",
+"package" : "com.silvermoonapps.koreanwordsearchgame",
+"category" : "Educational",
+"description" : "Learn Korean language by playing word search games. Look at the wordsearch puzzle and swipe the letters with your finger to find the hidden words. See a picture and learn the word when you find the correct answer.  Each wordsearch puzzle can be done in:  Alphabet and Korean characters (Hangeul).   Each set has 4 levels of difficulty. Can you beat the clock? Includes a setting to remove the timer.  Over 180 puzzles to enjoy!  Words are split into 20 useful categories. - Animals - Body - Colors - Clothing - Countries - Dates - Eating Out - Essentials - Food - Indoors - Interests - Numbers - Outdoors - Places - School - Shopping - Transport - World - Adjectives - Verbs  Improve your Korean vocabulary in a fun way!   Any feedback about how to improve this app is much appreciated.   Upgrade to the premium version to unlock all the content and remove the ads.   EMAIL: silvermoonapps@gmail.com WEBSITE: www.silvermoonapps.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

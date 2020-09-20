@@ -1,0 +1,11 @@
+{
+"name" : "Shine On - Megabyte",
+"url" : "https://play.google.com/store/apps/details?id=br.com.zeroum.shineon",
+"package" : "br.com.zeroum.shineon",
+"category" : "Education",
+"description" : "Megabyte is a virtual pet created by language specialists to combine learning and fun. Your child will learn English while playing, through fun and challenging activities and minigames.   FEATURES + Feed, care and play with Megabyte while practicing your English skills + Designed by teachers and language learning specialists + Made for preschoolers and young children (2 to 6 years old) + Content from Oxford University Press  Global leader in English teaching + Unique voice recognition technology to help children improve their pronunciation + More than 120 words to learn + Dozens of activities and minigames with fun animations + Keep up with childrens development through regular reports + Safe, ad-free environment + Buy once and access on smartphone and tablet   BENEFITS FOR YOUR CHILD + Practice their English frequently + Playful learning with fun and challenging activities and minigames + Improve pronunciation with the help of voice recognition + Feel safe and at ease while speaking English ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

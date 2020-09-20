@@ -1,0 +1,11 @@
+{
+"name" : "Preschool and Kindergarten Learning Cards - Free",
+"url" : "https://play.google.com/store/apps/details?id=com.hamzaak.kindergarten.free",
+"package" : "com.hamzaak.kindergarten.free",
+"category" : "Educational",
+"description" : "Preschool and Kindergarten Learning Cards is completely free.  Preschool and Kindergarten Learning Cards educates your children through 16 different activities. As your kids progresses through the activities they acquire multiple abilities with a great enjoy.   With sound guidance and colorful graphics your kids will learn recognizing, counting, comparing, and many more skills.   This app is appropriate for preschool children, kids, and students in kindergarden who need to learn new skills with fun. While they are playing, with cute animals, objects, shapes, musics and sounds they get entertained and educated. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "SpacecompTutorials",
+"url" : "https://play.google.com/store/apps/details?id=com.appiphy.spacecomptutorials",
+"package" : "com.appiphy.spacecomptutorials",
+"category" : "Education",
+"description" : "Experience Journey of Can I to I Can at SpacecompTutorials. Learn Conceptually & Practically C C++ DS JAVA PHP Android Spring Hibernate with Computer Projects. SpacecompTutorials provides Coaching for BSC Computer Science, MSC Computer Science, BBA Computer Application, MCA etc.. Courses under Savitribai Phule Pune University. This application is useful for computer science students to download solved slips presently. Visit www.spacecomptutorials.com for more details. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.appiphy.spacecomptutorials.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.GET_TASKS', 'android.permission.GET_ACCOUNTS']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Easy Thai Read",
+"url" : "https://play.google.com/store/apps/details?id=com.anthood.bangkok2",
+"package" : "com.anthood.bangkok2",
+"category" : "Education",
+"description" : "For people already knowing the Thai alphabet, it can still be difficult to read complete words.  This app provides books accompanied by voice overlay and translations with tone markings.  By practicing to read simple stories while listening to the pronunciation so you can hear the tone levels you will become better at reading Thai.  At the same time also learning new words.  Between each page you will be tested with a Quiz containing a randomized word that you have just read. See what score you can achieve and keep practicing to learn all the words.   The books available are:   - Maanii - Manee ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERNET']",
+}

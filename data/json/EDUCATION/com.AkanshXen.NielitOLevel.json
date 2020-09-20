@@ -1,0 +1,11 @@
+{
+"name" : "NIELIT O-LEVEL OBJECTIVE SOLUTION  |OLD PAPERS|",
+"url" : "https://play.google.com/store/apps/details?id=com.AkanshXen.NielitOLevel",
+"package" : "com.AkanshXen.NielitOLevel",
+"category" : "Education",
+"description" : "This application contains the solution of all objective question from year 2011 to JULY 2019 question paper for the following four modules of NIELIT O-LEVEL:  M1-R4 :IT TOOLS AND BUSINESS SYSTEMS M2:R4 :INTERNET TECHNOLOGY AND WEB DESIGN M3-R4 :PROGRAMMING AND PROBLEM SOLVING THROUGH  C LANGUAGE M4.2-R4 :INTRODUCTION TO MULTIMEDIA  This application is very useful for scoring good marks in the NIELIT O-Level examination. As per the NIELIT guidelines now you must have to score 20 marks in the objective portion to be eligible for the evaluation of marks in the descriptive part,so it is very important study objective part properly. Question in the NIELIT O-Level Exams are repeated significantly from the old question paper so it is very good to study the previous year questions.  In case you find and difficulty using the app please comment down below or mail us .  Good Luck ! All The Best ! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

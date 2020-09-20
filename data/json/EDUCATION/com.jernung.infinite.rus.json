@@ -1,0 +1,11 @@
+{
+"name" : "Infinite Russian",
+"url" : "https://play.google.com/store/apps/details?id=com.jernung.infinite.rus",
+"package" : "com.jernung.infinite.rus",
+"category" : "Educational",
+"description" : "Learn Russian by playing fun and interactive games in space! No multiple choice, flashcards, or any other boring stuff!    Learn over 200 words.   Learn Russian naturally without using English!   Game-first designed learning content.   Review all words from each category with a challenging review game. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

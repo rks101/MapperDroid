@@ -1,0 +1,11 @@
+{
+"name" : "Find pairs with Dolly",
+"url" : "https://play.google.com/store/apps/details?id=com.dolly.findepairs",
+"package" : "com.dolly.findepairs",
+"category" : "Educational",
+"description" : "Find pairs with Dolly - this is a beautiful and exciting game in which you need a certain time to remember the location of a pair of pictures with animals. As soon as you can find two pairs of animals, they come to life.  The game develops memory and imagination. It will be especially useful for your child. Our game is for all ages, it has 6 levels of difficulty, so everyone will be interested in both kids 2,3 years and their parents. All our games do not have annoying ads, so your child will not be distracted. The game has paid levels, please treat this with understanding, because we do not use advertising at all.  We will be happy for your positive feedback and ratings, as well as for your wishes for the game. Enjoy playing with Dolly the sheep ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.READ_PHONE_STATE']",
+}

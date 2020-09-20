@@ -1,0 +1,11 @@
+{
+"name" : "Fortify Coaching",
+"url" : "https://play.google.com/store/apps/details?id=com.impact.fortify.coach",
+"package" : "com.impact.fortify.coach",
+"category" : "Education",
+"description" : "With Fortify Coaching, youll receive personal guidance and encouragement from our trained recovery experts on your journey to find lasting freedom from pornography. We like to think our role as a coaching team is more like co-travelers on a big adventure that we are embarking on together. You are the best expert on your own recovery, we are just here to help you along that journey. Think of us more like people who are traveling with you, and together we will figure things out. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "ePathshala AR",
+"url" : "https://play.google.com/store/apps/details?id=nic.ncert.ciet.epathshalaar",
+"package" : "nic.ncert.ciet.epathshalaar",
+"category" : "Education",
+"description" : "The core of modern education is to enhance quality learning among students at all level. To enable students go beyond textbooks and four wall of the classrooms, digital resources have greater roles, which helps to provide experiential learning and develop problem solving. The e-Pathshala AR (Augmented Reality) App is an initiative of NCERT under the aegis of MHRD-Government of India, aiming to energise the textbooks, augment child to child, teacher to teacher, child to adult interaction.   With increased interest of the students because of the augmented interaction, students will be able to learn concepts by directly experimenting rather than only through reading and memorization. This effort will be revolutionary in changing the majority of students community from passive listeners to active learners. This effort is in line with Prime Ministers Digital India vision to empower varied sectors using technology and addressing the triple need of skill, scale and speed. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "CoSpaces Edu",
+"url" : "https://play.google.com/store/apps/details?id=delightex.cospaces.edu",
+"package" : "delightex.cospaces.edu",
+"category" : "Education",
+"description" : "Create and explore VR and AR worlds with your students!   Adaptable to any subject and grade, CoSpaces Edu lets students build their own 3D creations, animate them with code and explore them in Virtual or Augmented Reality.  Creating with CoSpaces Edu develops 21st Century learning skills and digital literacy, enhances creativity and fosters collaboration in the classroom.  CoSpaces Edu is used in many subject areas from STEM and coding, to social sciences, languages, arts and makerspaces.   Use the web app on a computer or tablet to build in 3D.  Dive into your creations in VR with your mobile VR headset.  Explore your creations in AR and on the MERGE Cube with the mobile app and a smartphone or tablet.  Learn more or get started: www.cospaces.io ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.NFC', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.NFC', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

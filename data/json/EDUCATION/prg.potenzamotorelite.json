@@ -1,0 +1,11 @@
+{
+"name" : "ENGINE ENDOTHERMIC sizing",
+"url" : "https://play.google.com/store/apps/details?id=prg.potenzamotorelite",
+"package" : "prg.potenzamotorelite",
+"category" : "Education",
+"description" : "Useful for the design of internal combustion engines.  Calculate the compression ratio, the ideal efficiency, total volumetric efficiency, effective efficiency, piston speed, mean effective pressure and torque (from power). The paid version also power and torque. Initial values of example for a kart engine.  Menu button on your phone to help.  ATTENTION: enter the numbers in the units indicated in parentheses.   In-app purchases: OUTPUT POWER   For problems:  nicoletmassi@gmail.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

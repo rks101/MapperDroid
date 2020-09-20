@@ -1,0 +1,11 @@
+{
+"name" : "TRIZ crossover QMS",
+"url" : "https://play.google.com/store/apps/details?id=com.mj.triz",
+"package" : "com.mj.triz",
+"category" : "Education",
+"description" : "The TRIZ crossover QMS mobile application enables the application of TRIZ tools and techniques in the world of quality management. It was developed to improve the creativity of managers and Quality practitioners. Business and management innovation has always been among the most crucial drivers of success, but today innovation is essential for competitiveness in global markets. We strongly believe that creativity leads to the innovation required to improve our systems, processes, products and services.  Today TRIZ is recognized as one of best tools for problem solving especially ones that require innovative solutions for system evolution prediction and discovering new approaches with minimal consumption of resources. This application provides a selection of powerful solution techniques, while the Instructions for Use booklet provides basic TRIZ fundamentals and analytical methods that creates a new mindset needed to enable the practitioner to improve Quality and other management systems. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

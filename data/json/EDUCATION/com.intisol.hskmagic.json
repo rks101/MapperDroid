@@ -1,0 +1,11 @@
+{
+"name" : "HSK Magic Chinese",
+"url" : "https://play.google.com/store/apps/details?id=com.intisol.hskmagic",
+"package" : "com.intisol.hskmagic",
+"category" : "Education",
+"description" : "Learn and memorize Chinese Mandarin as if by magic, with a focus on the syllabus of the internationally recognized HSK exams.  *Genuine native audio provided to accompany every HSK word and every example sentence. *Can be used offline without any internet connection, as all the audio clips are already included in the apk, so no further bloating of your disk space. *Card choosing algorithm for quick learning mean that you can sit back and let HSK Magic do its job of forcing those HSK words into your brain.  *Learn Chinese words by HSK level: Each HSK word is presented in the context of a sentence to give an idea of how to actually use it. *Learn Chinese characters by HSK level: words sharing the same characters are presented in sequence to aid the forming of connections in memory. *Learn Chinese grammar by HSK level: Grammar rules included in the HSK syllabus are here presented in example sentences with additional links to external sources containing in-depth explanations *Learn word tones by HSK level: memorizing tones is vital to improving Chinese pronunciation. but usually ignored. Not here! *Tricky characters - learn to differentiate between similar looking characters to make sure you can correctly spot any HSK character *Ads free policy *Search: search for an HSK word (levels 1-5) and add it to your favorites. *Levels 1,2,3 & 4 fully supported with 5 to come. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.READ_CONTACTS']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

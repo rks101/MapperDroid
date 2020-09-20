@@ -1,0 +1,11 @@
+{
+"name" : "Dogs Jigsaw Puzzles Game - For Kids & Adults ğŸ�¶",
+"url" : "https://play.google.com/store/apps/details?id=se.appfamily.puzzle.dogs.free",
+"package" : "se.appfamily.puzzle.dogs.free",
+"category" : "Educational",
+"description" : "If you or your kids like fun dog games and jigsaw puzzles, you will LOVE this puzzle filled with cute dog and puppy pictures!  In this relaxing puzzle game for kids and adults you can choose whether to use 6, 9, 12, 16, 30 or 56 pieces, adjusting the difficulty to the appropriate skill level.  Please note: the app contains advertisements shown after every 4 puzzles played. Advertisements can be disabled via an in-app purchase.  Features: - Lots of cute dogs! - Fun rewards to pop for each puzzle - Play with 6, 9, 12, 16, 30 or 56 pieces - easy for kids, challenging for adults - Natural puzzle dynamics - Intuitive navigation - 30 puzzles to enjoy  For more fun, check out our other apps.  Music: Divertimento K131 Kevin MacLeod (incompetech) Licensed under Creative Commons: By Attribution 3.0 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

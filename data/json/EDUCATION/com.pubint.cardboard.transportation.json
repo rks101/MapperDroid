@@ -1,0 +1,11 @@
+{
+"name" : "PI VR Transportation",
+"url" : "https://play.google.com/store/apps/details?id=com.pubint.cardboard.transportation",
+"package" : "com.pubint.cardboard.transportation",
+"category" : "Educational",
+"description" : "-Take a flight through time to see the Wright Brothers soar through the sky at Kitty Hawk! -Discover Kitty Hawk and see what the first flights were like in this virtual reality environment.You can even go on a flight yourself! -Learn about the first flights with historical photographs, animations, and more. -Test your knowledge with built-in brain-teaser quizzes!  When prompted to scan, look for the QR Code located on the first page in your PI VR Transportation book in order to access interactive content!  If you dont have the book visit http://pilbooks.com/PIVRTransportation/ and scan the QR Code located on the webpage! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

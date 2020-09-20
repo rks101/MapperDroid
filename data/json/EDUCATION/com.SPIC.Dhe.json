@@ -1,0 +1,11 @@
+{
+"name" : "e-Campus",
+"url" : "https://play.google.com/store/apps/details?id=com.SPIC.Dhe",
+"package" : "com.SPIC.Dhe",
+"category" : "Education",
+"description" : "HOW TO ADD ACCOUNT  1. Select your college from the list. 2. Enter you College Roll Number/Session 3. Enter your Date Of Birth.  e-Campus Mobile Application is a free app that aims to provide quick access to student profile, marks, subjects, attendence, assignments etc to College students in Chandigarh  COLLEGES COVERED UNDER e-Campus APPLICATION ARE  1. Post Graduate Govt. College Sector- 11 (PGGC-11) 2. Post Graduate Govt. College for Girls Sector- 11 (PGGCG-11) 3. Post Graduate Govt. College for Girls Sector-42(PGGCG-42) 4. Post Graduate Govt. College Sector- 46 (PGGC-46,Co-ed) 5. Govt. College of Commerce and Business Administration Sector- 42 6. Regional Institute of English,Sector-32 (Co- ed) 7. DAV College Sector-10 8. Sri Guru Gobind Singh College Sector-26 9. Guru Gobind Singh College For Women Sector-26 10. Goswami Ganesh Dutta S.D. College, Sector-32 11. MCM DAV College Sector-36 12. DEV SAMAJ College For Women Sector-45 13. Government Home Science College, Chandigarh   WHY USE E-CAMPUS MOBILE APPLICATION  1. Get full student profile information. 2. List of marks obtained in each exam. 3. Get latest assignments details. 4. List of subjects. 5. List of teachers as per the subject assigned. 6. Full detail about the fee instalment paid as well as to be paid. 7. Attendance details of each subject. 8. Latest News and announcements. 9. Apply for new admissions. 10 . Download receipt of the fees paid.  The application has been developed by the team of SPIC-Microsoft, Centre of Excellence (Chandigarh). ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

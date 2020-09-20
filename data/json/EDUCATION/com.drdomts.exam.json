@@ -1,0 +1,11 @@
+{
+"name" : "DRDO MTS Exam 2020 mock tests, Practice sets, quiz",
+"url" : "https://play.google.com/store/apps/details?id=com.drdomts.exam",
+"package" : "com.drdomts.exam",
+"category" : "Education",
+"description" : "DRDO MTS Exam 2020 This is an Android Application for the exam of the DRDO MTS. It will help users to study for their exam. This app contains mock tests for DRDO MTS Exam 2020. This app also contain daily quizzes for this exam. This app can easily make the preparation of the DRDO MTS Exam as it is available in this app to give you daily information about.  DRDO MTS Exam Pattern Mode of examination: CBT : Computer Based Test (multiple choice questions) Duration: 90 minutes Number of Questions: 100 Total points: 100 Negative Marking : There is no negative marking for any wrong question ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.SEND_SMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.SET_WALLPAPER', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.SEND_SMS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

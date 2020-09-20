@@ -1,0 +1,11 @@
+{
+"name" : "Spell and Pronounce Words Right",
+"url" : "https://play.google.com/store/apps/details?id=g.patels.spell",
+"package" : "g.patels.spell",
+"category" : "Education",
+"description" : "This application is for them who have hard time remembering spellings and dont know how to pronounce word in English.  The basic concept of this application is to convert voice to text which result in giving you Right spellings, and to pronounce a word in text box which gives you idea about how to pronounce a word.  Most of the times we cannot type a word because we dont know spelling and if we dont know spelling then we cannot search about it too and using wrong spelling can be embarrassing specially if working with professional so use this app click Mic button Pronounce a word and you get a spelling copy the Spelling and Paste :-) .  If you dont know how to pronounce a word properly then you can use this app too type a text in text box and press Speaker button and voila She Speaks.  Have Fun!!!. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

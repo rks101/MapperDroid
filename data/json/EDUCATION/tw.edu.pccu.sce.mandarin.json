@@ -1,0 +1,11 @@
+{
+"name" : "Happy Chinese",
+"url" : "https://play.google.com/store/apps/details?id=tw.edu.pccu.sce.mandarin",
+"package" : "tw.edu.pccu.sce.mandarin",
+"category" : "Education",
+"description" : "Are you looking for a suitable tool to learn Mandarin?  Happy Chinese is formulated and presented by the Chinese Language Centre of Chinese Culture University.Import from various topics and combined with vocabulariesshort sentences, conversation, and small test to review. Make an easy and effective way for you to learn Mandrain .   Simple manipulate interface includes clear pictures and English translation.Points from the examination and assessment are linked with the courses running by the centre. Discount applies if earned particular points! By employing the easy and relaxed learning process, it takes the ultimate Mandarin learning experience to you.           * * * * *50 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'tw.edu.pccu.sce.mandarin.permission.C2D_MESSAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Numbers in English",
+"url" : "https://play.google.com/store/apps/details?id=com.falodun.numbersinenglish",
+"package" : "com.falodun.numbersinenglish",
+"category" : "Educational",
+"description" : "This app is useful for people who are trying to learn English but have trouble understanding spoken numbers.   Learn how to pronounce numbers in English  Learn how to write numbers in words  Play a listening game ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

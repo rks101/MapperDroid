@@ -1,0 +1,11 @@
+{
+"name" : "Chemistry Helper",
+"url" : "https://play.google.com/store/apps/details?id=com.qkstudio.chemistry",
+"package" : "com.qkstudio.chemistry",
+"category" : "Education",
+"description" : "Chemistry Helper allows to discover chemical reactions and to solve the chemical equations with one and several unknown variables.   The app discovers the equations of chemical reactions even if the right or left part is unknown, helps you with organic and inorganic chemistry. The discovered reactions in an usual and ionic aspect will be mapped and formulas of organic chemistry are drawn for you.  Feature:  - Periodic table is very convenient . You can press a chemical element in the table to look some the information.  - The table of solubility of substances is added in the app. Now your textbooks become waste!  - Electronegativity table extremely easy to understand  - FREE  It is completely free  - Small Size (few MB)  The app will only take a small portion of your Android devices.  - Simple and easy to use interface. The app come with an user friendly function, allowing you to use with ease.  - Support multi language   The best solver of chemical equations for everyone.  Tags: Chemistry Dictionary, Chemistry , Chemical Dictionary, Chemical , Organic , Inorganic , metal , nonmetal ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

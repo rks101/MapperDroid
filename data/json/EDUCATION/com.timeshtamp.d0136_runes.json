@@ -1,0 +1,11 @@
+{
+"name" : "Trainer Runes",
+"url" : "https://play.google.com/store/apps/details?id=com.timeshtamp.d0136_runes",
+"package" : "com.timeshtamp.d0136_runes",
+"category" : "Education",
+"description" : "Here is a trainer for memorizing values of the runes. The trainer will help you quickly remember the key points of philosophy runes. He will create a basis that will make it easy to move to practice - the interpretation of the alignment of cards. In the game manner, associative connections between the symbol and the value are acquired. Runes are divided into three groups - ettirs, in accordance with the classical twenty-four runic alphabet - Futhark. For each rune represented a different sphere of interpretation - predictions for relationships, for business life. There are also brief explanations about the influence of the runes. Values are prepared according to Joanna Sandsmarks book Explore your Destiny with Runes. The program is not for divination. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'com.timeshtamp.d0136_runes.permission.C2D_MESSAGE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

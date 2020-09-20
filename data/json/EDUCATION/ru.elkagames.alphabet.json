@@ -1,0 +1,11 @@
+{
+"name" : "ABC Games - English for Kids",
+"url" : "https://play.google.com/store/apps/details?id=ru.elkagames.alphabet",
+"package" : "ru.elkagames.alphabet",
+"category" : "Educational",
+"description" : "English for Kids is an educational app for preschool-age children.  It uses a laid-back game format to introduce little ones to letters of the English alphabet.   Our ABCs are based on an original, proprietary methodology for learning English.  Together with fun game characters, we will learn English letters, as well as a few words.  When you download English for Kids app for your child, you will get an interactive book with 26 illustrations, which we have written, drawn, and animated for you with great care and love. Speech recordings have been made by professional voice actors.   Additional content, available for purchase in our English for Kids Alphabet app, offers practice assignments for reinforcing the acquired skills.   We have prepared smart coloring pages featuring letters of the English alphabet, picture games for memorizing English words, and a fun childrens game that will help your kid learn to spell certain English words.  Our games advantage: Colorful animated illustrations Amusing characters Fun poems Specially authored content No ads  We design our educational apps by incorporating recommendations made by experienced educators, child psychologists, and parents, while also keeping kids wishes in mind. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

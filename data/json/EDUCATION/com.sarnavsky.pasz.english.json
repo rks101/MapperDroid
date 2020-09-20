@@ -1,0 +1,11 @@
+{
+"name" : "English alphabet for kids",
+"url" : "https://play.google.com/store/apps/details?id=com.sarnavsky.pasz.english",
+"package" : "com.sarnavsky.pasz.english",
+"category" : "Education",
+"description" : "Cards are an easy and funny way for learing. An indispensable tool for parents to learn words with children. Perfect for kids of any age.  + NEW Game!  To teach children English cards easy and interesting for the child. Just start playing with it, showing different sets of cards. Each card includes a picture, a translation of the English word and transcription, as well as sound. The app has many categories like:  Animals  Fruits and vegetables  Profession  Furniture  Transport  Equipment  Growing with us  ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.sarnavsky.pasz.english.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Note Teacher",
+"url" : "https://play.google.com/store/apps/details?id=com.swampsend.noteteacher",
+"package" : "com.swampsend.noteteacher",
+"category" : "Education",
+"description" : "Fun and easy way to learn sight-reading and the names of musical notes. Notes move across the screen on the grand staff. Shoot the notes down by pressing the correct piano key. You can select how fast the notes move and the range of tested notes. Select different key signatures to practice sharps and flats. The application tracks your response times and makes the weak notes appear more often than the ones you can name without hesitation. Practicing with notes on the treble staff is free. The bass staff unlocks with an in-app purchase.  If your Android device supports USB MIDI, you can use compatible MIDI devices as input instead of the virtual keyboard. A USB OTG cable is usually required for connecting the devices. Due to manufacturer differences, the MIDI feature may not work on all devices. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

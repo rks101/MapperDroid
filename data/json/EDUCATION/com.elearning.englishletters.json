@@ -1,0 +1,11 @@
+{
+"name" : "English Letters",
+"url" : "https://play.google.com/store/apps/details?id=com.elearning.englishletters",
+"package" : "com.elearning.englishletters",
+"category" : "Education",
+"description" : "This free app is the best solution that will help you improve writing English letters. You can find everything about writing a business letter in English.  Main Features: - Searchable list of letter templates. - Letter Writing Guides: help you enhance writing ability. - Compose new email for each template. - Bookmark letters. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

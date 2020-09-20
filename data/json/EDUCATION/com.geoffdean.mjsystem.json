@@ -1,0 +1,11 @@
+{
+"name" : "MJSystem",
+"url" : "https://play.google.com/store/apps/details?id=com.geoffdean.mjsystem",
+"package" : "com.geoffdean.mjsystem",
+"category" : "Education",
+"description" : "The Major System memory training app helps you to remember numbers - telephone numbers, pin numbers, lists, codes, etc. The app is simple, It comes preloaded with Mnemonic words and images based on the major system and ready to use. The Major System basically associates numbers with words and images. Both words and images are generally easier to remember than abstract numbers. The Major System is widely used in memory competitions (in various forms) and is surprisingly effective. The app has two basic functions Memorize and Recall. There are also interesting settings options for each function to make the learning experience flow from easy to changeling.  Keywords: memory, training, major system, mnemonics, memorise, recall, remember, number image association ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

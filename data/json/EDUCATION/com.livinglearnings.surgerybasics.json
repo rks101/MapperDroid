@@ -1,0 +1,11 @@
+{
+"name" : "Surgery Basics",
+"url" : "https://play.google.com/store/apps/details?id=com.livinglearnings.surgerybasics",
+"package" : "com.livinglearnings.surgerybasics",
+"category" : "Education",
+"description" : "This is a fully digital and interactive textbook of Surgery Basics dedicated to medical students, specifically for their surgical rotation and examination. This volume includes the most precise and interactive 3D anatomy of the human body, constructed in a platform that allows full interaction and visualization of the normal anatomy and associated pathologies. This volume also incorporates animations, GIF as well as slideshow visualizations of various surgical and physiological procedures, providing a simplified, step by step display of several complex processes, for the benefit of the students. Furthermore, this platform also allows access to selected web browsing and videos of real surgeries, as to fully integrate the most advanced technologies at the hands of our students. ",
+"desc_perms" : "['android.permission.CAMERA']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "English Pronunciation - Free",
+"url" : "https://play.google.com/store/apps/details?id=com.qkstudio.elearning.pronunciation.english.v2",
+"package" : "com.qkstudio.elearning.pronunciation.english.v2",
+"category" : "Education",
+"description" : "Most people who learn English are encountering very serious error that is mispronounced. So we wrote this software with the desire to help you improve your English pronunciation skills.  English Pronunciation Software he following functions:  - Gather all kinds of sounds in English include the vowels and consonants.  - There are pictures and pronunciation guides for all the consonants together with the accompanying examples.  - Video guide teacher American  - The Practice remember words and sounds and pronunciation practice extremely rewarding.  To hear the sound of load and use the software offline without connecting to the network ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

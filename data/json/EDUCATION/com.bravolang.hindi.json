@@ -1,0 +1,11 @@
+{
+"name" : "Learn Hindi Phrases | Hindi Translator",
+"url" : "https://play.google.com/store/apps/details?id=com.bravolang.hindi",
+"package" : "com.bravolang.hindi",
+"category" : "Education",
+"description" : "Easily learn Hindi phrases and words! Speak Hindi with confidence!  By using this app, you can learn Hindi phrases and words from our native Hindi speaking parrot. The parrot works together with you to practice your speaking and listening skills. Learning Hindi can never be easier!  When traveling to India (e.g., New Delhi), you can ask the parrot to speak on behalf of you. Language barrier will no longer stop you from communicating with Indian!  FEATURES   - Commonly-used Hindi phrases & words - Pronunciation recorded by native speaker - Instant search by Hindi or English - No Internet connection required - Customizable font size  ABOUT Bravolol   - Web site:  http://www.bravolol.com   - Facebook:  http://www.facebook.com/Bravolol   - Twitter:  https://twitter.com/BravololApps  - Instagram: https://www.instagram.com/bravolol/  - Email:  cs@bravolol.com ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

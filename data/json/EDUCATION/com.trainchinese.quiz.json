@@ -1,0 +1,11 @@
+{
+"name" : "Chinese Challenges",
+"url" : "https://play.google.com/store/apps/details?id=com.trainchinese.quiz",
+"package" : "com.trainchinese.quiz",
+"category" : "Education",
+"description" : "Give your Chinese a total workout with challenges ideally suited to students targeting HSK success, or anyone who wants to take their Mandarin to the next level!  MORE THAN 2,000 EXERCISES  Chinese Challenges will test you on reading, writing and listening skills as well as detailed knowledged of Chinese grammar and syntax.  FULLY EXPLAINED  Plenty of apps can throw questions at you, but rarely is there any context. Rather than forcing you to guess why your answers were right or wrong, Chinese Challenges features detailed explanations written by our native-speaker experts.  TAKING HSK?  Each challenge is paired with an HSK level so that you know youre learning the material you need to pass that exam!  PART OF THE TRAINCHINESE FAMILY  Chinese Challenges works seamlessly with the trainchinese Dictionary and Flash cards app. Most exercises are linked to words in the dictionary, and you can get there in just a tap. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

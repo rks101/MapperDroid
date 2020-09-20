@@ -1,0 +1,11 @@
+{
+"name" : "Stretch and Squash",
+"url" : "https://play.google.com/store/apps/details?id=org.laserlabs.stretchandsquash",
+"package" : "org.laserlabs.stretchandsquash",
+"category" : "Educational",
+"description" : "Stretch and Squash demonstrated how a passing gravitational wave would stretch and squash the distances between objects.  Gravitational waves are ripples in the fabric of space-time. They are produced by violent cosmic events, such as the collision of black holes. These ripples then travel through the universe at the speed of light. If they pass through Earth they change the distance between objects ever so slightly. Gravitational wave detectors have been built to measure these waves using kilometer-sized laser interferometers.  Stretch and Squash illustrates the different effects that gravitational waves would have on you or the LIGO detectors. The stretching and squashing is exaggerated visually in order to emphasise the effect. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

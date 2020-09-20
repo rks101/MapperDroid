@@ -1,0 +1,11 @@
+{
+"name" : "10000 English Idioms",
+"url" : "https://play.google.com/store/apps/details?id=com.zhystudio.EnglishIdioms",
+"package" : "com.zhystudio.EnglishIdioms",
+"category" : "Education",
+"description" : "English language has a vast collection of wise sayings. These sayings are called idioms - or proverbs if they are longer. 10,000 English Idioms is dedicated to commonly used idioms and sayings in everyday conversational English.  This app will help you learn Idioms and Phrases in English very easily and effectively. We have all essential English Idioms under most common daily life categories.  This application is specially for those persons whose mother tongue is not english, so it is very carefully categorized in 31 categories to help them to understand English idiomatic expressions easily.  All English language learners face these unusual phrases from the very beginning of their curriculum. When you meet them for the first time you get confused and usually try to translate each word and only after that you try to understand the meaning of the whole phrase. But very quickly you realize that you can not understand it at all. Such extraordinary phrases are called idioms. To understand what they mean we have to learn them.  Main Features: -> All essential idioms with explanation and useful example. -> categorized in 31 topics to help users easily -> Helps in improving common idioms -> Bookmark and Share option -> Text size related settings -> Free and offline.  English learning is very important now a days. So improve your idioms and sayings in everyday conversational English by using 10000 English Idioms app. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

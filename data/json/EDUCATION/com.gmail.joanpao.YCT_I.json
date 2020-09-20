@@ -1,0 +1,11 @@
+{
+"name" : "YCT-I",
+"url" : "https://play.google.com/store/apps/details?id=com.gmail.joanpao.YCT_I",
+"package" : "com.gmail.joanpao.YCT_I",
+"category" : "Education",
+"description" : "This is an educational program developed by the Confucius Institute at the University of Valencia (Spain), which allows to prepare the official Chinese level test for children YCT-1 (Young Chinese Test Level I) from examples of examination issued by Hanban.  The YCT-I (YCT-1) test consists of 35 questions divided into two sections, one listening comprehension (20 questions), and reading comprehension (15 questions). Each block has a maximum score of 100 points, and need to get a 120 to pass the test.  Project Lead: Vicent Andreu - Confucius Institute Design & programmer: J. P. Sanchez - Sonotrigger Software Sound Producer: Damian Sanchez - Sonotrigger Image & know: Hanban ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.MODIFY_AUDIO_SETTINGS']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

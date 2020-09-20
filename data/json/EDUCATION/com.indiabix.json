@@ -1,0 +1,11 @@
+{
+"name" : "IndiaBIX",
+"url" : "https://play.google.com/store/apps/details?id=com.indiabix",
+"package" : "com.indiabix",
+"category" : "Education",
+"description" : "Aptitude Test and Interview Preparation  Learn and practice aptitude questions and answers with explanation for your job interview, competitive examinations and entrance tests.  Major topics covered in IndiaBIX learning app are listed below.  Quantitative Aptitude:  - Arithmetic Aptitude  - Data Interpretation  Verbal and Reasoning:  - Verbal Ability  - Logical Reasoning  - Verbal Reasoning  - Nonverbal Reasoning  Current Affairs & GK:  - Current Affairs - General Knowledge  Interview:  - HR Interview  - Group Discussion - Placement Papers - Technical Interview  Engineering:  - Mechanical Engineering  - Civil Engineering  - ECE, EEE, CSE and more...  Technical:  - C Programming  - C++ - C# - Java - Database - Networking  Medical Science:  - Microbiology - Biochemistry - Biotechnology - Biochemical Engineering  Others:  - Online Tests - Puzzles Quiz  - Sudoku  Happy reading ! All the best folks !! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

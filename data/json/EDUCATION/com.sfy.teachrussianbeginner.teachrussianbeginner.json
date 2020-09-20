@@ -1,0 +1,11 @@
+{
+"name" : "Russian Language For Beginners",
+"url" : "https://play.google.com/store/apps/details?id=com.sfy.teachrussianbeginner.teachrussianbeginner",
+"package" : "com.sfy.teachrussianbeginner.teachrussianbeginner",
+"category" : "Education",
+"description" : "Course is a grammar of Russian for beginners which aims to take the equivalent of A-level standard. Russian for beginners is designed primarily as a self-tutor for all those who intend to study this language without a teacher. It includes the basic structures of the language, a fairly large vocabulary of over 1,000 words, a variety of exercises. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'com.sfy.teachrussianbeginner.teachrussianbeginner.permission.C2D_MESSAGE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "EPS Topics 2020 2021- Learn Korean Topic Test",
+"url" : "https://play.google.com/store/apps/details?id=com.creativedeveloper.epstopikupdatelearnkoreantopik",
+"package" : "com.creativedeveloper.epstopikupdatelearnkoreantopik",
+"category" : "Education",
+"description" : "EPS Topik 2020 2021 - Learn Korean Topic Test  EPS Topik 2020 2021 - The Best to prepare for TOPIC Exam and Learn Korean  EPS Topik 2020 2021 is an application that contains Korean test exam questions, very complete, there is a question and answer key. Many EPS Topic test. Many Grammar, vocabulary. EPS Topik 2020 2021 is very helpful for you in preparing Korean EPS Topics. Consists of, - Test topic - Korean test, - Confused words list, - Learn Korean with videos (future update)  The questions discussed in EPS on this Korean topic include the following: Korean is fine Congratulations in Korean Speech answer / response in Korean Daily conversations in Korean Changing People Korean Language Korean days and months Sports and activities in Korean Food and drink in Korean When traveling in Korean Korean greeting vocabulary Vocabulary asks Korean Korean language family member vocabulary 100 Korean vocabulary everyday Korean colors Introduction to basic Korean vocals  Hopefully the EPS Topik 2020 2021 application learns this Korean test topic useful and helps us by rating 5 stars ... Thank you ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "[]",
+}

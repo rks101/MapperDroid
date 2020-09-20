@@ -1,0 +1,11 @@
+{
+"name" : "Daairat Al Mataalib",
+"url" : "https://play.google.com/store/apps/details?id=com.daaira",
+"package" : "com.daaira",
+"category" : "Education",
+"description" : "A Prayer From Kanzul Masuun Of Shaykh Ibrahim Niass ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

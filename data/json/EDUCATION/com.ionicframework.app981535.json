@@ -1,0 +1,11 @@
+{
+"name" : "Avivamiento Biblia",
+"url" : "https://play.google.com/store/apps/details?id=com.ionicframework.app981535",
+"package" : "com.ionicframework.app981535",
+"category" : "Education",
+"description" : "Te damos la bienvenida a una nueva e innovadora aplicacin de Avivamiento donde podrs tener la palabra de Dios a tu alcance, junto con todo el material que los pastores Ricardo y Ma. Patricia Rodrguez han dispuesto para ti, en un slo lugar.  Preprate para ser sorprendido por un nuevo diseo, donde podrs navegar la Biblia mediante el buscador y encontrar un versculo fcilmente. Adems, recibe notificaciones importantes en tu celular y disfruta de secciones que edificarn tu vida como el devocional diario y las prdicas de avivamiento. Tambin podrs mantenerte 24/7 con todos los medios de Avivamiento.  Necesitas ayuda? Puedes escribirnos a app@avivamiento.com, queremos recibir tus comentarios y conocer tu opinin. Welcome to a new and innovative application of Revival where you have the word of God at your fingertips, along with all the material that pastors Ricardo and Ma. Patricia Rodriguez arranged for you in one place. Prepare to be surprised by a new design, where you can surf the Bible through the search engine and find a verse easily. Additionally, you receive important notifications on your phone and enjoy your life build sections as daily devotional and revival preaching. You can also keep 24/7 with all means of Revival. Need help? You can write to app@avivamiento.com, we want to receive your comments and hear your opinion. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

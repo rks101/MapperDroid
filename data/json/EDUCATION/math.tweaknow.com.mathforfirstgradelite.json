@@ -1,0 +1,11 @@
+{
+"name" : "Free First Grade Math Test",
+"url" : "https://play.google.com/store/apps/details?id=math.tweaknow.com.mathforfirstgradelite",
+"package" : "math.tweaknow.com.mathforfirstgradelite",
+"category" : "Education",
+"description" : "First Grade Math Test is designed specifically to help first grade children to learn and practice math easily with computer, smartphone and tablet. Unlike study using a traditional worksheet from a book, by using our app your children will be provided with random generated questions every time their start to practice. This will keep your children challenged.  All questions generated for every subjects are designed to conform with first grade math curriculum in most countries.   Subjects included in the program:   Number 1 to 10  Number 11 to 20  Ten and Units  Comparing Numbers  Ordering Numbers  Number Pattern  Adding Numbers  Subtracting Numbers  Doubles  Halves  Multiples of 10  Shapes  Solids  Movement  Position  Money  Comparing Lengths  Measuring Lengths  Comparing Masses  Measuring Masses  Comparing Capacities  Measuring Capacities  Time  Handling Data ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

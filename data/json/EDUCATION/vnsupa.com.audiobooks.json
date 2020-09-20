@@ -1,0 +1,11 @@
+{
+"name" : "Audiobooks for English Listening",
+"url" : "https://play.google.com/store/apps/details?id=vnsupa.com.audiobooks",
+"package" : "vnsupa.com.audiobooks",
+"category" : "Education",
+"description" : "Audiobooks for English Listening This free audiobook app has a library of 300+ free public domain audiobooks in every genre including: fiction, romance, business, sci-fi, mystery and childrens. ------Top categories--------- Short stories,  Love stories,  Religious books,  Humor books,  History books,  Poems, Poetry,  Travel books,  Fiction books,  Fantasy books,  Adventure books,  Science fiction,  Christmas books,  Horror books,  Detective Books,  and more books to practice English Listening. With this app you can listen all the best books in English. I hope you like it. Thank you. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_ALL_DOWNLOADS', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_ALL_DOWNLOADS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

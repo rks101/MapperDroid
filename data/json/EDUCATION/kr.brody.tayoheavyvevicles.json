@@ -1,0 +1,11 @@
+{
+"name" : "TAYO The Strong Heavy Vehicles",
+"url" : "https://play.google.com/store/apps/details?id=kr.brody.tayoheavyvevicles",
+"package" : "kr.brody.tayoheavyvevicles",
+"category" : "Education",
+"description" : "Max, Poco, Chris, and Billy are working hard to construct a building! Dig the ground and transport cement with heavy vehicle friends to construct houses and building having various shapes.   Make a building with your heavy vehicle friends - Experience building construction with TAYO The Strong Heavy Vehicles. Select a building you wish to construct and move heavy vehicle friends to transport materials. Complete missions by digging the ground and filling with cement, and your buildings will be completed in no time!   Decorate your own building - Once the building is completed, decorate it however you like! TAYO the Little Bus and his friends will bring nice decorations to help you. Create your own unique building with various stickers and decorations.   Build teamwork through role-playing - Building construction needs a lot of help from friends. Let a brave dump truck Max, an awesome excavator Poco, a talkative concrete mixer Chris, and a strong bulldozer Billy help each other with constructing a building! Learn how to help each other and cooperate through role-playing! ",
+"desc_perms" : "['android.permission.WRITE_CONTACTS']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.INTERNET']",
+}

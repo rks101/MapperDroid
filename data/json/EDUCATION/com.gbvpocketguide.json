@@ -1,0 +1,11 @@
+{
+"name" : "GBV Pocket Guide",
+"url" : "https://play.google.com/store/apps/details?id=com.gbvpocketguide",
+"package" : "com.gbvpocketguide",
+"category" : "Education",
+"description" : "The GBV Pocket Guide resource provides step-by-step guidance and tools to all humanitarian practitioners across all sectors on how to support survivors of gender-based violence (GBV) when there are no GBV services, referral pathways or focal points in your area. It uses global standards on providing basic support and information to survivors of GBV without doing further harm.  The GBV Pocket Guide provides key messages on how to support survivors; an interactive decision-tree to guide practitioners through what to do if someone shares their experience of violence; easy-to-read Dos, Donts and sample scripts; and targeted guidance on child and adolescent survivors.   The GBV Pocket Guide is a companion to the 2015 IASC GBV Guidelines. Visit gbvguidelines.org for more information and resources on GBV risk mitigation strategies in emergencies. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

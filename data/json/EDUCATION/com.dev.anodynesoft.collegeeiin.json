@@ -1,0 +1,11 @@
+{
+"name" : "College EIIN (BD Result)",
+"url" : "https://play.google.com/store/apps/details?id=com.dev.anodynesoft.collegeeiin",
+"package" : "com.dev.anodynesoft.collegeeiin",
+"category" : "Education",
+"description" : "A simple application with a list of all the Education Boards of Bangladesh.When you click on board name, you will see the all Colleges EIIN Number (Educational Institute Identification Number) about selected board.This application is useful to get admission in class xi.   Here you also can found educational all government results like: XI Class Admission Result SSC Result Dakhil Result HSC Result Alim Result Vocational Result JDC Result JSC Result Diploma Result &  Education Board Result ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

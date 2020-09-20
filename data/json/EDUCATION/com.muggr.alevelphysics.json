@@ -1,0 +1,11 @@
+{
+"name" : "PhyWiz Notes",
+"url" : "https://play.google.com/store/apps/details?id=com.muggr.alevelphysics",
+"package" : "com.muggr.alevelphysics",
+"category" : "Education",
+"description" : "PhyWiz Notes is the best mobile app for Physics students. Designed around the GCE A-Level physics examinations, this app is suitable for:   * Junior college physics students (Singapore) * O-level and secondary school students * Grade ten, eleven or twelve physics students  * First year university physics students  Features:  All the physics formulae and key definitions at your fingertips  Essential study notes - including advanced derivations and explanations  Search for anything quickly  Official data and formulae sheet (for A-Level Examinations)  PHYSICS TOPICS COVERED 01. Measurement 02. Kinematics 03. Dynamics 04. Forces 05. Work Energy Power 06. Circular Motion 07. Gravitational Field 08. Oscillations 09. Thermal Physics 10. Waves Motion 11. Superposition 12. Electric Fields 13. Current Of Electricity 14. DC Circuits 15. Electromagnetism 16. Electromagnetic Induction 17. Alternating Currents 18. Quantum Physics 19. Lasers and Semiconductors 20. Nuclear Physics 21. Optics  For the Unlocked version, go to: https://play.google.com/store/apps/details?id=com.muggr.alevelphysicspro ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE', 'com.muggr.alevelphysics.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

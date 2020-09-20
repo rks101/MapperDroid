@@ -1,0 +1,11 @@
+{
+"name" : "Der Die Das (Letra) - German Articles & Vocabulary",
+"url" : "https://play.google.com/store/apps/details?id=com.db.derdiedas",
+"package" : "com.db.derdiedas",
+"category" : "Education",
+"description" : " Language learning application to learn German articles and vocabulary with the help of flashcards.   Outdated mobile user experiences and old learning methods make learning tedious, its time to merge the best from the mobile experience with efficient learning technics. From beginner to expert, find the right vocabulary for your level.  Its free!   Difficulty in particular nouns? Mark them as favorite  and make sure to review them more often. Favorites will stay offline, review them even when not having internet connection.  Are there any German article rules? German learners often say there is no logical behind it and that one needs to learn by heart. Well, thats not the case, some rules actually apply. Those rules will appear as you play!  Speaking is important! Memorizing vocabulary is not enough, you need to speak it. Use the speech functionality and pronounce the article followed by the noun (e.g. Der Apfel).  To suggest improvements, features, or maybe complain? Use the in-app feedback or the email  in this page to reach out to us.  Quick overview:  Daily strikes of quick repetitions;  Speech recognition;  German articles rules;  Works offline;  Vocabulary split in different categories;  Favorites;  Leaderboard.  Have a good learning! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

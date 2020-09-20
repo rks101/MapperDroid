@@ -1,0 +1,11 @@
+{
+"name" : "Pre School Learning English ABC, Number & Shapes",
+"url" : "https://play.google.com/store/apps/details?id=com.sbcreation.preschoollearning",
+"package" : "com.sbcreation.preschoollearning",
+"category" : "Education",
+"description" : "Pre School Learning English ABC, Number & Shapes is Awesome preschool learning games for Kindergarten & Toddlers Kids. An educational app for toddlers and Pre-k kids. This game is free kids learning games.   Preschool Baby Games are fun educational games to improve your kids memory and offers free learning games for kids as well as kindergarten kids & toddler kids.  In Preschool learning There are many categories like Alphabets, Game zone, Numbers, Shape, Color, Tap the Bubble, Connect Dot Game & Many More Features.  Your Kindergarten Kids can learn many preschool learning activities using Preschool Learning Game Download & learn.  You kids can learn many things in Preschool learning game. improve educational activities as well as mental ability. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

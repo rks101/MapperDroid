@@ -1,0 +1,11 @@
+{
+"name" : "Japanese Kanji Mnemonics",
+"url" : "https://play.google.com/store/apps/details?id=com.drmoku.kanji",
+"package" : "com.drmoku.kanji",
+"category" : "Education",
+"description" : "Learn Japanese Kanji with Dr. Mokus mnemonic memory tricks. Each Kanji has an visual and verbal clue for the English meaning and Japanese pronunciation.  Features: - Proven method to memorize Kanji quickly. - 30 Essential Kanji Mnemonics installed. - 75+ additional Kanji available including JLPT N5 set. - Test yourself and study with Hide and Flip flashcard mode. - Learn how Radicals compose Kanji. - Animated Kanji writing examples. - Network access not required.  Not everybody needs mnemonics to help them learn Japanese but for many this method proves unbeatable. Mnemonics are memory tricks which use humor or a personal connection to instantly lock new things into your brain.  The Dr. Moku Hiragana and Katakana apps have helped students of all ages master the first vital steps in learning the Japanese language. Give it a try, you will be amazed at how fast you can learn to read Kanji and speak Japanese! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+}

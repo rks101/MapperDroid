@@ -1,0 +1,11 @@
+{
+"name" : "LCM & GCF (GCD) Quiz",
+"url" : "https://play.google.com/store/apps/details?id=com.alza.quiz.lcmgcd",
+"package" : "com.alza.quiz.lcmgcd",
+"category" : "Educational",
+"description" : "This app offer a game that will assist the player to test his/her knowledge by exercising against auto generated quiz provided on each topic. Topics are arranged in levels, easing player to learn while solving the problem with gradually increasing difficulties. Topics covered in this app including: 1. Multiples 2. Factors 3. Finding Least Common Multiple (LCM) of simple numbers 4. Finding Greatest Common Factor (GCF) of simple numbers 5. Prime factors 6. Using prime factors to solve LCM & GCF problems 7. Real world problems  Topics are arranged on level basis, the player can learn and move on to the new level after passing test on current level. Special exam mode available with auto generated problem from each topics ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'com.alza.quiz.lcmgcd.permission.C2D_MESSAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+}

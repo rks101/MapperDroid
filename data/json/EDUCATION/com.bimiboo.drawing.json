@@ -1,0 +1,11 @@
+{
+"name" : "Coloring and drawing for kids",
+"url" : "https://play.google.com/store/apps/details?id=com.bimiboo.drawing",
+"package" : "com.bimiboo.drawing",
+"category" : "Educational",
+"description" : "Coloring and drawing for kids contains 128 coloring pages for toddlers to enjoy. Drawing app is perfect for girls and boys ages 2 to 8. Painting game helps babies to develop creativity, fine motor skills and hand eye coordination.  Doodle game for kids features:  - 128 coloring pages for toddlers. - Drawing app for kids features 8 themes: animals, princesses, cars, school, musical instruments, food, Halloween and Christmas. - Baby doodle games for kids with simple interface. - 16 coloring pages are available for free.  Age: 2, 3, 4, 5, 6, 7 year old pre-k, kindergarten and preschool children. Our painting game runs perfectly without Wi-Fi.  There are no ads inside our app. We are always glad to receive your feedback and suggestions. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

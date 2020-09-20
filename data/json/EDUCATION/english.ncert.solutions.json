@@ -1,0 +1,11 @@
+{
+"name" : "All Ncert Solutions",
+"url" : "https://play.google.com/store/apps/details?id=english.ncert.solutions",
+"package" : "english.ncert.solutions",
+"category" : "Education",
+"description" : "Get Best Ncert Solutions of Ncert books , Ncert Exemplar Solutions, RD Sharma , RS Aggarwal , S chand , HC Verma , DK Goel Accountancy , TS Grewal Accountancy , TR Jain Economics .  * All NCERT Solutions from Class 3 to 12 & Reference Books Solutions covered. * Super Offline Mode : Once Downloaded No Internet Connection Required. * No Need to Sign in to Download any Solutions. * In Built fast pdf Reader for smooth reading. * Very Easy to use Interface and with category wise solutions. * Help your friends by sharing screenshot directly.  Subjects covered in Ncert Solutions are - Mathematics , Physics , Accountancy , English , Biology , Psychology , Chemistry , Economics , Business Studies , Hindi , Political Science , Statistics , Social Studies , Science & Environmental.    RS Aggarwal Solutions from Class 6 , 7, 8, 9, 10 & 11. RD Sharma Solutions from Class 6, 7, 8, 9, 10, 11 & 12. S Chand Class 9 (Chemistry and Physics) and S Chand Class 10 (Chemistry , Biology and Physics). HC Verma Part 1 and Part 2 Solutions which is helpful to both Class 11 and Class 12 . DK Goel Class 11 & 12 Solutions. TS Grewal Class 11 and Class 12 Solutions. TR Jain Class 11 Solutions.  The Solutions in this app are very helpful in for preparation of exams like:  - School Exams and Tests - CBSE Board & All State Board Exam - IIT JEE & NEET and Various Competitive Exam ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

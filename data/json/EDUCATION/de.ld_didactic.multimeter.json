@@ -1,0 +1,11 @@
+{
+"name" : "Multimeter",
+"url" : "https://play.google.com/store/apps/details?id=de.ld_didactic.multimeter",
+"package" : "de.ld_didactic.multimeter",
+"category" : "Education",
+"description" : "Take your CASSY device and measure voltage, current, force and magnetic field with your smartphone or tablet.  This multimeter supports currently  Input A of Sensor-CASSY 1 and 2,  Pocket-CASSY 2 and Mobile-CASSY 2,  Micro-CASSY U and I. Supported quantities: U, I, F, B (depending on the connected sensor). Select CASSY after pressing the menu button in the upper left corner. Measuring ranges and origin can be adjusted by swipe gestures. The needle has the inertia of a real needle.  Bluetooth pairing is only supported within the app. USB connections are possible only if the device supports the USB Host mode. WiFi sharing connects to an actual CASSY Lab 2 version or another app.  LEYBOLD is a brand of the LD DIDACTIC group.  by LD DIDACTIC GmbH, 2014-2016 ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

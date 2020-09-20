@@ -1,0 +1,11 @@
+{
+"name" : "Rockwell Automation Systems Demo",
+"url" : "https://play.google.com/store/apps/details?id=com.rockwellautomation.systemsdemo",
+"package" : "com.rockwellautomation.systemsdemo",
+"category" : "Education",
+"description" : "The new Rockwell Automation Systems (Interactive Safety and Security Demo) Mobile App. was designed to demonstrate present and/ or soon to be released Rockwell Automation Safety and Security devices. Choosing the Safety path (default when launched) will help you and your customer understand when to choose a SIL2/PLd vs. a SIL3/PLe solution. Choosing the Security path will help you and your customer understand the best Defense in Depth Security solution. A PC version of this app. was launched on Seismic earlier this year.  Rockwell Automation provides this systems demo application for Rockwell Automation Customers, Sales and Distributors. Use the Rockwell Automation Systems Mobile Application to enhance your demonstration experience with customers and at meetings and events.  ROCKWELL AUTOMATION DOES NOT WARRANT THE COMPLETENESS, TIMELINESS OR ACCURACY OF ANY OF THE DATA CONTAINED IN THIS TOOL AND MAY MAKE CHANGES THERE TO AT ANY TIME IN ITS SOLE DISCRETION WITHOUT NOTICE. FURTHER, ALL INFORMATION CONVEYED HEREBY IS PROVIDED TO USERS AS IS.   ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

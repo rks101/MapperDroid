@@ -1,0 +1,11 @@
+{
+"name" : "Vegetable Names",
+"url" : "https://play.google.com/store/apps/details?id=com.tallurigames.vegetablenames",
+"package" : "com.tallurigames.vegetablenames",
+"category" : "Education",
+"description" : "Learn Vegetables names for kids, Children and Toddlers. It is free for educational purpose.  Our Vegetables Names learning app is helpful for kids to learn about all the vegetables with pictures and pronunciations. Learn vegetables names easily and with fun. Click on image for learn about vegetable pronunciation. This app is perfect for all level of kids.  Good collection of vegetables included in this app, so kids can easily learn about all the vegetables.  Best educational app for kids to learn about vegetables.  Vegetables Names like :  Brinjal, Cabbage, Green Capsicum, Red Capsicum, Yellow Capsicum, Carrot, Chayote, Green Chilli, Red Chilli, Corn, Garlic, Ladies Finger, Lemon, Mashroom, Onion, Potato, Pumpkin, Radish, Tomato  Features :  Easy to Navigate  Vegetables names Pronunciations along with pictures  Easily identify vegetables  User Friendly navigation  No internet connection required after download  Free of cost ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

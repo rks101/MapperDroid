@@ -1,0 +1,11 @@
+{
+"name" : "Bubbles - лопать шарики",
+"url" : "https://play.google.com/store/apps/details?id=com.simplesmartsoft.bubbles",
+"package" : "com.simplesmartsoft.bubbles",
+"category" : "Educational",
+"description" : "Bubbles -       2-3 .        ,    . ,     ,     !         .   : https://play.google.com/store/apps/details?id=com.simplesmartsoft.bubbles.en Bubbles - childrens educational game for kids from 2-3 years. This game will help kids in the development of fine motor skills, coordination and logical thinking. While playing, they learn letters and numbers, get acquainted with forms and animals!  Winner of the All-Ukrainian contest of computer science projects Merry Science.  English version: https://play.google.com/store/apps/details?id=com.simplesmartsoft.bubbles.en ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE']",
+}

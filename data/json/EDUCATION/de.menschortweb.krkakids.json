@@ -1,0 +1,11 @@
+{
+"name" : "Krka Kids: NP Krka AR Game",
+"url" : "https://play.google.com/store/apps/details?id=de.menschortweb.krkakids",
+"package" : "de.menschortweb.krkakids",
+"category" : "Educational",
+"description" : "The Krka Kids is a interactive game designed to play at the educational trail in the Krka National Park, on the location Skradinski buk.  To start the game, start down the educational trail! As you walk along the trail, you will discover 15 puzzling questions. If you can answer all the questions, you deserve a prize. Have fun and good luck!  Other features include:  * AR (Augmented Reality) view helps you navigate on the location Skradinski buk. * Easy-to-use interface * 15 nice illustrated puzzling questions (points of interest - POIs) * In order to receive your prize, You have to send your contact information via email ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.DOWNLOAD_WITHOUT_NOTIFICATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.DOWNLOAD_WITHOUT_NOTIFICATION', 'android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE']",
+}

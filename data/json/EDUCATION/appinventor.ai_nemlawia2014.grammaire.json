@@ -1,0 +1,11 @@
+{
+"name" : "Apprendre l'Arabe - grammaire- partie 1",
+"url" : "https://play.google.com/store/apps/details?id=appinventor.ai_nemlawia2014.grammaire",
+"package" : "appinventor.ai_nemlawia2014.grammaire",
+"category" : "Education",
+"description" : "Arabe Littraire. Mthode Mdine.  Totalement gratuit et SANS publicit.  Cours rapides accompagns de quiz - cours 1 : Demander quest ce que cest ? en dsignant un objet - cours 2 : Demander Est ce que cest ..? - cours 3 : Demander qui est ce ? - cours 4 : Et - cours 5 : Demander quest ce que cela ? - cours 6 : larticle devant les lettres lunaires - cours 7 : larticle devant les lettres solaires Pour que lappli reste stable une deuxime appli sera cre  partir du cours 9 Literary Arabic. Medina method. Totally free and WITHOUT advertising.  Quick courses with quizzes - course 1: Ask what is it? by pointing to an object - course 2: Ask Is this ..? - course 3: Ask who is this? - course 4: And - course 5: Ask what is this? - course 6: the article in front of the lunar letters - course 7: the article in front of the solar letters To keep the app stable, a second app will be created from Course 9 ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.SEND_SMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.SET_WALLPAPER', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SEND_SMS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

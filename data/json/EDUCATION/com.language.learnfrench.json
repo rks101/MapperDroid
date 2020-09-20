@@ -1,0 +1,11 @@
+{
+"name" : "Learn French Free",
+"url" : "https://play.google.com/store/apps/details?id=com.language.learnfrench",
+"package" : "com.language.learnfrench",
+"category" : "Education",
+"description" : "The best app free Learn French for the world, contains over 9000 common French words and phrases with excellent audio quality. It serve the purpose for learning and travelers visiting France...Lessons are divided into category and subcategory in a scientific way, try and feel. It brings a new learning methods  FEATURES  - Support multiple languages (Translate from 32 languages to French) - Quiz game (choose correct answer and rearrange these words to make meaningful sentences) will improve word and phrases - Perfect search and manage your favourite items system - No internet connection required ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

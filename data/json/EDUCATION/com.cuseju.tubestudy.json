@@ -1,0 +1,11 @@
+{
+"name" : "Free courses Online. TubeStudy",
+"url" : "https://play.google.com/store/apps/details?id=com.cuseju.tubestudy",
+"package" : "com.cuseju.tubestudy",
+"category" : "Education",
+"description" : "Tubestudy is an online learning platform with hundreds of thousands of video courses taught by excellent instructors.   All courses are free.   Take courses in anything from programming languages such as Android and Java to classes in drawing, cooking, studies, etc.   Join the more than 100,000 students who are mastering and new skills, advancing their careers and exploring new hobbies at TubeStudy.  Learn Spanish, French, German, Etc.   You can also learn photoshop, design, courser, acoding. Etc. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

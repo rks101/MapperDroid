@@ -1,0 +1,11 @@
+{
+"name" : "My Learning Fusion",
+"url" : "https://play.google.com/store/apps/details?id=com.mll.mylearningapp",
+"package" : "com.mll.mylearningapp",
+"category" : "Education",
+"description" : "My Learning Fusion is a suite of learning tools for schools, colleges and adult learning. The highly configurable online platform is supported by the My Learning Fusion App to provide quick access for students, teachers and parents.  The App keeps you logged in to My Learning Fusion and up to date when on the move, with key information, files, planner, assignments and graded work. Communicate with members of your learning community, upload files and photos straight from your smartphone and receive push notifications of key events such as assignments due and graded, notices from teachers and when new learning materials are available.   For first time use, please login to your My Learning Fusion account on a desktop or laptop and click the Options menu at the top right, selecting Mobile access for your one-time APP ID. Once your device is registered, you will receive notifications and updates automatically. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Roman Numerals",
+"url" : "https://play.google.com/store/apps/details?id=com.alza.quiz.romans",
+"package" : "com.alza.quiz.romans",
+"category" : "Educational",
+"description" : "This simple app aims to teach and test your students (or kids) on roman numeral conversion to modern number and vice versa. This app present practice/quiz and learning mode. In practice/quiz mode, there are levels of conversion practice, starting with small numbers that gradually increase with the levels. In learn mode, students/kids can learn the rules of roman numerals and steps to do the conversion. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

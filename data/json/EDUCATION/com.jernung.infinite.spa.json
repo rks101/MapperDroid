@@ -1,0 +1,11 @@
+{
+"name" : "Infinite Spanish",
+"url" : "https://play.google.com/store/apps/details?id=com.jernung.infinite.spa",
+"package" : "com.jernung.infinite.spa",
+"category" : "Educational",
+"description" : "Learn Spanish by playing fun and interactive games in space! No multiple choice, flashcards, or any other boring stuff!    Learn over 200 words.   Learn Spanish naturally without using English!   Game-first designed learning content.   Review all words from each category with a challenging review game. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

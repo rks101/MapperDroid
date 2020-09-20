@@ -1,0 +1,11 @@
+{
+"name" : "MarcoPolo Recall",
+"url" : "https://play.google.com/store/apps/details?id=com.gomarcopolo.recallgame",
+"package" : "com.gomarcopolo.recallgame",
+"category" : "Educational",
+"description" : "***FOR A LIMITED TIME ONLY- 3 GAME PACK ONLY $.99*** Challenge your concentration skills with MarcoPolo Recall! 4 unique games that test your ability to recall and repeat sequences of colorful lights and sounds. Theres wacky animations to keep you amused throughout!   4 Game Types  * Classic  * Fast Speed * 1 Color / 1 Sound * Double Touch  MarcoPolo Development Series - Volume 1   Privacy Policy We take privacy very seriously. We do not collect or share personal information about you or your child, nor do we allow any third-party advertising. You can see our full policy at http://www.gomarcopolo.com/privacy-policy/  About Us: http://gomarcopolo.com/us/ ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE']",
+}

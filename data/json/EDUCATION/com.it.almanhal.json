@@ -1,0 +1,11 @@
+{
+"name" : "Al Manhal",
+"url" : "https://play.google.com/store/apps/details?id=com.it.almanhal",
+"package" : "com.it.almanhal",
+"category" : "Education",
+"description" : "Covering an impressive and all-encompassing 25 topics of interest ranging from art to business and economics, architecture and design, Islamic banking & finance, Islamic studies, political science & international relations, history, geography & biography, educational sciences, as well as human and social sciences. With a library containing thousands of books from hundreds of publishers, Al Manhal Bookstore App promises to be the go-to library of choice for Arabic readers everywhere. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.USE_CREDENTIALS', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.WRITE_SECURE_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.SYSTEM_ALERT_WINDOW']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_SECURE_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW']",
+}

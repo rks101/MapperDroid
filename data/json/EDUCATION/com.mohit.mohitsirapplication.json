@@ -1,0 +1,11 @@
+{
+"name" : "Edulife Achievers",
+"url" : "https://play.google.com/store/apps/details?id=com.mohit.mohitsirapplication",
+"package" : "com.mohit.mohitsirapplication",
+"category" : "Education",
+"description" : "About this app Edulife Achievers  best quality education for all levels of CA, CS, CMA & other courses. Educational application that brings high quality courses from the most talented teachers across India. Online education providing facility of direct to home to bring a revolution by reducing travel time & travel cost of students to zero, removing geographical hindrances which creates barrier to quality educations. To provide online education - use of pen drives, Google drives, cloud servers, tie up with teaching faculties, professionals, semi professionals and others. To provide classes tie ups with websites, d2h class providers etc. To enter in to joint venture, or collaborate with accredited educational institutions in India/ outside India to provide such infrastructure assistance to such accredited educational institution and such other learning support on such terms and conditions as may be decided by the company from time to time. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Meaning of salat",
+"url" : "https://play.google.com/store/apps/details?id=com.apps71.bengalimeaningofsalat",
+"package" : "com.apps71.bengalimeaningofsalat",
+"category" : "Education",
+"description" : "We are praying every day, but we may not know anything about what we are saying or reading in prayer, because we do not know the meaning, we can not concentrate more properly on the prayers.  Through this app you will know the meaning of Arabic for every rakat, surah and prostration used in prayer. Which will assist you to be fully focused in prayer. Inshallah  Tag: Arabic meaning of salah English meaning of salah Bengali meaning of salat Step By Step Salah - Namaz Salah guide Dua Arabic meaning of salat Salater bangla orrtho Salater bangla meaning Meaning of salah Namaj Namajer Ortho Salat Namajer Bangla Ortho Bangla Namaj Sikkha Salater Ortho Step By Step Namaz Supplications Arabic meaning of salat English meaning of salat Dua Beautiful supplications Duas in Arabic Duas in English  Several Daily Essential DUAS to live improve your lifestyle ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

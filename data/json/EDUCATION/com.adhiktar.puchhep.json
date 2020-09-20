@@ -1,0 +1,11 @@
+{
+"name" : "1500 Common Questions of General Knowledge",
+"url" : "https://play.google.com/store/apps/details?id=com.adhiktar.puchhep",
+"package" : "com.adhiktar.puchhep",
+"category" : "Education",
+"description" : "It is important that people should keep themselves informed about the general happenings in their country and experts are of the opinion that they can keep themselves updated about the latest happenings in the nation through newspapers. This is why it is recommended that everybody right from children at their higher secondary level should keep themselves updated about the current affairs. This is truer in the case of candidates, who wish to apply for job.  Here are some of the reasons, why general knowledge (GK) is important in the lives of people:   It will make conversations easier It will help you in getting better grades in school, college and in competitive examinations. It will help in arriving at better decisions in life It will help you in interactive with people from different community You can keep updated about the latest trends You can enhance your public speaking skill with this knowledge It can be of great help in improving innovation and creativity In addition to the above-mentioned reasons why general knowledge is important, you can turn your quest for general knowledge into a hobby.   In this app, There are important 1500 latest GK Questions for all competitive exams like IAS, Bank PO, SSC CGL, RAS, CDS, UPSC exams and all state-related exam.  Practice with this huge collection of Basic General Knowledge Questions and Answers. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

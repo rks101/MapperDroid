@@ -1,0 +1,11 @@
+{
+"name" : "Kids Math - Educational Game and Worksheet Free",
+"url" : "https://play.google.com/store/apps/details?id=com.nithra.mathsws.grade_1",
+"package" : "com.nithra.mathsws.grade_1",
+"category" : "Education",
+"description" : "Kida math worksheet free is an educational math app, which makes math learning fun, we want to show you that mathematics is far from boring and to train your brain. This app is a fun way for your children to practice math worksheets. Using Math for Kids app, you can practice different types of topics in math and it helps you to develop the speed of the calculation. The Topics includes, Counting Addition & Subtraction Addition & Subtraction Skill builders Mixed Operations Comparing Place values Spatial Sense Measurement Money Patterns Time The questions will be in different format which is fun to use Beat your friends by scoring high marks ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.nithra.mathsws.grade_1.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

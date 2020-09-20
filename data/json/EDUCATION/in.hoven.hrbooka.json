@@ -1,0 +1,11 @@
+{
+"name" : "HR Interview Questions",
+"url" : "https://play.google.com/store/apps/details?id=in.hoven.hrbooka",
+"package" : "in.hoven.hrbooka",
+"category" : "Education",
+"description" : "This app contains HR Interview Questions that may be useful for brushing up your preparation.   We have a desktop PC version also available. Please write to us for delivery options.  DISCLAIMER: Even though every care has been taken in compiling the information contained in this software, we donot gurantee the accuracy and neither take responsiblity for any incorrect questions, answers, content and any form of errors. The answers and questions should be taken as mere indicators, a deeper and further study must be done. We shall not be liable for any special or consequential damages of any kind or nature arising out of the use of this material. You can use this material solely at your own risk. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

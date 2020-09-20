@@ -1,0 +1,11 @@
+{
+"name" : "TAYO The Brave Cars",
+"url" : "https://play.google.com/store/apps/details?id=kr.brody.tayobravecars",
+"package" : "kr.brody.tayobravecars",
+"category" : "Education",
+"description" : "Fire truck Frank, ambulance Alice, helicopter Air, Pat and Rookie! Help people in trouble with TAYO and The Brave Cars!   Enjoy exciting rescue missions  You can operate your rescue team friends to complete various missions, including fire, traffic, and patient transport. Help people in trouble by solving various incidents with brave cars friends.  - Fire Suppression > A huge fire broke out in the Building! To avoid further damage, quickly respond to suppress the fire with Air and Frank. - Life Saving > Save the people who escaped from the fire and move the injured people to the hospital. - Traffic Arrangement > Catch the traffic violation vehicle and make road traffic smoothly . Meet TAYO and the Brave Cars friends right now! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.INTERNET']",
+}

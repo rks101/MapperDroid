@@ -1,0 +1,11 @@
+{
+"name" : "Shapes and colors Educational Games for Kids",
+"url" : "https://play.google.com/store/apps/details?id=com.catdonut.smartrabbit",
+"package" : "com.catdonut.smartrabbit",
+"category" : "Educational",
+"description" : "Shapes and colors for kids is a free learning logic game for toddlers.  Together with Bunny, we make a trip to see his friend. On the trip, we learn to recognize colors and shapes, solve logic problems, sort out things, and improve memory.  There are 6 joyful games in the application:  - Find an object to its color  - Recognize shape of an object  - Logic game with figures of different colors  - Game to improve memory and build brain  - Find identical objects  - Find figures  The application is designed to improve spatial thinking, fine motor skills, and memory.  The game is intended for toddlers of 2-3-4 years old.  * Free * * No ads * * No In-App purchase*  We are opened for all your suggestions! Please email us your wishes to support@catdonut.com  If you like our application and you would like it to be continued, rate it, please. ",
+"desc_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.WRITE_CONTACTS', 'android.permission.READ_CONTACTS']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE']",
+}

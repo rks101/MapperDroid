@@ -1,0 +1,11 @@
+{
+"name" : "Meet the Numberblocks",
+"url" : "https://play.google.com/store/apps/details?id=uk.co.bluezoo.numberblocks.meet",
+"package" : "uk.co.bluezoo.numberblocks.meet",
+"category" : "Educational",
+"description" : "From the multi-award-winning animators and producers of BAFTA nominated pre-school learning favourites Alphablocks and Numberblocks, we bring you Meet the Numberblocks.  As seen on Cbeebies.  This free introductory app introduces the child to the Numberblocks and helps develop their counting skills.  Each Numberblock has its number of Numberblobs to count, the child has to tap on the Numberblobs to count them and when they have all been counted, a video clip plays the Numberblocks song.  Tapping on the Numberblock will trigger them to say one of their catchphrases and changes their shape.  Additional Numberblocks will be added to the app when they are aired on TV.  This app does not contain any in-app purchases or involuntary adverts. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.MODIFY_AUDIO_SETTINGS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET']",
+}

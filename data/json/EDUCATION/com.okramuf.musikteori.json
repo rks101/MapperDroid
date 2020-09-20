@@ -1,0 +1,11 @@
+{
+"name" : "Music Theory Helper",
+"url" : "https://play.google.com/store/apps/details?id=com.okramuf.musikteori",
+"package" : "com.okramuf.musikteori",
+"category" : "Education",
+"description" : "We made this app to help you easily understand and find info about music theory. Please, contact us if you have any problems with the app, or if you want to give us feedback!  You can find information about:  Chords  Circle of fifths  Exercises  Intervals  Note values  Rests  Scales  Symbols (dynamics, articulation etc.)  There are four different exercises available:  Intervals - listening exercise  Chords - listening exercise  Note Reading - reading exercise (treble and bass clef)  Intervals - reading exercise  This app uses: SlidingTabsBasic https://developer.android.com/samples/SlidingTabsBasic/index.html  Credits: Thanks to Joe Pas for helping me with the English translation. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

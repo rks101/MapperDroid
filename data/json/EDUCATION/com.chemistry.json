@@ -1,0 +1,11 @@
+{
+"name" : "Chemistry",
+"url" : "https://play.google.com/store/apps/details?id=com.chemistry",
+"package" : "com.chemistry",
+"category" : "Education",
+"description" : "The Chemistry application allows you to find chemical reactions and to solve the chemical equations with one or multiple unknown variables. Youll always have Mendeleevs Periodic Table and Solubility table handy! And even the calculator of Molar Masses is now on your phone!  The app can find the equations of chemical reactions even if the right or left part is unknown, it helps you with organic and inorganic chemistry. The discovered reactions will be displayed in a usual and ionic form. Organic chemistry formulas are drawn by the app.  Mendeleevs periodic convenient interactive table. Tap a chemical element in the table to find more information about it.  The table of solubility of substances is added to the app. Now your textbooks become waste!  The app contains many useful chemical tables:  * Solubility table * Electronegativities of the elements * Molecular masses of organic substances * Reactivity series of metals.   The best solver of chemical equations for Android. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Listening Ğ¾Ñ‚ Skyeng",
+"url" : "https://play.google.com/store/apps/details?id=skyeng.listening",
+"package" : "skyeng.listening",
+"category" : "Education",
+"description" : "      Skyeng:  : ,        ,     .             : http://words.skyeng.ru.    ,        words@skyeng.ru  ,      . Skyeng English listening simulator: professional content: voice acting, exercises and pictures   Works for anyone who wants to learn English.  You can read the terms of use of the service and the privacy policy on the website: http://words.skyeng.ru.  Please send your questions, problem reports and regards to words@skyeng.ru - we promise, our product team will surely read them. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

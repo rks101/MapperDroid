@@ -1,0 +1,11 @@
+{
+"name" : "Shakha - RSS (Rashtriya Swayamsevak Sangh)",
+"url" : "https://play.google.com/store/apps/details?id=com.shakha.rb",
+"package" : "com.shakha.rb",
+"category" : "Education",
+"description" : "                 The Shakha app provides information about the Shakha, The daily program of the Rashtriya Swayamsevak Sangh ( RSS ).  The most useful mobile app for a Swayamsevak.  This app provides information to Swayamsevaks about Shakhas programs and Shakhas method.   This app contains such topics.  .   -  .   -  (Charcha)   (Geet)   (Amrit Vachan)  (Subhashita)     (Bodhkatha)  .     (Shakha Khel)  (Yoga)  .   ( R S S Prarthna)  .    .     (Patheykan)  .   ( Mantra)  .   ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.SET_WALLPAPER', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SEND_SMS', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.SEND_SMS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

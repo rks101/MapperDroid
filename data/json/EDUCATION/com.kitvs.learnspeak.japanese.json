@@ -1,0 +1,11 @@
+{
+"name" : "Learn Japanese 1000 sentences",
+"url" : "https://play.google.com/store/apps/details?id=com.kitvs.learnspeak.japanese",
+"package" : "com.kitvs.learnspeak.japanese",
+"category" : "Education",
+"description" : "Some features of Learn Japanese app: - About 1000 sentences divided to 18 categories (include sounds) - Bookmark difficult sentence. - Search sentences by Japanese or its mean. - Practice each sentence by voice (by long touch this sentence). - Test sentences which learned by input text or input voice. If you want download other learn japanese app,please visit the fanpage below. https://www.facebook.com/Kanjivn ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING']",
+}

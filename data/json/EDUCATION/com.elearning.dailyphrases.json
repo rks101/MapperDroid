@@ -1,0 +1,11 @@
+{
+"name" : "Daily English Phrases",
+"url" : "https://play.google.com/store/apps/details?id=com.elearning.dailyphrases",
+"package" : "com.elearning.dailyphrases",
+"category" : "Education",
+"description" : "This free app contains a lot of phrases and sentences that will help you study English more effectively. If you need to improve your English speaking and listening skills, this app is perfect for you. With thousands of daily sentences and phrases, you can improve your English conversation effectively.  Try to use our other apps to learn English easily!  Apps main features: + Search useful phrases and sentences by real-life topics + Bookmark lessons  + Offline lessons for learning without internet  If you like it, please share this helpful app with your friends.  Thank you. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

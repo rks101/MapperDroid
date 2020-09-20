@@ -1,0 +1,11 @@
+{
+"name" : "Multiplication table for children. Training.",
+"url" : "https://play.google.com/store/apps/details?id=com.multiplication_table.na_studio",
+"package" : "com.multiplication_table.na_studio",
+"category" : "Educational",
+"description" : "Mathematics for kids Section: Multiplication   Convenient and easy to use multiplication table for the whole family.  - Mode Training - includes all the basics of multiplying by numbers. It will help adults explain and show on the basis of the basis of multiplication. A detailed explanation of the concept of multiplication tables and how to use it.  - Mode Practice includes two sub-modes. 1. It has 4 conditional worlds and 40 levels. If you managed to pass all accurately, consider you perfectly know the multiplication table! 2. Suitable as a task from an adult child. You choose what numbers will multiply, as well as how much time, questions and lives will be at your disposal. - For Practitioner modes available, statistics is kept, which is available in the Results section. - Download for children and learn the multiplication table, set your settings from easy to hard! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

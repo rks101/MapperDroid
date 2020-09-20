@@ -1,0 +1,11 @@
+{
+"name" : "Learn German Offline",
+"url" : "https://play.google.com/store/apps/details?id=com.ufo.learngerman",
+"package" : "com.ufo.learngerman",
+"category" : "Education",
+"description" : "You want a handbook of essential phrases, sentences ! Learn German - Lerne Deutsch contains over 2000 commonly-used German phrases and vocabularies for travelers and beginners in 18 categories. + Greetings + General Conversation + Numbers + Time and Date + Directions & Places + Transportation + Accommodation + Eating out + Shopping + Colours + Cities & Towns + Countries + Tourist & Attractions + Family + Dating <3 + Emergency + Sickness + Tongue Twisters native pronunciation to help you speak german correctly - deutsch sprechen ALWAYS LEARN PHRASES, NOT INDIVIDUAL WORDS:   Meaning: Phrases are easier to remember, because they have meaning, they paint a picture, they tell a story.   Speed: When you learn phrases instead of a word, youre learning how to use that word correctly, and its much faster. When were children, we learn with phrases, groups of words, not just one word by one word by one word. Word by word is slow.   Pronunciation: In real life some groups of words are said as though it were a single word, in one breath-group, without pausing. If you stop to take a breath in the middle of the phrase, you are not saying it correctly, and you risk being misunderstood.  App completely OFFLINE. No require internet to learn FREE Search by German or English Save your favorite sentences for review later When you travel, business to Germany, dont forget this app ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET']",
+}

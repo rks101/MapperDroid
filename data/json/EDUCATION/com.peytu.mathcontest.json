@@ -1,0 +1,11 @@
+{
+"name" : "Math Contest -Mathematics Game",
+"url" : "https://play.google.com/store/apps/details?id=com.peytu.mathcontest",
+"package" : "com.peytu.mathcontest",
+"category" : "Educational",
+"description" : "Math Contest - Mathematics Game is a mental calculation game to improve your math skills. A single or 2 players math game to train your brain !  The game is designed for children and adults and allows to train to mental calculation.  - 200 levels to practice math - 5 seconds and 2 answers for each mathematics question - 3 lives - Discover the many colorful themes - Reach the top of world ranking - Compare your score with your friends - Unlock achievements  2 players mode Who is the best in mathematics and mental calculation ? Challenge your friends with the 2 players mode ! On the same device, play together with the split screen. - Choose the number of calculations, 10, 20 or 50  - 3 difficulty levels - Addition and/or Multiplication  Be quick to triumph +1 point for a good answer -2 points for a wrong answer  Try Math Contest - Mathematics Game to train yourself and improve your mathematics skills ! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Canvas Polls",
+"url" : "https://play.google.com/store/apps/details?id=com.instructure.androidpolling.app",
+"package" : "com.instructure.androidpolling.app",
+"category" : "Education",
+"description" : "If your instructional pace is too fast or too slow, youll lose students to confusion, boredom, or both. The solution is Canvas Polls, which allows you to instantly assess student comprehension with live, in-class polling. Canvas Polls is free, easy-to-use, and leverages students own smartphones or tablets, making it more accessible than off-the-shelf devices. It provides the core features needed for active teaching models like peer instruction. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

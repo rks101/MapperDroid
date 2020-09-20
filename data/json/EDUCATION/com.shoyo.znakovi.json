@@ -1,0 +1,11 @@
+{
+"name" : "â›”ï¸� Traffic & Road signs â›”ï¸�",
+"url" : "https://play.google.com/store/apps/details?id=com.shoyo.znakovi",
+"package" : "com.shoyo.znakovi",
+"category" : "Education",
+"description" : "Traffic signs packed in an interesting game. Learning through game is the way to go -especially on your phone!   Perfect educational tool for students and driving test takers, as well as for experienced drivers who need knowledge refresh. If you are preparing for school competition or driving test, check your knowledge with this quick quiz, and compare results with others.   Review and explanation of traffic signs in US!   Tests (two different types) for checking what have you learned!   Leaderboard of best players from all over the world, you can compete with them!   Achievements which you can unlock and collect for best test result!   Language packs are downloadable for more then 60 countries worldwide! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.huawei.appmarket.permission.dynamic_install', 'com.android.vending.BILLING', 'android.permission.VIBRATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA', 'android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.WAKE_LOCK', 'com.huawei.hwouc.permission.DYNAMIC_FEATURE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.huawei.appmarket.permission.dynamic_install', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA', 'android.permission.READ_EXTERNAL_STORAGE', 'com.huawei.hwouc.permission.DYNAMIC_FEATURE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

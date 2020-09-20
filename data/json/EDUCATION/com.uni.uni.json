@@ -1,0 +1,11 @@
+{
+"name" : "Heyuni - Ask University Students & Teachers, Meet",
+"url" : "https://play.google.com/store/apps/details?id=com.uni.uni",
+"package" : "com.uni.uni",
+"category" : "Education",
+"description" : "You can reach out to any department of any university, find and share lecture notes and any other information that you need with PDF file extension and send and receive messages .   - For example, by using the search bar on the home page, you can search any university and choose a department and on the page showing up you can send and receive messages and share documents in PDF.   - On departments page, you can see the number of online users and follow content.   - You can create a topic in the department that you want.   - You can send private messages to visitors and students.  This program was developed by Ahmet znacar, student at Bilkent University in the Faculty of Music and Performing Arts in the Department of Bassoon after his learning of software language from scratch. HeyUni is a totally domestic production and Mr. znacars second Android-based application. You can reach his first app HeyBro on the link below:   https://play.google.com/store/apps/details?id=com.heybro.heybro ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.uni.uni.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.READ_INTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_INTERNAL_STORAGE', 'android.permission.CAMERA']",
+}

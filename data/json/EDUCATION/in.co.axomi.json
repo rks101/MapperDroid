@@ -1,0 +1,11 @@
+{
+"name" : "Axomi: Assamese Dictionary",
+"url" : "https://play.google.com/store/apps/details?id=in.co.axomi",
+"package" : "in.co.axomi",
+"category" : "Education",
+"description" : "Almost every language has its Dictionary app on every platform today. However, Assamese is the only language that didnt have a dictionary app. This is the first-ever English-Assamese Dictionary app which is a contribution to our homeland Assam, a place of diversity and a hub of multiple cultures. Though there are many languages spoken in the region, the most common is Assamese.  Axomi is the Worlds first ever English-Assamese Dictionary App. It does the simplest dictionary operation from English to Assamese and from Assamese to English. The database used has been provided by xobdo.org and is completely for offline usage. It is absolutely free and a contribution to the community.  In the Assamese to English tab, you may type in English, i.e. using Roman transliteration or typing in Assamese Unicode. If you have trouble understanding Roman transliteration, the Phonetic Chart included in the App will help you. Further, to type in Assamese, you need to have an Assamese Keyboard installed on your device. Just click Search and select the word from the list displayed.  Please rate and review the app on Google Play and our facebook page.  For any further queries, please contact us by email at admin@axomi.co.in    ! ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

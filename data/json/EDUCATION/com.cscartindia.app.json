@@ -1,0 +1,11 @@
+{
+"name" : "CSCARTINDIA",
+"url" : "https://play.google.com/store/apps/details?id=com.cscartindia.app",
+"package" : "com.cscartindia.app",
+"category" : "Education",
+"description" : "The motive of CSCARTINDIA is to help the CS Students in their exam preparation.Technology and web nowadays are at the boom. CSCARTINDIA offers Mock Test, Books and Video Lectures which will help students in a personalized learning. Video Lectures will empower Students to study at their own pace in and outside of the classroom.  CSCARTINDIA is one stop solution exclusively for CS Students.EBooks , Notes & Video Lectures of all the leading professors and institutes for Company Secretaryship course are available with us.Many students had to stay away from their hometowns to pursue the CS courses.So to connect CS students with digital learning we have created this App for all CS Students.  Disclaimer : CSCARTINDIA does not host, provide, archive, store, or distribute media of any kind, and acts merely as an index (or directory) of media posted by other webmasters, users, uploaders on the internet, which is completely outside of our control ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "[]",
+}

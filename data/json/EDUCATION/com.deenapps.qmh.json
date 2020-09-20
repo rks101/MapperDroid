@@ -1,0 +1,11 @@
+{
+"name" : "Free Quran Memorization Helper App",
+"url" : "https://play.google.com/store/apps/details?id=com.deenapps.qmh",
+"package" : "com.deenapps.qmh",
+"category" : "Education",
+"description" : "Quran Memorization Helper helps memorize the book of Allah easy and fast. Clean, easy to use interface. Features include  * Recitation includes wide variety of renowned qaris * Continues to play in the background when screen goes to sleep without having to keep the app open for use * Choose a range of verse from selected qari and surah * Ability to repeat range and repeat each verses with in the selected range * Bookmark specific selection (Qari, surah, repetition range). Handy to quickly load from the bookmark instead of selection each time. * Toggle translation on the fly while playing. * Toggle screen awake on the fly while playing. * Add pause seconds between verses on the fly while playing. * Loop verse lets you play the current verse continuously until you turn off * Support for partial surah downloads. * Support to change font and font size  Requires Jellybean android version as minimum to run.  Keywords: Quran, Quran Memorization, Memorize Quran, Easy Quran Memorization, Quran Hafiz, Quran Recitation, Quran Verse Repeat, Quran Qari, App to memorize Quran ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

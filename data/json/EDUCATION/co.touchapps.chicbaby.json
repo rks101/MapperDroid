@@ -1,0 +1,11 @@
+{
+"name" : "Chic Baby - Dress up and baby care games for kids",
+"url" : "https://play.google.com/store/apps/details?id=co.touchapps.chicbaby",
+"package" : "co.touchapps.chicbaby",
+"category" : "Educational",
+"description" : "Chic baby offers fun dress up and Baby care game for young children 3-6 years old. With cute baby figures, baby outfits, hairstyles and accessories, it is designed for kindergarten and preschool children, providing an educational experience for kids to play and learn. The game is suitable for young boys and girls 3,4,5 and 6 years old to be able to play on their own, without the support of adults. Chic baby is brought to you by Pazu Games Ltd, the publisher of popular kids games like Girls Hair Salon, Makeup Girls, Animal Doctor and others, that are trusted by millions of parents worldwide. The game provides an opportunity for your kids to express their creativity, spark their imagination, improve their motor skills and enjoy the many accessories and props available.  Pazu games for toddlers are designed especially for boys and girls under the age of 5. It offers fun learning games for toddlers to enjoy, with educational benefits that parents like. We invite you to try out Pazu games for kids and toddlers for free and discover a wonderful brand for kids games, with a large arsenal of educational and learning games for both boys and girls. Our games offer a variety of game mechanics adapted to the kids age and capabilities. Pazu games have no ads so the kids have no distractions while playing, no accidental ad clicks and no external interferences.  For more information, visit our website: https://www.pazugames.com/ ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

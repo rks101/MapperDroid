@@ -1,0 +1,11 @@
+{
+"name" : "Hoc Phat Am Tieng Anh",
+"url" : "https://play.google.com/store/apps/details?id=com.qkstudio.elearning.pronunciation.english",
+"package" : "com.qkstudio.elearning.pronunciation.english",
+"category" : "Education",
+"description" : "a s nhng ngi hc ting Anh  u gp phi li rt nghim trng  l pht m sai. V vy chng ti vit phn mm ny vi mong mun gip cc bn ci thin k nng pht m ting Anh.  Phn mm luyn pht m ting anh c cc chc nng sau:  - Tp hp cc loi m trong ting anh bao gm cc nguyn m v ph m.  - C hnh nh v hng dn cc pht m ca tt c cc ph m cng vi v d km theo.  - Video hng dn ca c gio ngi M  - Phn thc hnh luyn ghi nh t v m v thc hnh pht m v cng b ch.  -Ti m thanh v  nghe offline v s dng phn mm khng cn n kt ni mng ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Traffic Lights",
+"url" : "https://play.google.com/store/apps/details?id=com.vvkra.trafficlights",
+"package" : "com.vvkra.trafficlights",
+"category" : "Education",
+"description" : "Simple Traffic Lights simulator.  Features: - toggle time visualization - configurable lights durations and colors - optionally red light ends together with the yellow one - optionally green light flashing when ends - the screen stays awake when lights are shown - manual mode - flashing red light mode - flashing yellow light mode - pedestrian lights ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

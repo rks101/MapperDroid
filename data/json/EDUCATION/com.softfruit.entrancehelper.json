@@ -1,0 +1,11 @@
+{
+"name" : "KEAM Rank Analyzer",
+"url" : "https://play.google.com/store/apps/details?id=com.softfruit.entrancehelper",
+"package" : "com.softfruit.entrancehelper",
+"category" : "Education",
+"description" : "Keam Rank Analyzer / KEAM College Predictor is an android application that helps the young professional college aspirants who seek admission into Kerala, to know about the details of the colleges in Kerala. The application predicts which colleges the students have a chance to get admission into based on their Keam rank.   The database of KEAM Rank Analyzer / KEAM College Predictor is working the basis of previous year KEAM allotment data.   With the unveiling of the of the KEAM Rank Analyzer the company, SoftFruit Solutions plans to be seriously into academics and is currently developing a set of academic application which are powerful enough to change the current academic scenario. The company is glad to initiate a change in our current academic system and invite you all to be part of the change.   For more info, contact: Website: www.softfruit.solutions E: mail: info@softfruit.solutions ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

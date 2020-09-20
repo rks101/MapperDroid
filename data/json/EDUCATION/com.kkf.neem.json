@@ -1,0 +1,11 @@
+{
+"name" : "KKF.NEEM",
+"url" : "https://play.google.com/store/apps/details?id=com.kkf.neem",
+"package" : "com.kkf.neem",
+"category" : "Education",
+"description" : "Sunrise Computer Software Pvt. Ltd., funded By National Skill Development Corporation - NSDC as Innovation partner has developed an Interactive Experiential learning platform called Maharishi Augmented Reality System  MARS with a view to Skill, Scale, and Speed in Indias skilling domain.  Our vision is to implement a technology-enabled solution for imparting education and skill in an interactive way to the youth living in tier 1 to tier 5 villages of India & other developing countries. The profitable organization should also achieve a social goal of imparting Skills free of cost to persons who are differently able and/or economically very poor strata of society  For further information please connect us on:- email : marketing@sunrisecompusys.com Mob : +91 99231 91663 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CALL_PHONE', 'android.permission.CAPTURE_VIDEO_OUTPUT', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'com.kkf.neem.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.CAPTURE_VIDEO_OUTPUT', 'android.permission.CALL_PHONE', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

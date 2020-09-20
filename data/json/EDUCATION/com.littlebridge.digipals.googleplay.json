@@ -1,0 +1,11 @@
+{
+"name" : "DigiPals",
+"url" : "https://play.google.com/store/apps/details?id=com.littlebridge.digipals.googleplay",
+"package" : "com.littlebridge.digipals.googleplay",
+"category" : "Education",
+"description" : "Do you want to learn English? Do you want to make lots of new friends around the world? With Little Bridge DigiPals you can!  Connect with friends across the globe in a safe, fully moderated community, where everyone is learning English.   Create your own page, design your own room, then connect with other young learners from around the world.   Need some help?  Use the Sentence Maker - a special tool to help you write in English and communicate quickly.  Collect lots of friends and chat with them in English. More English learning at www.littlebridge.com  Parents: In the Little Bridge DigiPal community, we take online safety very seriously. Thats why every post is moderated. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.WRITE_CONTACTS']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

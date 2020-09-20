@@ -1,0 +1,11 @@
+{
+"name" : "My First Words: Baby learning apps for 1 year old",
+"url" : "https://play.google.com/store/apps/details?id=com.androbaby.myfirstwords2",
+"package" : "com.androbaby.myfirstwords2",
+"category" : "Education",
+"description" : "Are you looking for baby apps for 1 year olds for baby early education? This baby learning app is designed for 1 years old toddlers to teach common everyday words. If you baby is 1 to 2 year olds than this baby learning game is for you. Toddlers like toddler learning games and this one will be their favorite toddler game for free. Kids can play baby learning games offline and no wifi needed. This is the second baby learning app from the My First Words series.  - Colorful high quality pictures keep your babies interest level high. - There are 6 baby flash card categories (Bathroom, Food, Clothes, Kitchen, Toys, Animals). - Professional pronunciation of words for kids correct learning. - Baby first words has one of the best and intuitive navigation in all toddler learning games. - Baby flash cards can keep your kids entertained anywhere, anytime! - Very nice baby songs play and baby laughs when baby image is touched in baby learning games! - Educative flashcards for toddlers and baby flash cards. - No wifi needed and you can play offline baby learning apps. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

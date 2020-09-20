@@ -1,0 +1,11 @@
+{
+"name" : "Canvas Parent",
+"url" : "https://play.google.com/store/apps/details?id=com.instructure.parentapp",
+"package" : "com.instructure.parentapp",
+"category" : "Education",
+"description" : "Traditionally, parents seeking information about their students progress had to sift through assignment planners, email instructors, or wait for report cards. But the wait is over! Canvas Parent is designed to provide visibility into your childs education at a glance. Canvas Parent allows parents to:   View assignment descriptions and due dates  Set reminders for assignments  View assignment grades  View course grades  Set grade alerts  View course announcements  Important: This mobile app is only usable by parents whose children attend schools that have enabled Canvas Parent. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

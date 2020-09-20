@@ -1,0 +1,11 @@
+{
+"name" : "Learn French with Stories",
+"url" : "https://play.google.com/store/apps/details?id=air.com.swirly.LearnFrench",
+"package" : "air.com.swirly.LearnFrench",
+"category" : "Education",
+"description" : "Learn French while enjoying 5 classic short stories by author Guy de Maupassant. Includes a series of activities and exercises to support novice learners through the stories, allowing them to learn grammatical constructions and new vocabulary along the way.  Note: this app requires at least a basic familiarity with the French language and is not intended for absolute beginners. Free for a limited time. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.BROADCAST_STICKY', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.DISABLE_KEYGUARD', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+}

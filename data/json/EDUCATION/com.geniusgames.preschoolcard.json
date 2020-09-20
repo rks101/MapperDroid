@@ -1,0 +1,11 @@
+{
+"name" : "Kids  flashcard game",
+"url" : "https://play.google.com/store/apps/details?id=com.geniusgames.preschoolcard",
+"package" : "com.geniusgames.preschoolcard",
+"category" : "Education",
+"description" : "Application created for preschool kids to learn English words. it contains: -Alphabet learning. -Numbers  -Shapes -Color -Animals -Fruits  Flash card Game : -Added games of image recognition. -Flash card are provided as per selection. -Select new game and play. -Change the type with setting button.  ------------------------------------------------------------------------------------ ABOUT US : Our aim to provide Educational apps for kids. We are creating simple application to Preschool toddler. We always try to give good App to easy learning. We are in continuous progress in app creation with learning, innovation and implementation. in addition to making new application, we are still making improvement in our existing applications.  ---------------------------------------------------------------------------------------- Important Note for Parents:- - With internet connection on, this app may display third party Advertisements or social networking websites links.   Please provide your suggestion and feedback for this app. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

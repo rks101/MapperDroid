@@ -1,0 +1,11 @@
+{
+"name" : "English Phonetics - English Text to Phonetics, IPA",
+"url" : "https://play.google.com/store/apps/details?id=com.ipa.phienam.phatam.tienganh.englishphonetics",
+"package" : "com.ipa.phienam.phatam.tienganh.englishphonetics",
+"category" : "Education",
+"description" : "You are learning English and you meet some words or sentences that you dont know how to pronounce correctly? Just text them down. Our application will base on IPA (International Phonetic Alphabet) system to give you their English phonetic, pronunciation and accents instantly (Even when you are Offline). Thank you! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

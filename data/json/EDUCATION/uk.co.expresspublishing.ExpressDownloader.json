@@ -1,0 +1,11 @@
+{
+"name" : "Express Downloader",
+"url" : "https://play.google.com/store/apps/details?id=uk.co.expresspublishing.ExpressDownloader",
+"package" : "uk.co.expresspublishing.ExpressDownloader",
+"category" : "Education",
+"description" : "The Express Downloader is a tool that manages the downloading process of Express Publishings apps to the users device. It has features such as pausing and resuming a download, but also manages broken downloads in case the network connection is lost. This way the user can pick up the download where he left off, without having to start the download from the beginning.  The Express Downloader works with any of the activation codes found inside Express Publishings books that feature a cross-platform app. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

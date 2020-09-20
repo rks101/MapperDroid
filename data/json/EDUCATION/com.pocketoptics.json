@@ -1,0 +1,11 @@
+{
+"name" : "Pocket Optics",
+"url" : "https://play.google.com/store/apps/details?id=com.pocketoptics",
+"package" : "com.pocketoptics",
+"category" : "Education",
+"description" : "Pocket Optics provides an interactive demonstration of basic principles of geometric (ray) optics. Optics professionals can use it for basic ray and image tracing.  Features:  1. Fully interactive touch interface (stylus or compatible mouse is recommended for precision). 2. Supports various screen resolutions - from small phones to large tablets and Android TVs. 3. Point light sources with variable opening angles and optical beams with variable width. The ray density can be adjusted for each source. 4. Adjustable focal lengths for Lenses and Mirrors. 5. Apertures with adjustable openings. 6. Traces images of an Object throughout the optical system. 7. Scrollable screen. 8. Bench configurations can be saved on device for future use. 9. Coordinate grid (can be turned off in Settings). 10. Optic components can be snapped to a smaller grid. 11. Visual Help illustrates all interactive features.  Credits:  Pocket Optics is inspired by Optics4 Applet by Prof. Wolfgang Christian, Davidson College (http://webphysics.davidson.edu/applets/applets.html) ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Lnct Bhopal Attendance",
+"url" : "https://play.google.com/store/apps/details?id=com.tushar.lnctattendance",
+"package" : "com.tushar.lnctattendance",
+"category" : "Education",
+"description" : "Welcome, By this App you will be able to : 1. View Your Attendance 2. Get Notification About Your Attendance 3 . View Syllabus 4 . RGPV result  Disclaimer : This is not a Official Application of LNCT. This application uses the AccSoft website for getting data . We are not Storing Users Data  All we do is to get Data after login into AccSoft Website . Just like you manually login, Our App logins it for you in Background. So the Application is only the middleware. If any one interested In seeing the code of the application you can get it from github link : https://github.com/tusharrockpg ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.tushar.lnctattendance.permission.C2D_MESSAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'host.exp.exponent.permission.C2D_MESSAGE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.SYSTEM_ALERT_WINDOW', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'host.exp.exponent.permission.C2D_MESSAGE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Vice Verba - Latin Verb Game",
+"url" : "https://play.google.com/store/apps/details?id=com.ludicroussoftware.viceverba",
+"package" : "com.ludicroussoftware.viceverba",
+"category" : "Education",
+"description" : "Vice Verba helps students of Latin master verb forms. Players parse verbs and produce forms to earn togas. When enough togas are collected, an imago of a famous dead Roman is unlocked. Collect all XII imagines, and dont forget to flip the imagines over to see their stats! Players can customize the game by choosing tenses, voices, and moods, and the presence or absence of macrons. The game increases in difficulty as the players skills improve.  Vice Verba was inspired by the Hoplite Challenge Cup, a non-digital game created by Drs. Hardy Hansen and Gerald Quinn for the intensive Greek program at CUNY. Thanks to Dr. Hansen for his encouragement and advice at the earliest stages of development. Thanks also to the University of Winnipeg for its generous financial support. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

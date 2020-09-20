@@ -1,0 +1,11 @@
+{
+"name" : "Pocket Planets",
+"url" : "https://play.google.com/store/apps/details?id=uk.co.beardedsoft.wims",
+"package" : "uk.co.beardedsoft.wims",
+"category" : "Education",
+"description" : "Pocket Planets gives you all the information you need about our solar system and human activity in space.  Learn more about all 565 astronauts who been to space. What was their mission? How long had they been up there?  See who is in space now!  Get notified when somebody goes into space.  Get up to date information about every planet and moon in the solar system.  Including: - Physical characteristics: mass, radius, density, gravity, escape velocity - Orbital characteristics: real-time distance from the Sun and Earth, orbital period, orbital speed, eccentricity, apsis, periapsis, visualise orbit - Atmosphere: pressure, atmospheric composition - Images from Nasa - Moons: compare their size and distance ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

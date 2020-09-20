@@ -1,0 +1,11 @@
+{
+"name" : "Taiwan Birds",
+"url" : "https://play.google.com/store/apps/details?id=com.erc.twbirds",
+"package" : "com.erc.twbirds",
+"category" : "Education",
+"description" : "Taiwan Birds A user-friendly yet informative bird information app. Includes most birds that found in Taiwan, it allows you to identify and share birds that you see with ease. This is the best companion while bird watching.  Main features: Records of more than 120 species of birds in Taiwan. Records of 27 Taiwan endemic bird species. Bookmark function that enables you to record and share birds information. Photos, distribution and body features of birds are included for the ease of identification. All records of bird species are sorted by 3 categories of forest birds, water birds and raptors, and are further classified by their families.  Can be used offline. The bird information is frequently updated. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WRITE_CONTACTS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_VIDEO', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WRITE_CONTACTS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_VIDEO', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

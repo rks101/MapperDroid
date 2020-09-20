@@ -1,0 +1,11 @@
+{
+"name" : "Quran Urdu Audio",
+"url" : "https://play.google.com/store/apps/details?id=com.UrduQuranAudio",
+"package" : "com.UrduQuranAudio",
+"category" : "Education",
+"description" : "Quran Audio, is the latest: Quran with urdu translation audio, witch offer you for free, Quran mp3 with urdu translation, which include all verses from the Holy Quran!  Al Quran with urdu translation is a free Quran application, very easy use, friendly interface and easy access to all Quran Urdu Mp3. All the streams are high quality, and thanks to our latest programming technologies , you can listen the latest and the best: full quran audio with urdu translation mp3.  Urdu quran full, introduce all Islamic religion, Al Quran Audio + Urdu Terjma and Quran with urdu translation. The full audiobook of the Quran Urdu Audio Translation provides best feature, which allow you to resume, the Koran from you left it. Quran with Urdu Translation, provides no bug or lag, and internet connection is required. When you open first time the application, you have to press ok to skip the cookies policies and to start listen to, Quran Holy Islamic book.  Listen Quran Urdu Audio Translation, if you dont have time to read, Al Quran Audio is your solution! Enjoy listening! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_SETTINGS', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

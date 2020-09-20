@@ -1,0 +1,11 @@
+{
+"name" : "Quick Access 3 Phase TSD",
+"url" : "https://play.google.com/store/apps/details?id=ser.eltc.threephasetsd",
+"package" : "ser.eltc.threephasetsd",
+"category" : "Education",
+"description" : "In advancement of technology, growth in Three Phase Electric Locomotive considered to be of great importance in the growth of economy of India. The main Intention behind making of this Quick Access 3 Phase TSD is for better knowledge and early troubleshooting, so as to achieve safe and punctual train operation in Indian Railway.  Hope by making this contribution by ELTC/TATA will definitely play a measure role for the growth of Indian economy. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

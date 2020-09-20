@@ -1,0 +1,11 @@
+{
+"name" : "English Grammar Master",
+"url" : "https://play.google.com/store/apps/details?id=com.vd.englishgrammar",
+"package" : "com.vd.englishgrammar",
+"category" : "Education",
+"description" : "English Grammar Master is completely offline english grammar reference book to learn and master english Grammar , covering a wide range of grammar topics .  Topics Included  1. Adjectives 2. Adverbs 3. Articles 4. Capitalisation 5. Conditionals 6. Conjunctions 7. Degree of Comparison 8 . Determiners 9. Direct & Indirect Speech  10. Distributives 11. Few , a few differences  12. Gerunds 13. Going to 14. Had Better 15. Homonyms 16. Idioms 17. Independent & Dependent Clauses 18. Irregular Verbs 19. Modals 20. Must , have to differences 21. Nouns & Pronouns 22. Parts of Speech  23. Passive Voice 24. Phrases 25. Prepositions 26. Punctuation  27. Tenses 28. Usage of Do-Make 29. Usage of Will - Going to  30. Verbs  Now No internet Required for learning grammar . Its time to learn about master english grammar along with usage on the go , offline now.  Features  - Wide Range of topics  - Complete Topics Coverage - Regular Updates - Complete support   This app will help you in your career plan and helps in preparation of english as well as competitive exams and curriculum exams .  Write us at gamesnapps4u@gmail.com for suggestions and feedback for improvements.  Follow us on twitter @gamesnapps4u ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'request android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'request android.permission.GET_TASKS']",
+}

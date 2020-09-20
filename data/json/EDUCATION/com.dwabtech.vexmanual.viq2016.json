@@ -1,0 +1,11 @@
+{
+"name" : "VEX IQ Bank Shot",
+"url" : "https://play.google.com/store/apps/details?id=com.dwabtech.vexmanual.viq2016",
+"package" : "com.dwabtech.vexmanual.viq2016",
+"category" : "Education",
+"description" : "The VEX IQ Bank Shot App is the ideal competition companion for teams, spectators, and event planners involved in the 2015-2016 VEX IQ Challenge season. The app provides quick access to the official game manual with search capability, including in-app alerts when new versions of the manual are released. Additionally, a helpful scoring calculator for Bank Shot is provided for use during practice matches or while evaluating game strategies. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

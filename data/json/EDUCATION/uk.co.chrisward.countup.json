@@ -1,0 +1,11 @@
+{
+"name" : "Count Up: A Running Total Game",
+"url" : "https://play.google.com/store/apps/details?id=uk.co.chrisward.countup",
+"package" : "uk.co.chrisward.countup",
+"category" : "Educational",
+"description" : "Reach the target total using the available number tiles and operators to create a running total. Find multiple solutions to unlock all achievements.  Improve your mental arithmetic and mathematics including division and multiplication.   *** How To Play ***  Try to reach the target (above the grid) using some or all of the available numbers and operators. Note that its a running total so 4 + 5 x 6 is effectively (4 + 5) x 6.  Achievements can be unlocked each time the target is reached. You can then reset the grid and aim to unlock more.  Your solutions will be saved so you can come back later.    *** Achievements ***   Solved: Reach the target.  Five ways: Reach the target in at least 5 unique ways.  Three: Solve using a maximum of 3 tiles.  Even: Solve using an even number of tiles.  Odd: Solve using an odd number of tiles.  Divide & Conquer: Solve with at least one use of division.  Smooth Operators: Solve using all of the operators at least once.  Stay Positive: Solve without using subtraction.  10+: Solve using only tiles of 10 and over.    *** Grid Sizes ***   3x3 (9 tiles)  4x3 (12 tiles)  4x4 (16 tiles)  5x4 (20 tiles) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

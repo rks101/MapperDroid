@@ -1,0 +1,11 @@
+{
+"name" : "5G NR/4G LTE Frequency-ARFCN Calculator",
+"url" : "https://play.google.com/store/apps/details?id=techplayon.com.earfcncalculator",
+"package" : "techplayon.com.earfcncalculator",
+"category" : "Education",
+"description" : "This App is very useful for 5G/4G RF engineers. It can be used to calculated ARFCN from given frequency and Frequency for given ARFCN number for both 5G New Radio and 4G LTE technology.   This app also provide the information about the frequency bands details approved by 3GPP with frequency range, duplex Mode and allowed bandwidth.  Cheers ! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

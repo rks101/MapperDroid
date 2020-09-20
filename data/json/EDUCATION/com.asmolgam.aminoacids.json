@@ -1,0 +1,11 @@
+{
+"name" : "Amino Acids Structures - Quiz and Flashcards",
+"url" : "https://play.google.com/store/apps/details?id=com.asmolgam.aminoacids",
+"package" : "com.asmolgam.aminoacids",
+"category" : "Educational",
+"description" : "Do you know the chemical formula of glycine?  Amino acids are building blocks of proteins and peptides. Thus, the knowledge of their structures and names is important not only for chemists, but also for biologists, pharmacists, and just for everyone studying science or medicine.  This app is the easiest and the most efficient way to learn the structures, codes, and properties of 20 standard amino acids (lysine, valine, threonine, and so on) and more than 20 related compounds (such as ornithine, taurine, cystine and others).  *****  * All 22 proteinogenic Amino Acids (20 common + Selenocysteine and Pyrrolysine). * Colorful structural formulas. * Three- and One-letter codes (abbreviations): for example, cysteine = Cys C. * Isoelectric points (pI). * Essential Amino Acids - from Phenylalanine to Tryptophan. * Polar (aspartic and glutamic acids, arginine) and Hydrophobic Amino Acids (leucine, isoleucine). * Aromatic amino acids (tyrosine). * Unnatural Amino Acids such as D-Alanine. * Dipeptides such as Aspartame.  *****  Choose the game mode:  * Spelling quizzes Structure - Name. * Multiple-choice questions (with 4 or 6 answer options). * Time game (give as many answers as you can in 1 minute). Two learning tools: * Flashcards. * Tables.  The app is translated into 8 languages, including English, German, Spanish and many others. So you can learn the names of the amino acids in any of them.  It is a perfect app for everyone studying:  * Biochemistry * Organic Chemistry  * Molecular Biology ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.asmolgam.aminoacids.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Business Mathematics and Statistics",
+"url" : "https://play.google.com/store/apps/details?id=com.unimaths.bmathsstats",
+"package" : "com.unimaths.bmathsstats",
+"category" : "Education",
+"description" : "This app contains some topics that are generally taught in Business Mathematics and Statistics Course. It is useful for first year commerce (F.Y.B.Com.) students of Pune University.  The notes are concise and would be helpful for passing and scoring. The topics covered are  1. Calculations and Solving Equations 2. Simple Interest, Compound Interest and Equated Monthly Installments 3. Shares and Dividends 4. Population and Sampling 5. Measures of Central Tendency (Mean, Median and Mode) 6. Least Common Multiple, Highest Common Factor, Ratio,Proportion, Percentage, Variation etc.  The next update will include the topics Correlation and Regression, Index Numbers, Standard Deviation, Measures of Dispersion, Profit-Loss and Linear Programming Problems.  The features of this app are: 1. Works offline 2. No Ads 3. Developed with LaTeX 4. Mobile Responsive Content  Suggestions and queries are welcome. Write them at univrmaths@gmail.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

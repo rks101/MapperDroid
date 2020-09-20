@@ -1,0 +1,11 @@
+{
+"name" : "Supplication Verses in Quran",
+"url" : "https://play.google.com/store/apps/details?id=com.ayatapps.sherifmahmoud.zekr",
+"package" : "com.ayatapps.sherifmahmoud.zekr",
+"category" : "Education",
+"description" : "Supplication Verses in Quran is an Islamic mobile application contains all supplications verses in the holy Quran sorted as per the holy Mushaf, also there is a simple explanation translated into several languages Features 1-Free 2-No Ads 3- No Internet 4- Simple explanations 5-Explanations in several languages(Arabic,English,French, Spanish,Urdu and Indonesian) And it is possible to add other languages in the coming versions  5- H.D MP3 audios, voice of Sheikh Maher Almuaakly Imam of the haram Al Makki 6-Sharing with friends through social medias 7-Generic bookmark 8-Several wonderful backgrounds   We always welcome your comments and suggestions, Please do not forget to evaluate and share. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.RECORD_AUDIO', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_CONTACTS']",
+"manifest_perms" : "['android.permission.ACCESS_INTERNET_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.SYSTEM_ALERT_WINDOW']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_INTERNET_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

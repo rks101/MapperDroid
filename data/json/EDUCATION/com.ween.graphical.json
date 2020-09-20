@@ -1,0 +1,11 @@
+{
+"name" : "Graphical",
+"url" : "https://play.google.com/store/apps/details?id=com.ween.graphical",
+"package" : "com.ween.graphical",
+"category" : "Education",
+"description" : "An easy to use, basic graphing calculator for Android.  Coming Soon  Greater graphing capabilities An improved keyboard A proper tablet design ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

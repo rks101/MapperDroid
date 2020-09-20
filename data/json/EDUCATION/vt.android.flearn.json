@@ -1,0 +1,11 @@
+{
+"name" : "French Grammar Test",
+"url" : "https://play.google.com/store/apps/details?id=vt.android.flearn",
+"package" : "vt.android.flearn",
+"category" : "Education",
+"description" : "French Grammar Test is an application with more than 10.000 multiple- choice exercises- For all learning levels in French.  +Level A1: with more than 4.000 multiple- choice exercises. +Level A2: with more than 2.000 multiple- choice exercises. +Level B1 : with more than 1.500 multiple- choice exercises. +Level B2 : with more than 1000 classified grammar exercises. + more than 6.000 multiple- choice exercises for popular grammar structures in French. French Grammar Test is AWESOME for Studying French Grammar. French Grammar Test is for basic and advanced learners on Android! Have fun learning French! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

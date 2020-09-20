@@ -1,0 +1,11 @@
+{
+"name" : "VerbBusters English Irregular Verbs Free",
+"url" : "https://play.google.com/store/apps/details?id=com.verbbusters.quiz",
+"package" : "com.verbbusters.quiz",
+"category" : "Education",
+"description" : "VerbBusters Free is discontinued. Please upgrade to Pro. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET']",
+}

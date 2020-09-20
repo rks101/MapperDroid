@@ -1,0 +1,11 @@
+{
+"name" : "Unschool: Get IGNOU, NIOS D.El.Ed, DU SOL Notes",
+"url" : "https://play.google.com/store/apps/details?id=com.instichoose.unschool",
+"package" : "com.instichoose.unschool",
+"category" : "Education",
+"description" : "Unschool is a free app where people share and save notes. Unschool free notes sharing app lets you:  1- Discuss with students in Feed Section 2- Upload Important Notes in Saved Notes Section 3- Upload PDF and images to share with others in FeedSection  4- Download notes from other students  Unschool currently supports following distance learning programs:  Indira Gandhi National Open University (IGNOU) NIOS Diploma in Elementary Education (NIOS D.El.Ed.)  School of Open Learning Delhi University (DU SOL)   Indira Gandhi National Open University (IGNOU): Get IGNOU assignments, IGNOU notes, IGNOU Results and much more. Get IGNOU guess papers and prepare for exams.  NIOS Diploma in Elementary Education (NIOS D.El.Ed.): Get NIOS D.El.Ed School Based Activities (SBA), Workshop Based Activities (WBA) and lesson plans  School of Open Learning Delhi University (DU SOL): Find complete DU SOL material here like notes and previous year question papers   Get updates on Distance Learning: http://www.getunschool.com/  Ask queries or connect with us: https://www.facebook.com/getunschool/ ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

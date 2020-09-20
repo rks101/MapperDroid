@@ -1,0 +1,11 @@
+{
+"name" : "Full Biology Questions",
+"url" : "https://play.google.com/store/apps/details?id=com.toscanyacademy.completequestions",
+"package" : "com.toscanyacademy.completequestions",
+"category" : "Education",
+"description" : "Full Biology questions and solutions is one stop app that uses extensive and detailed biology questions to help students planning to learn biology to become better with the subject. The app touches on every topics in high school biology.  Each question has a detailed solution. Users can also test their knowledge in biology and compete with others for the highest score in the test exam.   There is a complete biology dictionary to help you learn unfamiliar biology terms. Apart from that, the app contains practical biology section which will test your ability to identify and label different diagrams illustrating human anatomy, animals and plants in biology.  Full Biology app covers questions from examinations like WAEC, JAMB, GCE, GCSE, NECO, and KCSE.  Get in touch with us by using the email below with your questions and suggestions ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.GET_ACCOUNTS', 'android.permission.USE_CREDENTIALS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

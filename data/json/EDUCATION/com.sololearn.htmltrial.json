@@ -1,0 +1,11 @@
+{
+"name" : "Learn HTML",
+"url" : "https://play.google.com/store/apps/details?id=com.sololearn.htmltrial",
+"package" : "com.sololearn.htmltrial",
+"category" : "Education",
+"description" : "Were moving to our new free All-in-One app! Get it here: https://play.google.com/store/apps/details?id=com.sololearn  Learn HTML in a greatly improved learning environment with more lessons, real practice opportunity, and community support.  This FREE app will teach you how to design a web page using HTML.  In our interactive HTML courseware, carefully selected content will be followed by quizzes and checkpoints. Complete a series of hands-on exercises and practice while writing real HTML code.  Our content is concise, checkpoints are enjoyable, and learning is guaranteed.  Learn while playing and play while learning with our FREE HTML Tutorial!  Whether you want to further your career or simply gain a new skill, this tutorial will be useful for you. It is easy to start, easy to learn - are you still waiting? Start now! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.USE_CREDENTIALS']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

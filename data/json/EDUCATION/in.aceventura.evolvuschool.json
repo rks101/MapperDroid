@@ -1,0 +1,11 @@
+{
+"name" : "EvolvU Smart School for Parents",
+"url" : "https://play.google.com/store/apps/details?id=in.aceventura.evolvuschool",
+"package" : "in.aceventura.evolvuschool",
+"category" : "Education",
+"description" : "EvolvU allows smart management of school operations.   Complimentary to the web version, the app supports multiple logins. The new design also allows faster access to the dashboard.   All communication modules are present on the app including Homework, Teachers Note, Notices and Remarks  With more than 20 modules, this app allows Parents / Guardians to know about their wards in real time, acknowledge and respond to communications from teachers, admin and principal at finger tips. Parents can update their profiles, provide contact details for emergency contacts and keep the school updated ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.READ_PROFILE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

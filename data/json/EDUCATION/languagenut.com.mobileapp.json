@@ -1,0 +1,11 @@
+{
+"name" : "Languagenut",
+"url" : "https://play.google.com/store/apps/details?id=languagenut.com.mobileapp",
+"package" : "languagenut.com.mobileapp",
+"category" : "Education",
+"description" : "Complete your Languagenut assignments, unlock achievements, earn points and medals - all on your phone.  If you dont already have them, just ask your teacher for your username and password, download the app and log in!  Benefits for you: - Easily keep on top of your Languagenut assignments - From the classroom to the sofa  complete your work anywhere! - Keep track of your results & performance - Just download, log in and have more fun learning languages!  No in-app purchases. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.RECORD_AUDIO']",
+}

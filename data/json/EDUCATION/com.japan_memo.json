@@ -1,0 +1,11 @@
+{
+"name" : "Japanese Remember, JLPT N5~N1",
+"url" : "https://play.google.com/store/apps/details?id=com.japan_memo",
+"package" : "com.japan_memo",
+"category" : "Education",
+"description" : "Japanese Remember is a helpful tool to learn the Japanese language and prepare for the JLPT exam by studying JLPT vocabulary. It contains a dictionary of over 7,000 words required for the exam across N5 to N1 levels which can be searched on using kanji (hiragana/katakana) or English definition. It contains vocabulary for all levels - JLPT N1, JLPT N2, JLPT N3, JLPT N4 and JLPT N5.  Features:  1.Provides a richer Japanese database  2.Offers five-star types for favorite category. 3.Allow speak Japanese voice included network voice or TTS voice. 4.Support user category to add words as well as provide editing. 5.Provides a function to display Japanese or English only for remember. 6.Provide options for exam including time limitation, the number of questions, and testing types. 7.Extra score for daily study and completion of study project. 8.Allow to change the preference background picture. 9.Adjustable fonts and sounds. 10.Hyper-link loving online dictionary for each word. 11.Keep the location of last learning. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_PHONE_STATE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.FOREGROUND_SERVICE', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

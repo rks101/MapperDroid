@@ -1,0 +1,11 @@
+{
+"name" : "Tap/Hold Camera",
+"url" : "https://play.google.com/store/apps/details?id=com.taphold.camera",
+"package" : "com.taphold.camera",
+"category" : "Education",
+"description" : "For developer only picture and video feature in one screen with one button only, tap for picture and hold for video.  It Requires following permissions. 1) external storage permission. 2) camera permission. 3) audio recording permission.  Source code link: https://github.com/mhassanreza/Tap-hold-Camera ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.hardware.camera2.full']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.hardware.camera2.full', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

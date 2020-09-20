@@ -1,0 +1,11 @@
+{
+"name" : "Canvas Teacher",
+"url" : "https://play.google.com/store/apps/details?id=com.instructure.teacher",
+"package" : "com.instructure.teacher",
+"category" : "Education",
+"description" : "Time is a teachers most valuable resource. Save time and use Canvas more efficiently from your mobile device with Canvas Teacher.  Canvas Teacher allows teachers to facilitate their courses on the go, both inside and outside the classroom. This app provides quick access to three of the most frequent course facilitation tasks for teachers:   GRADING: Browse submissions and provide feedback to your students with a new and improved mobile SpeedGrader embedded in this app.   COMMUNICATING: Send announcements and messages (including Message Students Who...), and participate in course discussions from the palm of your hand.  UPDATING: Need to change a due date? Or publish an assignment? Or fix a misspelling? Canvas Teacher allows you to update your course content.  Canvas Teacher is the perfect mobile Canvas companion for course facilitation! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

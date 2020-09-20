@@ -1,0 +1,11 @@
+{
+"name" : "Mental arithmetic. Math kids games",
+"url" : "https://play.google.com/store/apps/details?id=com.andrew.marusov.counting1",
+"package" : "com.andrew.marusov.counting1",
+"category" : "Education",
+"description" : "This app allows to improve mental calculation skills easily and quickly.  Our app are ideal for kids making their first steps in learning math, as well as for adults who want to train their brain.  Keep your brain fit through regular math exercises. Your brain will work faster and more efficiently.  Topics: 1. Addition and subtraction within 10 2. Addition and subtraction within 20 3. Chains of examples within a 10 4. Addition and subtraction of two-digit and one-digit 5. Addition and subtraction of numbers, one of which is round 6. Addition and subtraction within 100 7. Multiplication and division by one number 8. Multiplication and division within 100 9. Addition and subtraction within 1000 (round numbers) 10. Chains on addition and subtraction within 100 11. Multiplication and division within 1000 (round numbers) 12. Chains on multiplication and division within 100 13. Mixed chains within 100 14. Chains with brackets 15. Negative number 16. Chains with negative numbers 17. Comparison of fractions 18. Addition and subtraction of fractions 19. Multiplication and division of fractions ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

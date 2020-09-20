@@ -1,0 +1,11 @@
+{
+"name" : "Salesforce Kid",
+"url" : "https://play.google.com/store/apps/details?id=benjamin.com.salesforcekid",
+"package" : "benjamin.com.salesforcekid",
+"category" : "Education",
+"description" : "Now it is very easy to learn salesforce development with this very easy blogs. with simple UI and easy application.  Learning Platform for all Salesforce beginners to learn and grow professionally from basic to advance Salesforce development training for FREE  Salesforce kid is a well-organised platform with different categories like  - Apex Development - Lightning Development - Integration Development - Integration Solution - Interview Preparation  Easy To Learn - Under each category, you will find Episode wise sequence so that you can learn salesforce development in sequencing manner Just like reading a book.  Weekly Updates - Every week new blog post will be updated and you can ask your queries in the comment section for each blog.  Easy To Learn - All the salesforce content is written by Salesforce experts hence salesforce kid is a perfect partner for any salesforce learner.  Dynamic Content - Salesforce kid platform is hosted on www.salesforcekid.com, hence every user will get new post updates every week.  Absolutely FREE !! - All In One App available for free  Conquer Yourself  Wish you all the very best !! Happy Learning  (Learn. Help. Share) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

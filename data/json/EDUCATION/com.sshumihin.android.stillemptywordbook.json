@@ -1,0 +1,11 @@
+{
+"name" : "Still Empty Wordbook",
+"url" : "https://play.google.com/store/apps/details?id=com.sshumihin.android.stillemptywordbook",
+"package" : "com.sshumihin.android.stillemptywordbook",
+"category" : "Education",
+"description" : "Still Empty Wordbook will help your to learn foreign languages or to improve your vocabulary. With Still Empty Wordbook you can memorize a foreign word and it`s translation. This application is free.  How to use: 1. Create a new category for new words. 2. In newly created category add a new word which you want to memorize. You can use Speech-To-Text if you don`t want typing - select a language (button above mic-icon) and just tap on mic-icon on the right of the text field. 3. Select the color you like. It`s help you for memorise a new word. 4. Tap on Save.   Other main features: - the Quiz! You can to train your mind everywhere. - you can save the vocabulary to *.csv on SD card. *.csv easy for read any text editors like Excel, Word, Notepad. In the main activity Menu - Save File. - you can load new words or clear you vocabulary and create new one. In the main activity Menu - Load File.  FAQ: https://numbervalley.wordpress.com/still-empty-wordbook/ ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

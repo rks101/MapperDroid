@@ -1,0 +1,11 @@
+{
+"name" : "Bible Study Buddy - Prophecy",
+"url" : "https://play.google.com/store/apps/details?id=com.staralightstarbright.bsbprophecy",
+"package" : "com.staralightstarbright.bsbprophecy",
+"category" : "Education",
+"description" : "Your very own bible study tools in one app!  This prophecy study app is exactly as it says! Enjoy studying bible prophecy with this helper by your side.  Great tool for amateurs and beginners just coming to learn about God and His plan of salvation for us, helpful for those who are already deep into study and are keen to know more; lots of fun to have in bible study groups as a visual aid!   Complete with bible, diagrams, images, and tools all available offline to get you started and have with you on-the-go!  Dont forget to share with your friends and family!   Enjoy!     Notes: * Be patient when sharing the larger charts as the app will need time to load them. * The limit for gmail attachment uploads is 20mb; hence some charts may not be uploadable. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

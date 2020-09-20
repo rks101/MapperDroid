@@ -1,0 +1,11 @@
+{
+"name" : "USMLE Biostatistics",
+"url" : "https://play.google.com/store/apps/details?id=com.ollytreeapplications.epistats",
+"package" : "com.ollytreeapplications.epistats",
+"category" : "Education",
+"description" : "USMLE Biostatistics 2x2 Sample Table  Our simple and easy to use 2x2 sample table is great for making quick calculations in biostatistics. Simply enter data into the highlighted boxes and the solution will appear. All of the most important equations are here  from absolute risk reduction to odds ratio to specificity. But as your knowledge and understanding of medical biostatistics grows, we suggest that you become accustomed to solving questions without the use of our 2x2 sample table.   Also be sure to check out the flashcards, board review questions, and video lectures.  If you like this app, check out our new app in the USMLE series specifically created to help you with clinical skills, USMLE Clinic available at: https://play.google.com/store/apps/details?id=com.ollytreeapplications.usmleclinic  Key Concept:  So you want to change a patients current therapy because a new medication has a decreased risk of a particular side effect. That sounds reasonable, but have you taken other issues into consideration (e.g., efficacy, other adverse reactions, cost, etc.)? And how about the number needed to treat? Do you know how many patients would need to receive the new therapy as opposed to the old one before one patient less experiences the side effect? Determining the number needed to treat can be useful in clinical practice when analyzing the risk versus benefit between two therapies. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "IKS Academy",
+"url" : "https://play.google.com/store/apps/details?id=in.simplestweb.iksacademy",
+"package" : "in.simplestweb.iksacademy",
+"category" : "Education",
+"description" : "IKS (Indian Knowledge System) Academy. We teach you the ways of the Siddis.  The greatest contribution of Ancient India to the world is her material and spiritual science. No civilization, however old it be, has ever attained the level of sophistication, reached by the great ancient Siddhas, Yogis and Rishis of India in material and spiritual science.   What they had was not just intelligence but intuition. They could see, hear or feel beyond the realm of the five senses. They did not need telescopes, microscope or other scientific equipment to unravel the mysteries of the cosmos. They only relied on the most powerful instrument in the world the human soul which has it in a latent sense, omniscience and omnipotence.  IKS Academy Contact Details. https://www.iksacademy.com iksystemacademy@gmail.com +6013 350 5903 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.sec.android.provider.badge.permission.WRITE', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'com.majeur.launcher.permission.UPDATE_BADGE', 'com.htc.launcher.permission.READ_SETTINGS', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.sec.android.provider.badge.permission.READ']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

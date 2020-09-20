@@ -1,0 +1,11 @@
+{
+"name" : "National Geographic Learning 2020 Catalog LATAM",
+"url" : "https://play.google.com/store/apps/details?id=com.cengage.ngl2019catalogla",
+"package" : "com.cengage.ngl2019catalogla",
+"category" : "Education",
+"description" : "The National Geographic Learning English Language Teaching 2020 Catalogue App for Latin America includes relevant information about our current publications, access to additional resources for each series, information about authorized distributors in the region and much more! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_FINE_LOCATION', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CALL_PHONE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

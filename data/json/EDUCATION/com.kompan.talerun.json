@@ -1,0 +1,11 @@
+{
+"name" : "HC Andersen Tale Run",
+"url" : "https://play.google.com/store/apps/details?id=com.kompan.talerun",
+"package" : "com.kompan.talerun",
+"category" : "Educational",
+"description" : "Run, swim and jump through the wonderful universe from the fairy tales of Hans Christian Andersen: The Ugly Duckling, The Little Mermaid and The Tinderbox.   -Play as 3 iconic characters, one from each of the fairy tales.   -Run through the duck yard as The Ugly Duckling on a journey to become a beautiful swan.   -Swim in the magical ocean depths, collecting pearls as The Little Mermaid.   -Collect money to appease The Tinderbox Soldier as The Dog with eyes as big as teacups.   -Find magical books to switch between the three fairy tales during the game.   -Swipe left, right, up and down to navigate and avoid obstacles.   -Collect feathers, coins and seashells to increase your score.   -Find three special items to enter each characters unique Frenzy Mode.   -No in-game purchases or links to websites. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

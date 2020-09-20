@@ -1,0 +1,11 @@
+{
+"name" : "Iqra 3 with Audio",
+"url" : "https://play.google.com/store/apps/details?id=iqradigital.com.book3",
+"package" : "iqradigital.com.book3",
+"category" : "Education",
+"description" : "Iqra 3 with Audio is one of the volumes of the Iqra Book Series, which consists of 6 volumes and developed by Digital Iqra.  In the application Iqra 3 with Audio, the children will be introduced to mark kasrah, sukun, and long or short reading a word.  The Applications Iqra 3 with Audio contains 30 pages of learning.  Iqro method is a method of reading the Quran that emphasize direct the reading exercises. The guidebook Iqro consists of 6 volumes at levels ranging from simple, step by step to the perfect level.  Iqro method is in practice does not require an assortment of tools, as emphasized in reading (reading letter Al-Quran fluently). Reading directly without spelled. That is introduced names of letters hijaiyah with active student learning (CBSA) and more individual.  This App is Book 3 of From 6 Iqra Book ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SEND_SMS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.SEND_SMS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

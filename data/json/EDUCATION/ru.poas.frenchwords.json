@@ -1,0 +1,11 @@
+{
+"name" : "French Words. Flash Cards. Vocabulary builder",
+"url" : "https://play.google.com/store/apps/details?id=ru.poas.frenchwords",
+"package" : "ru.poas.frenchwords",
+"category" : "Education",
+"description" : "Learning French? Improve your vocabulary with ReWord:  Thousands of French words and phrases divided into categories.  High-quality pronunciations of English words available for downloading for each category.  Ability to add custom words and categories.  Smart learning algorithm based on the Hermann Ebbinghaus learning curve.  Offline mode.  Simple user interface with hints upon the first usage. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.GET_ACCOUNTS', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS', 'com.android.vending.BILLING']",
+}

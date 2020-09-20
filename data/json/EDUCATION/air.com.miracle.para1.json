@@ -1,0 +1,11 @@
+{
+"name" : "PARA 1 with Hijje (sound)",
+"url" : "https://play.google.com/store/apps/details?id=air.com.miracle.para1",
+"package" : "air.com.miracle.para1",
+"category" : "Education",
+"description" : "The Holy Quran is divided into 30 chapters also known as Thirty PARAs. In this application PARA ONE which is also known as Alif laam meem PARA is presented. It is Para 1 of the Holy Quran (Quran) 9 Lines Black / Color Coded Tajweed.      1 +           (   )                                      1,    /    The Holy Quran is a compilation of the verbal revelations given to the Prophet Muhammad over a period of 23 years. The Holy Quran is the Holy Book of the Muslims. It lays down for them the law and commandments, codes for their social and moral behavior, and contains a comprehensive religious philosophy. Its language is Arabic. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING', 'android.permission.DISABLE_KEYGUARD', 'android.permission.INTERNET', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.DISABLE_KEYGUARD', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.READ_PHONE_STATE']",
+}

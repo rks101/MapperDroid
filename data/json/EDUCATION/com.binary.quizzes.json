@@ -1,0 +1,11 @@
+{
+"name" : "Quizzes to Test Your Vocabulary",
+"url" : "https://play.google.com/store/apps/details?id=com.binary.quizzes",
+"package" : "com.binary.quizzes",
+"category" : "Education",
+"description" : "Pick up the essential words of these languages:   Japanese,   Chinese (both Mandarin Chinese & Cantonese Chinese),   Spanish (both Castilian Spanish & Latin-American Spanish),   English (both American English & British English),  French,  German,  Dutch,  Italian,  Russian,  Polish,   Portuguese (both European Portuguese & Brazilian Portuguese),  Hebrew,  Thai,  Arabic,  Turkish,  Tagalog (Filipino language),  Indonesian,  Danish,  Swedish,  Norwegian,  Icelandic,  Hungarian,  Hindi, Maori, Samoan & Esperanto and Hawaiian!  Quizzes takes boring out of language learning: useful vocabulary is beamed into your memory via gorgeous minimalist illustrations and fast paced micro-games.  The fun part? It only takes 5 minutes a day. In fact thats all the time you get! Insane? Yes. Works? Absolutely!   Quizzes offer a complete package for free for casual learners: 5 minutes of blazingly fast and epic fun learning per day, more than 1500 words, 21 languages, 5 games. More dedicated language learners can subscribe for premium features to achieve much faster progress and of course provides unlimited learning time. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "French for Kids",
+"url" : "https://play.google.com/store/apps/details?id=gizpark.frenchforkids",
+"package" : "gizpark.frenchforkids",
+"category" : "Education",
+"description" : "French for Kids is a free educational application to learn basic French words in a fun way.  Categories of French for Kids -Animals -Numbers -Fruits -Vegetables -Colors -Transport -Countries -Occupations -School Objects -Verbs -Sports -Music Instruments -Clothes -Foods -Kitchen -Bathroom    Parts of French for Kids Learning: A random French word from the selected category is displayed with its picture and pronunciation Game 1: One random picture from the selected category is displayed and you are asked to select the correct French word from the options. Game 2: One random French word from the selected category is displayed and you are asked to select the correct picture from the options. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET']",
+}

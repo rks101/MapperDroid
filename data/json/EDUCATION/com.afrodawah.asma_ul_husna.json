@@ -1,0 +1,11 @@
+{
+"name" : "Asmaul Husna - 99 Beautiful Names of Allah",
+"url" : "https://play.google.com/store/apps/details?id=com.afrodawah.asma_ul_husna",
+"package" : "com.afrodawah.asma_ul_husna",
+"category" : "Education",
+"description" : "Asmaul Husna - is the best Android App that helps you to listen, learn, recite and memorize 99 Beautiful names of Allah.   Alhamdulilah, we built this application with the intention of Dawah for Muslims and non-Muslims to learn about Allah(SW) by knowing his names and attributes.  This App also includes Quranic Verses , Hadiths of the Prophet(SAW) and Duas related with the beautiful names of Allah.  The App is totally FREE and has NO Adds. Our reward is from Allah(SW).   Please help us spread the message of Islam by sharing the App with your Friends and Family. If you wish, you can also help us make more Islamic Apps by supporting us through your donations.  *Features  - Easy and Clean UI - Includes 99 names of Allah. - Includes Quranic Ayas, Hadith and Duas  - Includes both short meaning and detailed meaning(explanation) of the Names. - Enables you to read the names in Parallel with a Nasheed. - Includes Audio for each name. - Enables you to access the names of Allah in both Grid form and Page Form. - No Cost( Totally fee) with No Adds - Allows you to count on a Misbaha(bead) for making Zikir - Totally Offline - it requires No Internet connection. - Allows you to manage favorite Names as Bookmarks.   Please help us by reporting bugs and/or corrections in the content.  For more information about Asmaul Husna and other Islamic Dawah materials and Apps, please visit our website at: https://www.afrodawah.com/  Please do not forget us in your Duas.  Jazakum Allahu Kheiren. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.READ_CALL_LOG', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Faster Than Morse code",
+"url" : "https://play.google.com/store/apps/details?id=com.stastnj1.fasterthanmorse",
+"package" : "com.stastnj1.fasterthanmorse",
+"category" : "Education",
+"description" : "Do you want to learn Morse code, improve your skills? Reading, writing, reception of a message? This app can help you to train Morse code anywhere you are - in the bus, in the train, waiting for a tramway. Wherever you go, there you can learn. Gaming mode, tracking of hi-scores, and all this is free of charge, and without ads :-).  Faster Than Morse helps you to - train Morse code wherever you go: fast and intensive training suitable when you e.g., wait for a bus. Wherever I go, there I learn! - improve in Morse code and track your progress via high score - test your Morse listening ability to receive a complex message - quickly and easily convert text to morse code and back  And more: - fits nicely even on the smallest phone displays. - tracking of mistakes; symbols you do not know well are repeated more often  - sharing is supported. You can select a text in email client, send it via share button to the FTM, convert to the morse code and via share in the FTM send to Facebook, SMS message,...  - you can edit the Morse code table  - configurable speed of sound output in words per minute. Farnsworth timing of morse code transmission is supported, CODEX/PARIS standard word supported - under continuous development and being improved since March 2013 :-)  HAVE FUN! ",
+"desc_perms" : "['android.permission.SEND_SMS', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.VIBRATE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

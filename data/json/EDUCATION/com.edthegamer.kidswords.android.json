@@ -1,0 +1,11 @@
+{
+"name" : "Words for kids (free)",
+"url" : "https://play.google.com/store/apps/details?id=com.edthegamer.kidswords.android",
+"package" : "com.edthegamer.kidswords.android",
+"category" : "Educational",
+"description" : "It was made for children from ages 5 to 8, and was also successfully tested by children with autism.  Letters from randomly chosen words are shuffled, and its up to your child to put each letter in the correct order by selecting it and dragging it to the right spot.  Your child has both one written and one oral clue that he/she can refer to at any time.  Level 2 of the game makes use of the same words as Level 1, but this time your child must match the word with the right picture.   Show the game to your child, explain him/her how it works, and watch him/her play and learn how to spell and write each word correctly.   Try this free version before buying the complete game. (The full version includes more words, pictures, and unlocked levels, and the gameplay is no longer interrupted by ads.)   This game is available for English, Turkish, Spanish, French, Italian and Portuguese (Brazil) languages.     *** PLEASE NOTE that this app uses the Text-to-Speech component, which must be installed on your device. *** ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['com.edthegamer.kidswords.android.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

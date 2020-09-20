@@ -1,0 +1,11 @@
+{
+"name" : "Hindi Grammar | рд╣рд┐рдиреНрджреА рд╡реНрдпрд╛рдХрд░рдг",
+"url" : "https://play.google.com/store/apps/details?id=general.hindi.grammar",
+"package" : "general.hindi.grammar",
+"category" : "Education",
+"description" : "This General Hindi Grammar App is sufficient Study Material for All Students who are keen to get commend over Hindi in Exams. General Hindi Grammar app will also help you in various Hindi exams. It will be also useful for people searching for government jobs or for are preparing for any entrance exams.   No need to Buy General Hindi and Hindi Grammar Books,No need to Downlaod General Hindi and Hindi Grammar Notes, Just Download This General Hindi & Hindi Grammar App.   Contents Topics Covered in General Hindi App:    [Noun]   [Pronouns]   [Verb]   [Tense]      [Adjective]  ,           [The compound]         [Synonyms]    [Antonyms]     [Essay Writing]              -               Features :  Hindi Grammar Notes  Hindi Grammar quizzes  Comprehensive And Valuable Content  Internet connectivity is not required at all to use this app.   You can share any question and your score of quiz with your friend.  Attractive User Interface  Free  All questions are very important if you preparing for competitive exams.  All questions are in Hindi language.  Kinldy Rate and Share this app to help other Students too. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE']",
+}

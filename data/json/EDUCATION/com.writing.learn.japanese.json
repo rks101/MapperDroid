@@ -1,0 +1,11 @@
+{
+"name" : "Japanese Alphabet Writing",
+"url" : "https://play.google.com/store/apps/details?id=com.writing.learn.japanese",
+"package" : "com.writing.learn.japanese",
+"category" : "Education",
+"description" : "Download Japanese Alphabet Writing right away, and start to learn Japanese language, practice lots of tests offline, anytime, anywhere!   Features:  Practice writing with guides before testing yourself, making learning extremely fast and stress-free.   Free Japanese Alphabet (including both Kanji letters and Hiragana letters), practice with Japanese letters offline   With Japanese Alphabet Writing you can write anywhere! No longer be restricted to writing only when you have paper and a pen!   Japanese Alphabet Writing will save score and progress analytics  Please send us your feedback abount to the Japanese Alphabet Writing app. Thank you and best regards! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.SYSTEM_ALERT_WINDOW']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW']",
+}

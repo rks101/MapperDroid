@@ -1,0 +1,11 @@
+{
+"name" : "LeafSnap - Plant Identification",
+"url" : "https://play.google.com/store/apps/details?id=plant.identification.snap",
+"package" : "plant.identification.snap",
+"category" : "Education",
+"description" : "When you discover a beautiful wildflower or unusual looking shrub, and you struggle to discern its genus. Instead of wasting time trawling through websites or asking your gardener friends, why not simply take a snap and have an app do the work for you? Plant Identification can currently recognize 90% of all known species of plants and trees, which covers most of the species you will encounter in every country on Earth. Features: - Instantly Identify thousands of plants, flowers, fruits and trees with advanced artificial intelligence - Learn more about plants, including beautiful pictures around the world  - Quickly identify plants, flowers, trees and more. Have instant access to a huge Plant Database that is constantly learning and adding information on new plant species.  Download Plant Identification and enjoy identifying flowers, trees, fruits and plants on the go! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

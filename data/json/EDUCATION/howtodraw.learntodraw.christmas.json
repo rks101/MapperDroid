@@ -1,0 +1,11 @@
+{
+"name" : "Learn to Draw Christmas",
+"url" : "https://play.google.com/store/apps/details?id=howtodraw.learntodraw.christmas",
+"package" : "howtodraw.learntodraw.christmas",
+"category" : "Education",
+"description" : "Detailed drawing step to learn. Dont need any experience and skills, teach you how to draw the beautiful Christmas pictures step-by step. Learn to draw Christmas not only teach you how to draw Santa Claus, elk, Christmas tree, gift and more, but also coloring the pictures.   Exquisite Christmas drawing pictures.  Detailed drawing step to learn. teach you step-by-step.  Many beautiful drawing tools, just drawing the picture as you like.  The joyful of learning and coloring: coloring with your favoriate colors.  My Gallery : to show your drawing as an artist!  Easy to learn drawing, Explore the wonderful world of color! Each works that kids create is unique and wonderful!  Dont miss it ! DOWNLOAD NOW ! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

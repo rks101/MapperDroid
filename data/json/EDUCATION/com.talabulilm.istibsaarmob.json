@@ -1,0 +1,11 @@
+{
+"name" : "Istibsaar",
+"url" : "https://play.google.com/store/apps/details?id=com.talabulilm.istibsaarmob",
+"package" : "com.talabulilm.istibsaarmob",
+"category" : "Education",
+"description" : "Mahad al-Hasanaat al-Burhaniyah introduces the all new Talabulilm Istibsaar app. Through this app you will gain easy access to  1) Waaz points: - Which is been released every day at the evening. Every year, waaz points are available in seven different languages.  2) Media Content: Explanation Videos and Audios.  3) Quizzes: - You will revise mawaiz nooraniyyah through various types of quizzes and activities.  4) Get access to waaz mubarak listening and writing tools such as mind maps, graphic organizers, children workbook etc.  5) Directions (through maps) to istibsaar sessions will also be given.  6) You will also receive important notifications through this app.  7) F.A.Q and Ask questions: You will be able view frequently asked questions and ask questions regarding mawaiz nooraniyyah through this app.  8) You can do tasawwuraat araz through this app.  9) You can browse all the media and content of all Ashara Mubaraka category wise through this app.  Note: All publications in this app are secured by the copyright of alJamea-tus-Saifiyah. No content therefrom may be published in any manner without the express written consent of the copyright holder. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "TimzTables Times Tables",
+"url" : "https://play.google.com/store/apps/details?id=com.timztableslite.is.pradeepapp",
+"package" : "com.timztableslite.is.pradeepapp",
+"category" : "Education",
+"description" : "Voice Interactive - Animated - Audio - Multiplication Tables - 21 Languages (English, Franais, Deutsch, , Italiano, , Punjabi, , Portugus, , P, Espaol, , Gujarati, , ting Vit, Bengali, Bahasa Indonesia, Trke, , Polski ). NOTE: 4 Languages have been added since originally published.   This app, TimzTables, allows children to learn Times Tables by rote - that is, memorization through repetition.This method is time proven. It embeds the Tables in a child mind at an early age and is akin to training in sports where neural pathways in the brain are reinforced and, with repetition, become stronger, making easier to recall and harder to forget.  This app is also a great way for kids to learn numbers, and phrases in another language. This app allows for testing of a child knowledge of Multiplication through voice input. Voice recognition is available in most of the languages in which the app is offered. If your language is not supported, a child could say the answer in English or choose another language. WiFi or LTE is needed for voice recognition in all languages, except in English which also allows for Airplane Mode operation. 3G networks does not provide optimum performance at all times, but WiFi and LTE has low latency and thus has a faster response time. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.RECORD_AUDIO', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

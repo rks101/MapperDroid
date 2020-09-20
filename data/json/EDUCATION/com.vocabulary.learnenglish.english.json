@@ -1,0 +1,11 @@
+{
+"name" : "English Vocabulary Words - Core vocabulary",
+"url" : "https://play.google.com/store/apps/details?id=com.vocabulary.learnenglish.english",
+"package" : "com.vocabulary.learnenglish.english",
+"category" : "Education",
+"description" : "Learn and master 3000 English core vocabulary: All you need to master English Vocabulary Words is this app.  **Features of Core vocabulary** + Added game for learn vocabulary easy ( text ->image, image->text, text->text ) + Share app with your friends + Auto download word + Support dictionary + Display the study results by chart + Memory game   **More category for you** +Animal +Clothing +Emotions +Drinks +Food +Fruit +Furniture +Insects +Music +Ocean  Core vocabulary is suitable for all ages, will give you the feeling of being happy Thank you for using it ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_CONTACTS', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_AUDIO']",
+}

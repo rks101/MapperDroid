@@ -1,0 +1,11 @@
+{
+"name" : "Kvíz do kapsy (zdarma)",
+"url" : "https://play.google.com/store/apps/details?id=cz.lukas.memocards.quiz.themes.trial",
+"package" : "cz.lukas.memocards.quiz.themes.trial",
+"category" : "Education",
+"description" : "Otestujte si svoj anglickou slovn zsobu a zskejte co nejvy skre! Na kad test se mete pipravit procviovnm problematickch slovek.   - Vhodn pro zatenky i pokroilej studenty  - Verze zdarma obsahuje 5 ukzkovch test  - Pln verze obsahuje 38 test se zvyujc se obtnost  - Kad test se skld z 50 otzek k danmu tmatu  - Kompletn databze obsahuje 2300 kvalitnch otzek  - Odpovi vdy obsahuj pklady pouit danho vrazu v praxi  - Aplikace pehrv vslovnost vech odpovd a pklad Test your English vocabulary and get the highest score! For each test, you can prepare by practicing vocabulary problem.  & Nbsp; - Suitable for both beginners and advanced students & Nbsp; - Free version contains 5 sample tests & Nbsp; - Full version contains 38 tests with increasing difficulty & Nbsp; - Each test consists of 50 questions on the subject & Nbsp; - The complete database contains 2300 quality issues & Nbsp; - always answers an example of using the term in the practice & Nbsp; - Application plays the pronunciation of all responses and examples ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'cz.lukas.memocards.quiz.themes.trial.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

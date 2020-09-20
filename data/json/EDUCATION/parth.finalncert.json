@@ -1,0 +1,11 @@
+{
+"name" : "PINDICS",
+"url" : "https://play.google.com/store/apps/details?id=parth.finalncert",
+"package" : "parth.finalncert",
+"category" : "Education",
+"description" : "PINDICS can be used by teachers themselves for assessing their own performance and to make continuous efforts to reach the highest level. These can also be used for teacher appraisal by the supervisory staff/mentor to assess and to provide constructive feedback for the improvement of teacher performance. Each performance indicator is rated on four point scale ranging from 1 to 4 indicating the levels of performance. The rating points are: 1. Not meeting the expected standard  2. Approaching the expected standard 3. Approached the expected standard  4. Beyond the expected standard If the teacher performs tasks in an innovative way and makes extra efforts for improving student performance can be rated as beyond the expected standard. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

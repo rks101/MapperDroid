@@ -1,0 +1,11 @@
+{
+"name" : "Prophetic Guidance - Logical Progression",
+"url" : "https://play.google.com/store/apps/details?id=com.wagwan.logicalprogression",
+"package" : "com.wagwan.logicalprogression",
+"category" : "Education",
+"description" : "Logical Progression Quranic Progression  An in-depth and comprehensive study of Islam Live weekly lessons, classical and contemporary texts, and more. All previous lessons are available to registered students, completely free of charge. Take advantage of this great resource and join today! You wont regret it, and thats a promise.  App Features - Lesson reminders - Play and download podcasts - Play the lessons direct from YouTube. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

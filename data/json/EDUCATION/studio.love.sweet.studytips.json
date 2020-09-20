@@ -1,0 +1,11 @@
+{
+"name" : "Study Tips",
+"url" : "https://play.google.com/store/apps/details?id=studio.love.sweet.studytips",
+"package" : "studio.love.sweet.studytips",
+"category" : "Education",
+"description" : "For many of us, the summer represents the perfect opportunity to reflect on where we are, think about where wed like to go, and make a plan for how we can get there. This is particularly true of students that are looking to make the most of their study time and get better grades at school. Thats why weve put together a list of study tips and tricks to help you develop a learning strategy that will allow you to achieve your study goals in 2020.  Study isnt just for the night before an assignments due or the night before an exam. Its never too early  or too late  to develop good study habits. The sooner you get into a good study groove, the easier everything will be and the more your chances of getting good marks will improve. Here are our top tips for getting the most out of study.    Steps to Effective Study  Study Setting  Fast and Effective Study Tips  Remember Fast and More Tips  Exam Preparation Tips  Success on the Exam Day Tips  Lecture Tips  Reading Tips  Writing Tips  Test Taking Tips  Learn any Languages Tips  Focus Skill Tips  Stress Management Tips  Time Management Tips  Organization Skill Tips  Wellness Tips  Reaching Out Tips  Life Skills Tips  Sat Tips and Tricks  Tips To Ace The GRE  Math Study Tips  Study for Biology  Tips for the Lazy Student  Study Quotes  Thank for choosing Study Tips app! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.SET_WALLPAPER', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.SET_WALLPAPER', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

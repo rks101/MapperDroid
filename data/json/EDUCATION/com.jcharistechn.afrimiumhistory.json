@@ -1,0 +1,11 @@
+{
+"name" : "Afrimium",
+"url" : "https://play.google.com/store/apps/details?id=com.jcharistechn.afrimiumhistory",
+"package" : "com.jcharistechn.afrimiumhistory",
+"category" : "Education",
+"description" : "Discover more about Africa in a simplified way with Afrimium History App.  Afrimium is a compilation of African History,world history, black inventors & achievement,interesting facts , proverbs and quotes from the heart of Africa. Afrimium is a mini-platform for discovering more about Africa ,our history and our future and disseminating ideas about how to solve the challenges we have in Africa.   Features  * Find Simplified History of Africa * Explore African History,World History,etc * Organized Ancient History * Concise knowledge about Africa. * Black achievers and inventors. * Inspirational Quotes and over 600 Proverbs * 400 + facts about Africa * Readers digest * Get top news,sports,history to read * Useful Resources about Africa * Offline and online support * Country by country search * Historical Timelines  Afrimium helps you to stay abreast with general knowledge about the African continent. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

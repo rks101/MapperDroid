@@ -1,0 +1,11 @@
+{
+"name" : "Rregullat e Haxhit dhe Umres",
+"url" : "https://play.google.com/store/apps/details?id=com.arsye.rregullatehaxhit",
+"package" : "com.arsye.rregullatehaxhit",
+"category" : "Education",
+"description" : "Rregullat e Haxhit dhe Umres u mundson donjrit i cili synon kryerjen e haxhit dhe umres njohjen e rregullave t tyre.  Aplikacion i leht pr t u prdorur dhe gjithprfshirs. N gjuhn shqipe sht i zhvilluar n baz t rregullave t haxhit TEMETTU t trajtuara n renditje sipas metodes profetike.   Fillon me gjrat e nevojshme para veshjes s ihramit, veshjes s ihramit, hyrjen n Mekke, kryerjen e umres, haxhin t ndar n ditt e tij deri tek perfundimi i tij.  Shkarkojeni haxhinj t nderuar. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

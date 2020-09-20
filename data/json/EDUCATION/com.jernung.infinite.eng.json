@@ -1,0 +1,11 @@
+{
+"name" : "Infinite English",
+"url" : "https://play.google.com/store/apps/details?id=com.jernung.infinite.eng",
+"package" : "com.jernung.infinite.eng",
+"category" : "Educational",
+"description" : "Learn English by playing fun and interactive games in space! Infinite makes learning the most common words of English easy and fun with its game-first method of learning.    Gain mastery of words by being tested on the audio, text, and images individually.   Quicken your word recall by answering questions against the clock.   30 second levels allow for learning no matter how much time you have.   Customize your review by selecting words from any category to be tested on. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+}

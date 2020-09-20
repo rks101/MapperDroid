@@ -1,0 +1,11 @@
+{
+"name" : "Events ROK",
+"url" : "https://play.google.com/store/apps/details?id=com.rockwellautomation.eventsROK",
+"package" : "com.rockwellautomation.eventsROK",
+"category" : "Education",
+"description" : "The official mobile app for Rockwell Automation events, including Automation Fair event and Rockwell Automation TechED.   The Events ROK mobile app for Rockwell Automation is the official app for events. This app will allow attendees to stay up-to-date with the latest program information and receive real-time notifications from the event planner. Attendees will also be able to send messages to other attendees privately within the app, view speaker profiles and maps, provide feedback and much more.  Make the most of your time at the featured Rockwell Automation events with this app.  Create your daily schedule Search for exhibitors, sessions and speakers Follow social media channels Navigate the event with interactive floor maps Stay up-to-date on all the event news ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.WRITE_CALENDAR', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.VIBRATE', 'com.rockwellautomation.eventsROK.permission.C2D_MESSAGE', 'android.permission.READ_CALENDAR', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_CONTACTS', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_CALENDAR', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CALENDAR', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WRITE_CONTACTS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

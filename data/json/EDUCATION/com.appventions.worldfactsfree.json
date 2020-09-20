@@ -1,0 +1,11 @@
+{
+"name" : "World Factbook & Statistics 2020 FREE",
+"url" : "https://play.google.com/store/apps/details?id=com.appventions.worldfactsfree",
+"package" : "com.appventions.worldfactsfree",
+"category" : "Education",
+"description" : "*** World Facts Featured on Google Play! ***  Get to know more about the World with World Facts.  World Factbook 2019 FREE provides valuable up-to-date Facts & Maps on over 250 World Countries.  FEATURES ----------------------------- - Over 170+ data points on 250+ world countries: - Area - Geographic coordinates - Languages  - Government - Capital - Gross domestic product - Background - And much more! - Country flags - Simple easy to use interface. - Large easy to read text. - Great for school, college, university, work and personal use - NO internet connection required. Data is stored within the app.  Be more Informed about the World with Up-To-Date Facts on 250+ Countries.  Data is from the CIA World Factbook. The data is free to use and is in the public domain.  Check out World Fact book 2020 FREE Today. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

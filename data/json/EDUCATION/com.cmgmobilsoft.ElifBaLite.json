@@ -1,0 +1,11 @@
+{
+"name" : "ElifBa Lite",
+"url" : "https://play.google.com/store/apps/details?id=com.cmgmobilsoft.ElifBaLite",
+"package" : "com.cmgmobilsoft.ElifBaLite",
+"category" : "Education",
+"description" : "Bu uygulama rahmetli babam (Muharrem GEBEDEK) adna yaplm olup ltfen dualarnz esirgemeyiniz.  Bu uygulama Kuran arzusu olanlar iin hazrlanm bir almadr. renmeyi kolaylatrmak ve hzlandrmak amacyla iindeki bilgiler btnyle seslendirilmitir. Okuma da gerekli olan harf ve hareke bilgileri ile zet olarak baz okuma kurallar da sizlere sunulmutur. ElifBa uygulamasna sesli namaz dualar ve sureleri de eklenmitir. ElifBa uygulamas, grsel olarak gelitirilmekte olup istek ve nerilerinizi Mail yolu ile iletebilirsiniz. This application late father (Muharram GEBEDEK) is made on behalf of, please spare your prayers.  This application is a work prepared for the Koran, which is desirable. The information in order to facilitate and accelerate the learning was performed in its entirety. Reading the letters and reading some rules as required by hareke summary information has been presented to you. elifba voice applications prayer and prayer time have also been added. elifba application, your requests and suggestions are being developed can visually compose mail. ",
+"desc_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

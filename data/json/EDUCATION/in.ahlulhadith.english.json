@@ -1,0 +1,11 @@
+{
+"name" : "The Prophet's Way",
+"url" : "https://play.google.com/store/apps/details?id=in.ahlulhadith.english",
+"package" : "in.ahlulhadith.english",
+"category" : "Education",
+"description" : "The Prophets Way app hosts rich content on various Islamic topics including Creed (Aqidah), Methodology (Manhaj), Science of Hadith (Usool al-Hadith), Science of Fiqh (Usool al-Fiqh), Biography (Seerah), Islamic Verdicts (Fatawa) and others, delivered/authored by the noble scholar Shaikh Abu Abdir Rahmaan Yahya Silmy as-Saylani.  Recommendation of senior scholars for the Shaikh: http://www.ahlulhadith.in/recommendations-scholars/  New content is added frequently, as and when the Shaikh delivers lectures, sermons (khutbas). ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

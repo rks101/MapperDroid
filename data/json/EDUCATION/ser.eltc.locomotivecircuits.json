@@ -1,0 +1,11 @@
+{
+"name" : "Locomotive Circuits",
+"url" : "https://play.google.com/store/apps/details?id=ser.eltc.locomotivecircuits",
+"package" : "ser.eltc.locomotivecircuits",
+"category" : "Education",
+"description" : "Locomotive Circuits app is a collection of all necessary Locomotive circuits with simplified designed circuits. SER ELTC TATA will try to collect more circuits as user requires. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

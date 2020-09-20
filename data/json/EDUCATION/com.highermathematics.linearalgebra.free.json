@@ -1,0 +1,11 @@
+{
+"name" : "Matrix operations",
+"url" : "https://play.google.com/store/apps/details?id=com.highermathematics.linearalgebra.free",
+"package" : "com.highermathematics.linearalgebra.free",
+"category" : "Education",
+"description" : "The following operations are available in the app: - Solving systems of linear equations using:  Gaussian elimination  Cramers rule  Gauss-Jordan  The inverse matrix method - Finding the determinant of a matrix using:  Sarrus rule (only for a 3x3 matrix)  First line decomposition  Reduction to triangular form - Finding the inverse of a matrix using:  Gaussian elimination  Gauss-Jordan  Algebraic complements - Finding the rank of a matrix using:  Elementary transformations  Bordering minors - Solving matrix equations - Raising a matrix to a power - Multiplying a matrix by a number - Matrix transposition - Matrix multiplication - Matrix subtraction - Matrix addition  App Features - Custom keyboard for more convenient data entry; - Complete, step by step description of solutions; - Ability to save solutions; - Ability to edit saved solutions - Works without internet access - Presents solutions as ordinary and decimal fractions  web version - https://matrix-operations.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.VIBRATE', 'com.highermathematics.linearalgebra.free.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

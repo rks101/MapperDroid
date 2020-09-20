@@ -1,0 +1,11 @@
+{
+"name" : "Archaeologist - Deep Blue",
+"url" : "https://play.google.com/store/apps/details?id=com.magisterapp.deepblue",
+"package" : "com.magisterapp.deepblue",
+"category" : "Educational",
+"description" : "How many treasures lie at the bottom of the sea? You would not believe how many!  Experience a new adventure in the company of the archaeologist Joe Diamante!  He will bring you down into the depths of the ocean in a search for ancient galleons, which still today lie at the bottom of the abyss, where you can discover treasure and relics awaiting discovery for hundreds of years.  All children will love to try and find the entrance to shipwrecks and dig, just like real archaeologists, to find all the relics and treasure hidden in the sunken ships at the bottom of the sea. This game also enables them to sail the archaeologists ship to reach the treasure spots, but look out for the obstacles!  Once all of the pieces have been found, everyone heads to the laboratory for the cleaning and reconstruction phase. To complete the game there are graphics produced with painstaking care right down to the last detail, a wealth of colors, with many marine animations to entertain the younger children, and a host of educational information on the relics visited.  Children who try out the game will never stop excavating and reconstructing the various things they find. All designed to ensure lots of fun for you and your children.  * Dig to find the entrance to the shipwrecks * Each shipwreck really exists: listen to its audio story, in 10 different languages * Have fun with the mini-games of the boat, trying to avoid the obstacles along the route * 8 different excavation settings * Find all of the hidden treasures * Clean and reconstruct all of the objects that you find  Try it now. You will be glad that you did and your children will have a ton of fun. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+}

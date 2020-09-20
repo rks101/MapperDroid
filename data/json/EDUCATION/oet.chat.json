@@ -1,0 +1,11 @@
+{
+"name" : "OET Chat-Chat with students preparing for OET exam",
+"url" : "https://play.google.com/store/apps/details?id=oet.chat",
+"package" : "oet.chat",
+"category" : "Education",
+"description" : "Chat and find new friends preparing for Occupational English Test (OET) Exam.  Find Friends with similar Interests- This chat is specially designed for oet aspirants. If you are passionate to acheive band B in oet exam this chat will defenitely helps. Here you can share your knowlege, share oet topics and solve it in the group. Students can help each other to acheive the goal.   Sending Text Messages, Image sending, Photo sharing, Video sharing can be done on a single click. Get engaged in oet discussions to solve your problems and find solutions from other members in the group.  Also find other chat groups for social networking ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.SEND_SMS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

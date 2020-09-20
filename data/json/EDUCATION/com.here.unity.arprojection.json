@@ -1,0 +1,11 @@
+{
+"name" : "HERE AR City Model",
+"url" : "https://play.google.com/store/apps/details?id=com.here.unity.arprojection",
+"package" : "com.here.unity.arprojection",
+"category" : "Education",
+"description" : "With the help of augmented reality, see how HERE Automotive uses the collective intelligence of all vehicles on the road to create a real-time, digital representation of the world.   Using just a simple printout and a tablet or a smartphone (see the list of compatible devices below), you can produce a dynamic representation of predictive navigation with self-learning capabilities that will support the autonomous driving of tomorrow. HERE AR City Model uses San Francisco city as a model to visualize the following features:    The foundation of location intelligence  A highly accurate map for automated driving  Living maps  Automotive embedded software  Instructions:  Following these steps will help you use the app to its full potential. 1. Download the HERE AR City Model app from the Google Play Store and follow the installation instructions. 2. Download and print the map https://t.her.is/2KonqLF and place it on a flat surface. 3. Open the app and point the camera at the map printout. 4. Adjust the focus and hover your device over the printout to see the map come to life. 5. Follow the on-screen instructions and discover all features of the HERE AR City Model app. ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

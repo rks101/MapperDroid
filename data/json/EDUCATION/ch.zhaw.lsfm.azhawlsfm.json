@@ -1,0 +1,11 @@
+{
+"name" : "ZHAW LSFM",
+"url" : "https://play.google.com/store/apps/details?id=ch.zhaw.lsfm.azhawlsfm",
+"package" : "ch.zhaw.lsfm.azhawlsfm",
+"category" : "Education",
+"description" : "Die App der ZHAW Life Sciences und Facility Management (LSFM) beantwortet Ihre Fragen rund um Studium und Campus in Wdenswil: - Menplan: Was tischt die Mensa auf? - Stundenplan: Wo findet die nchste Lektion statt? - Kontakte: Wie erreiche ich Dozierende oder Studierende? - Orientierung: Wo ist mein Gebude? - Campusleben: Social Media, Vereine, Wohnungssuche, Bibliotheken u.m. - News und Events: Was luft an der Hochschule? - Notfall: Was ist im Ernstfall zu tun? Die App richtet sich an Studierende, Dozierende, Mitarbeitende und Besucher. The app ZHAW Life Sciences and Facility Management (LSFM) answered your questions about studying and campus in Wdenswil: - Menu plan: What served in the cafeteria? - Timetable: Where will the next lesson instead? - Contacts: How do I contact faculty or students? - Orientation: Where is my building? - Campus life: social media, clubs, apartment search, to libraries - News and Events: Whats going on at the university? - Emergencies: What to do in an emergency? The app is aimed at students, faculty, staff and visitors. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CALL_PHONE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Dua-e-Qunoot for Muslim Kids",
+"url" : "https://play.google.com/store/apps/details?id=com.quranreading.duaqunootkinds",
+"package" : "com.quranreading.duaqunootkinds",
+"category" : "Education",
+"description" : "Learn Dua e Qunoot for Kids is an Islamic Learning Application for Muslim Kids with translation, word by word mp3 recitation, and transliteration. Dua-e-Qunoot is a supplication recited in obligatory Salat to seek refuge from calamities.  Features include:  Word by word recitation helps children in reciting this Islamic Dua with correct pronunciation.  Translation in English is included in the app to help children in understanding the meanings of Dua.  The app also features transliteration of each word of kids who cant read Dua-e-Qunoot in Arabic language.  Customize settings for auto play, change of font style, size and background color.  Benefits: Benefits of Dua section is included in separate section to highlight the importance of Dua e Qunoot. Listen to Qunoot mp3 and learn this beautiful Dua to grasp the blessings of Allah.  Download this Dua and Azkar App and memorize this Supplication with translation, transliteration and other amazing features. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

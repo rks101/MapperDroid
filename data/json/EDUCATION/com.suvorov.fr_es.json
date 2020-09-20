@@ -1,0 +1,11 @@
+{
+"name" : "French - Spanish Translator",
+"url" : "https://play.google.com/store/apps/details?id=com.suvorov.fr_es",
+"package" : "com.suvorov.fr_es",
+"category" : "Education",
+"description" : "With this translator you can easily translate words and text from French to Spanish and from Spanish to French. You are able to translate words and even sentences, in just a split second.  This translator contains the following features: - Translate words and sentences - Translate from clipboard - Simple and user-friendly interface - Instant search - Instant start - It helps to learn the language - Can be used as an dictionary - It helps during travelling  Traductor francs espaol Franais traducteur espagnol ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

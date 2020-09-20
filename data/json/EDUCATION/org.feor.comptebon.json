@@ -1,0 +1,11 @@
+{
+"name" : "Countdown Numbers",
+"url" : "https://play.google.com/store/apps/details?id=org.feor.comptebon",
+"package" : "org.feor.comptebon",
+"category" : "Educational",
+"description" : "Fun math puzzle based on the numbers section of the French version of the Countdown television show. (Des Chiffres et Des Lettres)  How to play:  You must find the randomly-generated target number using the six numbers at your disposal, but you can only use them once each! Available to you are the four basic algebra operations: addition, subtraction, multiplication, and division. Note that you cannot use negative numbers or fractions, as per the rules of the show.  If the target number cannot be found using the available numbers, then finding the closest number possible will count as a win.  For more advanced players, try to find the shortest possible solution using the least amount of operations and match the computer!  Enable a timer with different presets (45/90/180/300 seconds) in the settings page if you want to push yourself, or relax and disable it altogether!  The application includes a solver that will return the shortest possible solution. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

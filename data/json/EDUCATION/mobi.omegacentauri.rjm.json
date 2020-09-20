@@ -1,0 +1,11 @@
+{
+"name" : "Raspberry Jam Mod",
+"url" : "https://play.google.com/store/apps/details?id=mobi.omegacentauri.rjm",
+"package" : "mobi.omegacentauri.rjm",
+"category" : "Educational",
+"description" : "This unofficial mod for Minecraft PE implements most of the Raspberry PI Minecraft API, allowing Minecraft PE to be controlled by Python code. The package also includes a number of sample Python scripts, including chess (play chess against your device in Minecraft; the script automatically downloads the Sunfish engine).  This mod requires three other ingredients: (1) Minecraft PE, (2) BlockLauncher (or BlockLauncher Pro) and (3) QPython.   It installs the mod for Minecraft PE, as well as a number of sample Python scripts (e.g., draw a waterfilled donut, draw a gigantic tree, etc.) It should support most of the scripts from OHanlon and Whales Adventures in Minecraft Book.   Detailed instructions on how to use the mod are here: http://www.instructables.com/id/Python-Coding-for-Android-Minecraft-PE  In addition to supporting python scripts, once the mod is installed and Minecraft PE is running together with BlockLauncher, you can actually send photos and *.schematic files to Minecraft via RasperryJamMod. For photos, just share them with Send to MCPE in the gallery, and for *.schematic files, just open them from a file manager. In both cases make sure you have a world open. This is an experimental feature and may not always work. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.GET_TASKS', 'android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

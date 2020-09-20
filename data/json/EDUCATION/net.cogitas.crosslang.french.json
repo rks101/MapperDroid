@@ -1,0 +1,11 @@
+{
+"name" : "Crosswords To Learn French",
+"url" : "https://play.google.com/store/apps/details?id=net.cogitas.crosslang.french",
+"package" : "net.cogitas.crosslang.french",
+"category" : "Education",
+"description" : "Crosswords with clues in English and words in French, to help you improve your vocab in a fun way!  When typing a letter, you get instant feedback as to whether it is correct or not, to support your learning. And you can never be stuck, because you can reveal the currently highlighted word by tapping on the eye icon in top right of keyboard.  Currently 60 crosswords! All French words are taken from a list of the 2,000 most commonly used French words.  Tapping on a square will highlight the corresponding clue, tapping on a clue to view the corresponding squares in the grid.  When a square is part of 2 clues - one across and one down - tap on it to toggle between the clues.  If you want to improve your French vocabulary, install this app - it works offline so you can practise anywhere, even in a lift. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['com.android.vending.BILLING']",
+}

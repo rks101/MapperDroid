@@ -1,0 +1,11 @@
+{
+"name" : "Baby flash cards for toddlers",
+"url" : "https://play.google.com/store/apps/details?id=com.bimiboo.firstwords",
+"package" : "com.bimiboo.firstwords",
+"category" : "Educational",
+"description" : "Let your baby learn first words by interacting with flashcards in our new educational app for toddlers. If you are looking for the best preschool application for your child to learn first words without ads  Baby flash cards is an awesome choice.   The game process is both learning and entertaining. It is designed to make sure little kids enjoy the game. Flashcards for toddlers will help boys and girls to learn words across 12 topics: farm animals, wildlife, fruits, vegetables, food, bathroom, home, clothes, toys, transport, shapes and colors.   Baby flashcards app supports 17 languages: English, Spanish, French, German, Italian, Russian, Portuguese, Turkish, Greek, Dutch, Danish, Swedish, Norwegian, Finnish, Chinese, Japanese and Korean.  Our educational games run flawlessly without Wi-Fi. They are designed for both girls and boys ages 2, 3, 4 and 5. Flash cards can be a part of kindergarten and preschool education.  3 topics are completely free to play. The game runs perfectly without Wi-Fi connection.  You will never find third party advertising in our learning games for kids. We are glad to receive your feedback and suggestions. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

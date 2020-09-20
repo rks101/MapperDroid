@@ -1,0 +1,11 @@
+{
+"name" : "TatLan",
+"url" : "https://play.google.com/store/apps/details?id=com.htutmedia.education",
+"package" : "com.htutmedia.education",
+"category" : "Education",
+"description" : "TatLan online education service is the only education service developed with many good intentions for the future of Myanmar people, where we can learn all of the educations altogether in just one place. For the users of TatLan education service, they can daily learn English language, Japan language, Korean language, Internet lessons, marketing management, computer basic lessons and arts altogether.  Beside the users can find the addresses of schools and teachers, they can also collect lesson videos in the favorite session and can study again and again whenever they want. Lets download TatLan mobile application easily and quickly right just now ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'com.htutmedia.education.permission.C2D_MESSAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

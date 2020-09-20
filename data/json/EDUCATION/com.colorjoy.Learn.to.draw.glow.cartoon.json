@@ -1,0 +1,11 @@
+{
+"name" : "Learn to Draw Glow Cartoon",
+"url" : "https://play.google.com/store/apps/details?id=com.colorjoy.Learn.to.draw.glow.cartoon",
+"package" : "com.colorjoy.Learn.to.draw.glow.cartoon",
+"category" : "Educational",
+"description" : "We have the easy drawing tutorial for everyone. Learn how to draw cartoon & anime step by step. For you to learn drawing and glow coloring. Dont need any skill, no age limit.   Glow coloring your cartoon  Amazing cartoon pages for you to learn  FREE DOWNLOAD NOW! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Teachers",
+"url" : "https://play.google.com/store/apps/details?id=skyeng.words.teachers",
+"package" : "skyeng.words.teachers",
+"category" : "Education",
+"description" : "   -   Skyeng (skyeng.ru),       ,       .           !   ,     ,         ,     .                 . An application for teachers of the online English language school Skyeng (skyeng.ru), in which you can manage your schedule, replenish your vocabulary and recruit new students.  Almost all the functionality of your personal account is available on your phone! Keep track of the schedule so as not to miss the planned lessons, accept or reject student requests to reschedule classes, receive important news from the school.  And in the application you can learn words with the help of smart exercises and replenish your vocabulary. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_SYNC_STATS', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MANAGE_ACCOUNTS', 'android.permission.USE_CREDENTIALS', 'android.permission.WRITE_SETTINGS', 'android.permission.AUTHENTICATE_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.GET_ACCOUNTS', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_SYNC_SETTINGS', 'android.permission.WRITE_SYNC_SETTINGS']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "InCell VR (Cardboard)",
+"url" : "https://play.google.com/store/apps/details?id=com.nivalvr.incell",
+"package" : "com.nivalvr.incell",
+"category" : "Educational",
+"description" : "InCell is an action/racing game with a bit of strategy and science thrown into the mix in a rare and highly unusual micro world of the carefully recreated human cell. This is the right project to start your acquaintance with Cardboard VR or receive new VR impressions. The game is focused on Virtual Reality but you can play just fine without a set (Cardboard or any other).  To switch VR mode off - just tap & hold the screen or use Cardboards trigger to open main menu.  A unique experimental project made by Luden.io to test the opportunities of the new Virtual Reality provided by Google Cardboard.  Compatible with View Master, Fibrum, Homido, Lakento, Archos, Durovis and others Cardboard like headsets. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

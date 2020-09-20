@@ -1,0 +1,11 @@
+{
+"name" : "English alphabet",
+"url" : "https://play.google.com/store/apps/details?id=com.gb.englishalp",
+"package" : "com.gb.englishalp",
+"category" : "Education",
+"description" : "-App have English alphabets with picture and presentation. -Fun to learn English for Kids. -Implementation with good pictures in this app. -Added game for picture matching with for alphabets. -Make writing practice of all Capital letter.  Spelling With Balloons: -Small word are used with phonic sound. -Hit the correct balloon for image. -Go to next after complete one. -A..Z comes one by one.  Vowels: -Recognition of Vowels a, e i, o, u. -Three latter words formation with short vowels. -With Button or next click images will get changed. -Individual button at top added to change the Vowel.  Alphabet Writing (Tracing):- Practice writing of each alphabets. Click of draw icon to write alphabets. -English alphabets are complicated to draw, so added writing for each alphabets. -Shown dotted line with number with preference. -After tracing alphabets user can save the picture images to Phone Gallery. -You can use different color, brush for painting.  Play Game:- Match the picture with alphabets. It will continues changes the pictures at bottom of page. -Select picture and drag to blank space. -After completing one list, change to next list with clicking Next arrow.  Finding Missing alphabet: -Given sequence of three latter with missing middle one. -Select the correct letter to complete sequence.  Beginning latter for Picture: -Given Picture and shown latter below it. -Choice the correct beginning letter and move to next picture.  ------------------------------------------------------------- Important Note for Parents:- - With internet connection on, this app may display third party Advertisements or social networking websites links.   Please provide your suggestion and feedback for this app. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

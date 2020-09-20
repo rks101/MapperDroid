@@ -1,0 +1,11 @@
+{
+"name" : "Global Citizen",
+"url" : "https://play.google.com/store/apps/details?id=lr.globalcitizen.com",
+"package" : "lr.globalcitizen.com",
+"category" : "Education",
+"description" : "This is the app for people who want to solve the worlds biggest challenges by learning about issues, taking action, and joining the growing movement for social change.  By taking action with this app, you will help create a world free from extreme poverty by 2030.  You can also earn your chance to win free tickets to the Global Citizen Festival in New Yorks Central Park, as well as hundreds of other events around the world.  Join In. Speak Out. Take Action. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['lr.globalcitizen.com.permission.C2D_MESSAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Starke Verben",
+"url" : "https://play.google.com/store/apps/details?id=org.sw24softwares.starkeverben",
+"package" : "org.sw24softwares.starkeverben",
+"category" : "Education",
+"description" : "Learn the German irregular verbs, test yourself, follow your progress!  This application does not require any Internet connexion.  This app is FOSS (Free Open Source Software).  The translation for the verbs is available in several languages. If your language is not listed, you can add it by yourself. The application itself is also translatable. To translate the app, use Weblate: https://hosted.weblate.org/projects/starke-verben/ ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

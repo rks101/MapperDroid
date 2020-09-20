@@ -1,0 +1,11 @@
+{
+"name" : "Flutter UI Challenges",
+"url" : "https://play.google.com/store/apps/details?id=com.popupbits.flutteruichallenges",
+"package" : "com.popupbits.flutteruichallenges",
+"category" : "Education",
+"description" : "This is my effort on creating various application UIs in Flutter. This is an open source project. You can find the code https://github.com/lohanidamodar/flutter_ui_challenges ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.CHANGE_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']",
+}

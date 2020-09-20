@@ -1,0 +1,11 @@
+{
+"name" : "19Dots Elm-ul-Eidad - (ilm-ul-aidad) - New",
+"url" : "https://play.google.com/store/apps/details?id=elyon.bacha19",
+"package" : "elyon.bacha19",
+"category" : "Education",
+"description" : "It is called Numeric Numbers / Numeric Values, for any name of a mankind. It is also added here, that The Numeric values of every Arabic, Hebrew and Syriac Peshitta / Bessita word used in Holy Scriptures were based on the Numerical Values, which is disclosed by the same knowledge of Elm-ul- Eidad (ilm-ul-aidad).  There is a Holy Master Chart for all the alphabets of these 3 basic languages, related to the holy scriptures of Islam, Jews and the Christianity.   Please Note: This holy chart of Numeric values was given to Hz: Muse A.S, by Lord Himself. Therefore Musa (A.S) then provided it in Book of Torah and became the foundation of all the Holy Scriptures of our Lord Most High.  With the help of this Holy Chart, now we can see how the value of Dot ( 9 ) is calculated as its Numeric values. For example, Akbar is my name and if we need to know the numerical number of Akbar, then we calculate it as under:  128=8+60+10+50  70+30+10+1+50 =161   128+161=289 then 2+8+9 = 19 ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.READ_CALL_LOG']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

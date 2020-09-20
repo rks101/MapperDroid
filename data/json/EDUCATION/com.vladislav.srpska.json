@@ -1,0 +1,11 @@
+{
+"name" : "DopravnÃ­ znaÄ�ky ğŸ‡¨ğŸ‡¿",
+"url" : "https://play.google.com/store/apps/details?id=com.vladislav.srpska",
+"package" : "com.vladislav.srpska",
+"category" : "Education",
+"description" : "- Vechny dopravn znaky v esk republice (Vstran dopravn znaky, Dopravn znaky upravujc pednost, Zkazov dopravn znaky, Pkazov dopravn znaky, Informativn dopravn znaky, Dodatkov tabulky, Vodorovn dopravn znaky, Dopravn zazen i Svteln signly) podle jejich vznamu (s vysvtlenm)   - 2 typy testu - All traffic signs in the Czech Republic (Warning traffic signs, traffic signs regulating priority, traffic signs, traffic signs, informative traffic signs, supplementary tables, traffic signs, traffic devices and traffic signals according to their meaning (with explanation)   - 2 types of test ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

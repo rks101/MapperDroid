@@ -1,0 +1,11 @@
+{
+"name" : "Spanish English Dictionary & Translator Free",
+"url" : "https://play.google.com/store/apps/details?id=com.bravolang.dictionary.spanish",
+"package" : "com.bravolang.dictionary.spanish",
+"category" : "Education",
+"description" : "Easily learn Spanish & English with Spanish English Dictionary & Translator app! Free download & no Internet connection required!  The Spanish English Dictionary & Translator app enables you to search Spanish & English words with definitions, examples, pronunciation, and more.  FEATURES  - Detailed word definitions & example sentences - Related search suggestions - Advanced sentences analyzer - Favorite words & search history - Flashcards for self-learning support - Customizable font sizes for better readability - Spanish, English & wildcard character search support - Spanish, British English & American English pronunciation with phonetics  Welcome to download the Spanish English Dictionary & Translator app!  ABOUT Bravolol   - Web site:  http://www.bravolol.com   - Facebook:  http://www.facebook.com/Bravolol   - Twitter:  https://twitter.com/BravololApps  - Instagram: https://www.instagram.com/bravolol/  - Email:  cs@bravolol.com ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

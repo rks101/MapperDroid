@@ -1,0 +1,11 @@
+{
+"name" : "Butterfly Flower Free Match",
+"url" : "https://play.google.com/store/apps/details?id=usbobble.freematch3.ButterflyFlower",
+"package" : "usbobble.freematch3.ButterflyFlower",
+"category" : "Educational",
+"description" : "Welcome to the butterfly paradise! Explore the beautiful universe, match fluttering butterflies and help the Fairy restore the garden to its former glory!  - Complete dozens of levels and magic events with simple and beautiful match-3 gameplay! - Travel across the flower garden, rebuild and decorate it with a simple touch! - Earn powerful secret garden magics that will help you cope with difficult puzzles! - Explore the mysterious caves and open the chests full of gems and treasures! - Enjoy the company of a beautiful and creative fairy  Can you solve the mystery of this magical garden and revive it completely? Dive into the fairy adventure and find out! Get ready for the miracles!  We are working hard to keep the game updated with the best mystery match content and latest fixes. If you like our game, please take a minute to leave a nice review, this will help us a lot. Thank you! ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE']",
+}

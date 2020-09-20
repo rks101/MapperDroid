@@ -1,0 +1,11 @@
+{
+"name" : "Cody - Kodlama Oyunu",
+"url" : "https://play.google.com/store/apps/details?id=com.zgr.oyun",
+"package" : "com.zgr.oyun",
+"category" : "Educational",
+"description" : "Cody ocuklara kodlamann temeli olan algoritma oluturma becerisi kazandrmaya ynelik hazrlanm bir oyundur.  Oyunda sa, sol, yukar, aa gibi yer yn komutlar ile karakter Cody sandklar toplayarak krmz bayraa ulamas salanr.  Oyunda sre deikenine de yer verilmitir. Algoritmay en ksa srede yazmaya ve hedefe ulalmaya allmaktadr.  Blmler tamamlandktan sonra tekrar geriye dnlerek daha ksa zamanda tamamlanabilir. Bylece toplam sre ksalr.  Oyunda 3 blm bulunmaktadr.  1. Blmde ardak ilemler kullanlarak algoritma oluturulur. 2. Blmde dng yapsnn temel seviyede kullanld algoritmalar bulunur. 3. Blmde karmak problemler dngler kullanlarak zlr.  Oyuna yakn zamanda koul ifadelerini ierek blmler de eklenecektir.  Oyunun geliimi iin neri ve eletirilerinizi bize iletebilirsiniz. Cody is a game designed to give children the ability to create algorithms that are the basis of coding.  In the game with the right, left, up, down direction direction commands such as character Cody collecting chests to reach the red flag is provided.  Time variable is also included in the game. It is tried to write the algorithm as soon as possible and reach the target.  After completing the sections, it can be completed in a shorter time by going back again. This shortens the total time.  There are 3 sections in the game.  In section 1, the algorithm is created using sequential operations. Chapter 2 contains algorithms where the loop structure is used at the basic level. In Chapter 3, complex problems are solved using loops.  Chapters containing condition statements will be added to the game soon.  You can send us your suggestions and criticisms for the development of the game. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET']",
+}

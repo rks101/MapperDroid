@@ -1,0 +1,11 @@
+{
+"name" : "English Pronunciation",
+"url" : "https://play.google.com/store/apps/details?id=learnenglish.com.treeorthree",
+"package" : "learnenglish.com.treeorthree",
+"category" : "Education",
+"description" : "English Pronunciation A pronunciation program that teaches you how to pronounce English. Checks your pronunciation to make it right. With this English Pronunciatio, you will learn some important topics about English Pronounce : - Short vowels - Long vowels - Double vowel sounds - Voiced consonants - Voiceless consonants - Other consonants - Mouth and tongue positions when pronouncing sounds - Voiced and unvoiced sounds Thank you. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_ALL_DOWNLOADS', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'learnenglish.com.treeorthree.permission.C2D_MESSAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_ALL_DOWNLOADS', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

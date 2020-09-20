@@ -1,0 +1,11 @@
+{
+"name" : "World Capitals (Quiz). Educational game.",
+"url" : "https://play.google.com/store/apps/details?id=info.vazquezsoftware.testcapitales",
+"package" : "info.vazquezsoftware.testcapitales",
+"category" : "Education",
+"description" : "Features:   Capitals of all the countries of the world.  Classified by by continents: Europe, Asia, Africa, America and Oceania.  Select a continent or all of them.  Trivia / quiz format.  Interactive map of each country.  Up to date information from Wikipedia of each country.  The best games are stored at the TOP 10.  Fight against the chronometer to reach the TOP 10.  Vertical and horizontal orientation design.  You can play again the failed answers.  Portrait or landscape mode.  Attractive design, with sounds and animations.  For children and grown ups.  With the flags of the countries.  Fully functional and free.  Improve your knowledge of geography and learn the capitals of the countries around the world. The quiz contest format will make you have a fun time. Eventually you will learn all the answers effortlessly. Are you ready to guess the capitals?  Available in:  Spanish.  French.  English.  Italian.  Portuguese. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

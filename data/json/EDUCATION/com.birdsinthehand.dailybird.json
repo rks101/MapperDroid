@@ -1,0 +1,11 @@
+{
+"name" : "Daily Bird",
+"url" : "https://play.google.com/store/apps/details?id=com.birdsinthehand.dailybird",
+"package" : "com.birdsinthehand.dailybird",
+"category" : "Education",
+"description" : "Daily Bird is a photo-a-day calendar that features stunning bird photography along with interesting facts and finding tips for that bird. You can also use the app as a clock and have it on display with its gorgeous photography that changes each day.  DAILY UPDATES Check in every day to learn fascinating facts about a new bird species, enjoy great photography, and quiz yourself on the daily bird.   SOCIAL Share with friends to see if they can also identify the bird of the day.   GORGEOUS DISPLAY Set this up on your desk to keep grounded during a rough day stuck in the office when you would rather be outside.   EDUCATIONAL Start off your day by learning something new and enjoying beautiful bird photography.  Daily Bird features some of the best photography from the BirdsEye contributors. Learn more about contributing at http://www.birdsinthehand.com/photos/ ",
+"desc_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.READ_CONTACTS']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

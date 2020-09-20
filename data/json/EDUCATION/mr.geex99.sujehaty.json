@@ -1,0 +1,11 @@
+{
+"name" : "Sujehaty",
+"url" : "https://play.google.com/store/apps/details?id=mr.geex99.sujehaty",
+"package" : "mr.geex99.sujehaty",
+"category" : "Education",
+"description" : "Sujehaty is the first application in Mauritanie come up with an idea not previously applied on the ground, namely the collection and inclusion of all the topics of the national competition and contests So do you search for a specific topic or have a competition to attend our application is optimized and is the first step to your success. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

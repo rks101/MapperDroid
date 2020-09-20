@@ -1,0 +1,11 @@
+{
+"name" : "Superbook Coloring Life [AR]",
+"url" : "https://play.google.com/store/apps/details?id=com.superbook.coloringlife",
+"package" : "com.superbook.coloringlife",
+"category" : "Education",
+"description" : "Watch the Bible come to life with the Superbook Coloring Life augmented reality app. Color the pages and watch the 3D Bible character take on your designs. Parents and children can explore the Bible together with this exciting new augmented reality app from Superbook!  *IMPORTANT*  This Application requires printed pictures for coloring, which can be downloaded at our free images section or by tap the free images button on in the pop up instruction.  FEATURES:  - Experience new ways to color together with your kids. - Watch their artwork come to life on your mobile screen. - Watch the animation move around with your unique colors and patterns. - Tap the screen for action. - Send photos of your characters to friends! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

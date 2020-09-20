@@ -1,0 +1,11 @@
+{
+"name" : "Blobland",
+"url" : "https://play.google.com/store/apps/details?id=com.geniusplaza.blobland",
+"package" : "com.geniusplaza.blobland",
+"category" : "Educational",
+"description" : "Blobland is an educational game for kids, solving fun puzzles while providing quality entertainment and a rich educational experience at the same time. The game is appropriate for children 5 years or older. Just by knowing how to count, a child can learn more about the nature of numbers and arithmetic operations.  Blobland innovates by using techniques from the Common Core and Singapore Math in addition to basic arithmetic rules and concepts as the foundation for creating puzzles. Instead of dealing with abstractions and symbols, kids will manipulate concrete objects to solve the exercises and learn math in a more intuitive way.  Set your kids on an adventure through various zones while they discover the secrets of the blobs, using them to resolve different math related puzzles and making their way through Blobland collecting treasures.  Features: - 50 levels to practice while playing - Learn number families and grouping by ten - Learn sum by column and carry the ten - Match quantities with their corresponding numbers - Exercise number tracing - Reinforce learning with audio and visual feedback - Based on the Singapore Math and Common Core techniques to teach students math skills - Available in different languages: Spanish, English, and Portuguese ",
+"desc_perms" : "['android.permission.READ_CALL_LOG', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_CONTACTS']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE']",
+}

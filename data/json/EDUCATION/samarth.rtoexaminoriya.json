@@ -1,0 +1,11 @@
+{
+"name" : "RTO Exam in Oriya & English(Odisha)",
+"url" : "https://play.google.com/store/apps/details?id=samarth.rtoexaminoriya",
+"package" : "samarth.rtoexaminoriya",
+"category" : "Education",
+"description" : "RTO Exam App is very useful to obtain driving license from RTO within Odisha, App is available in Oriya and English language.   All RTO Office conduct theory exam of driving license on computer base.It is also useful for Learning License of Light Motor Vehicle (LMV), Heavy Motor Vehicle (HMV).Here we have give two mode Learning and Test mode for you to be aware about RTO exam and remove fear of failing and pass your RTO Driving license Test with full confidence .  Basically this application is divided into main following category :  Question Bank (Traffic Rules & Signs) : Read question and its answer.  Practice : You can practice without worrying about time.  Exam : This exam is only for preparation, random questions and road signs related questions will be asked in this exam with time limit.   More Information :   Language Select : You can change Language.  Font : Change font size.  Also describe many useful information ..  Disclaimer :  Purpose of this application is only for public awareness and preparation for examination. All the information has been scrutinized, but still you should verify or check this information from the Transport Department. You can not use this information for legal purposes. All information is collected from different sources also do not provide any kind of guarantee. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

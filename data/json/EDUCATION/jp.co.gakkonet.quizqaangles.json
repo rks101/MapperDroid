@@ -1,0 +1,11 @@
+{
+"name" : "Find Angles! - Math questions",
+"url" : "https://play.google.com/store/apps/details?id=jp.co.gakkonet.quizqaangles",
+"package" : "jp.co.gakkonet.quizqaangles",
+"category" : "Education",
+"description" : "Find Angles!  Once you have completed the basic questions from Stage 1 to Stage 4,  try to solve the challenging questions on the Final Stage!   If you cant solve a question, you can check the hint of the question or ask the answer to your friends via Twitter.   Angles contains following contents:  ---  -The sum of the Angles of a triangle  -Exterior angle of a triangle  -Isosceles triangle  -Right-angled triangle   -Vertical angle  -Corresponding angle  -Alternate angle   -Parallelogram   -The sum of the Angles of a quadrilateral  -The sum of the Angles of a polygon   -Inscribed angles   -Alternate segment theorem  ---  Areas Find the colored area. 8x8 grid, the area of each cell is 1. (Pi) is the ratio of the circumference = 3.1415 . Stage 1,2,3,4,5,6 have easy questions. Stage 7,8,9 have hard questions. Stage 10 have very hard questions.  Sequences Find the number that fits in ? 1st Stage have easy questions. Final Stage have hard questions. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

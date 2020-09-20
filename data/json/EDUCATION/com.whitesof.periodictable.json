@@ -1,0 +1,11 @@
+{
+"name" : "Periodic Table",
+"url" : "https://play.google.com/store/apps/details?id=com.whitesof.periodictable",
+"package" : "com.whitesof.periodictable",
+"category" : "Education",
+"description" : "Please kindly RATE & SHARE this App as it is free :-)   The periodic table is a tabular display of the chemical elements, organised on the basis of their properties. Elements are presented in increasing atomic number. The main body of the table is a 18  7 grid, with gaps included in to keep elements with similar properties together, such as the halogens and the noble gases. These gaps form four distinct rectangular areas or blocks. The f-block is not included in the main table, but rather is usually floated below, as an inline f-block would make the table impractically wide. The periodic table accurately predicts the properties of various elements and the relations between properties. As a result, it provides a useful framework for analyzing chemical behavior, and is widely used in chemistry and other sciences. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

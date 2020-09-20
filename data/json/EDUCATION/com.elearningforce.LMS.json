@@ -1,0 +1,11 @@
+{
+"name" : "LMS365",
+"url" : "https://play.google.com/store/apps/details?id=com.elearningforce.LMS",
+"package" : "com.elearningforce.LMS",
+"category" : "Education",
+"description" : "LMS365 mobile app provides easy access to all courses a learner is enrolled into. On their mobile device, learners can at any time and from anywhere view courses they completed, are in progress and courses not yet started.  An SCORM offline player is available within the app, allowing users to download HTML5 compliant SCORM Packages and complete each course without an online connection. Next time the learner connects to the Internet, all data will be synchronized. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.READ_LOGS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.MANAGE_ACCOUNTS', 'android.permission.BATTERY_STATS', 'android.permission.BIND_NOTIFICATION_LISTENER_SERVICE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.elearningforce.LMS.permission.C2D_MESSAGE', 'android.permission.USE_CREDENTIALS', 'android.permission.WAKE_LOCK', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.READ_LOGS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BATTERY_STATS', 'android.permission.BIND_NOTIFICATION_LISTENER_SERVICE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_ACCOUNTS', 'android.permission.CAMERA']",
+}

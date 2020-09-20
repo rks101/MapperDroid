@@ -1,0 +1,11 @@
+{
+"name" : "Peaceful Maths",
+"url" : "https://play.google.com/store/apps/details?id=com.methaneblue.speedmaths",
+"package" : "com.methaneblue.speedmaths",
+"category" : "Educational",
+"description" : "Keep your mind healthy, test your mental math and exercise your brain once a day.  Stay in top 10 Rank! Compete with your friends in a fun way :D  Peaceful Maths aims at giving you a set of daily brain training exercises and math drills designed to enhance mental arithmetic. It is made to target everyone and engage them with the rank system. One can compete with each other and improve. It is recommended for adults who want to improve their calculations, and kids who want to make maths a new friend. It has simple design to help anyone to play math games in fun way. Using this parents can challenge their kids and vice-versa to improve kids learning potential   Tests are also useful for Aptitude Tests. Exams such as GMAT, GRE, & MBA exams as Common Aptitude Test (CAT - IIM),Management Aptitude Test (MAT), Xavier Admission Test (XAT) and other MBA exams (JMET,ATMA,SNAP,NMAT,IIFT,FMS), SBI PO and other Bank PO,    FEATURES  Basic to advance level games  All levels are open  Get world rank of yourself and your friends  All levels are open  Get awesome quotes to be motivated  Track your progress and strengths  Fun for all ages  Helps keep you brain sharp and healthy  This version is absolutely FREE and no ads! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_CONTACTS', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

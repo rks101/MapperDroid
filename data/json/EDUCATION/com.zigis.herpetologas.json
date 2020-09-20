@@ -1,0 +1,11 @@
+{
+"name" : "Herpetologas",
+"url" : "https://play.google.com/store/apps/details?id=com.zigis.herpetologas",
+"package" : "com.zigis.herpetologas",
+"category" : "Education",
+"description" : "Aplikacija skirta gamtos myltojams ir monms, norintiems labiau painti varliagyvi pasaul. Programls autorius yra vabzdi tyrintojas, gamtos ir matematikos moksl studentas.  * Informacija apie visus Lietuvos varliagyvius. * Varliagyvi migracijos keli registracija pasirenkant viet emlapyje. * Galimyb padidinti nuotraukas nubraukiant pirt emyn.  Programl gali bti laisvai naudojama mokymo tikslais. Ji bus visada nemokama ir be reklam! Application for nature lovers and people who want to know more amphibian world. Gadget author is an insect researcher, natural sciences and mathematics student.   * Information about all Lithuanian amphibians. * Registration amphibians migration routes by choosing a location map. * The ability to zoom in on pictures by deleting your finger down.   The gadget can be freely used for educational purposes. It will always be free and without ads! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

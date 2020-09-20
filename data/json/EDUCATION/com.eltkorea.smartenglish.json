@@ -1,0 +1,11 @@
+{
+"name" : "Smart English",
+"url" : "https://play.google.com/store/apps/details?id=com.eltkorea.smartenglish",
+"package" : "com.eltkorea.smartenglish",
+"category" : "Education",
+"description" : "This free app is very useful for your students who need to improve English conversation skills. This app offers digital flashcards, animated content, and a vocabulary game. Students can learn, play, and sing along with this app, anytime and anywhere! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

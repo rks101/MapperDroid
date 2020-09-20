@@ -1,0 +1,11 @@
+{
+"name" : "Quran in Hand",
+"url" : "https://play.google.com/store/apps/details?id=com.alhuda.qih",
+"package" : "com.alhuda.qih",
+"category" : "Education",
+"description" : "Quran in Hand, a much awaited app containing true gems of Deen, includes in it the complete Tafsir of the Glorious Quran by Dr. Farhat Hashmi with various references from Ahadith, subjects like Aqeedah, Seerah, supplications from the Quran and Hadith, beautiful recitations of Quran by different Qaris, lessons on Tajwid, numerous articles and other relevant material which will help every user, be it a student or a listener, avail some of the precious resources of Islam.   Moreover, the audios have the option of making them Favorite so that these audios become bookmarked and students can also easily jot down notes. This adds to the convenience and the user-friendly nature of this app. It also includes the feature of Alhuda Live through which users can listen to live lectures of Dr. Farhat Hashmi online. Notification feature will keep the users updated about any live online streaming of lectures of Dr. Farhat Hashmi, announcements, and new uploads on the website. Although the app needs an internet connection, the audios and videos of different programs can be easily downloaded and this app also holds the option of sharing any audio with others.  Quran in Hand is a highly comprehensive and intelligible yet an easy to navigate app which is bound to make users seek further knowledge in Deen much easier Insha Allah. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

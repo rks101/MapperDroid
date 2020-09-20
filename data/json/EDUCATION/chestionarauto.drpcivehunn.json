@@ -1,0 +1,11 @@
+{
+"name" : "DRPCIV (Hun)",
+"url" : "https://play.google.com/store/apps/details?id=chestionarauto.drpcivehunn",
+"package" : "chestionarauto.drpcivehunn",
+"category" : "Education",
+"description" : "!!!KRESZ TESZTEK ROMNIBAN, MAGYAR NYELVEN!!! Gyakoroljon, hogy egybl sikerljn a vizsga!  Egy bartsgos designal amelyet nagyon knny hasznni, a DRPCIV (Hun) alkalmazs, mindazok szmra ajnlott akik szeretnk megszerezni a B kategris jogostvnyukat vagy mr van jogostvnyuk de felszeretnk frissteni a tudsukat, vagy tudni szeretnk az j szablyokat. - Hasonl vizsgzsi krnyezet a hivatalossal - Az alkalmazs hasznlathoz internet kapcsolat szksges !!! Practice to pass the exam right away!  With a friendly design that is very easy to use, the DRPCIV (Hun) application is recommended for anyone who wants to get their B-category license or already has a license but to upgrade their knowledge or want to know the new rules. - A similar test environment with the official - An Internet connection is required to use the application ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

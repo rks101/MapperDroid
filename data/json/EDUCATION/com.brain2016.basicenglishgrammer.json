@@ -1,0 +1,11 @@
+{
+"name" : "Basic English Grammar",
+"url" : "https://play.google.com/store/apps/details?id=com.brain2016.basicenglishgrammer",
+"package" : "com.brain2016.basicenglishgrammer",
+"category" : "Education",
+"description" : "This application is the best way to improve your English Grammar skills Anyplace, Anywhere and Anytime! Grab it and Master it.  This English Grammar learning app helps you improve your grammar skills on daily basis. This application teaches you English Grammar so that you can get your confidence and your personality in front of whole world.  Parts of Speech, The English Tenses System, Articles, Reported Speech, Punctuation are also available in this android application that is useful to basic English grammar learning.  Tips that are described to Basic English Grammar are herein below:  1-Part of Speech 2- Noun 3- Pronoun 4- Verb 5- Adjectives 6- Adverbs 7- Prepositions 8- Conjunctions 9- Interjections 10- The English Tense System 11- Articles 12- Determiners 13- Reported Speech 14. Quantifiers 15- Passive Voice 16- The Sentence 17- Punctuations  If you follow the described tips, you will easily learn basic English grammar. I think that this android application is robust tool to learn English very fast and speak fluently English. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

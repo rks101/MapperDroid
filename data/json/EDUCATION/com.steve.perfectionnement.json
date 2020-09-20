@@ -1,0 +1,11 @@
+{
+"name" : "Improvement",
+"url" : "https://play.google.com/store/apps/details?id=com.steve.perfectionnement",
+"package" : "com.steve.perfectionnement",
+"category" : "Educational",
+"description" : "Perfection of saints is a biblical game which aims at encouraging Men in general and particularly Christians to read their bible.  In the Old Covenant, Joshua, servant of God, received instructions concerning the revealed and written Word of YAHWEH:   This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.   Similarly in the New Covenant the Apostle Paul encouraged his godson Timothy: Till I come, give attendance to reading, to exhortation, to doctrine  According to the prophecies of the bible, we are living the end times. Biblical truth is been crushed and tampered on earth especially in public. Men and even Christians rely on other sources to understand the world in which they live.  Perfection of saints challenges Men and particularly Christians to go back and dig in the Pure and inexhaustible Source that is The Bible.  Perfection the Saints is a tool to challenge every Christian about his/her level of knowledge and his/her relationship with the Holy Book. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

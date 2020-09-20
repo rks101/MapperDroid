@@ -1,0 +1,11 @@
+{
+"name" : "Mortimer and the Dinosaurs - Book + Games for kids",
+"url" : "https://play.google.com/store/apps/details?id=org.chiquimedia.apps.mortimer",
+"package" : "org.chiquimedia.apps.mortimer",
+"category" : "Educational",
+"description" : " Digital Ehon Award Winner (Japan, 2017)   El Chupete - Top 10 apps for kids made in Spain 2017   Do you think you know everything about dinosaurs? Join Mortimer on his vacations to Earth and go mad with the real truth.  Info for parents  Mortimer and the Dinosaurs is a story-game without texts specially designed to enable parents and children to participate actively in the narration of the story.  Help Morti to pack its bag, pilot its spacecraft, take pictures of prehistoric animals, jump and climb on the rocks, look for the fingerprints of T-Rex and do not miss the most exciting part: control the dinousaurs in order to tease our little grumpy Martian... fun is totally guaranteed! XD  Features  - Recommended for 3, 4, 5, 6, 7, 8 and 9 years old kids. - 18 pages filled with wonderful illustrations that will stimulate the imagination of the little ones. - Without text: be the narrator yourself or let your children tell you the story. - Lots of animations and interactive elements. - Original soundtrack. - Simple and intuitive interface with visual help to not miss anything. - 4 fun minigames included: - Memory - Story-Puzzle - Emotions - Guess the scene - Universal App. Compatible with all the sizes of smartphones and tablets. - Languages: english, spanish, french, italian, german, portuguese, russian, chinese, japanese and catalan. - Without surprises: to unlock the complete story is necessary to make a purchase. The purchase is protected with parental control and it is the only one that exists inside the app.  Web: http://chiquimedia.org/en/apps/mortimer Privacy policy and child safety: http://chiquimedia.org/en/apps/mortimer/child-safety Support: http://chiquimedia.org/en/apps/mortimer/support ",
+"desc_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "[]",
+}

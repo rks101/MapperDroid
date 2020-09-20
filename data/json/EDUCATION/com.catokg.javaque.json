@@ -1,0 +1,11 @@
+{
+"name" : "JavaQue - Core Java Interview Questions",
+"url" : "https://play.google.com/store/apps/details?id=com.catokg.javaque",
+"package" : "com.catokg.javaque",
+"category" : "Education",
+"description" : "JavaQue is Core Java Interview Questions App for the people who are looking for jobs in java development.  This app contains collection of most important core java interview questions and answers in each topic of core java along with their answers.  We have put together the most frequently asked questions in an interview which will help you to crack your interview.  Questions are from following topic: - Basic - Array and String - Class and Objects - Constructors - Inheritance - Interface - Polymorphism - Abstraction - Collection and Exception - Multi threading - Common Interview Questions - Many more...  APP FEATURES: - Collection of most important java interview questions and answers. - Full offline core java interview questions and answers - Useful for freshers as well as experienced professionals. - Share your favorite JavaQue app with your friends. - No ads, no internet, no extra permission.  WHO ARE WE:  Being a small team, your responses are really great help for us to go in right direction. We are waiting to see your comments, feedback, suggestions, bugs on this release.  Give CAtoKg a try and let us know what do you think about us at catokgdotcom@gmail.com. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

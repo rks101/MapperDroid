@@ -1,0 +1,11 @@
+{
+"name" : "Count 1 to 10 FREE",
+"url" : "https://play.google.com/store/apps/details?id=com.theinvader360.counting.app.free",
+"package" : "com.theinvader360.counting.app.free",
+"category" : "Educational",
+"description" : "Count 1 to 10 FREE is a simple app helping teach early years numeracy.  Tap a number! See that number of items! Hear the number spoken aloud!  Teach preschool and primary school children to count from one to ten in eight languages: English French (Franais) German (Deutsch) Italian (Italiano) Japanese (Nihongo ) Mandarin Chinese (Gunhu  ) Spanish (Espaol) Welsh (Cymraeg)  Fun early learning counting app for young kids - I hope you and your children enjoy playing with this free educational tool. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

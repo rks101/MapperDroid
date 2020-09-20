@@ -1,0 +1,11 @@
+{
+"name" : "Himachal GK",
+"url" : "https://play.google.com/store/apps/details?id=com.aditechnology.himachalgk",
+"package" : "com.aditechnology.himachalgk",
+"category" : "Education",
+"description" : "--> Himachal Daily Updates --> Himachal General knowledge --> Himachal General knowledge in Hindi and English --> Himachal News Updates --> Unlimited Number Of Questions --> Himachal Gk First Person of Himachal Pradesh --> Himachal Gk Rivers in Himachal Pradesh --> Himachal Gk History of Himachal Pradesh --> Himachal Gk Lakes in Himachal Pradesh  --> Himachal Gk Glaciers in Himachal Pradesh  --> Himachal Gk Fair of Himachal Pradesh  --> Festival of Himachal Pradesh -->Himachal Quiz game ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

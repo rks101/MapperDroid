@@ -1,0 +1,11 @@
+{
+"name" : "Learn Spanish with Phrases",
+"url" : "https://play.google.com/store/apps/details?id=com.frasingo.spa",
+"package" : "com.frasingo.spa",
+"category" : "Education",
+"description" : "Learn Spanish Phrases - Frasingo is an application that allows you to learn Spanish with the most common phrases used in Spanish (1000 phrases in Pro Version). You will be able to improve two specific skills of Spanish language: speaking and listening. New levels will open as long as you correctly guess the phrases, progressively increasing the difficulty level.  - 1000 English Spanish phrases from basic level to advanced, all of them distributed in 64 different levels (32 in the free version). - Learn Spanish in Quick and simple way. You will notice you learn Spanish more and more every day. - Locutions in Spanish.. - You will be able to verify your answers ticking right or wrong in each phrase. If you get them correct, new stars will appear and new levels will be unblocked. - You will be able to learn Spanish like in a Phrasebook. - Designed for mobiles and tablets.  *Internet connection is not required once the application has been installed. You will be able to continue from where you stopped the previous time.  Send comments to appfrasingo@gmail.com  Facebook: https://www.facebook.com/frasingo Frasingo Web : http://frasingo.wix.com/frasingo ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "[]",
+}

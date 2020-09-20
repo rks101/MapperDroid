@@ -1,0 +1,11 @@
+{
+"name" : "Complete Chemistry",
+"url" : "https://play.google.com/store/apps/details?id=com.toscanyacademy.completechemistry",
+"package" : "com.toscanyacademy.completechemistry",
+"category" : "Education",
+"description" : "Complete Chemistry focuses on students learning chemistry. The app covers tutorials, solver, quiz, formulas and dictionary.  It covers all you need to know to understand chemistry concepts. The chemistry practical exposes you to periodic table and dilution calculation.  Complete chemistry offers a quiz section for evaluating your knowledge and areas you need to improve on chemistry.  The app also has a note section where you can save notes of items you want to remember or a summary of certain concept.  The app basically covers syllabus for exams like WAEC, NECO, JAMB, KCSE, Post JAMB and GCE besides everyone can still use it.   The following topics are covered  Atomic Structure Periodic Chemistry Chemical Bonding Stoichiometry State of Matter Energy and Energy Change Acids, Bases and Salts Solubility of Substance Rate of Reactions Redox Reaction Carbon Compounds Chemistry and Environment Non Metals Metals and its Compounds Organic Chemistry   Disclaimer: The question and solution section uses Past WAEC exam questions and solutions which were provided by WAEC for students planning to sit for WAEC exams  If you have a suggestion or issue with this app please kindly let me know through my contact email so that I will attend to it immediately. Remember to rate this app ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

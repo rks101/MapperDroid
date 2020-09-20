@@ -1,0 +1,11 @@
+{
+"name" : "Sociedad Mexicana de Anatomía",
+"url" : "https://play.google.com/store/apps/details?id=ib.facmed.unam.mx.congresoanatomiafacmed",
+"package" : "ib.facmed.unam.mx.congresoanatomiafacmed",
+"category" : "Education",
+"description" : "QUINES SOMOS?  La Sociedad Mexicana de Anatoma, asociacin civil fundada en 1957, ha venido realizando sus actividades de manera ininterrumpida hasta el momento. ABOUT US?  The Mexican Society of Anatomy, a civil association founded in 1957, has been doing its activities uninterrupted until now. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

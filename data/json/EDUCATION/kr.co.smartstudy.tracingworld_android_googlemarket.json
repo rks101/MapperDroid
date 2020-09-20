@@ -1,0 +1,11 @@
+{
+"name" : "PINKFONG Tracing World",
+"url" : "https://play.google.com/store/apps/details?id=kr.co.smartstudy.tracingworld_android_googlemarket",
+"package" : "kr.co.smartstudy.tracingworld_android_googlemarket",
+"category" : "Education",
+"description" : "Let your little ones develop their handwriting skills with [PINKFONG Tracing World]! Learn the letters and shapes with interactive tracing activities and educational mini games!  FEATURES  1. 4 Basic Tracing Subjects for Kids  - Uppercase and lowercase Alphabets, Numbers and Shapes. - Various themes for fun learning: rocket station, under the sea, crunchy land and more!   2. 100+ Tracing Activities - Interactive tracing fun with adorable characters  - Simple tracing steps designed for little children  3. Educational Mini Games - Fun and easy games to go over the letters and shapes  - Kids favorite bubble and card games  4. 6 Languages Included - English, Spanish, French, Chinese, Korean and Japanese.  Enjoy your first tracing activity at [PINKFONG Tracing World]. Start the amazing adventure right now!  * Optimized for all smartphones and tablets. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Bangla history gk / ইতিহাস gk",
+"url" : "https://play.google.com/store/apps/details?id=com.greenapps.bangla_history_gk",
+"package" : "com.greenapps.bangla_history_gk",
+"category" : "Education",
+"description" : "History general knowledge app /  gk             general knowledge            general knowledge  wbcs                                                Bangla history gk/ History general knowledge app is brought to you by Green app studio. From the bangla history book we collect all the indian history general knowledge and bangla history gk. This is the best general knowledge 2018 bangla .    This apps is helpful for-  wbcs exam preparation bangla wbcs exam preparation in bengali Bcs Preparation  govt job preparation ( for all competition exam ) Bank job preparation  non government job preparation   This bengali gk apps is for our west bengal and east bengal friends as well .  If you like our apps then rate us with 5 star and share it with your friends. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.greenapps.bangla_history_gk.permission.C2D_MESSAGE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

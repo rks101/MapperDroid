@@ -1,0 +1,11 @@
+{
+"name" : "English Short Stories",
+"url" : "https://play.google.com/store/apps/details?id=qhiep.StoryEnglishWithAudio",
+"package" : "qhiep.StoryEnglishWithAudio",
+"category" : "Education",
+"description" : "English Stories is an application that support people to learn English easily. This app includes over 600 English Stories.Its include : + Daily Life + Society  + Love and Family + Works + School + Travel + Healthy + Famous People This app have many stories about daily life of the American, You will discover many thing at here.  Beside, we have over 70 English Audio Books with many titles and contents are very interested. We hope its will become your best friend. Please listen this app every day, You will have a happy in your life. Thank for using our app. THT Group ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'qhiep.StoryEnglishWithAudio.permission.C2D_MESSAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+}

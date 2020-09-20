@@ -1,0 +1,11 @@
+{
+"name" : "Building An Online Business",
+"url" : "https://play.google.com/store/apps/details?id=com.freemobileapps.buildinganonlinebusiness",
+"package" : "com.freemobileapps.buildinganonlinebusiness",
+"category" : "Education",
+"description" : "If you are somebody who would like a little extra cash flow above and beyond your 9-5 job, we recommend starting your own online business. Not only will it help make money, it is also a great way to work from home.  A small business is a great way to earn money from the comfort of your own home. Our Building an Online Business goes over how to make money online as well as great business ideas.  Included in our Building An Online Business is a 12-point checklist, covering all the essential steps for starting an online business how to make money online.   The checklist includes: * The Idea * Make ideas great again * Money, Money, Money * Take a look around * Analyze and learn * Uniqueness * Branding * Online foundation * Testing * Analyze and implement * Its launch time * Its always lab time  Though this is a beginners guide starting an online business. It is a great resource to use if you are unsure what you want to achieve. It will help motivate you into starting something new. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SET_WALLPAPER', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE']",
+}

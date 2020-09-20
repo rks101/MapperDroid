@@ -1,0 +1,11 @@
+{
+"name" : "Chinese in Flow",
+"url" : "https://play.google.com/store/apps/details?id=com.gamestolearnenglish.chineseinflow",
+"package" : "com.gamestolearnenglish.chineseinflow",
+"category" : "Education",
+"description" : "Learn Chinese characters in an easy way.  This application helps you to study and review Chinese characters.  It covers the HSK characters from levels 1 to 3 with the pinyin and English translations for each.  There are 3 modes to study.  Learn In this mode you are presented with a character and translation to remember. Then you are then shown the character and a few possible translations and you have to choose the correct English translation. This mode proceeds like this through all 30 characters in each set.  Practice In this mode you are show a single character and have to choose the correct pinyin and English translation from a set of eight possibilities. You have a limited amount of time to match all the characters.  Review In this mode you are shown a character and need to think of the translation yourself. You can then click on show to reveal the translation. If you were correct then you can move on to the next character. Otherwise you can see the character again.  This application stores you progress so that you can see how you are progressing with each set of characters.  Long press on a content set or option to reset your progress. By doing this, you can go through the learning process as many times as you like. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

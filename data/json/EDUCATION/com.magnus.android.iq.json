@@ -1,0 +1,11 @@
+{
+"name" : "IQ TEST",
+"url" : "https://play.google.com/store/apps/details?id=com.magnus.android.iq",
+"package" : "com.magnus.android.iq",
+"category" : "Education",
+"description" : "The term IQ is an abbreviation for the term intelligence quotient. IQ is determined by administering assessments intended to determine a humans intelligence level. This intelligence level is expressed by a ratio of the mental age to the chronological age. IQ tests are often used for determining the intelligence of job applicants, military applicants, students, and others. An IQ test is generally administered by a psychologist; but, many informal IQ assessments can be found on the Internet. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

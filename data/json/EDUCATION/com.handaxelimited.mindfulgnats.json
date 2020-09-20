@@ -1,0 +1,11 @@
+{
+"name" : "Mindful Gnats",
+"url" : "https://play.google.com/store/apps/details?id=com.handaxelimited.mindfulgnats",
+"package" : "com.handaxelimited.mindfulgnats",
+"category" : "Education",
+"description" : "Mindful Gnats is an app designed to teach young people simple mindfulness and relaxation skills. It can be used to help mindfulness practice when playing the Mindful Gnats desktop game (see www.peskygnats.com for details) or as a stand alone aid to mindful practice. These skills can help to reduce stress, and improve awareness of your body, mind and world.   The app features eight exercises to raise awareness of body, mind, and world:  Mindfulness of Your Body: - Relaxation: progressive muscle relaxation and visualisation to help the user relax and remove stress - Breathing: set and follow a breathing pace that is calming  - Body Scan: mindful exercise that teaches awareness of different parts of the body  Mindfulness of Your Mind:  - Leaves on a Stream: an exercise about identifying thoughts and learning to let them go - Whats on Your Mind?: increasing awareness of the thoughts, feelings, and imaginings that pass through your mind  - Mindful Seeing: a simple exercise designed to teach the user to look at things in different ways  Mindfulness of Your World:  - Mindfulness of Sound: helping non-judgemental awareness of sounds around us  - Whats That?: become aware of familiar objects using all of 5 senses ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

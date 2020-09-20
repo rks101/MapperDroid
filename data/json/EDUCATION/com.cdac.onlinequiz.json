@@ -1,0 +1,11 @@
+{
+"name" : "Online General Knowledge Quiz",
+"url" : "https://play.google.com/store/apps/details?id=com.cdac.onlinequiz",
+"package" : "com.cdac.onlinequiz",
+"category" : "Education",
+"description" : "This Online General Knowledge Quiz Application is aimed to encourage children to check their general knowledge and improve their performance & confidence.   Quiz Questions are arranged randomly on various topics covering General Knowledge, Current affairs, sports, History, Science &Technology, Mental ability, Culture, Heritage etc.  Quiz questions will be changed once in every two months.  This quiz is opened to classes between 3rd class to 10th class only and is divided into three groups.Classes 3rd to 5th is considered as one group,6th to 8th considered as second group and classes 9th and 10th considered as third group.All the three groups will have different set of quiz questions and each class carries different time duration.  Quiz is presently availabe in three indian languages English,Hindi and Telugu. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

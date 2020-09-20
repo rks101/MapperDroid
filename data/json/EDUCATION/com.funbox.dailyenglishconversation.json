@@ -1,0 +1,11 @@
+{
+"name" : "Speak English Fluently",
+"url" : "https://play.google.com/store/apps/details?id=com.funbox.dailyenglishconversation",
+"package" : "com.funbox.dailyenglishconversation",
+"category" : "Education",
+"description" : "If you are looking for an app to improve your English Conversation and Listening skills and help you speak more fluently, this app is suitable for you. Whole audios of this app are in American accent. This app also includes the list of most common words and phrases used in daily conversations. It will help you speak English fluently.  New lessons and features will be updated weekly.  Features: - Online audio mode: save your sdcards storage - Offline audio mode: can use this app on the go - List of conversations in English with 2 levels: beginner and intermediate - List of most commonly used sentences and expressions - Record your voice, then the app will be able to compare your voice with original sentences - Most commonly used words and sentences in daily situations - Necessary Idioms and Phrases  - Bookmark your favorite lessons ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

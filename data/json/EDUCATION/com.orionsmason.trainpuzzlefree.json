@@ -1,0 +1,11 @@
+{
+"name" : "Train Games for Kids: Puzzles",
+"url" : "https://play.google.com/store/apps/details?id=com.orionsmason.trainpuzzlefree",
+"package" : "com.orionsmason.trainpuzzlefree",
+"category" : "Education",
+"description" : "Do your kids love trains? Do your they love zoo animals and puzzles too? Look no further. Train Games for Kids: Zoo Railroad Car Puzzles is a fun animated puzzle game for toddlers, preschoolers, and kids from ages 1 to 6.  The app includes twelve different child and toddler friendly, jigsaw-style puzzles with options to change the number of pieces and remove other helpers. The puzzles start off easy to play and get more challenging- perfect for the little one in your life who loves zoo animals, trains, and puzzles!  The scenes include cute zoo animals, fun animated trains, train stations, railways, and much more! Every scene will light up your childs imagination as they take part in this amazing fantasy world!  This high quality zoo train puzzle app features virtual jigsaw pieces for learning shape recognition and matching- great for educational purposes or just for fun! Good for one of your childs first puzzle games- its easy for beginners to connect with and get lost in this magical childrens fantasy world.  Please note that this is the free version of the app. The free version includes four puzzles with the option to unlock the other 8 via in-app purchase.  Features: * Fun, creative graphics by illustrator Jenny Tiffany. * 12 different fun zoo train puzzles to choose from! * Positive encouragement. * Fun interactive stars and bubbles to pop, animated zoo animals, and fast moving trains at the end of each puzzle! * Choose your own difficulty! Increase the number of pieces from 9 up to 24 as your childs fine motor and spatial skills improve! * Easy for kids to use and control. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "MEL Kids",
+"url" : "https://play.google.com/store/apps/details?id=com.melscience.melkidsar",
+"package" : "com.melscience.melkidsar",
+"category" : "Educational",
+"description" : "Have you ever wanted to learn more about how the ordinary objects all around you work? MEL Kids AR will show you whats happening inside various machines from everyday life! Assemble your own simple mechanism and scan a special card, and cute characters will explain the science behind what youve done! MEL Kids AR includes:  - Clear, metaphorical explanations to illustrate complicated phenomena simply and engagingly - AR technology to enhance the realism of the interactive explanation - Characters and plot designed to appeal to children ages 5-9 - Opportunities to explore simple mechanisms that children can assemble all by themselves! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "RamPur Khera Sahib",
+"url" : "https://play.google.com/store/apps/details?id=com.vismaad.Rampur",
+"package" : "com.vismaad.Rampur",
+"category" : "Education",
+"description" : "Waheguru jee kaa Khalsa, Waheguru jee kee Fateh!!  Official mobile app for Gurdwara RamPur Khera Sahib, Hoshiar Pur, Punjab - India This app enables easy access to Literature written by Sant Baba Harnam Singh Ji and Sant Baba Sewa Singh Ji, Audio Books and Naam Abhiyaas Kamaee Smagam Recordings (Simran, Kirtan and Katha) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_VIDEO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_VIDEO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

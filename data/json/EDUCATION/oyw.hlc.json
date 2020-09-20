@@ -1,0 +1,11 @@
+{
+"name" : "OnYourWay Hallacha Machshava",
+"url" : "https://play.google.com/store/apps/details?id=oyw.hlc",
+"package" : "oyw.hlc",
+"category" : "Education",
+"description" : "OnYourWay (Uvelechtecha Baderech) the biggest Jewish books app is coming to the android world, On Your Way - the bigest free jewish iphone hebrew reader, conatains: Shulchan Aruch, Tur, Shulchan Aruch Harav, Sefer Hachinuch and lots of other books,  if the Hebrew is LTR read the help for solution  OnYourWay Full version (120MB) direct link: http://mobile.tora.ws/android.html  OnYourWay Yesod: https://play.google.com/store/apps/details?id=oyw.tnc  OnYourWay Halacha: https://play.google.com/store/apps/details?id=oyw.hlc  OnYourWay Siddur: https://play.google.com/store/apps/details?id=oyw.sid  You can also find out in Google Play the other parts of OnYourWay with contains lots of other Jewish Books,  Please note: The search requires internet connection  twitter: @OYWapp ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

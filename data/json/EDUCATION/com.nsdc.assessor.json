@@ -1,0 +1,11 @@
+{
+"name" : "PMKVY-Aadhaar Enabled Assessor Application",
+"url" : "https://play.google.com/store/apps/details?id=com.nsdc.assessor",
+"package" : "com.nsdc.assessor",
+"category" : "Education",
+"description" : "Aadhaar enabled assessor application aims to assist the assessor and concerned stakeholders to conduct skill assessment under Pradhan Mantri Kaushal Vikas Yojna PMKVY (2016-2020). It will enable to conduct of assessment in more transparent and authentic manner through capturing of the evidences on the day of assessment on real time basis through assessor. Key features of the app include:  Aadhaar authentication of the registered assessor on assessment day  Candidate Aadhaar authentication  Geo tagging of Assessor location  Capturing Assessor Photograph  Facility of capturing Geo tagged and timed stamped photographs (Training centre premise, classroom, assessment etc.)  TC Feedback form  Other key features ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.USB_PERMISSION', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.INTERNET', 'android.permission.ACCESS_GPS', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.FORCE_STOP_PACKAGES', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.USB_PERMISSION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_GPS', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.FORCE_STOP_PACKAGES', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

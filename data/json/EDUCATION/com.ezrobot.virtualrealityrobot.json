@@ -1,0 +1,11 @@
+{
+"name" : "EZ-Robot Virtual Reality Viewer",
+"url" : "https://play.google.com/store/apps/details?id=com.ezrobot.virtualrealityrobot",
+"package" : "com.ezrobot.virtualrealityrobot",
+"category" : "Education",
+"description" : "View what your EZ-Robot sees using Google Cardboard or compatible headsets. This application does two things, it allows you to see what the robot sees and control the servos with the Pitch and Yaw of the headset. This means when you move your head, the robot head can move as well, mimicking your movement.   This application is a client that connects to your EZ-Builder project over a WiFi network. For detailed instructions, install the plugin and follow the manual here: https://www.ez-robot.com/EZ-Builder/Plugins/view/281 ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE']",
+}

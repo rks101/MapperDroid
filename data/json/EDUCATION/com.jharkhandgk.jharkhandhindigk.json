@@ -1,0 +1,11 @@
+{
+"name" : "Jharkhand Gk Question Answer in Hindi",
+"url" : "https://play.google.com/store/apps/details?id=com.jharkhandgk.jharkhandhindigk",
+"package" : "com.jharkhandgk.jharkhandhindigk",
+"category" : "Education",
+"description" : "Jharkhand Gk Question Answer in Hindi app is very helpful for those student who are preparing for the state level exam. State level exam are following - --> Sub - Inspector  --> Constable --> Group-C Exams and the other state level exams.  This app is updated Monthly. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

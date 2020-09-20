@@ -1,0 +1,11 @@
+{
+"name" : "Foundations of Mathematics",
+"url" : "https://play.google.com/store/apps/details?id=com.unimaths.fomaths",
+"package" : "com.unimaths.fomaths",
+"category" : "Education",
+"description" : "This app gives a concise introduction to Foundations of Modern Mathematics. The emphasis is on rigorous treatment of definitions, arguments, proofs etc. The topics covered are 1. What is Mathematics  2. Logic as foundation of Mathematics  3. Role of definitions  4. Axiomatic Theories in Modern Mathematics  5. Sets  6. Cardinality of Sets  7. Remarks on Definitions and Proofs Suggestions and comments are welcome. Write them at univrmaths@gmail.com. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Kids Song - Best Offline Nursery Rhymes",
+"url" : "https://play.google.com/store/apps/details?id=com.duasaudaradepok.KidSong",
+"package" : "com.duasaudaradepok.KidSong",
+"category" : "Educational",
+"description" : "KIDS SONG helps children develop musical skills with up-beat, classic songs and interactive animations.. It is designed to help kids can sing songs in English. Especially, Kids Song are made to keep your little ones entertained while encouraging them to listen and learn. Most common 30 English kids songs over over the world with lyrics. Grow up your kids with this sweet songs, and it beneficial to teach them for better pronunciation too. Enjoy it! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

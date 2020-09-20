@@ -1,0 +1,11 @@
+{
+"name" : "Division calculator",
+"url" : "https://play.google.com/store/apps/details?id=andrei.brusentcov.schoolcalculator.free",
+"package" : "andrei.brusentcov.schoolcalculator.free",
+"category" : "Education",
+"description" : "Easy to use school calculator. This calculator will help your with long division, long multiplication, addition & subtraction. This cheat calculator can help you with your math homework. Application supports division with reminders, long division and even repeating decimals.  Features: - Long division - Long multiplication - Operations history stores up to 1000 entries. You can always see yesterdays calculations - Long subtraction - Long addition ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

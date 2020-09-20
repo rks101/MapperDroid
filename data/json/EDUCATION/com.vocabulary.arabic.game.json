@@ -1,0 +1,11 @@
+{
+"name" : "Learn arabic vocabulary game",
+"url" : "https://play.google.com/store/apps/details?id=com.vocabulary.arabic.game",
+"package" : "com.vocabulary.arabic.game",
+"category" : "Education",
+"description" : "Learn arabic vocabulary game is the perfect tool for toddlers and older children to learn Arabic vocabulary. More than 300 commonly used words including colors, numbers, animals, fruits, verbs, body parts, house items, places, and many more.   Learn :   300 words with images to illustrate words and pronunciation recordings by native speakers.  Vocabulary covers 24 thematic topics.  Fun  Select from 2 fun games to learn in a uniquely entertaining manner.  The 2 games allow you to review all the words youve learned during each game.  You can repeat the words until you or the child have understood.  Easy  No internet connection is required to use the app.  The application is very light. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.vocabulary.arabic.game.permission.C2D_MESSAGE', 'com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

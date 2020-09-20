@@ -1,0 +1,11 @@
+{
+"name" : "The Jungle Book - Mowgli",
+"url" : "https://play.google.com/store/apps/details?id=com.thejunglebookstories.mowglisdayout",
+"package" : "com.thejunglebookstories.mowglisdayout",
+"category" : "Educational",
+"description" : "The Jungle Book by Rudyard Kipling is a classic story among children of all ages. Mowgli is a little boy raised in the jungle by a bunch of wolves after escaping from the deadly tiger named sharekhan. His two best friends, Baloo the bear and Bagheera the panther, protect him from the dangers in the wilderness and try to teach him the rules of the jungle.   We have interpreted this classic story in a modern way by designing it in the form of an interactive ebook application.  Features  # Interactive storybook with great animations stimulating the imagination # Professional narration and music create a delightful ambiance # 5 Episodes with lovingly designed graphics and animations that bring characters to life. # Cute recognizable characters from your favorite storybook # Simple and intuitive interface  Reading stories together is a simple way to accomplish communication and to enjoy spending quality time with your children. The Jungle Book is a classic story with deep moral values to be talked upon: comprehend them with your child in a fun and interactive way!  A thrilling story about a brave kids journey ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

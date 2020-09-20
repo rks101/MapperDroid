@@ -1,0 +1,11 @@
+{
+"name" : "Tv2vie",
+"url" : "https://play.google.com/store/apps/details?id=org.tv2vie",
+"package" : "org.tv2vie",
+"category" : "Education",
+"description" : "Avec cette application vous pourrez:  - Suivre la tlvision en direct - Rechercher des vidos - Regarder des vidos en ligne - Tlcharger des vidos en ligne - Sauvegarder des vidos pour les regarder plus tard - Consulter les vnements  venir - Etc.  Site officiel : https://www.tv2vie.org/ With this app you can:  - Watch live TV - Search Videos - Watch online videos - Download online videos - Save videos to watch later - View upcoming events - Etc.  Official website: https://www.tv2vie.org/ ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.WRITE_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CALL_PHONE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

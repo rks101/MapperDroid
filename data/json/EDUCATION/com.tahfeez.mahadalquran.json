@@ -1,0 +1,11 @@
+{
+"name" : "Qism al-Tahfeez",
+"url" : "https://play.google.com/store/apps/details?id=com.tahfeez.mahadalquran",
+"package" : "com.tahfeez.mahadalquran",
+"category" : "Education",
+"description" : "* Information source - www.elearningquran.com * User cannot access an App if he/she is Not Registered with ELearningQuran website.  * Internet Required.   Available Features :  - Daily Hifz Tips - Track Hifz Progress - Track Murajah Progress - Get Your Takhteet For Hifz - Ikhtebaar Report - Pending Payment and Transaction History - Latest Available On Jamea Publications. - And Many More ....  Note : Login by ITS ID and Password.  Privacy Policy: * Login Information is encrypted. and cannot be shared with any one. * Profile information is for view only purpose, it will not be shared with anyone. * There is no payment module in this app, you can only view payment history (Data from ElearningQuran website) ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.tahfeez.mahadalquran.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

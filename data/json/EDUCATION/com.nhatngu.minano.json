@@ -1,0 +1,11 @@
+{
+"name" : "Japanese Learning, Common Use",
+"url" : "https://play.google.com/store/apps/details?id=com.nhatngu.minano",
+"package" : "com.nhatngu.minano",
+"category" : "Education",
+"description" : "You are Learning Japanese ??? and want to have a powerful tool to help you. this app Japanese Learning, Common Use is one of the tool like that, itd been made follow the minna no books content. With Japanese Learning, Common Use you can: + easy to trace vocabulary for each lessons + easy to learn all the useful grammar. + listening to have exactly pronunciation for all the lessons. from that you can easily to communicate with Japanese. + you can see many basic communicate examples in the Japanese daily. this is one of steps to make Japanese more friendly with you + share you experience with your friend on facebook with just some clicked  With all 50 lessons, you will have strong enough to friendly with japanese  Thank you, hope you will like the app ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_CONTACTS', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "[]",
+}

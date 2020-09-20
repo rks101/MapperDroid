@@ -1,0 +1,11 @@
+{
+"name" : "Prime It DNA Game",
+"url" : "https://play.google.com/store/apps/details?id=com.gla.primeit",
+"package" : "com.gla.primeit",
+"category" : "Educational",
+"description" : "Undertaking a molecular course as part of your education? This game is aimed at students with knowledge of DNA and undertaking a molecular course. It was designed by a University of Glasgow undergraduate student and aims to help with your understanding of PCR primer design. Speed and accuracy are required to get a good score!  Features include: - A choice as to whether you design your forward or reverse PCR primer. - Use your knowledge of complementary base pairing to accurately design your primer. - See how quickly you can design your primers! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

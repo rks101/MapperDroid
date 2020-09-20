@@ -1,0 +1,11 @@
+{
+"name" : "Belajar Bahasa Cina (Mandarin)",
+"url" : "https://play.google.com/store/apps/details?id=com.san.learnmandarinwithmalay",
+"package" : "com.san.learnmandarinwithmalay",
+"category" : "Education",
+"description" : "Bahasa Mandarin merupakan bahasa yang semakin penting di antarabangsa. Pelbagai negara seperti China, Taiwan dan Singapura juga menggunakannya sebagai bahasa rasmi. Di Malaysia, tidak hairannya untuk menghantar anak-anak ke sekolah jenis kebangsaan demi belajar bahasa Cina.  Kini, belajar bahasa Mandarin adalah semakin senang dan mudah. Ini kerana anda boleh belajar dengan aplikasi ini secara interaktif dan percuma. Permainan ini mengajar bahasa Cina dengan menggunakan bahasa Melayu, jadi sesiapa di Malaysia juga boleh bermain.  Kandungan aplikasi: - Belajar Perkataan: Kosa kata akan diajar mengikut topik, anda perlu menjawab semua soalan latihan yang diberi.  - Belajar Bercakap ayat: Perbualan asas dengan sebutan pinyin yang tepat dan jelas adalah tersedia yang anda mempelajari. - Ujian: Anda perlu menerjemah perkataan dan ayat bahasa Mandarin tanpa kamus, supaya dapat lulus peperiksaan yang diberi dan dapat skor yang tinggi. - Pertandingan: Bermain dengan kawan-kawan anda, mungkinnya anda dapat kalahkan kawan anda yang berbangsa Cina selepas menggunakan aplikasi ini.  Jom belajar bahasa Mandarin sekarang, supaya anda boleh berkawan atau berkomunikasi dengan bangsa Cina dengan lebih senang. Selain itu, anda boleh menguasai salah satu bahasa yang sangat penting di dunia. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

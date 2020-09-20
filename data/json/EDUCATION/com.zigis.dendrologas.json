@@ -1,0 +1,11 @@
+{
+"name" : "Dendrologas",
+"url" : "https://play.google.com/store/apps/details?id=com.zigis.dendrologas",
+"package" : "com.zigis.dendrologas",
+"category" : "Education",
+"description" : "This application is dedicated to people willing to discover the surrounding world and to know trees. Application author is a biology and computer science student from Lithuania. Content author is a fellow botanist Adel Markeviit.  * 38 trees and bushes with brief descriptions and facts. * Simple, but actual information dedicated to both ordinary persons and university students. * Quiz with 76 questions which will help to strengthen your knowledge! * Learning progress meters near each category, 0-100%. * Application does not need internet connection!  Application can be freely used for the teaching purposes. It will be forever free and ad less! At the moment application is still in development stage and english version will definitely improve. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

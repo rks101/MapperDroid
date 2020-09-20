@@ -1,0 +1,11 @@
+{
+"name" : "Morse code - learn and play",
+"url" : "https://play.google.com/store/apps/details?id=com.limesdevelopment.morsecode",
+"package" : "com.limesdevelopment.morsecode",
+"category" : "Education",
+"description" : "- Learn Morse Code with different modes of learning, using the letter frequency and spaced repetition to help you learn.  - Customize your input, choose between tapping to simulate the real telegraph machine, or use buttons to input your code!  - Flash, vibrate or beep your morse code - Customize the speed and the frequency of your sound generator - Track your statistics for each letter - Use multiple choice or short answer learning modes to boost your learning experience - Learn mode introduces new letters one by one, starting with more common ones - Words mode helps you learn from 10,000 most common words in English - Recognize letter plays a sound, after which you need to guess the correct letter. - Use the code translator to translate morse code to text, or text to morse code.  - If you need a hint, weve got you covered. - Earn 10 hints a day when you open the app, watch a video to earn more ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.vibrate', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

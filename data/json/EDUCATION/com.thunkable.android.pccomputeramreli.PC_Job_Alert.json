@@ -1,0 +1,11 @@
+{
+"name" : "Gujarat Job Alert ( PC Job )",
+"url" : "https://play.google.com/store/apps/details?id=com.thunkable.android.pccomputeramreli.PC_Job_Alert",
+"package" : "com.thunkable.android.pccomputeramreli.PC_Job_Alert",
+"category" : "Education",
+"description" : "This application is provide Job Notification related to jobs NEWS in Gujarat. Sarkari Nokri  Help Line: pccomputeramreli@gmail.com  Here you can find all Job related information for Students of Gujarat.  This application is only design for Gujarat Students and jobseekers.  Features of this App:  Bank Jobs Latest Exam Results Call Letters Rojgaar Samachar Exam schedule Admission of all University Scholarship information ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.sonyericsson.home.permission.BROADCAST_BADGE', 'com.huawei.android.launcher.permission.READ_SETTINGS', 'com.sec.android.provider.badge.permission.READ', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'com.majeur.launcher.permission.UPDATE_BADGE', 'android.permission.READ_APP_BADGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.thunkable.android.pccomputeramreli.PC_Job_Alert.permission.C2D_MESSAGE', 'android.permission.INTERNET', 'com.oppo.launcher.permission.READ_SETTINGS', 'me.everything.badger.permission.BADGE_COUNT_READ', 'android.permission.VIBRATE', 'com.huawei.android.launcher.permission.CHANGE_BADGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.huawei.android.launcher.permission.WRITE_SETTINGS', 'com.htc.launcher.permission.READ_SETTINGS', 'com.sec.android.provider.badge.permission.WRITE', 'android.permission.WAKE_LOCK', 'com.oppo.launcher.permission.WRITE_SETTINGS', 'me.everything.badger.permission.BADGE_COUNT_WRITE', 'com.sonymobile.home.permission.PROVIDER_INSERT_BADGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Symbolab - Math solver",
+"url" : "https://play.google.com/store/apps/details?id=com.devsense.symbolab",
+"package" : "com.devsense.symbolab",
+"category" : "Education",
+"description" : "Your private math tutor, solves any math problem with steps! Equations, integrals, derivatives, limits and much more. (Steps require an in-app subscription)  Symbolab Math Solver app is composed of over one hundred of Symbolabs most powerful calculators: Equation Calculator Integral Calculator Derivative Calculator Limit calculator Inequality Calculator Trigonometry Calculator Matrix Calculator Functions Calculator Series Calculator ODE Calculator Laplace Transform Calculator Download the app to experience the full set of Symbolab calculators.  Symbolab Math Solver solves any math problem including Pre- Algebra, Algebra, Pre-Calculus, Calculus, Trigonometry, Functions, Matrix, Vectors, Geometry and Statistics. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.CAMERA', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

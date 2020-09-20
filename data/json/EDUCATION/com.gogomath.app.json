@@ -1,0 +1,11 @@
+{
+"name" : "Gogomath - Prodigy Math Learning Games",
+"url" : "https://play.google.com/store/apps/details?id=com.gogomath.app",
+"package" : "com.gogomath.app",
+"category" : "Education",
+"description" : "Learn math in a fun and inspiring way from home! Work through 3,000+ exercises to develop mathematical skills and challenge your friends online!  In Gogomath, you will work through various math topics and levels, like addition / subtraction / multiplication / division / reading time / unit conversion, which gradually builds up a strong mathematics foundation and strengthen your logic thinking.   KEY FEATURES  The best math learning app for all ages and levels.  Based on a proven Japanese methodology.  3,000+ exercises for various mathematical topics.  Enjoy the company of a virtual pet friend and make progress together.  Challenge your friends and players around the world online  Safe and 100% ad-free.  Terms of Use: https://api.gogomath.com/terms.html Privacy Policy: https://api.gogomath.com/policy.html  CONNECT WITH US Contact support@gogomath.com for help or suggestions, and welcome to https://www.gogomath.com to explore more. ",
+"desc_perms" : "['android.permission.WRITE_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING']",
+}

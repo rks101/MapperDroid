@@ -1,0 +1,11 @@
+{
+"name" : "English for kids",
+"url" : "https://play.google.com/store/apps/details?id=com.funbox.englishkid",
+"package" : "com.funbox.englishkid",
+"category" : "Education",
+"description" : "This free app is very useful for your kids who need to improve English vocabulary, listening and reading abilities. You can let your kids learn English with hundreds of vocabulary with images and pronunciation. Its very easy to use with simple, intuitive and powerful interface. This app is abundant in subjects used in daily situations. Lets learn with your kids with a lot of fun.  New features: - ABC Course: let your kids learn letters from A to Z step-by-step; - Vocabulary Course: many lessons and levels to help your kids remember English words easily.  Subjects included:   - Colors - Animals - Insects - Alphabet - Numbers - Shapes - Fruits - Food - Body Parts - Transport - Clothes - Sports - Vegetables - Verbs - Occupations - Appliances - Emotions - School - Places - Kitchen - Weather - Bathroom - Living room - Flowers - Country Flags - Musical Instruments - Fairy Tales - Solar System - Ancient Greece - Ancient Egypt - Daily Routines and more.  Happy Learning :) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

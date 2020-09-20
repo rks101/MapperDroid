@@ -1,0 +1,11 @@
+{
+"name" : "Learn Japanese Free Offline For Travel",
+"url" : "https://play.google.com/store/apps/details?id=asi.education.language.learnjapan",
+"package" : "asi.education.language.learnjapan",
+"category" : "Education",
+"description" : "Learn Japanese is an application developed by Japanese language experts. This is a pocket communication dictionary, used in offices, schools, amusement parks, shopping centers, airports, bus stations, train stations, tourist attractions. .. Its free to learn Japanese without internet connection. Features: 1. Sort threads by topic for use in many situations 2. Suggest common and common terms of communication 3. Standard pronunciation guide in Japanese 4. Record your voice 5. Create your favorite word list ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

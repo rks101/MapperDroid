@@ -1,0 +1,11 @@
+{
+"name" : "Miga Town: My TV Shows",
+"url" : "https://play.google.com/store/apps/details?id=com.miga.mytvshows",
+"package" : "com.miga.mytvshows",
+"category" : "Education",
+"description" : "Lets produce distinctive TV programs and/or films!  Have a tour in a brand new scene at the TV station and conduct a live broadcasting match or an outdoor interview. Enjoy a real experience of a TV presenter or a journalist. Show your unique culinary skills in a variety show and gain audience favor.  Please, unveil all your creative ideas in different studios, as you may interview stars, celebrities and fashion icons in talent talk shows or start a new program with your friends. Thousands of changes enable a freewheeling program mix.  Features --Five scenarios: Home, talk show live, press recording studio, variety studio, streets  --Home - move into the most luxurious room and play your favorite role!  --Talk show live - invite stars/icons at your choice, and talk about something crazy   --Press recording studio - this is the best place to utter a sound for news happening all around the world, and do live broadcast for various matches and/or games.  --Variety Studio - its a variety of cooking competition. Different judges have different tastes. Can you satisfy them all?   --Streets - Lets get on the streets for random interviews and collect more data for the program.  --Give full play to childrens creativity --Tens of billions of customized modes --No third-party advertising --No time limit or score ranking list  contact ussupport@xihegame.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.READ_PHONE_STATE']",
+}

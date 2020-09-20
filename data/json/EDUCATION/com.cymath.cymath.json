@@ -1,0 +1,11 @@
+{
+"name" : "Cymath - Math Problem Solver",
+"url" : "https://play.google.com/store/apps/details?id=com.cymath.cymath",
+"package" : "com.cymath.cymath",
+"category" : "Education",
+"description" : "With millions of Cymath.com users worldwide, the Cymath math problem solver app uses the same math engine while letting you solve problems on the go! Just enter a problem from your math homework, and let Cymath solve it for you step-by-step! We provide algebra as well as calculus help.  Our math problem solver is designed to help you with your math homework. In addition to homework answers, we also show you how to get there step-by-step. Let Cymath help you with your math homework today!  Topics in algebra include: equation solving, factoring, logarithms, exponents, complex numbers, quadratic equations, trigonometry, partial fraction, polynomial division, etc. Topics in calculus include: product rule, quotient rule, chain rule, u-substitution, integration by parts, integration by partial fraction, trigonometric substitution, rationalizing substitution, and much more. We provide math answers and steps for all of the above.  In short, whether you are simply stuck on your math homework, want to check your homework answers, or need specific calculus help, let our math problem solver help now! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "International Humanitarian Law",
+"url" : "https://play.google.com/store/apps/details?id=it.digital.codicidiu",
+"package" : "it.digital.codicidiu",
+"category" : "Education",
+"description" : "Treaties and customs of international humanitarian law. The IHL App of the Italian Red Cross provides you with the possibility to get access to several legal texts in English, French, Italian and Spanish. You can consult them according to single provisions or exploring the full text with the possibility to carry out researches in relevant texts. You can create and store your notes as well as save a series of provisions as to have an easy access to them at any time ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

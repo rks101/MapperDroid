@@ -1,0 +1,11 @@
+{
+"name" : "Himachal Pradesh GK Notes and Quiz",
+"url" : "https://play.google.com/store/apps/details?id=com.devthakur.himachalknowledge",
+"package" : "com.devthakur.himachalknowledge",
+"category" : "Education",
+"description" : "Himachal GK In Hindi Notes And MCQ               HPPSC ,  ,  , , , ,   -,    app  : HP GK Theory in hindi Category =>       =>      =>     =>     =>     =>     =>      =>      =>           =>  HP GK Quiz in hindi Category  =>         =>        =>        =>        =>        =>        =>         =>             =>    ======> Himachal gk Himachal gk hub Himachal gk quiz                 -    app     Thanks Team Himachal Pradesh GK Notes and Quiz ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

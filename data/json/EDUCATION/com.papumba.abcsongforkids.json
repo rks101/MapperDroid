@@ -1,0 +1,11 @@
+{
+"name" : "ABC Song â€“ Learn Alphabet",
+"url" : "https://play.google.com/store/apps/details?id=com.papumba.abcsongforkids",
+"package" : "com.papumba.abcsongforkids",
+"category" : "Education",
+"description" : "An educational game specially designed for your baby or preschooler to have fun singing the ABC song. Very fun and perfect for ages 1 to 5.  Join your little one while they sing the ABC song and discover the interactive piano together, with the sounds of the letters and fun characters who will guide them in their learning. This simple yet entertaining game is perfect for introducing your child to learn the ABC song.  By simply touching the screen, your little one can interact with amazing videos and activities that will allow them to sing the ABC song in a simple and fun way.   FEATURES - Sing the ABC song with Lio and Emma. - Discover the 26 letters of the alphabet using the interactive piano. - High-quality videos with spectacular animations. - Available in 8 languages, including English (US) and English (UK). - Older children can change the language and learn the song in another language. - Adorable graphics and characters are part of the learning experience.  Download it now for free and enjoy watching your child learn and have fun at the same time!  If you have an idea to make this app even more fun and educational, please dont hesitate to contact us!  Website: www.papumba.com Email: info@papumba.com Follow us on Facebook: https://www.facebook.com/papumbagames ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

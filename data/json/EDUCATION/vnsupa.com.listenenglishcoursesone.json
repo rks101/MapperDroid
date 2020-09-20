@@ -1,0 +1,11 @@
+{
+"name" : "English Listening Courses",
+"url" : "https://play.google.com/store/apps/details?id=vnsupa.com.listenenglishcoursesone",
+"package" : "vnsupa.com.listenenglishcoursesone",
+"category" : "Education",
+"description" : "This courses very useful to listen english, study vocabulay and practice conversation in English. This app have :  + 3000 English Listening Lessions included Audios and Images. + Text transcript for conversation in English included. + Note vocabulary for every conversation + Listen and Answer the Questions. + Practics English Every day. You can use this app to Listen English and Practice everyday. You must dowwnload and listen it later and you can use it offline without network. This application is the best app for listen english and english conversations. You can listen and repeat english in very lession. I hope your english is better and speak english good. With many titles and questions in this courses. I hope that it useful. Thanks you. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.READ_CONTACTS']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE', 'vnsupa.com.listenenglishcoursesone.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_FINE_LOCATION']",
+}

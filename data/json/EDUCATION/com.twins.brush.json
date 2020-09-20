@@ -1,0 +1,11 @@
+{
+"name" : "Brush",
+"url" : "https://play.google.com/store/apps/details?id=com.twins.brush",
+"package" : "com.twins.brush",
+"category" : "Education",
+"description" : "Brush is a very simple user friendly Paint Application, its for them those who love to Paint. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

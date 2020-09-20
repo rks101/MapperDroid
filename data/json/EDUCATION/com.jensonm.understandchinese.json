@@ -1,0 +1,11 @@
+{
+"name" : "Understand Chinese - 30 days course",
+"url" : "https://play.google.com/store/apps/details?id=com.jensonm.understandchinese",
+"package" : "com.jensonm.understandchinese",
+"category" : "Education",
+"description" : "Easy to understand and effective day day by Chinese lesson. Simple and effective method. 1. Study and learn Chinese from our daily lessons. 2. Do exercise questions after studying our daily lessons. 3. Revise with more questions to truly remember the Chinese character.  Follow the lessons and exercises and by 1 month, you will have a good command of basic Chinese. Focus on daily conversations, grammar, building sentences.  Explain why the sentences and phrase are build in such a way, instead of just hard memorizing. After you understand, it will be much easier to master Chinese language.  Effective method to memorize Chinese characters by doing multiple selection exercise / practise after lesson. Doing revision will enable you to read and remember all the Chinese characters that we teach.  Its all free of charge and theres no need to pay to unlock any feature.  Not only you can study Chinese language in this app, you can also practise what you have learned in your Chinese study. Contains lots of random Chinese questions in all the topics that we covered. Your journey to be able to speak Chinese proficiently starts by downloading this Chinese language learning app. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

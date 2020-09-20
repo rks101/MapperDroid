@@ -1,0 +1,11 @@
+{
+"name" : "Note Trainer",
+"url" : "https://play.google.com/store/apps/details?id=olga.moi.notki",
+"package" : "olga.moi.notki",
+"category" : "Education",
+"description" : "Learn to play the piano, guitar or other musical instrument, sing or just love music? Music Tutor game for you. Solfeggio sheet music at any time and in any place.  ***************************** Note Trainer: ***************************** - treble clef or bass clef - increase the speed of the music recognition - hear the sound of each note to learn music by ear - set notation systems   CDEFGAB  CDEFGAH  Do Re Mi Fa Sol La Si  Do PE Mi Fa La Col C                  - improve level to level - a fun and interesting way to spend time and enjoy the game  Spend 5 minutes a day and you will soon be able to sight-read music as a professional musician. At each level you are given 5 lives, and get points. The sooner you guessed note - the more points you get. When you have enough points opens a new level and you will guess music notes quickly and without errors. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

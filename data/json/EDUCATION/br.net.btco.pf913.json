@@ -1,0 +1,11 @@
+{
+"name" : "Math Creatures from Space!",
+"url" : "https://play.google.com/store/apps/details?id=br.net.btco.pf913",
+"package" : "br.net.btco.pf913",
+"category" : "Educational",
+"description" : "How do you beat monsters from outer space? With mental math, of course! Type the answer to the math problem that appears on top of each enemy in order to defeat it. Defend your city and defeat the enemies before they land on the ground!  This game exercises the 4 basic arithmetic operations (addition, subtraction, multiplication and division). Try your mental math skills in 36 challenging levels!  This is a hobby project that I do for fun, so there are no ads or in-app purchases in this game. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

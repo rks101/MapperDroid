@@ -1,0 +1,11 @@
+{
+"name" : "Speak Japanese - Learn Japanese, Grammar (Offline)",
+"url" : "https://play.google.com/store/apps/details?id=com.smarttraining.learnjapanese",
+"package" : "com.smarttraining.learnjapanese",
+"category" : "Education",
+"description" : "Learn Speak Japanese- Japanese Grammar This app is the handbook for learn Japanese. Learn Japanese is recorded using native speaker and we have tried our best to be authentic in the pronunciation whilst ensuring it is easy to understand. This app will help you improve Speaking, grammar, phrases, Japanese vocabulary... Features: - 900+ phrases in 18 categories: Japanese Alphabet, Greetings, General conversation, Numbers, Directions and places, Transportation, Eating out, Time and date, Shopping, Family, Dating ... - Speak Japanese: High quality audio pronunciation by native speaker - Japanese Grammar: many Korean grammar lessons with detail explanation - Japanese Grammar Lessons: Adjective, adverbs, basic grammar, conditionals, causative and passive verbs, formal expressions ... - Easy to add favorite or bookmark - Qick search tool - Completely offline and free  * Learn Japanese Words Hiragana, Learn Japanese For Beginners * Learn Japanese Offline * Learn Japanese - Speak Japanese  If you like this app. Please rate our app 5 star and share to your friends. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_CONTACTS']",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

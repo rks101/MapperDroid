@@ -1,0 +1,11 @@
+{
+"name" : "ePathshala Scanner",
+"url" : "https://play.google.com/store/apps/details?id=nic.ncert.ciet.scannere_pathshala",
+"package" : "nic.ncert.ciet.scannere_pathshala",
+"category" : "Education",
+"description" : "ePathshala Scanner is the fastest in the google play store market. AD FREE Enable more feature for your Android device.  Key features of ePathshala Scanner  QRcode Reader.  Simple user guide as following:  To scan the QR code, simply open the application, align the code. ePathshala Scanner will automatically recognize any QR code. When scanning the QR code, if the code contains a URL, you can open browser to the site ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

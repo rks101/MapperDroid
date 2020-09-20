@@ -1,0 +1,11 @@
+{
+"name" : "Electric Loco Trouble Shooting",
+"url" : "https://play.google.com/store/apps/details?id=ettc.bza.etsd",
+"package" : "ettc.bza.etsd",
+"category" : "Education",
+"description" : "This Application Facilitates quick, reliable and efficient troubleshooting assistance to the user. Such help is being provided in conventional AC Locos(Tap Changer based locos), 3 Phase Technology Locos and EMU/MEMU of Indian Railway,   The user friendly Zoom facility, Search facility and especially in 3 phase fault number based trouble shooting assistance are the advantages of this Application.  Instructions for day to day working of locos will familiarize the users and improve their working knowledge.  The availability of 3 phase quick TSD in tri-lingual is more advantageous for clear understanding of trouble shooting in vernacular languages. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.SEND_SMS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.SEND_SMS']",
+}

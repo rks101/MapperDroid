@@ -1,0 +1,11 @@
+{
+"name" : "Endless Alphabet",
+"url" : "https://play.google.com/store/apps/details?id=com.originatorkids.EndlessAlphabet",
+"package" : "com.originatorkids.EndlessAlphabet",
+"category" : "Education",
+"description" : "Set the stage for reading success with this delightfully interactive educational app. Kids will have a blast learning their ABCs and building vocabulary with the adorable monsters in Endless Alphabet. Each word features an interactive puzzle with talking letters and a short animation illustrating the definition. Before you know it, your child will be using words like gargantuan and cooperate! Try it for free today!  Features: - 100 words to explore and learn. Please note that this app comes free with 7 word puzzles and animations. A one-time in-app purchase will unlock the rest. - Delightful animations teach children the definitions of the words in a fun and engaging way. - Word game teaches children letters. - Endless Alphabet was designed with your children in mind. There are no high scores, failures, limits or stress. Your child can interact with the app at their own pace. ",
+"desc_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

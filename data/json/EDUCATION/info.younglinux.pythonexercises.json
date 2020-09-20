@@ -1,0 +1,11 @@
+{
+"name" : "Python. Exercises and Examples",
+"url" : "https://play.google.com/store/apps/details?id=info.younglinux.pythonexercises",
+"package" : "info.younglinux.pythonexercises",
+"category" : "Education",
+"description" : "Examples of solutions of exercises and practice problems in the Python programming language, including known algorithms (binary search, Euclidean algorithm, sieve of Eratosthenes, factorial calculation, Fibonacci series, finding the greatest common divisor and the least common multiple). Some examples contain detailed comments.  The app includes sections: linear algorithms, conditions, cycles, strings, lists, dictionaries, functions, files, exceptions, OOP, list generators. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

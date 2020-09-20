@@ -1,0 +1,11 @@
+{
+"name" : "KQ Pride Centre",
+"url" : "https://play.google.com/store/apps/details?id=com.kenya_airways.kqpridecentre",
+"package" : "com.kenya_airways.kqpridecentre",
+"category" : "Education",
+"description" : "KQ Pride Centre android app allows students to: -Apply for IATA courses -Apply for pride stars courses such as cabin crew -Inquire about a course -Contact our support team -View our facilities and much more ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CALL_PHONE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.kenya_airways.kqpridecentre.permission.C2D_MESSAGE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.CALL_PHONE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

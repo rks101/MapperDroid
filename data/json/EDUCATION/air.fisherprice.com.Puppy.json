@@ -1,0 +1,11 @@
+{
+"name" : "Learning Letters Puppy",
+"url" : "https://play.google.com/store/apps/details?id=air.fisherprice.com.Puppy",
+"package" : "air.fisherprice.com.Puppy",
+"category" : "Education",
+"description" : "A fun-filled app that features babys favorite Laugh & Learn Puppy character! Babies are encouraged to interact with engaging animations, sing-along songs & sound effects.    Features:    4 Modes of play:   1. ABC - Touch the screen to advance through the alphabet with fun animations. After letter Z, sing and dance along to the ABC song.   2. 123 - Touch the screen to advance through numbers 1-10, at the end sing along to the counting song.   3. Shapes & Colors - Touch the screen to learn about shapes and colors through fun animations.   4. Music - Touch the screen to sing and dance to 4 songs!    Tilt the device to hear Puppy giggle!   Teaches letters A-Z, numbers & counting 1-10, shapes, colors, and action/re-action   ================================================================================  We recommend parent and child joint media engagement. See our Media Viewing Tips at:  http://www.fisher-price.com/en_US/playtime/keepinmind.html   End User License Agreement: http://fpconnect.fisher-price.com/dssupdate/EULA/LaughLearn_GoogleEULA.html ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.DISABLE_KEYGUARD', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.DISABLE_KEYGUARD', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

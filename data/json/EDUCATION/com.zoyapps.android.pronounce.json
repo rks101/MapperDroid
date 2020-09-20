@@ -1,0 +1,11 @@
+{
+"name" : "Rhyming Dictionary: American Pronunciation",
+"url" : "https://play.google.com/store/apps/details?id=com.zoyapps.android.pronounce",
+"package" : "com.zoyapps.android.pronounce",
+"category" : "Education",
+"description" : "All in one app with: Rhyming dictionary, pronunciation dictionary, International Phonetic Alphabet(IPA) transcription, phoneme sounds, and word hyphenation. Helps you master English pronunciation quickly using highly contextual and most common rhyming words.  App works completely offline, very small in size(< 3 MB), and free.   Large dictionary with 120,000+ words, and expanding   Learn to pronounce in Amerian accent and reduce foreign accent   Hundreds of rhyming words help master pronunciation quickly   IPA transcripts for all word with syllable, primary stress, and secondary stress information   Complete phonemes chart with sample words for every phoneme   Word hyphenation   Bookmark words for easy reference   Explore complete dictionary with Search and Random Word features   Configure hyphenation, speech rate, pitch to your liking   Rhyme N Pronounce is a very useful app for English as a Foreign Language(EFL) students preparing for IELTS like exams or spell-bee competitions. Its also an ideal app for poets, songwriters, and rappers.   Upcoming features: homophones, and dictionary with 200k+ words  Please send us your valuable feedback on existing features or new feature requests to support@zoyapps.com. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.zoyapps.android.pronounce.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

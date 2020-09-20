@@ -1,0 +1,11 @@
+{
+"name" : "Pictoeduca",
+"url" : "https://play.google.com/store/apps/details?id=com.promedia.pictoeduca",
+"package" : "com.promedia.pictoeduca",
+"category" : "Education",
+"description" : "Pictoeduca tiene como propsito ayudar a personas que tienen dificultades de expresin en el lenguaje oral, a progresar en la comunicacin y comprensin de conocimientos a travs de sencillas lecciones y tareas desarrolladas con pictogramas, todas ellas gratuitas y de libre acceso. Pictoeduca aims to help people who have difficulties in oral language expression and progress in communication and understanding of knowledge through simple lessons and tasks performed with pictograms, all free and open access. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE']",
+}

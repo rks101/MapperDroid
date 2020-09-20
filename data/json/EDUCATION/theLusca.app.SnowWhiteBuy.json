@@ -1,0 +1,11 @@
+{
+"name" : "Snow White",
+"url" : "https://play.google.com/store/apps/details?id=theLusca.app.SnowWhiteBuy",
+"package" : "theLusca.app.SnowWhiteBuy",
+"category" : "Educational",
+"description" : "You know the Snow White fairytale. Now experience the magic on your digital devices!  This interactive story app lets you play inside the story. Beautiful illustrations, exciting animation, fun activities and original music make this a picture book app at its best.  Designed for children ages 2 and up, but adults will love it, too.  * Developed by California credentialed teachers.  READ THE STORY AND GET INVOLVED: Decorate the Christmas tree in the Kings castle. Mix liquid to create dark magic. Help Snow White clean the house. Decorate Snow Whites bedroom. Help Snow White cook dinner for the Dwarfs. Help Snow White collect apples and flowers in the yard. Help the Seven Dwarfs find diamonds in the mine. Touch the Seven Dwarfs to play different musical instruments. Puzzle game: Spot the differences  Choose a reading mode: - Read & Play mode: Read and interact with the characters in the story - Read To Me mode: Have the story read to you automatically page by page. - Read by myself mode: There is no audio to allow you to read the story on your own. ",
+"desc_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.CHECK_LICENSE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

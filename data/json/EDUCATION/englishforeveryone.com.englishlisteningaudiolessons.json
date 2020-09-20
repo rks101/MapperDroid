@@ -1,0 +1,11 @@
+{
+"name" : "Learn English Listening",
+"url" : "https://play.google.com/store/apps/details?id=englishforeveryone.com.englishlisteningaudiolessons",
+"package" : "englishforeveryone.com.englishlisteningaudiolessons",
+"category" : "Education",
+"description" : "Learn English by Listening Learn English with more than 1000 AudioBooks Get complete lesson audiobooks library access  from beginner to advanced. Master English 100% with lesson notes, English translations, quizzes, and vocabulary & phrase. In this app you can :  - English listening with full text and audio. - English listening with daily conversations. Translated to any languages. - Record your voice and listen to your pronunciation. - Download each conversation with pdf file . - 150 classic audiobooks to listening and reading. - 1500 English conversations with audio. - More than 1000 audiobooks. You can search the book you like. - English listening test. - Learn English with grammar and test. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_ALL_DOWNLOADS']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_ALL_DOWNLOADS']",
+}

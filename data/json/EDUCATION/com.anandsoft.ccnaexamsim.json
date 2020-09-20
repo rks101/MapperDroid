@@ -1,0 +1,11 @@
+{
+"name" : "CCNA 200-120 Exam Sim",
+"url" : "https://play.google.com/store/apps/details?id=com.anandsoft.ccnaexamsim",
+"package" : "com.anandsoft.ccnaexamsim",
+"category" : "Education",
+"description" : "CCNA 200-120 exam simulator provides practice questions from latest syllabus of CCNA certification exam 200-120 offered by Cisco.  Question types supported are  1. Multiple choice single answer 2. Multiple choice multiple answer 3. Drag and drop  Complete explanation is provided for each question in Learn mode, and actual exam environment is simulated in Exam mode. Options to save the results and reviewing questions are provided.  Desktop version of the app is available with 425+ questions at http://www.simulationexams.com/exam-details/ccna-200-120.htm  Disclaimer: Simulationexams.com is not associated with Cisco organisation and CCNA is a trademark of Cisco duly acknowledged. ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

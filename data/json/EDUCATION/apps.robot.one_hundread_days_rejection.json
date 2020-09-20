@@ -1,0 +1,11 @@
+{
+"name" : "100 days of rejection",
+"url" : "https://play.google.com/store/apps/details?id=apps.robot.one_hundread_days_rejection",
+"package" : "apps.robot.one_hundread_days_rejection",
+"category" : "Education",
+"description" : "These are the 100 days of Rejection Therapy that started it all. My goal was to desensitize myself from the pain of rejection and overcome my fear (I explain my reason why here in my TED talk).   Three criteria I set for myself:  1. Ethical (no lying or marriage-undermining)  2. Legal  3. Doesnt defy the law of physics.   Because so many people have been inspired to also try out these rejection attempts on their own, I made this AWESOME APP  How to use it: Touch on checkbox if you have done the rejection. Touch on rejecton to get a description of it. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

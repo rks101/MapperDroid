@@ -1,0 +1,11 @@
+{
+"name" : "Tayo Puzzle",
+"url" : "https://play.google.com/store/apps/details?id=bluepin_app.cont.tayo_puzzles",
+"package" : "bluepin_app.cont.tayo_puzzles",
+"category" : "Education",
+"description" : " No more same styles of puzzles! Various puzzles of characters that our children love!   Put the puzzle of Tayo, Rogi, Gani, Rani, Citu and many more ride friends!  Stimulate childrens creativity and imagination by playing jigsaw, vertical puzzles  It is more than a Puzzle App! Pick various accessories to customize Tayo and ride friends!   You can use already purchased contents on different android devices by login to same Google account.   Contact Mail  If you have any problems or have questions, please send your inquiry to help@kakaokids.com and all other business inquiry to info@kakaokids.com. Please note that it is difficult to check individuals problem/inquiry from App Review, highly appreciated if you send us email as above. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING', 'android.permission.VIBRATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

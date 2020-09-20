@@ -1,0 +1,11 @@
+{
+"name" : "My Dolphin Care - Baby Dolphin Twins Pet Care",
+"url" : "https://play.google.com/store/apps/details?id=com.beansprites.dolphincareFREE",
+"package" : "com.beansprites.dolphincareFREE",
+"category" : "Education",
+"description" : "Baby Dolphin Twins lets you take care of the most adorable dolphin pets in a colorful ocean atmosphere!  Train your dolphins by feeding, caring for their wounds, taking care of their health, playing and doing training with them, making them the most delicious dolphin food snacks, and more!  Choose from three colorful Dolphin pets and play in seven fun modes of play with your Dolphin, even including a fun set of Minigames!  Feed your dolphin some delicious homemade kelp cakes! Top them with delicious toppings and watch your Dolphin chatter with delight at the delicious food!  Train your dolphin in a fun set of games including balls, jumping through hoops and bumping blocks with their head! They are so well trained and eager to please their trainers!  Its time for bedtime - soothe your dolphin to sleep by playing them a fun tune on the keyboard until they drift off to sleep on the ocean floor!  Become a medic, and treat your dolphins wounds by treating them with some ointment, and bandaids! They feel so much better when being attended to!  My Baby Twin Dolphins is great fun for all ages, especially kids who love Pet Dolphins, and Ocean Creatures! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING']",
+}

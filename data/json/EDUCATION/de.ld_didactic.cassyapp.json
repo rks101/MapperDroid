@@ -1,0 +1,11 @@
+{
+"name" : "CASSY App",
+"url" : "https://play.google.com/store/apps/details?id=de.ld_didactic.cassyapp",
+"package" : "de.ld_didactic.cassyapp",
+"category" : "Education",
+"description" : "Use your CASSY with all sensors on a tablet or smartphone.  The CASSY App allows to control your CASSY and display the measured values in analog/digital displays, tables and diagrams on your tablet or smartphone. You evaluate your data and store and share your results  without any PC.  All CASSY sensors for physics, chemistry and biology are supported, e.g. voltage, current, force, path, velocity, acceleration, magnetic field, pH value, conductivity, pulse, skin resistance.  The CASSY App supports the following CASSYs: - Mobile-CASSY 2 WLAN - Sensor-CASSY mit WLAN-Adapter - Power Analyser CASSY  Measuring with the CASSY App is simple: - Connect your CASSY to the same WiFi network as the tablet or smartphone, - enter the PIN displayed by the device or select the device in the app, - start the measurement. - Measured values can be stored, loaded and shared. - The file format *.labm is compatible with Mobile-CASSY 2, Power Analyser CASSY and CASSY Lab 2. - Files can also be loaded from and saved to a WebDAV server. - Numerous measurement examples help you get started.  A compatible CASSY and the sensors are available from LD DIDACTIC GmbH. For more information, please visit our website. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Maritime Buoyage System",
+"url" : "https://play.google.com/store/apps/details?id=com.xf.iala",
+"package" : "com.xf.iala",
+"category" : "Education",
+"description" : "This app describes the IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) recommended buoyage and light aids to maritime navigation using 3D views and a light rendering engine.  It features the following :  - IALA marks and lights inventory with real time 3D and light animations. - all the rythmic characters of lights with their animations. - the differents light types/applications as used on charts with 3D and light animations. - the port traffic signals. - a light renderer that enables you to render any light. - a charts section that illustrates/renders navigation at night. - exhaustive tests to improve your skills progressively .  The app is free, with content restricted to premium users, ad free, and does not require an internet connection. It does not collect or share any user data.  Tags/mots-cls : lights, buoys, IALA, AISM, navigation lights, lighthouse ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'com.samsung.android.iap.permission.BILLING', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'com.samsung.android.iap.permission.BILLING', 'android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING']",
+}

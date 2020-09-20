@@ -1,0 +1,11 @@
+{
+"name" : "Beti Bachao Beti Padhao",
+"url" : "https://play.google.com/store/apps/details?id=com.cdac.betibachaobetipadhao",
+"package" : "com.cdac.betibachaobetipadhao",
+"category" : "Education",
+"description" : "This app contains details about the Beti Bachao Beti Padhao programme that seeks to create awareness on celebrating the Girl Child and enabling her education. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CALL_PHONE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.SET_WALLPAPER']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

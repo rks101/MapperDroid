@@ -1,0 +1,11 @@
+{
+"name" : "All English Idioms & Phrases",
+"url" : "https://play.google.com/store/apps/details?id=com.app.englishidioms",
+"package" : "com.app.englishidioms",
+"category" : "Education",
+"description" : "This is helpful app to you can learn Idioms , Phrases and Proverbs in English very easily and effectively. It has more than 10000 idioms and phrases, it will help you search easily and effectively  Features: - Popular English Idioms - English Idioms Dictionary - Favorite English Idioms - English proverbs with their meaning - Most Common Phrasal Verbs - American Slang Dictionary - Idioms Quizzes - Phrasal Verb Quizzes ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

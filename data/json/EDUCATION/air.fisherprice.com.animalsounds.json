@@ -1,0 +1,11 @@
+{
+"name" : "Animal Sounds for Baby by Fisher-Price",
+"url" : "https://play.google.com/store/apps/details?id=air.fisherprice.com.animalsounds",
+"package" : "air.fisherprice.com.animalsounds",
+"category" : "Education",
+"description" : "With Laugh & Learn Animal Sounds app by Fisher-Price, babies are encouraged to learn about animal names and the sounds animals make through interaction with engaging animations and sound effects! Baby can tap, tilt or shake to set a learning world in motion! Designed for babies 6 months and up.   Features:   Tap, tilt or shake the screen to interact with the animals. Theyll giggle or slide across the screen to delight baby!   Music Time!: Once baby has learned new animal sounds, its time to dance with two sung songs!   Teaches animals, animal sounds, first words, and action/reaction.    ================================================================================  We recommend parent and child joint media engagement. See our Media Viewing Tips at:  http://www.fisher-price.com/en_US/playtime/keepinmind.html   End User License Agreement: http://fpconnect.fisher-price.com/dssupdate/EULA/LaughLearn_GoogleEULA.html ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.DISABLE_KEYGUARD', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.DISABLE_KEYGUARD', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

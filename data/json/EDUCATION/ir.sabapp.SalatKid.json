@@ -1,0 +1,11 @@
+{
+"name" : "Comment prière",
+"url" : "https://play.google.com/store/apps/details?id=ir.sabapp.SalatKid",
+"package" : "ir.sabapp.SalatKid",
+"category" : "Education",
+"description" : "En vous permettant de slectionner lune des cinq prires quotidiennes, cette application montre les images, les textes, les traductions ainsi que les prononciations de diffrentes tapes de la prire choisie selon les Chiites. Les images de cette application enseignent aux enfants la pratique dune prire complte du dbut  la fin. Dans chaque tape, grce aux flches en bas de page, vous pouvez voir lunit et le nom de la prire affiche. En plus denseigner la prire, lapplication vous montre comment faire les ablutions via des images et des textes.  Dans lattente de vos commentaires, nous vous souhaitons une bonne utilisation de cette application. By allowing you to select one of the five daily prayers, this application shows the images, texts, translations and pronunciations in different stages of prayer chosen by the Shiites. The images in this application teach children the practice of complete prayer from beginning to end. In each stage, with the arrows at the bottom of page, you can see the unity and the name of the displayed prayer. In addition to teaching the prayer, the application shows you how to make ablution through images and texts. Awaiting your comments, we hope you enjoy using this application. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'ir.sabapp.SalatKid.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

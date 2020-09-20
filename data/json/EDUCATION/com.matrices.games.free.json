@@ -1,0 +1,11 @@
+{
+"name" : "Game Theory",
+"url" : "https://play.google.com/store/apps/details?id=com.matrices.games.free",
+"package" : "com.matrices.games.free",
+"category" : "Education",
+"description" : "The Game Theory uses a mathematical method to study optimal strategies in games. A game is understood as a process in which two or more parties participate in the struggle for the realization of their interests. Each of the parties has its own goal and uses some strategy that can lead to a win or loss - depending on the behavior of other players. The game theory helps to choose the best strategies, taking into account the views of other participants, their resources and their possible actions  Application Features - Special keyboard for more convenient data entry; - Full, step by step description of solutions; - Ability to save decisions; - Ability to edit saved solutions - Works without access to the Internet  https://linprog.com/main-game-theory  Keywords: Matrix games, special maths, simplex method, the traveling salesman problem, the dual task, dynamic programming, Game theory ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'com.matrices.games.free.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Tehilim en Français - תהילים",
+"url" : "https://play.google.com/store/apps/details?id=com.loubavitch.tehilim",
+"package" : "com.loubavitch.tehilim",
+"category" : "Education",
+"description" : "Tlchargez gratuitement notre application Tehilim sur votre Smartphone,  Vous pourrez profiter en automatique du calcul du Tehilim quotidien ou  alors parcourir le Tehilim par chapitre. Grce  cette application, Le  Tehilim tant source de bonheur quotidien se trouvera toujours dans  votre poche pour vous protger et vous Download a free Tehilim application on your Smartphone, You can enjoy automatic calculation of the daily or Tehilim then browse the Tehilim by chapter. With this application, The Tehilim being daily happiness source will always be in your pocket to protect you and ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERNET']",
+}

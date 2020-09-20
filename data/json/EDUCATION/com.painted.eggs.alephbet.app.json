@@ -1,0 +1,11 @@
+{
+"name" : "Aleph Beis App - Learn Hebrew",
+"url" : "https://play.google.com/store/apps/details?id=com.painted.eggs.alephbet.app",
+"package" : "com.painted.eggs.alephbet.app",
+"category" : "Education",
+"description" : "Learning the Aleph Beis should be fun and interactive! Its time to download the app that makes it all possible!  This Aleph Beis App was created by a group of preschool teachers. This app will let your child interact and learn at the same time. A voice will guide the questions, and the child can pick the correct letters to progress to the next question.   The Aleph Beis are taught using a few different fonts in order to accustom the child to the many different ways that they will be seeing the same letters.  A method designed to enhance the users knowledge!  There are three levels, each harder than the next. For the most effective results, we recommend using the levels in their order.   By the time the user has completed using the app, they will be able to recognize and identify any of the letters in the Hebrew Alphabet.  The perfect app for a Jewish Day School!  Using the techniques that the Alef Bet is supposed to be taught!  Do you have any suggestions. Feel free to contact us! ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+}

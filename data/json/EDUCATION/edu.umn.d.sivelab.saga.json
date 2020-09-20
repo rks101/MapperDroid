@@ -1,0 +1,11 @@
+{
+"name" : "SAGA",
+"url" : "https://play.google.com/store/apps/details?id=edu.umn.d.sivelab.saga",
+"package" : "edu.umn.d.sivelab.saga",
+"category" : "Educational",
+"description" : "SAGA (Social Acuity Game for ASD) is a prototype application developed to explore how a game environment might assist people with better understanding of facial expressions in social situations. It was funded through exploratory funds from the University of Minnesotas Informatics Institute. This release serves only as a prototype and does require additional development and study.   In the game, you will meet ToM (Theory of Mind), the robot. ToM is a friendly character that loves helping his robot friends through different challenges in the forest. His goal is to use his understanding of facial expressions in figuring out how to help his friends with the challenges they might have in social situations. Although ToM is not an expert in faces, nor an expert in problem solving, you can help him to learn what is the actual emotional state of his friends and how he can act accordingly.  SAGA v0.8.2b8 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET']",
+}

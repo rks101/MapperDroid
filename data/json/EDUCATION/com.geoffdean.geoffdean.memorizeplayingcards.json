@@ -1,0 +1,11 @@
+{
+"name" : "MPC - Memorize Playing Cards",
+"url" : "https://play.google.com/store/apps/details?id=com.geoffdean.geoffdean.memorizeplayingcards",
+"package" : "com.geoffdean.geoffdean.memorizeplayingcards",
+"category" : "Education",
+"description" : "The MPC - Memorize Playing Cards memory training app helps you to remember a deck of standard (English) playing cards. The app is simple, it comes preloaded with playing card images together with mnemonic words and images, both of which are based on the Major System. It is ready to use right away. The MPC app basically associates standard playing cards with words and images to allow you to remember the order of the deck . The Major System (in various forms) is widely used in memory competitions and is surprisingly effective. The app has three basic functions Card/Image Training, Memorize and Recall.  In the app you can - create your own mnemonic words - load your own mnemonic images - create your own standard decks - create large decks with multiple standard decks (up to 99 standard decks) - two shuffle options * stack multiple standard decks, then shuffle as one large deck i.e. any card can be anywhere * shuffle individual decks and then stack them to be used as one deck i.e. the first 52 cards will be one standard deck, the second 52 cards will be the next standard deck, etc. - for each of the basic functions there are also interesting settings options to make the learning experience flow from easy to changeling - a timer (count up and count down), for memorize and recall, to test yourself against the clock ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

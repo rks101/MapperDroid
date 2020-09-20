@@ -1,0 +1,11 @@
+{
+"name" : "Math Rush",
+"url" : "https://play.google.com/store/apps/details?id=com.bibas.rushmath",
+"package" : "com.bibas.rushmath",
+"category" : "Educational",
+"description" : "think you smart ? How to play: 30 seconds - start time. +3 seconds - for every right answer! -3 seconds - for every wrong answer  *difficulty Increased longer you play. *Unlimited Math problems. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

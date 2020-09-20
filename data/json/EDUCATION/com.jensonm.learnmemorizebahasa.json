@@ -1,0 +1,11 @@
+{
+"name" : "Learn Memorize Bahasa Malaysia",
+"url" : "https://play.google.com/store/apps/details?id=com.jensonm.learnmemorizebahasa",
+"package" : "com.jensonm.learnmemorizebahasa",
+"category" : "Education",
+"description" : "Learn Bahasa Malasia / Melayu is a free language learning app that allows you to study and memorize Bahasa Malaysia / Melayu vocabulary easily. With multiple selection answers and ever changing questions, you will be able to add alot of Bahasa Malaysia / Melayu vocabulary and words into your brain.   Suitable for adults and children learning. A very effective learning app for people or beginners who start to learn Bahasa Malaysia / Melayu. No English knowledge is needed as its picture matching with Bahasa Melayu. Use the hints if you are not sure which is the answer from multiple selections.  Most importantly, this app is free and theres no pay per unlock feature.  Increase your Bahasa Malaysia / Melayu vocabulary. Study anytime anywhere without the need to bring a book or having a teacher to ask you question. A proven effective self study method in learning Bahasa Malaysia / Melayu vocabulary ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "IEO 5 English Olympiad",
+"url" : "https://play.google.com/store/apps/details?id=com.tabexam.ieo5",
+"package" : "com.tabexam.ieo5",
+"category" : "Education",
+"description" : "International English Olympiad (IEO) Level 5  * Students can take six full fledged Olympiad IEO mock exams  * Instantaneous results provided with detail reports. * Fun way to learn and prepare for Olympiad competitive exams * Questions answers are prepared with skilled professionals and presented in an appealing GUI * Any number of re-tests can be taken with this application * No need to have Internet connection once you download this android application  ~Aligns with SOF Olympiad Syllabus~ We take extreme care in composing our materials.  Course : Level 5 English ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING']",
+}

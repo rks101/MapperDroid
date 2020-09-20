@@ -1,0 +1,11 @@
+{
+"name" : "Learn Korean",
+"url" : "https://play.google.com/store/apps/details?id=com.asiedu.lang.learnkoreanfree",
+"package" : "com.asiedu.lang.learnkoreanfree",
+"category" : "Education",
+"description" : "Learn Korean is a free educational product. It is developed by The Global Language Development Project - Edu Master Pro. Learn Korean is a language Assistant. It helps you: - Overcome language barriers, connect with the whole worl - Confident in communicating with foreigners - Travel, explore the culture, civilization of mankind  - Become a global citizen with unlimited language capabilities  FEATURES Minimum size, Maximum subjects - Easy to install and use - Suggest common and popular communication topics - Standard pronunciation guide by native people - Record and listen to your voice - Create your favorite word list  Do not forget to CLICK 5 * to make Edu Master Pro more motivated to perfect the product ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

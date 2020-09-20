@@ -1,0 +1,11 @@
+{
+"name" : "Katakana - Learn Japanese",
+"url" : "https://play.google.com/store/apps/details?id=com.legendarya.katakana",
+"package" : "com.legendarya.katakana",
+"category" : "Education",
+"description" : "Learn japanese katakana in a few hours without effort, with three types of exercises: drawing the katakana with your finger on the screen, choosing the right katakana for each syllable and writing the correct syllable for each katakana.  Try to do different exercises, changing from one to another if you get stuck, and once resolved, repeat those with mistakes until you finish them flawless.You will see how fast you can learn japanese!  You can continue practising to write japanese words in katakana/hiragana with: https://play.google.com/store/apps/details?id=com.legendarya.learnexperiment.japanese1 ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

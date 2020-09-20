@@ -1,0 +1,11 @@
+{
+"name" : "Mindmarker",
+"url" : "https://play.google.com/store/apps/details?id=com.mindmarker.mindmarker",
+"package" : "com.mindmarker.mindmarker",
+"category" : "Education",
+"description" : "Mindmarker is a cloud based training reinforcement program which is used to improve your workforce. The Mindmarker program automatically sends a variety of types of messages (videos, photos, questions, emails or other files) to a group of users at pre-set dates and times. These messages are called Mindmarkers and often include questions. This App will allow users to receive the Mindmarkers and monitor their progress and performance in the training program. Visit www.mindmarker.com for more information. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

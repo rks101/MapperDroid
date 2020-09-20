@@ -1,0 +1,11 @@
+{
+"name" : "Kids Math Learning",
+"url" : "https://play.google.com/store/apps/details?id=com.ashvindalwadi.kidsmathlearning",
+"package" : "com.ashvindalwadi.kidsmathlearning",
+"category" : "Education",
+"description" : "Kids Math Learning application is designed for your kids to learn many maths items. Settings will help you to define Min and Max numbers limit as per you kid age.  Features 1. Counting of objects, we have included multiple objects. Kids can count objects easily and it shows help too. 2. Learning Addition of numbers with two layouts. 3. Learning Subtraction of numbers with two layouts. 4. Learning Multiplication of numbers with two layouts. 5. Learning Division of numbers with two layouts. 6. Learning Greater Than / Less Than numbers. 7. Learning Before / Between / After numbers. 8. Learning Numbers counting from 1 to 100. 9. Learning Maths Tables from 1 to 25 with Quiz mode. 10. Settings for all option where you can set minimum and maximum value based on your kids age. You can also change the layouts. 11. We have included many themes which you can apply for your choice. 12 Application supports minimum 1 to maximum 999 numbers.  Application has very high quality images with Text To Speech engine supported.  Please give us your feedback to make it better. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

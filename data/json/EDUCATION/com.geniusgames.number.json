@@ -1,0 +1,11 @@
+{
+"name" : "Preschool kids : Number & Math",
+"url" : "https://play.google.com/store/apps/details?id=com.geniusgames.number",
+"package" : "com.geniusgames.number",
+"category" : "Education",
+"description" : "Counting Numbers: Learn Numbers with graphic images. Pictures are shown with objects for counting.  Exercise with Addition and Subtraction: -There is simple addition and subtraction of picture images. Find the number of images, if plus(+) sign make addition,For minus(-) sign make subtraction. Add number in place ? mark,and click on Check for answer. For correct answer it show Correct, if answer is wrong, it show Wrong. Re-enter answer and again click on check.After correct answer Next Arrow appears, click on next for next exercise.  Activities with numbers: Additional activates added are ascending, descending, finding missing, greater, lesser, smallest and biggest. Clock learning also within it. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

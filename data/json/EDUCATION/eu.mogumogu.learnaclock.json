@@ -1,0 +1,11 @@
+{
+"name" : "Clock and time for kids (FREE)",
+"url" : "https://play.google.com/store/apps/details?id=eu.mogumogu.learnaclock",
+"package" : "eu.mogumogu.learnaclock",
+"category" : "Educational",
+"description" : "Effective assistance to teach kids to read and understand time and how clocks work.  What time is it? helps kids to learn how to read a clock and tell time. Six levels with increasing difficulty allow a child to get familiar with the clock and how time works. Funny talking clock says what time it shows and provide a variety of exercises to the learning material.  The clock can speak following languages:  - English (computer voice, if your device supports it)  - Russian  - German  - Spanish - Portuguese   This free version contains:  - first six levels (from simple presentations of minute and hour hands to the understanding of half past one or quarter to five)  - no ads  - no in-app products ",
+"desc_perms" : "['android.permission.vibrate']",
+"manifest_perms" : "['android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "ACIM Workbook for Students",
+"url" : "https://play.google.com/store/apps/details?id=com.myhome.peace.workbookC",
+"package" : "com.myhome.peace.workbookC",
+"category" : "Education",
+"description" : "1 This is a course in miracles. It is a required course. Only the time you take it is voluntary. Free will does not mean that you can establish the curriculum. It means only that you may elect what you want to take at a given time.  2 The course does not aim at teaching the meaning of love, for that is beyond what can be taught. It does aim, however, at removing the blocks to the awareness of loves presence, which is your natural inheritance. The opposite of love is fear, but what is all-encompassing can have no opposite.  3 This course can therefore be summed up very simply in this way:  4 Nothing real can be threatened. Nothing unreal exists.  5 Herein lies the peace of God. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

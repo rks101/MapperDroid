@@ -1,0 +1,11 @@
+{
+"name" : "Silabando",
+"url" : "https://play.google.com/store/apps/details?id=com.appsbergman.silabando",
+"package" : "com.appsbergman.silabando",
+"category" : "Educational",
+"description" : "Silabando  um aplicativo feito para auxiliar seu filho no aprendizado escolar.  Com um display divertido, simples e interativo que aumenta a vontade de aprender.  - Silabas simples e complexas (maisculas, minsculas e cursivas). - Exemplo de palavra e imagem em cada slaba. - Atividades divertidas para memorizao e pronncia de cada slaba.  Recursos do aplicativo:  Apresentao das Slabas.  Montagem de slabas e ilustrao.  Completar a palavra com a slaba correta.  Escutar a slaba e tentar descobrir qual  a correta.  Tentar ter a palavra separada em slabas e clicar na imagem correta.  O nmero de slaba que cada palavra tem. Silabando is an application made to help your child in school learning.  With a fun, simple and interactive display that increases the willingness to learn.  - Simple and complex syllables (uppercase, lowercase and italics). - Example of word and image in every syllable. - Fun activities for memorization and pronunciation of each syllable.  Application features:  Presentation of Syllables.  Installation of syllables and illustration.  Complete the word with the correct syllable.  Listen to the syllable and try to find out what is correct.  Try to have a separate word into syllables and click on the correct picture.  The number of syllables each word has. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

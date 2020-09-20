@@ -1,0 +1,11 @@
+{
+"name" : "Earth's Core",
+"url" : "https://play.google.com/store/apps/details?id=com.CelestialDynamicsAG.earthCore",
+"package" : "com.CelestialDynamicsAG.earthCore",
+"category" : "Education",
+"description" : "Earths Core shows the inner mechanics of our planet. Just point with your mobile to the center of the Earth and experience a deep look inside our planet. Right beneath your feet, thousands kilometres deep, lies a giant ball of molten iron as hot as the surface of the sun!  Explore the Layers of the Earth and their names, discover the temperature and depth of each layer.  The Earths core still holds many mysteries. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE']",
+"perms_with_call" : "['android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+}

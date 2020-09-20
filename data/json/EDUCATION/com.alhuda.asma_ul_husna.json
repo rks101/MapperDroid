@@ -1,0 +1,11 @@
+{
+"name" : "Asmaa' Allah al-Husna",
+"url" : "https://play.google.com/store/apps/details?id=com.alhuda.asma_ul_husna",
+"package" : "com.alhuda.asma_ul_husna",
+"category" : "Education",
+"description" : "The app Asmaa Allah al-Husna contains lectures by Dr. Farhat Hashmi, explaining each one of the Names of Allah Subhanahu wa Taala. The most special feature of this app is that the Names of Allah mentioned are in exact accordance with those spoken of in the Quran and Ahadith and thus are highly authentic. Moreover these Names of Allah are recited in a tune as well so that it is easier for users to memorise them. Users can also download the audios and share them with their family and friends as well.  Features:  1. It contains lectures by Dr. Farhat Hashmi, explaining each one of the Names of Allah Subhanahu wa Taala.  2. The Names of Allah mentioned are in exact accordance with the way they are spoken of in the Quran and Ahadith, thus, are highly authentic.  3. These Names of Allah are recited in a tune as well so that it is easier for users to memorise them.  4. You can download the audios to listen to them offline. 5. You can share the audios with family and friends as well. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.alhuda.asma_ul_husna.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

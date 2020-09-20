@@ -1,0 +1,11 @@
+{
+"name" : "CompTIA Training",
+"url" : "https://play.google.com/store/apps/details?id=com.jquiz.comptia_aplus",
+"package" : "com.jquiz.comptia_aplus",
+"category" : "Education",
+"description" : "CompTIA administers its certification exams through Pearson VUE and Prometric testing centers. In addition to certification, CompTIA also provides corporate membership. In April 2007, CompTIAs A+, Network+, and Security+ certifications became accredited by the American National Standards Institute. This app provides many training questions for people who want to take a test and get CompTIA certificate  in CompTIA Training app, There are 10 categories, We hope you enjoy them. 1. CompTIA A+ 2. CompTIA CDIA+ 3. CompTIA CTT+ 4. CompTIA Linux+ 5. CompTIA Network+ 6. CompTIA PDI+ 7. CompTIA Project+ 8. CompTIA Security+ 9. CompTIA Server+ 10. Strata IT fundamentals  CompTIA Training application also has many flashcards for you. Practice them everyday to improve your vocabulary.  Dont forget put comments to help us improve this app. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.sec.android.provider.badge.permission.WRITE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.jquiz.comptia_aplus.permission.C2D_MESSAGE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.htc.launcher.permission.READ_SETTINGS', 'com.sec.android.provider.badge.permission.READ', 'com.google.android.c2dm.permission.RECEIVE', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Historical Calendar - Today in History & Quiz",
+"url" : "https://play.google.com/store/apps/details?id=com.alexandrucene.dayhistory",
+"package" : "com.alexandrucene.dayhistory",
+"category" : "Education",
+"description" : "Historical Calendar allows you to explore and learn about history facts like events, births, deaths, and more.   Calendar. History timeline for each day with illustrated events and links to related articles. You can filter based on historical periods and search for specific people or places.  Agenda. Save events youre interested in for later reference. You can even add your own in this collection.  Quiz. Test your history knowledge with history questions generated especially for you.  Homescreen widget. Have a quick view on the historical facts of the day by using the widget.  Choose your language. Content in more than 50 languages, events matching the selected culture.   Premium features. Support the app and get access to premium features like exporting to Google Calendar or playing unlimited quizzes.  The app uses only the most up-to-date history facts from Wikipedia, available under CC BY-SA 3.0 license. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "SkEye | Astronomy",
+"url" : "https://play.google.com/store/apps/details?id=com.lavadip.skeye",
+"package" : "com.lavadip.skeye",
+"category" : "Education",
+"description" : "SkEye is an advanced Planetarium that can also be used as a PUSHTO guide for telescopes.  Ever wondered what objects are up in the sky? Now you can get familiar with Astronomy by identifying stars, planets, and constellations. Also look up deep sky objects from the Messier and NGC catalogs.  If you have a telescope, just strap the phone onto the OTA and you get a PUSHTO guide!   Features  Time machine : Jump to any date in past or future  Real time Alt-Azimuth and Equatorial coordinates  Messier objects  mini-NGC catalog (subset of ~180 bright objects)  Solar system objects including all 8 planets and the 4 Galilean moons  Night Mode  Search, with a guiding arrow  Alt-Azimuth, Equatorial grid   Queries? Send an email to hi.skeye@gmail.com.   Tips:  For better accuracy, calibrate the magnetic sensors by waving the phone in a figure-8 motion of your hands.  For advanced use read: http://lavadip.com/skeye/documentation.html   App Permissions  Location: to determine accurate position of celestial objects  Bluetooth: to suppport remote sensors   Upcoming features:  More deep sky objects, Satellites and Asteroids  Support for DSC with encoders ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

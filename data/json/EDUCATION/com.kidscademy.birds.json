@@ -1,0 +1,11 @@
+{
+"name" : "Birds Atlas",
+"url" : "https://play.google.com/store/apps/details?id=com.kidscademy.birds",
+"package" : "com.kidscademy.birds",
+"category" : "Education",
+"description" : "This atlas is deprecated. Please see https://play.google.com/store/apps/details?id=com.kidscademy.atlas.birds  Interesting facts with images and sounds of birds from all over the world, both domesticated and wild.  Birds Atlas is completely free. Free of annoying ads, no misleading in-app payment, no spy-ware.   Explorer Birds Atlas provides a paged explorer with horizontal sliding. Current application version uses only portrait mode. An explorer page describe a bird with picture, sample sound, short description and facts.  From explorer you can open the list of birds for quick reference.   Updates Birds Atlas is continuously updated. Corrections are applied, based on user feedback, and new birds are added. Your device is kept synchronized with latest changes on server repository.   Support We invested substantial effort to ensure content quality but still there may be mistakes. If found something not reasonable please use developer email to send us corrections. Suggestions for improvement are also welcomed.  Birds Atlas is completely free. Free of annoying ads, no misleading in-app payment, no spy-ware. Development effort is donated. It is a humble way to show gratitude to Internet community that gives us all so much.  Please help improving and spread the word. Do not forget to rate! Is is important for store rank so that much users to have access to this application. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

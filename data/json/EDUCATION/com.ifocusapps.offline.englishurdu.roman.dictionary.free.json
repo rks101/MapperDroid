@@ -1,0 +1,11 @@
+{
+"name" : "Offline English Urdu Dictionary - Translator Plus",
+"url" : "https://play.google.com/store/apps/details?id=com.ifocusapps.offline.englishurdu.roman.dictionary.free",
+"package" : "com.ifocusapps.offline.englishurdu.roman.dictionary.free",
+"category" : "Education",
+"description" : "Are you studying English or Urdu and want to know the meaning of a word with Roman pronunciation so this app is best to help you with huge collection of English and Urdu words with Roman pronunciation, synonyms, antonyms and examples with translation.          English Urdu Roman Dictionary is a learning application, designed to facilitate the Urdu speaking users who are keen to learn English to Urdu translation and pronunciation. The English To Urdu Dictionary contains 300,000+ words with Free Multilingual Paragraph Translation. No need for Internet, works completely offline.   Feature * Offline English to Urdu Dictionary. * Offline Urdu To English Dictionary. * Roman to English Dictionary. * Contains more than 300,000+ words with examples. * Auto word Suggestion for both English and Urdu. * Multilingual Translator for any language. * Both English and Urdu Keyboards are available. * Voice Search Feature. * App notification will notify you for word of the day to  increase your vocabulary. * Word with meaning, example, synonyms and antonyms, * Favorite List - you can add word to Favorite List. * Easily share word and meaning with friends. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

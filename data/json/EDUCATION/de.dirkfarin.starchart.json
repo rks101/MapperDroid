@@ -1,0 +1,11 @@
+{
+"name" : "Star Chart Wear",
+"url" : "https://play.google.com/store/apps/details?id=de.dirkfarin.starchart",
+"package" : "de.dirkfarin.starchart",
+"category" : "Education",
+"description" : "*** Note: this app requires an Android Watch! It will not show the chart on a phone or tablet. ***  A star chart for your Android Wear device. Observe the currently visible constellations and planet positions. View an overview diagram of todays rise and set times for the sun, moon, and all planets. Show a time-lapse video of todays sky. A handy tool for anyone interested in astronomy.   Features: - real-time star chart for your geographic location, - time-lapse star chart (one day in a few seconds), - rise and set times diagram for all planets, moon. Also shows hours of sunlight, twilight and highest position of sun, - shows current moon phase - uses compass to align star chart to viewing direction - aiming a constellations shows their name (English, German or Latin) - highlight zodiacal constellations - constellations can be turned off - touch and long-press actions can be customized   Known issues: - some wearable devices do not receive current location updates which can result in your location being set to the default (somewhere in the center of the USA). Im working on a fix to be released soon.   Permissions: - this app requires coarse location information in order to draw the star chart matching your current location.   Contact: For comments, suggestions, and bug reports, contact me at dirk.farin@gmail.com. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

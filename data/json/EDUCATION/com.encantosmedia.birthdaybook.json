@@ -1,0 +1,11 @@
+{
+"name" : "Birthday Song - Las MaÃ±anitas (Bilingual Birthday)",
+"url" : "https://play.google.com/store/apps/details?id=com.encantosmedia.birthdaybook",
+"package" : "com.encantosmedia.birthdaybook",
+"category" : "Educational",
+"description" : "This Sing Along, Read Along & Play Along app is Inspired by the classic Mexican birthday song Las Maanitas (The Little Mornings), which is sung to wake up a child on his/her birthday. This celebratory song is a fixture at every birthday party, and the best way to welcome a great day.   In this app, we celebrate with the birthday bunny from the moment his friends wake him up right on through his birthday celebration!  Touch each character to bring them to life with humor and whimsy. Wake the birthday bunny up and follow him as he is surpirised by his friend with a party (cake and piata included!)  Sing Along with the mariachis playing with the characters and learning the song in English and Spanish.  Read along with Author Susie Jaramillo in English and Spanish.  #4 in the acclaimed Canticos series - Get the bilingual novelty book here: http://canticosworld.com/books/birthday/ ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

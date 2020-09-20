@@ -1,0 +1,11 @@
+{
+"name" : "English Dictionary",
+"url" : "https://play.google.com/store/apps/details?id=vscom.tudientienganh",
+"package" : "vscom.tudientienganh",
+"category" : "Education",
+"description" : "- This is English Dictionary. It has more than 200.000 words. - You can view pronunciation, syllables of a lot of common words. - You can bookmark a word and review later. - You can view 1000 basic English words easily. - You can view 3000 common English words easily. - You can view synonyms words and navigate easily. - You can adjust speech rate into slow, normal or fast. - You can hear US or UK voice easily. - You can hear sound of any word even that word not found in the system. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_INTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_INTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

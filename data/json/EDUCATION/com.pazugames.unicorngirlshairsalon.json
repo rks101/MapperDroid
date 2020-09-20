@@ -1,0 +1,11 @@
+{
+"name" : "Girls Hair Salon Unicorn - Hairstyle kids games",
+"url" : "https://play.google.com/store/apps/details?id=com.pazugames.unicorngirlshairsalon",
+"package" : "com.pazugames.unicorngirlshairsalon",
+"category" : "Educational",
+"description" : "Unicorn magic and tons of style join the popular Girls Hair Salon game for one of a kind unicorn hairstyling experience! Create colorful hairstyles and haircuts, make the hair curly, frizzy or straight, grow it, cut it, wash it, dry it and color it in amazing rainbow combinations, add accessories and create unique looks just for you.   GIrls Hair Salon Unicorn is brought to you by Pazu Games Ltd, the publisher of popular kids games like Girls hair Salon, Makeup Girls, Animal Doctor and others, that are trusted by millions of parents worldwide. Pazu games for kids are designed especially for children under the age of 10. It offers fun educational games for girls and boys to enjoy and experience. We invite you to try out Pazu games for kids and toddlers for free and discover a wonderful brand for kids games, with a large arsenal of educational and learning games for girls and boys. Our games offer a variety of game mechanics adapted to the kids age and capabilities. Pazu games have no ads so the kids have no distractions while playing, no accidental ad clicks and no external interferences. For more information, visit our website: https://www.pazugames.com/  Get Girls Hair Salon Unicorn for free and start making magical colorful hairstyles and looks. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+}

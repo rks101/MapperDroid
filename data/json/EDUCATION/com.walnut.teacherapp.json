@@ -1,0 +1,11 @@
+{
+"name" : "Wal-T : Walnut School App",
+"url" : "https://play.google.com/store/apps/details?id=com.walnut.teacherapp",
+"package" : "com.walnut.teacherapp",
+"category" : "Education",
+"description" : "The Wal-T app enables teachers to plan and update their lesson status as per a master plan. These updates eventually keep parents in the loop with the progress of academics for their child. The app also will integrate all the functionalities that are required by teachers like leave requests, and task management. The Wal-T app is part of Arpita Karkareys Walnut Learning System. All rights reserved. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.USE_CREDENTIALS', 'android.permission.WAKE_LOCK', 'android.permission.VIBRATE', 'android.permission.CAMERA', 'android.permission.WRITE_CALENDAR', 'android.permission.READ_CALENDAR', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.FLASHLIGHT', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.SET_WALLPAPER', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.WRITE_CALENDAR', 'android.permission.READ_CALENDAR', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_WIFI_STATE']",
+}

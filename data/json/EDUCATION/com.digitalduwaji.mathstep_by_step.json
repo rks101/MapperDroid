@@ -1,0 +1,11 @@
+{
+"name" : "Math (Division) Step By Step",
+"url" : "https://play.google.com/store/apps/details?id=com.digitalduwaji.mathstep_by_step",
+"package" : "com.digitalduwaji.mathstep_by_step",
+"category" : "Education",
+"description" : "NOTE: Try our ad-free version of this app for 2 hours risk-free at: http://play.google.com/store/apps/details?id=com.digitalduwaji.fullmathstepbystep   Math Step By Step is an educational app that teaches long division step by step. Unlike most math apps, this app will guide you in an interactive way to do a multi-digit long division operation.  - Now supporting 4 operations (division, multiplication, addition and subtraction)  - Partial Quotient (chunking) and Grid Multiplication (box) methods are also available. - Now supporting 2 notations:  1) dividend on right and divisor on left (most English-speaking countries) 2) dividend on left and divisor on right (some European countries) - Now you can show remainder or decimal - Three levels of difficulties - You can type your own numbers or let the app pick ones for you - Two modes of interaction 1) Multiple choice option where you have to pick the right answer for the step 2) You can go to next, back, first or last step - You can turn on or off sounds. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.digitalduwaji.mathstep_by_step.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Kids Games free 4 years old",
+"url" : "https://play.google.com/store/apps/details?id=com.sparsekids.apps.africa",
+"package" : "com.sparsekids.apps.africa",
+"category" : "Educational",
+"description" : "  Loves your little toddler visiting the zoo? He adores all animals in the park? Then Animals Games free is his first animal app. He can play funny games and learn about african wildlife. Cute animals from the rainforest and the grassland will conjure a smile on his face.  Animal Games free is especially designed for little kids. Downloading this app gives your little big game hunter:    zoo puzzle   animal matching games or animal memo games with matching pairs   original nature sounds of wild animals: animal voice   Easy to play with:  Touch the screen and try to match the animals hidden behind the african sun, find the couples of the animal memo games and pairs memo game for kids  Enjoy your reward when an animal puzzle for kids in the puzzle zoo is solved  Simple and intuitive, your baby will have lots of fun with Animal Games free. This preschool zoo puzzles for toddlers and kids are the perfect animal collective to become a zookeeper.  A lot of educational free games for toddlers and young kids and games for toddlers from sparse kids you will find on: http://sparsekids.com ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "IMPROVE ENGLISH SPEAKING",
+"url" : "https://play.google.com/store/apps/details?id=com.appybuilder.craziyogi07.ImproveEnglishSpeaking",
+"package" : "com.appybuilder.craziyogi07.ImproveEnglishSpeaking",
+"category" : "Education",
+"description" : "This application is for the users who have basic knowledge of English but they hesitate to speak English fluently.The best way to learn English speaking in effective way is to speak fluently without worrying about grammar.Beginners can improve English speaking skills to new heights by following tips of this android application. This application teaches to improve English speaking through well tested strategies which will further improve your confidence and your personality. General English conversations,common grammatical mistakes,most important phrases and techniques to improve vocabulary are also available in this android application that are useful to learn English speaking as well as to speak English fluently.Tips that are described to improve English speaking are herein below: 1.Think in English 2.Common grammatical mistakes 3.Most important phrases 4.Improve confidence 5.Listen and repeat 6.Talk to yourself 7.Pronunciation 8.Record yourself 9.Try some tongue twisters 10.Call customer care 11.Voice or video call to friends 12.Improve Vocabulary 13.Learn basics of tenses 14.English Conversations/Dialogues In English conversation practice following topics are discussed: 1.Basic conversations 2.Greeting conversations 3.Happy/good feeling 4.Interview 5.Shopping 6.Bus stop 7.Dieting 8.Engagement 9.Worry and tense situations  If you follow the aforesaid tips,you will easily improve English speaking,improve English conversations skills and will be able to speak English fluently.I think that this android application is powerful tool to learn English very fast and speak English fluently. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

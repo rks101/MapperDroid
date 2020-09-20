@@ -1,0 +1,11 @@
+{
+"name" : "Fatwa dan Tausiyah MUI",
+"url" : "https://play.google.com/store/apps/details?id=com.pkh.fatwadantausiyahmui",
+"package" : "com.pkh.fatwadantausiyahmui",
+"category" : "Education",
+"description" : "      .        ,   ,         ,              .         .  Segala puji bagi Allah SWT, Rabb sekalian alam. Shalawat dan salam kita haturkan kepada junjungan Rasulullah SAW beserta keluarga serta sahabatnya.  Buku yang ada di tangan pembaca ini merupakan edisi kumpulan hasil Fatwa dan Tausiyah Majelis Ulama Indonesia (MUI) Provinsi DKI Jakarta Masa Khidmat 2013-2018 di bawah kepemimpinan KH. A. Syarifuddin A. Gani, MA.  Dalam upaya rekodifikasi fatwa ini, penyusun berusaha sedapat mungkin menyajikan bentuk yang asli, kecuali perbaikan bahasa (ejaan), teks al-Quran, teks hadits atau kutipan (pendapat ulama), dan lain-lain yang dianggap kurang sempurna (relevan). Hal ini dilakukan agar pembaca dapat merasakan perbedaan gaya bahasa, istinbath hukum masing-masing generasi yang selalu berkembang dinamis, sesuai dengan konteks yang melatarbelakanginya.  Tentu saja, upaya penyusunan tidak akan berarti banyak tanpa bantuan dari pihak-pihak lain. Oleh karena itu, kami ingin menyampaikan ucapan terima kasih dan penghargaan yang setinggitingginya kepada Dewan Pimpinan Majelis Ulama Indonesia (MUI) Provinsi DKI Jakarta atas kepercayaan yang diamanatkan kepada kami.  Demikian pula kepada semua pihak yang tidak mungkin kami sebutkan satu persatu, yang telah memberikan sumbangsih bagi penyelesaian penyusunan buku ini. Kami doakan semoga Allah SWT memberikan pahala terbaik di sisi-Nya.  Pada akhirnya, kesempurnaan hanya milik Allah dan kami kami hanya mengupayakan yang terbaik. Oleh sebab itu, kritik dan saran dari pembaca akan sangat membantu bagi upaya-upaya perbaikan di masa mendatang.  Kepada Allah semata kami mengharapkan ampunan, dan dariNya kami memohon keberkahan.    Jakarta, 27 Desember 2017 Penyusun ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

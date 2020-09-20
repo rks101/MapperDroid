@@ -1,0 +1,11 @@
+{
+"name" : "Campus Cover",
+"url" : "https://play.google.com/store/apps/details?id=com.infoniti.group.campuscover",
+"package" : "com.infoniti.group.campuscover",
+"category" : "Education",
+"description" : "The Campus Cover app, is an all in one Institute Management System app that links the Institute, Teacher and Student together. The app has separate accounts for each user. The admin account allows the administrators to manage the institute, staff and students. It registers, monitors, tracks and displays attendance of both teachers and students.The app provides salary information to staff and exam information to students. It allows students to check their fee status and study materials uploaded by their teachers. The app can be used by parents also. It keeps them, teachers and students informed through its SMS feature. Students that havent completed fees are sent a notification via SMS. The app has an added feature that allows users to print system reports via a wireless printer. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.infoniti.group.campuscover.permission.C2D_MESSAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.hardware.camera', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.hardware.camera', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

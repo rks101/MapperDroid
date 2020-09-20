@@ -1,0 +1,11 @@
+{
+"name" : "Penny ABC",
+"url" : "https://play.google.com/store/apps/details?id=net.fornwall.pennylearn",
+"package" : "net.fornwall.pennylearn",
+"category" : "Education",
+"description" : "Penny ABC r en liten app fr att lta barn va p att identifiera bokstver och siffror.  Fyra stycken bokstver eller siffror visas, varefter en rst uppmanar till att peka ut en av dessa. Penny ABC is a small app to let children practice identifying letters and numbers.  Four letters or numbers are displayed, after which a voice prompts to identify one of them. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

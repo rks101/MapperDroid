@@ -1,0 +1,11 @@
+{
+"name" : "Periodic Table",
+"url" : "https://play.google.com/store/apps/details?id=org.rsc.periodictable",
+"package" : "org.rsc.periodictable",
+"category" : "Education",
+"description" : "This fact-filled, image-rich app is the only periodic table you need.  Ideal if youre a student, teacher or just have an interest in the chemical sciences.  Did you know that neodymium is used in microphones? Or europium in Euro bank notes to help stop counterfeiting? These are just two of the absorbing facts in our customisable app, based on our popular and well-respected Royal Society of Chemistry Periodic Table website.    See elements in their natural state and real-life applications.  Check out podcasts and videos.  Use our interactive slider to see how elements change state as temperature increases, or explore the discovery of the elements through history.   Customise your app to see only what interests you.  Use our simple table for quick access to data  like sorting elements in order of increasing density. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Morse Training (KDMorse)",
+"url" : "https://play.google.com/store/apps/details?id=com.saysua.morsetraining",
+"package" : "com.saysua.morsetraining",
+"category" : "Education",
+"description" : "A morse training app with real morse whistle sound. Learn and practice every day!  This app can be used for: - Learn - Practice - Play your text in morse sound  Have a little fun with my voice :D ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

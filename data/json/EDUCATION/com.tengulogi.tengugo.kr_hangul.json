@@ -1,0 +1,11 @@
+{
+"name" : "Hangul (Korean Alphabet)",
+"url" : "https://play.google.com/store/apps/details?id=com.tengulogi.tengugo.kr_hangul",
+"package" : "com.tengulogi.tengugo.kr_hangul",
+"category" : "Education",
+"description" : "Hangul teaches you the history and structure of the Hangul, then lets you learn the Hangul at your own pace using easy-to-navigate lessons, quizzes, and flashcards.  Our Reading Hangul lessons cover everything you need to learn to read Hangul and our Writing Hangul lessons combined with flashcards and animations teach you everything you need to write the Hangul as well.  Features:  Reading and Writing Hangul  Integrated lessons, quizzes and flashcards  History and Structure of Hangul  Hangul Animations  Complete Audio ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'com.tengulogi.tengugo.kr_hangul.permission.C2D_MESSAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

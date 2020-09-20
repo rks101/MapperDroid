@@ -1,0 +1,11 @@
+{
+"name" : "Kids Super Math ğŸ’ªğŸ�»ğŸ’¡",
+"url" : "https://play.google.com/store/apps/details?id=com.forqan.tech.KidsSuperMath",
+"package" : "com.forqan.tech.KidsSuperMath",
+"category" : "Education",
+"description" : "A math application for preschoolers as well as adults.   With this application your kid will learn the following capabilities:  Know the numbers:1-20  Counting up to 20  Directions: right, left, up and down  Numbers tracing  Sizes: sorting of objects according to their sizes  Patterns: exercises of numbers, directions, sizes, distances, quantities and counting  The game is from Forqan Smart Tech, where we specialize in educational games with the fun built right into them.  Your child will love playing Kids Super Math, and youll be able to relax, knowing your child is learning while having great fun.  If you want your child to learn math  and enjoy it  you cant find a better choice than Kids Super Math.  Enjoy! ",
+"desc_perms" : "['android.permission.READ_CALL_LOG', 'android.permission.READ_CONTACTS']",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+}

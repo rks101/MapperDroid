@@ -1,0 +1,11 @@
+{
+"name" : "Christmas Puzzle Games - Kids Jigsaw Puzzles ğŸ�…",
+"url" : "https://play.google.com/store/apps/details?id=se.appfamily.xmaspuzzlefree",
+"package" : "se.appfamily.xmaspuzzlefree",
+"category" : "Educational",
+"description" : "If your preschool kids like jigsaw puzzles, they will LOVE these Santa Christmas Puzzles!  Each relaxing puzzle features a different beautiful scene drawn by a professional cartoon artist, and a unique reward when the puzzle is completed. Perfect for entertaining little boys, girls, and toddlers over the holidays!  You can choose whether to use 6, 9, 12, 16, 30, 56 or 72 pieces, adjusting the difficulty to your childs skill level.  Puzzles in this kids game include Santa Claus riding with Rudolph the reindeer, Frosty the Snowman, Christmas candy and gingerbread cookies, and many more festive winter and xmas holiday scenes.  Features:  80+ different kids jigsaw puzzles with gorgeous HD graphics Unique rewards for each puzzle  Play with 6, 9, 12, 16, 30, 56 or 72 puzzle pieces - easy for kids, challenging for adults!  3 difficulty levels  Natural puzzle dynamics  Intuitive navigation  Child-safe in-app purchase   Downloadable puzzle packs including Halloween and Christmas  Be sure to check out our other fun and educational games these holidays!  Like us on Facebook for news and updates: http://www.facebook.com/appfamily  Music: Wish Background Kevin MacLeod (incompetech) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

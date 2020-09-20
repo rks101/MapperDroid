@@ -1,0 +1,11 @@
+{
+"name" : "Primes between Two Numbers",
+"url" : "https://play.google.com/store/apps/details?id=com.unimaths.primes",
+"package" : "com.unimaths.primes",
+"category" : "Education",
+"description" : "This app generates the list of primes between any two given numbers. The algorithm is optimized for android devices. It might be the fastest algorithm for generating primes on android smartphones. It can generate list of primes up to 30000000. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

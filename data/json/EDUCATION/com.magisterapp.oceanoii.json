@@ -1,0 +1,11 @@
+{
+"name" : "Ocean II - Stickers and Colors",
+"url" : "https://play.google.com/store/apps/details?id=com.magisterapp.oceanoii",
+"package" : "com.magisterapp.oceanoii",
+"category" : "Educational",
+"description" : "After the huge worldwide success of Oceano - Puzzles and Colors, we are proud to introduce:  ***** Oceano II Matching, Stickers and Colors *****  Care for details and focus on younger players make Oceano II an educating, relaxing application for your children.  Designed for children aged 3 and up, it is simple to use.  Features:  - 4 Games: Matching Game, Stickers, Colors and Music - Compatible with all devices - Very high resolution images for exploiting the features of HD displays - Audio effects and background music - Continuously updated with new characters and levels  Try the free version now. All levels will be unlocked in the complete version.  ++ STICKERS ++ - 70 stickers to stick - 15 albums to complete with lots of characters - Simplified albums - Complex albums for older children - Use your imagination and artistic flair to position the stickers as you want  ++ MATCHING GAME ++ - 64 characters to discover - 4 levels of difficulty - Simple and user-friendly even for the youngest children - improve your memory  ++ DRAWINGS TO COLOR IN ++ - Simplified use of colors - 24 drawings to color in - 30 colors - Save your drawings  Have fun! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+}

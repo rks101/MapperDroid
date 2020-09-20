@@ -1,0 +1,11 @@
+{
+"name" : "RRB Hindi",
+"url" : "https://play.google.com/store/apps/details?id=com.sanaedutech.rrb_hindi",
+"package" : "com.sanaedutech.rrb_hindi",
+"category" : "Education",
+"description" : "RRB Non Technical (HINDI) Q/A in Quiz format  * 20 Model question paper sets each of 100 QA with explanation notes and answers * Maths, Reasoning, GK, Science, History, Geography, Polity totaling 6000+ QA. * Syllabus of the RRB Exam  o Group D o Group C o RPF, RPSF and Technical jobs o Junior Engineer o Locomotive Pilot o TTE and Guard Exam  * 100% Free, all contents Unlocked  Syllabus for RRB :   1. General Awareness (India GK, Quiz) 2. Arithmetic (Mathematics, Quantitative aptitude) 3. Technical Ability 4. Reasoning Ability (Logical, Analytical abilities) 5. General Intelligence 6. Language ability in English  App features include  * QA presented in Quiz format for you to test yourself * Very fast User-interface without any lag or delays * Practice mode (no time limit) and Timed mode quiz * Zoom option for text and QA * Speech read out feature that reads out the QA for you * Detail reports of total QA answered, marks, mistakes stored * Sharing of QA to friends via social share applications * Pie chart fashioned quiz results * Background theme changing facility (night mode, pink) * Favorite QA feature for you to mark and review later * Explanatory notes for answers * No limits for quiz practice ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

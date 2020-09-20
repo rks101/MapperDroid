@@ -1,0 +1,11 @@
+{
+"name" : "Class Time - Timetable",
+"url" : "https://play.google.com/store/apps/details?id=eu.nohus.classtime",
+"package" : "eu.nohus.classtime",
+"category" : "Education",
+"description" : "Discover the newest timetable, which always presents you with the current situation. On your phone and on your watch. A notification and widgets will give you all the information you need without opening the app.  The Now tab informs you about:  the current class and time left to its inevitable end,  the name of your next class, its location, type and teacher  time left until your classes begin and breaks end.  Automatically mute your phone during lessons and/or breaks!  The Time Table tab shows the weekly schedule for each day with every detail on classes.  The application allows you to edit, save and share your timetable with friends in an easy way. You can input more schedules and switch between them.  You can also import your schedules from a calendar, like Google Calendar. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NOTIFICATION_POLICY', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'com.google.android.permission.PROVIDE_BACKGROUND', 'android.permission.READ_CALENDAR', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'com.google.android.permission.PROVIDE_BACKGROUND', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CALENDAR', 'android.permission.INTERNET']",
+}

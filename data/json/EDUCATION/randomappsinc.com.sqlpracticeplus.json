@@ -1,0 +1,11 @@
+{
+"name" : "SQL Practice PRO - Learn SQL Databases",
+"url" : "https://play.google.com/store/apps/details?id=randomappsinc.com.sqlpracticeplus",
+"package" : "randomappsinc.com.sqlpracticeplus",
+"category" : "Education",
+"description" : "*THE EASIEST WAY TO LEARN SQL ON ANDROID, 100% FREE AND AD-FREE*  Want to learn SQL and become a SELECT query master? Then this app has got you covered. Push your SQL knowledge to the limit with this apps large pool of SELECT questions covering a wide range of SQL concepts and mechanics.  Features:  An always growing pool of SQL select questions that we need YOUR help to help us expand  Quick, smooth autocomplete to help you write your answer queries as quickly as possible  Instructional materials attached to every question to help you learn the necessary concepts to solve it, which are viewed in-app for maximum immersion  Remembers which questions youve already solved and which ones you have left to figure out  Simply swipe left and right on the question page to go back and forth between questions or have the app choose one for you at random with the shuffle button  Sample answer with every question which you can copy to your clipboard  Flexible answer checking system that doesnt care how your answer works. As long as your query returns the same thing as the answer query, youre good to go. There are many ways to solve many of the questions in this app, and we want to encourage creativity, not punish it!  No special permissions needed, because we respect your privacy  Minimal, polished interface with backported Material Design so it looks great on all devices  If there are any bugs or additional features you would like, please let me know in your review!  This app is open-source. You can help me make it better at: https://github.com/Gear61/SQLPractice ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET']",
+}

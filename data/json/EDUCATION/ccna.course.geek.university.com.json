@@ -1,0 +1,11 @@
+{
+"name" : "CCNA course",
+"url" : "https://play.google.com/store/apps/details?id=ccna.course.geek.university.com",
+"package" : "ccna.course.geek.university.com",
+"category" : "Education",
+"description" : "This unofficial CCNA course covers everything you will need to know to pass the Cisco CCNA 200-120 exam, but it also provides many information about internetworking in general. This free tutorial can be used to study for the CCNA 200-120 exam, and it can also be used by anyone who wants to learn about computer networks in general.  You will learn what computer networks are, the difference between the OSI and TCP models, what an IP address is, how to configure an IP address on a Cisco router, etc. In later lessons we will go through topics such as routing protocols, IPv6, NAT, Spanning Tree Protocol   Note that this is not an official application. Cisco Systems, Inc. is in no way affiliated with the application. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "[]",
+}

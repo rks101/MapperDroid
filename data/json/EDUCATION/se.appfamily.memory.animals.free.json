@@ -1,0 +1,11 @@
+{
+"name" : "Animals Matching Game For Kids",
+"url" : "https://play.google.com/store/apps/details?id=se.appfamily.memory.animals.free",
+"package" : "se.appfamily.memory.animals.free",
+"category" : "Educational",
+"description" : "Watch the dogs, cats, elephants and other animals move and speak when you find two of a kind! Pop fun rewards when you complete a level! Keep track of all the animals you have found in the trophy room!  This kids matching game helps develop memory skills of children. It contains cute images such as a puppies, farm animals, an elephant, a lion and more. When all the cards are matched, you get to pop fun rewards and the animals you have found are collected in the trophy room!   FEATURES: - 5 different difficulties (6, 8, 12, 16 and 20 cards) - Cute sounds for kids - Colorful HD graphics designed for toddlers - No ads in game  EDUCATIONAL VALUES: Memory games and jigsaw puzzles are fun all ages, and this one is especially great for kids between 3 and 5 years old. Both boys and girls will love this game as it helps them train their concentration while having puzzle fun.  Music: Happy Alley Kevin MacLeod (incompetech) Licensed under Creative Commons: By Attribution 3.0 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

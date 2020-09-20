@@ -1,0 +1,11 @@
+{
+"name" : "Kids Puzzle: Animals Jigsaw",
+"url" : "https://play.google.com/store/apps/details?id=com.kidnium.kidpuzzle",
+"package" : "com.kidnium.kidpuzzle",
+"category" : "Educational",
+"description" : "Let your kids develop their skills while having fun! Kids Puzzle is a multi-level puzzle game that resembles old-school wooden puzzles but with a modern look. The touch system has been optimized for toddlers, young childrenand preschoolers.   Level 1 entirely free!  Level 2 and 3 require more skills and bring even greater fun.  Additional puzzles will be released on a regular basis.  NO Ads!  No obscure permissions!  Please report any bug or compatibility issue. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.android.vending.BILLING']",
+}

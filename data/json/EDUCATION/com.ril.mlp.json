@@ -1,0 +1,11 @@
+{
+"name" : "Jio Learning",
+"url" : "https://play.google.com/store/apps/details?id=com.ril.mlp",
+"package" : "com.ril.mlp",
+"category" : "Education",
+"description" : "Learning on the go is fun now. Stay on top with all the updates from Jio Learning.  Learning on the go and classroom learnings are simplified through this app. Learning at Jio caters to all the employees and partners. The learning transcends to a team strength of more than 1 million people.  Jio Learning focuses on the Jio Partner fraternity and offers the following exclusive features for them:  a. The courses and modules from various business academies can be accessed from this app. b. Classroom sessions are much simplified. c. Video nugget based learning modules for fun learning. d. Assessments and quizzes for the respective courses.  With the app we intend to make learning not just to facilitate partners with business updates but to create a platform that would transform their learning overview and they can learn about the latest industry and digital processes at Jio. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

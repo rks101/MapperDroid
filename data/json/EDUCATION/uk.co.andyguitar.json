@@ -1,0 +1,11 @@
+{
+"name" : "Andy Guitar",
+"url" : "https://play.google.com/store/apps/details?id=uk.co.andyguitar",
+"package" : "uk.co.andyguitar",
+"category" : "Education",
+"description" : "Learn guitar with Andy Guitar - here youll find hundreds of free online guitar lessons including song tutorials, a beginner course, help with strumming and answers to common questions from learning guitarists. All the benefits of a paid subscription app - for free!  The Andy Guitar app is a great way to access the video lessons, courses and other materials available on the Andy Guitar website. No account is required but if you have an account, your content is perfectly synchronised across the website and your devices.  Download your courses to your phone or tablet, for offline use or if you have a slow connection and youre sick of buffering.  Whats more, the app features exclusive lessons and courses - not available anywhere else. Simply get signed in, and then browse the app exclusives in your library. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

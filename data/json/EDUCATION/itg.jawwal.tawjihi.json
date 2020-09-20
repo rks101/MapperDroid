@@ -1,0 +1,11 @@
+{
+"name" : "Injaz Palestine",
+"url" : "https://play.google.com/store/apps/details?id=itg.jawwal.tawjihi",
+"package" : "itg.jawwal.tawjihi",
+"category" : "Education",
+"description" : "JAWWAL Injaz App (JIA) The only mobile application in Palestine that allows all Injaz / Tawjihi Students, their friends and parents to get their results at the same moment once released by the Palestinian Authorities. Injaz students with Jawwal Mobile numbers will be able to login to the application and use all its valuable features. All logged in users will be able to choose up to 10 Injaz ID, s before the marks have been released. Users will receive notifications with the marks for all the listed numbers.  One can search Injaz Ids for 2018, and can share his or her pictures though the majority of social media pages. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'itg.jawwal.tawjihi.permission.C2D_MESSAGE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.CAMERA']",
+}

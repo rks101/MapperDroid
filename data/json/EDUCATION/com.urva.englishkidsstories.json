@@ -1,0 +1,11 @@
+{
+"name" : "English Kids Stories",
+"url" : "https://play.google.com/store/apps/details?id=com.urva.englishkidsstories",
+"package" : "com.urva.englishkidsstories",
+"category" : "Education",
+"description" : "English kids Stories Offline app Contains the best and large collection of Stories for everyone.By reading a short English story from this app every day, you can help your kids build values, as well as improve their reading comprehension skills.  This app can groom your child into a better, responsible person with the help of 200+ short stories with moral lessons. Moral Short Stories app have all kinds of stories like inspirational, funny stories, witty stories, motivational stories, spiritual stories and lot more. English Kids stories application will help people whom want to study English. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

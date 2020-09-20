@@ -1,0 +1,11 @@
+{
+"name" : "KD LIVE",
+"url" : "https://play.google.com/store/apps/details?id=app.kdcampus.livestreaming",
+"package" : "app.kdcampus.livestreaming",
+"category" : "Education",
+"description" : "Study Content that gets you selected. Join KDLIVE now and feel the difference.  Classes from KD CAMPUS can be viewed on any device like a laptop, mobile or tablet.   In case you miss any of the live classes, we provide you backup videos that can be seen anytime.  This platform gives you the options to ask questions, raise doubts and queries from the faculty.  Get access to the live classes at your home by expert faculty of KDLIVE. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_CONTACTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PROFILE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Learn Chinese Communication",
+"url" : "https://play.google.com/store/apps/details?id=com.ndm.hoctiengtrunggiaotiep",
+"package" : "com.ndm.hoctiengtrunggiaotiep",
+"category" : "Education",
+"description" : "The application of learning Chinese communicate with common sentence patterns along with the meaning interpretation, spelling transcriptions and real sounds supports people who start learning Chinese or the people who prepare for travelling or learning and working in Chinese. - More than 16 topics covering the basic areas/ aspects of life - More than 2,000 common sample dialogues/ conversations in life - Supporting real sounds and offline - Systematizing exercises, speaking demo helps memozization more effective and enjoyable - The simple interface is convenient and easy to use ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.SYSTEM_ALERT_WINDOW']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW']",
+}

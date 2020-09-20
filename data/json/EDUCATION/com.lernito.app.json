@@ -1,0 +1,11 @@
+{
+"name" : "Lernito",
+"url" : "https://play.google.com/store/apps/details?id=com.lernito.app",
+"package" : "com.lernito.app",
+"category" : "Education",
+"description" : "                              .                             .                     .           :   1.    150   2.          3.          4.         5.        6.            7.    PDF    8.      9.      10.     11.     12.       13.             QRcode 14.       15.          16.             17.         18.          19.  24             : 1.       2.        3.                    ! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

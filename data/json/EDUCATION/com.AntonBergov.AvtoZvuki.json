@@ -1,0 +1,11 @@
+{
+"name" : "Vehicle sounds. Car for kids",
+"url" : "https://play.google.com/store/apps/details?id=com.AntonBergov.AvtoZvuki",
+"package" : "com.AntonBergov.AvtoZvuki",
+"category" : "Educational",
+"description" : "*** The largest catalog of Vehicle sounds!!! *** Works without internet !! *** Free! Once again, I repeat the application is completely free, as I did for my son. There are sounds of transport: aircraft, helicopter, excavator, train, rocket, motorcycle and others.  It looks like a childrens phone with pictures, pictures of cars are displayed on the screen, a child without parents can click on the car, a photo of the car will appear, plus the sound of the car + Russian voice acting!  The game we teach cars in English - an excellent voice acting, the child will quickly remember different techniques.  Sounds of transport: + Train + Tractor + Helicopter + Airplane + Submarine + Ship + Machine (3 types) + Tank caterpillars + shot + Ambulance + Fire truck + Race car (Formula 1) + Motorcycle + Boat + Bike + Balloon + Excavator + Catamaran + Rocket   Car for kids is a game for boys, in it he learns not only the sounds of cars, but also the sounds of transport. If you like the game, the best thanks are this review. Thank you and all the best to you! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Animals names and sounds",
+"url" : "https://play.google.com/store/apps/details?id=com.animals.AnimalSounds",
+"package" : "com.animals.AnimalSounds",
+"category" : "Educational",
+"description" : "Fun for children while they learn animal sounds and their names in different languages. With this game, learning languages has never been so fun, try to guess the sounds and names of more than 20 animals and change the language to see how much you know.  With 3 different game modes, which increase the difficulty to make learning easier. They will learn the name of the animal while playing to guess the animal by the sound it makes or by its name.  For each animal it is shown:   What the animal looks like  The spelling of the name  The pronunciation  The sound that makes  With the option to choose between 6 different languages to learn words and pronunciation:  --- English, Spanish, French, German, Portuguese and Italian ---  Includes fun games to set concepts and train memory. Children have to choose what animal is the sound they have heard, between 2 or 4 options. They will receive a round of applause and a prize if they can identify the correct answer.  Improve your language level while having a good time guessing animals. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.READ_CALL_LOG']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

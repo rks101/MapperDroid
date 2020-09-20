@@ -1,0 +1,11 @@
+{
+"name" : "Rakesh Yadav Class Notes of Maths in Hindi Offline",
+"url" : "https://play.google.com/store/apps/details?id=com.studentzoneapps.rakeshyadavmaths",
+"package" : "com.studentzoneapps.rakeshyadavmaths",
+"category" : "Education",
+"description" : "Rakesh Yadav Class Notes Of Maths in Hindi app is specially designed for the students to help them prepare for their exams. It also helps them throughout the year to complete their homework on time and double check the answers.   Arithmetic (Volume-1)                                         Advance Math (Volume-2)                    (2D)   (3D)           Main Features:   This app is in easy HindiLanguage.  Simple app. Works offline. No internet connection needed!  Professionally designed, user-friendly and intuitive interface.  Clear Font for better readability.  Easy to use.  Zooming Available ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'com.studentzoneapps.rakeshyadavmaths.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

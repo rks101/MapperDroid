@@ -1,0 +1,11 @@
+{
+"name" : "French Conjugation",
+"url" : "https://play.google.com/store/apps/details?id=com.commentconjuguer.conjugaison",
+"package" : "com.commentconjuguer.conjugaison",
+"category" : "Education",
+"description" : "Thanks to this application you can  * Access offline to 3000 most used verbs * Access online more than 20.000 verbs * Conjugate a verb in all tenses, in all modes and all forms (negative, interrogative, reflexive, ...) * Find the exact conjugation from a verb * Test your knowledge of the conjugation of a verb * Find synonyms and antonyms of verbs * Listen to the pronunciation of a verb * Consult a list of common verbs * Find similar verb conjugations  Our engine conjugator also permits  * An alphabetical list of verbs ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

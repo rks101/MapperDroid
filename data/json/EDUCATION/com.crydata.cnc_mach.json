@@ -1,0 +1,11 @@
+{
+"name" : "CNC mach: Learn CNC easily",
+"url" : "https://play.google.com/store/apps/details?id=com.crydata.cnc_mach",
+"package" : "com.crydata.cnc_mach",
+"category" : "Education",
+"description" : "learn how to operate CNC machines , learn CNC easily This application will open many areas for you and will help you overcome difficulties and learn to run CNC machines easily and acuratly This application contains many useful information and tips, which will help you learn how to program CNC machines how to deal with CNC machines.   Computer controlled machines (CNC), generally made up of a spindle and motion axises. The CNC machines are classified according to the way they work, the number of axises of movement. We will study two main types: CNC Lathes and CNC Mills   The location of any point in the space can be described by three dimensions of a given zero (origin) point of the coordinate system , (it is very similar to using latitude and longitude in the globe to locate a city on the map). what are the main axis ?   The main axes are X, Y, Z they are perpendicular to each other and intersect at one (origin) zero point. CNC machining is the way to go come on and join the CNC world  be a man with the ability to operate CNC machines CNC is the future. ",
+"desc_perms" : "['android.permission.ACCESS_FINE_LOCATION']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

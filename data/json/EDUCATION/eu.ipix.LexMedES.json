@@ -1,0 +1,11 @@
+{
+"name" : "Medical Terms ES",
+"url" : "https://play.google.com/store/apps/details?id=eu.ipix.LexMedES",
+"package" : "eu.ipix.LexMedES",
+"category" : "Education",
+"description" : "With this simple, powerfull and free app you can reveal meanings of thousands of medical terms in Spanish language. It contains directory of most common used medical terms, diseases, tests and symptoms extended by external sources with tons of medical terminology. Glossary is searchable through powerfull voice enabled search engine with word prediction and smart option that let you narrow search result to abbreviations only. App will help you to understand mystery looking terms from medical records, prescriptions or expert advices. All of terms have solid explanation on Wikipedia - app will let you study them on your wish.  This app is for everyone, not only medical staff and students, because we all need sometimes medical help and want to find out more. This is totally free app so give it a try and install it today.  For your convenience app is localized for German, English, Spanish, French, Italian, Dutch, Norwegian, Polish, Portuguese, Russian and Swedish. Additional languages coming soon.  Check out our webpage: ipix.eu for more info. You can find there more not only medical related apps. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.android.vending.BILLING', 'eu.ipix.LexMedES.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

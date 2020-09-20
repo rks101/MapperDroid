@@ -1,0 +1,11 @@
+{
+"name" : "Spelling learning for kids - Word Matching Game",
+"url" : "https://play.google.com/store/apps/details?id=com.msm.kidsspellinglearning",
+"package" : "com.msm.kidsspellinglearning",
+"category" : "Educational",
+"description" : "Kids Spelling Matching game is for Kids to learn spelling. More than 500+ spellings to learn with pictures and tap to speak spelling. Education is part of life. It should be fun and exciting... Learn new words with Match Game.  Features : - Helps you teach your kids how to match numbers, patterns, shapes, and objects. - Exercise kids thinking skills to find the matching pair for each object - Helps children strengthen their visual discrimination skills  - Improve vocabulary by matching colorful pictures to their names - Helps children practice memorizing words, images, and numbers. - 500+ spellings to learn with images. - Match the object with spelling. - Click the object and speak spelling to learn easily all spelling. - Learn and Play spelling with different categories.  You can use this game as an early educational exercise, an on-the-go activity for road trips, or a way to study for an upcoming test. These Kids Spelling Matching game help children work on everything from one-to-one correspondence.  How to Play: You just need to use your finger to draw a line and match the English word with its picture. You need to match all the 5 words to move next level. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

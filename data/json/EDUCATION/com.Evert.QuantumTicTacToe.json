@@ -1,0 +1,11 @@
+{
+"name" : "Quantum TiqTaqToe",
+"url" : "https://play.google.com/store/apps/details?id=com.Evert.QuantumTicTacToe",
+"package" : "com.Evert.QuantumTicTacToe",
+"category" : "Educational",
+"description" : "Quantum TicTacToe is a fun game to explore quantum physics concepts. On top of classical TicTacToe you can turn up the quantumness to enable new moves! Put your squares in superpositions or entangle them with other squares, and what you thought was a lost game might just turn out to be a win. By playing the Quantum version of TicTacToe, you will be able to build intuition for the strangeness of the quantum realm.  Unlock the full version to get access to a stronger quantum AI, to remove ads in between games, and... get access to online play so you can play with your friends remotely!  If youre interested in using Quantum TiqTaqToe for educational purposes, please contact me. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'com.Evert.QuantumTicTacToe.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Dual Simplex",
+"url" : "https://play.google.com/store/apps/details?id=com.dual.free",
+"package" : "com.dual.free",
+"category" : "Education",
+"description" : "The dual simplex method allows solving linear programming problems, the constraint systems of which, with a positive basis, contain free terms of any sign. This method reduces the number of transformations of the constraint system, as well as the size of the simplex table.  Application Features - Special keyboard for more convenient data entry; - Full, step by step description of solutions; - Ability to save decisions; - Ability to edit saved solutions - Works without access to the Internet  web version - https://linprog.com/main-dual-simplex  Keywords: Matrix games, special maths, simplex method, the traveling salesman problem, the dual task, dynamic programming ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'com.dual.free.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

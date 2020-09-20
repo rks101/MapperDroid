@@ -1,0 +1,11 @@
+{
+"name" : "English Stories AudioBook (offline + Audio) free",
+"url" : "https://play.google.com/store/apps/details?id=audioBook.archigenie.english_audio_stories",
+"package" : "audioBook.archigenie.english_audio_stories",
+"category" : "Education",
+"description" : "English Stories AudioBook Offline is completely offline english story book app with over 1500+ moral stories in multiple categories with moral lessons. English Stories with audios is a free application, this app provide you many stories with audio. English Stories AudioBook will help you relax after a work hard day. If you are a English learner, you can use this app to learn. This app speaks to us daily with good stories allowing us to share and enrich the world with a collaborative experience.  Why delay then, download the app and use it offline   + Moral Stories + Classic Stories + Animal Stories + 1001 nights + Brothers Grimm + charles perrault + Greek Stories +World Fairytales + Christmas Stories + Audio Stories + Adventures Stories + Aesops Fables   Please rate this app if you like. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

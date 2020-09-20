@@ -1,0 +1,11 @@
+{
+"name" : "School of Rock Method",
+"url" : "https://play.google.com/store/apps/details?id=com.schoolofrock.mobile",
+"package" : "com.schoolofrock.mobile",
+"category" : "Education",
+"description" : "The School of Rock Method is a unique way to learn to play guitar, bass, drums, keys, and music. Students are assigned songs and parts that are tailored to them based on their age, experience, and ability to learn new skills and concepts. Students then work through their parts in weekly private music lessons, and refine the skills and concepts that those songs introduce. The goal of this curriculum is to prepare kids and teens for live performances.  The Method App is built around School of Rocks unique performance-based approach, that allows teachers to assign songs and exercises to their students, and allows students to get automatic feedback to their playing directly within the app.  Parents can also use this app to monitor their childs progress, review their practice history, and view assignments and comments from their School of Rock instructor.  Note: An eligible enrollment at a School of Rock location is required to gain access to this app. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE']",
+}

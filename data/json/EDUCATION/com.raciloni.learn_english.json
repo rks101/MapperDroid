@@ -1,0 +1,11 @@
+{
+"name" : "Mr. Vocabulary : Learn English words",
+"url" : "https://play.google.com/store/apps/details?id=com.raciloni.learn_english",
+"package" : "com.raciloni.learn_english",
+"category" : "Education",
+"description" : "Mr vocabulary will help you enrich your english vocabulary in an educational and fun way. The application will help you learn and acquire key skills in english language: vocabulary, spelling, while having fun with a colorful environment and activities of progressive difficulty. The application will also help improve your pronunciation of words. The chosen learning methodology is designed in a pedagogical way that begins with learning phase and ends with evaluation phase, The good scores you get will allow you to unlock other categories to be always motivated to learn more. Educational program addressed:  Vocabulary  Spelling  pronunciation  Training objectives: . Enrich the english vocabulary . Mastering the spelling of words learned .Improve pronunciation of words  Main Features :  - 100% free: No limit of content or functions, Everything is free. - No Internet connection required for learning (off-line) - Teaching with pronunciation of words - For beginners  -Good images and sound quality - The application is compatible with smartphones and tablets - Quickly learn english language words ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

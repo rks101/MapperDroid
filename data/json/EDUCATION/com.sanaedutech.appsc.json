@@ -1,0 +1,11 @@
+{
+"name" : "APPSC",
+"url" : "https://play.google.com/store/apps/details?id=com.sanaedutech.appsc",
+"package" : "com.sanaedutech.appsc",
+"category" : "Education",
+"description" : "Andha Pradesh Public Service Commission (APPSC) Quiz  Exam preparation application for APPSC / APSPSC  (Selection of civil servants in Andhra Pradesh Government Jobs)  - Totally more than 15,000 questions, properly categorised in multiple sections ! - Coverage of questions covering wide variety of subjects - Focusing on India, World events, Science, Day-to-day GK all for competitive exams & general awareness. - Fast UI, Best in class user-interface presented in Android app Quiz format - App designed to work for all screens - Phones & Tablets - Review your answers against right answers - Learn fast - Detail reports on your performance of all quiz attended - No limits on quiz, retry any number of times  Subjects covered:  - General knowledge awareness Including, Sports, Places, Events - Indian Polity  - Indian Economics & Commerce  - Indian Freedom movement,  - Indian History,  - Indian Geography - Everyday Science  We guarantee SUCCESS if you could practice all question-answers given in this app ..! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

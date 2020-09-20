@@ -1,0 +1,11 @@
+{
+"name" : "Meanings Of Quran Words Ù…Ø¹Ø§Ù†ÙŠ ÙƒÙ„Ù…Ø§Øª Ø§Ù„Ù‚Ø±Ø¢Ù† Ø§Ù„ÙƒØ±ÙŠÙ…",
+"url" : "https://play.google.com/store/apps/details?id=com.dictionary.almaany_quran2",
+"package" : "com.dictionary.almaany_quran2",
+"category" : "Education",
+"description" : "The application do the following 1- search the word within the Quran text, 2- give the result of that word and any word related to it, either by having the same root or same stem. 3- In any search result, you can click on the word and it will lead to page have the following 1- Analyzing the word to , prefix, stem, suffix  2- Gives the meaning of the word in english, and the pronunciation in Latin letters. 3- Gives the meanings of the root, stem in Arabic 3- Gives the meanings of the stem in English 5- Gives simple Tafseer all the time, the application will give words have the same ROOR and same STEM. you may also choose the word directly from the Sura and Aya (Verse) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.launcher.permission.INSTALL_SHORTCUT']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Tamilnadu School Textbook 2020 : Padasalai",
+"url" : "https://play.google.com/store/apps/details?id=tamilnadu.school.textbook",
+"package" : "tamilnadu.school.textbook",
+"category" : "Education",
+"description" : "Tamilnadu School Textbook 2020 a.k.a Padasalai is an app that has all new latest Tamilnadu State Board School textbooks and Study Materials.  It includes all standards from 1st - 12th. Includes both Tamil medium and English Medium.  It also has Study Materials For standard 10 , 11 and 12.   This will also helpful to who all are need to prepare for competitive exams. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

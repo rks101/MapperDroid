@@ -1,0 +1,11 @@
+{
+"name" : "Hindi Good Habits |рдЕрдЪреНрдЫреА рдЖрджрддреЗрдВ",
+"url" : "https://play.google.com/store/apps/details?id=com.urva.hindigoodhabbits",
+"package" : "com.urva.hindigoodhabbits",
+"category" : "Education",
+"description" : " Kids Good Habits in Hindi Teach your child everyday good habits through this vibrantly engaging digital storybook with the help of audio narration.There is a popular saying- good habits start early. Now that your child is old is enough to go to school and start with the learning phase of his life, you will need to start educating him about importance of good habits as well. Healthy habits need to be started early- the earlier your child is introduced to them, the lesser effort he will have to make to inculcate them in his day to day life.  -           . -       -    .  , .     . -    ,                 . -       . -        . -      . -       . -         .  -     . -    ,          .  Here is the List of Good Habits and Manners for kids in Hindi-   - Bad Relationship advice. - Healthy foods habits - Table Manner - Brushing Twice a Day - Go to bed early and wake up early - Do not curse others - Be Courteous - Treat everyone equally - Do not tease or bully anyone - Do not harm animals or birds - Please, thank you and sorry - Wash hands before and after meal - Exercise regularly   Good Habits In Hindi teaches your child develop healthy habits and manners early in life that will bring lifelong benefits. Download Good Habits For Kids In Hindi. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

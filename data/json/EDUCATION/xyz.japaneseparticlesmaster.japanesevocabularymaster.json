@@ -1,0 +1,11 @@
+{
+"name" : "Japanese Vocabulary Master",
+"url" : "https://play.google.com/store/apps/details?id=xyz.japaneseparticlesmaster.japanesevocabularymaster",
+"package" : "xyz.japaneseparticlesmaster.japanesevocabularymaster",
+"category" : "Education",
+"description" : "Flashcards Mode Flashcards would be helpful to improve your Japanese vocabulary. 308 words are contained on the app with their sound files. These words are a bit weird and different from those on other apps. One of targets is to help Japanese learners to feel a piece of Japanese culture through vocabulary. You can check meanings, constructions and pronunciations of vocabulary without connection to the internet.  Record Mode Each record has its own flashcard set so that you can easily relearn what youve learned.  Favorite Mode When you learn vocabulary through flashcards, you can use a favorite button to add words on the Favorite words list. Once you add words on the list, you can relearn what youve learned independently of a date stored on the Record Mode.   Vocabulary Mode With this mode, you can check all words contained on the app.  Multi Choice Quiz Mode You can try multi choice quizzes.  Add Vocabulary Here you can add 320+ words with in-app purchase service. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+}

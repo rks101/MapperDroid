@@ -1,0 +1,11 @@
+{
+"name" : "Mars Book",
+"url" : "https://play.google.com/store/apps/details?id=jp.co.vixen.MarsBook",
+"package" : "jp.co.vixen.MarsBook",
+"category" : "Education",
+"description" : "Mars will be unusually close to earth during the months of July and August 2018. Why does this happen?   Our planet Earth goes around the sun and Mercury, Venus, Mars, Jupiter and Saturn orbit the sun as well.  Earths orbit around the sun is smaller than Mars and goes around the sun faster than Mars.  For that reason, Earth goes inside Mars orbit and that is when they are closest to each other. Earth passes Mars every 26 months. Because the orbit of Mars is elliptical, as compare to that of Earth, the closest distance from Earth to Mars varies due to Mars orbit.  In August, Mars will be closest to the sun in its orbit. When Earth comes close to Mars in August, Mars appears larger in size in the scopes field of view.  When Earth comes close Mars in February, Mars does not appear to be large as seen in August. The closest approach of Mars will take place on January 31, 2018. The last time this occurred was August 27, 2004 and it occurs again after an interval of 15 years. After this close approach in 2018, there is no big Mars approach until September 11, 2035. Enjoy observing bright red Mars in the sky this summer!  Proceed to guidance of the screen by tapping [?] icon in the bottom right corner. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

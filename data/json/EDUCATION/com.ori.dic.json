@@ -1,0 +1,11 @@
+{
+"name" : "Odia Dictionary",
+"url" : "https://play.google.com/store/apps/details?id=com.ori.dic",
+"package" : "com.ori.dic",
+"category" : "Education",
+"description" : "Odia Abhidhan is an English to Odia dictionary. The interface is very simple to use. The user needs to enter the English word or Odia word in the search box.  This app will be really helpful for School Students to learn new words in English and finding their proper meaning. The Odia Custom keyboard will encourage students to type Odia words and get the proper word meanings.  The main advantage of this application is this requires one-time installation, and afterwards can be accessed offline in the absence of internet connection. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

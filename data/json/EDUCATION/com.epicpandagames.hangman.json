@@ -1,0 +1,11 @@
+{
+"name" : "Hangman Classic 3D - Chinese New!",
+"url" : "https://play.google.com/store/apps/details?id=com.epicpandagames.hangman",
+"package" : "com.epicpandagames.hangman",
+"category" : "Educational",
+"description" : "Beautiful classic hangman game! This game is suitable for all ages, young and old. Perfect for learning vocabulary and having fun while workout out your brain.  How to play: Its easy, find the word that appears by selecting the correct letters.  There are hidden words from many different categories.  Animals, Food, Pirates, Movies, Science, Art, Love, Countries, Celebrities, Avengers and many more!!  Paper Hangman comes in many different languages: English, Spanish, French, German, Portuguese, Italian, Korean, Japanese, Chinese, Russian and Bulgarian!  Completely Free Game.   We regularly give out promo codes that remove ads forever in our facebook page. Facebook Page ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+}
