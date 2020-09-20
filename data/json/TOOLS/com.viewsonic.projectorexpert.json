@@ -1,0 +1,11 @@
+{
+"name" : "ViewSonic Projector",
+"url" : "https://play.google.com/store/apps/details?id=com.viewsonic.projectorexpert",
+"package" : "com.viewsonic.projectorexpert",
+"category" : "Tools",
+"description" : "ViewSonic Projector summarizes the projectors basic and advanced know-how to end users, installers, or distributors. It contains a bunch of practical information for choosing appropriate projectors in different scenarios. No matter small meeting room, middle classroom, or big hall, ViewSonic Projector tells you how far the projector should be placed according to the room ceiling height, projectors screen size, aspect ratio, etc. Just input several figures, the result will be displayed in the simulation scenarios with measurement. You can use finger to adjust the distance instantly. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.viewsonic.projectorexpert.permission.C2D_MESSAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "MotoAnswer",
+"url" : "https://play.google.com/store/apps/details?id=org.punkeroso.motoanswer",
+"package" : "org.punkeroso.motoanswer",
+"category" : "Tools",
+"description" : "Unfortunately, not all smartphones offer the possibility to answer incoming calls automatically if a headset is connected.  This feature can be extremely useful in the case of us bikers who travel with a intercom or a headset wired into the helmet and we can not (or do not want to) use the hand to respond.  MotoAnswer does exactly this for you, it automatically answers incoming calls after a certain time (configurable by settings).  The app can always be left active as does not consume any battery.  N.B. For all users with huawei or xiaomi smartphones, it is necessary to modify the energy saving options corresponding to MotoAnswer that the operating system sets by default. To do this, read here https://www.punkeroso.org/2018/11/19/how-to-let-motoanswer-run-in-background-on-huawei-devices/ ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.FOREGROUND_SERVICE', 'android.permission.READ_PHONE_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ANSWER_PHONE_CALLS', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ANSWER_PHONE_CALLS', 'android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

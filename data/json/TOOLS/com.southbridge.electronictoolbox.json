@@ -1,0 +1,11 @@
+{
+"name" : "Electronic Toolbox",
+"url" : "https://play.google.com/store/apps/details?id=com.southbridge.electronictoolbox",
+"package" : "com.southbridge.electronictoolbox",
+"category" : "Tools",
+"description" : "This App provides some useful electronic tools, like IC 555, voltage divider and resistor calculators.   Tools: Battery lifetime calculation Capacitor code decoder LED resistor calculator IC 555 circuit calculator and diagram Ohms law calculation Resistor color code calculation Parallel and series resistor calculation  Features: No ads Modern and simple circuit diagrams Instruction and description for each tool ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

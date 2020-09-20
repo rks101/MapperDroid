@@ -1,0 +1,11 @@
+{
+"name" : "Battery Indicator",
+"url" : "https://play.google.com/store/apps/details?id=oops.showbattery",
+"package" : "oops.showbattery",
+"category" : "Tools",
+"description" : "This app shows battery charge percentage.  Indicates the battery charge level of your device.  Shows battery ratio on the title bar (the top section of your phone). It is a percentage notifier. Runs infinitely. It is not a widget. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

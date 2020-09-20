@@ -1,0 +1,11 @@
+{
+"name" : "Flashify (for root users)",
+"url" : "https://play.google.com/store/apps/details?id=com.cgollner.flashify",
+"package" : "com.cgollner.flashify",
+"category" : "Tools",
+"description" : "Flash your boot.img, recovery.img and zip files right away using Flashify!  Be safe and backup everything either to local storage or cloud storage with automatic syncing! If you dont know where to get your recovery files, just download directly from this app!  Features: 1 - Flash boot and recovery .img without even needing to go to recovery. 2 - Flash zip files. Option to wipe cache, dalvik and data when using TWRP or Philz recovery. 3 - Download and flash CWM, Philz, TWRP, Gapps, Franco Kernel, Stock Nexus Kernel (premium), and Stock Nexus Recovery (premium). 4 - Automatic Loki Patch when needed. 5 - Full nandroid backups/restores when using TWRP or Philz recovery. 6 - Backup/Restore kernel and recovery using Sdcard or cloud (Dropbox, Box (premium) or Google Drive (premium)). 7 - Automatic cloud synchronisation of backups between devices and desktops. 8 - Keep track of recently flashed items. 9 - Flash multiple files and build your flash queue. 11 - Flash from anywhere! Do you want to flash from your favorite File Explorer or Email app? No biggie, that also works together with Flashify.  This app is free but has a limit of 3 flashes per day. You can unlock the limit with a quick in-app payment. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_SUPERUSER', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_SUPERUSER', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Media Codec Info",
+"url" : "https://play.google.com/store/apps/details?id=com.ellevsoft.mediacodecinfo",
+"package" : "com.ellevsoft.mediacodecinfo",
+"category" : "Tools",
+"description" : "Display media (video and audio) codec information of your device. You can find out:  Audio  Input Channels  Maximum bitrate  Sample rates  Video  Maximum resolution  Maximum bitrate  Maximum frame rate  Maximum frame rate per resolution  Maximum level per profile (profile/level) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

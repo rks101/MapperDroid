@@ -1,0 +1,11 @@
+{
+"name" : "Shopping Lover - Shopping List & Grocery List Free",
+"url" : "https://play.google.com/store/apps/details?id=com.zoostudio.shoppinglover",
+"package" : "com.zoostudio.shoppinglover",
+"category" : "Tools",
+"description" : "Shopping Lover is built for the shoppers and based on the habits of shoppers. Shopping Lover will increase the efficiency and speed of your shopping experience, and also prevent any unnecessary mistakes.  Features in the application  - Multiple lists: milk can when you are out of milk, grocery lists for shopping at the market or check list for the ingredients needed for a recipe. - Items status: check what has and/or has not been purchased. - Share your shopping list with others: in case you need some one to do the shopping for you. - Procurement planning - Estimation of the amount needed to buy  Developed by Finsify, Google Top Developer with Best App of 2016: Money Lover - Money & Budget Manager - https://play.google.com/store/apps/details?id=com.bookmark.money  Website: https://moneylover.me  Blog Money Tips: http://note.moneylover.me ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "C7 AgroCalc",
+"url" : "https://play.google.com/store/apps/details?id=com.crcampeiro.semeadoraapp",
+"package" : "com.crcampeiro.semeadoraapp",
+"category" : "Tools",
+"description" : "AgroCalc  uma calculadora agronmica, foi desenvolvido com o objetivo de simplificar os clculos realizados no dia-a-dia para a regulagem de mquinas e implementos no campo, possibilitando uma maior praticidade e aumento da preciso nas operaes. O aplicativo realiza os clculos para a determinao da quantidade de sementes a ser utilizada por unidade de rea, bem como fornece resultados para a regulagem da semeadora. Para a calibrao de pulverizadores, foi desenvolvida uma rotina que realiza os clculos para a determinao da velocidade e vazo do equipamento. Tambm, para a recomendao da calagem dos solos, foi desenvolvida uma rotina que calcula a quantidade de corretivo a ser utilizado, utilizando os mtodos da Saturao de Bases e SMP. Novos clculos podero ser incorporados em verses subseqentes. AgroCalc is an agronomic calculator was developed in order to simplify the calculations made on a day-to-day for the regulation of machines and equipment in the field, providing greater convenience and increased precision in operations. The application performs calculations to determine the amount of seed to be used per unit area as well as provides results for the regulation of the sower. For calibration of nozzles, a routine was developed that performs the calculations for determining the flow velocity and equipment. Also, for the recommendation of liming soils, a routine was developed that calculates the amount of correction to be used, using the methods of bases and SMP saturation. New calculations may be incorporated into subsequent releases. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

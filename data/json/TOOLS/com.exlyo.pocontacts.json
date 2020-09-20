@@ -1,0 +1,11 @@
+{
+"name" : "PO Contacts",
+"url" : "https://play.google.com/store/apps/details?id=com.exlyo.pocontacts",
+"package" : "com.exlyo.pocontacts",
+"category" : "Tools",
+"description" : "PO Contacts stands for Privacy Oriented Contacts.  The vision and end goal of this project is to have a portable and privacy oriented contacts manager.  - Portable means you can use it on any platform (see supported platforms on the website) - Privacy oriented means its built with a privacy first mindset. See the privacy policy for details.  Disclaimer  I built this app on my free time and mostly as a learning experience. I intend to use it myself and Im happy to share it publicly for free if it can help others. I also made the code available publicly, because I believe being open source is an important part of a privacy-focused app. That being said, if you choose to use it, you use it at your own risks, there is no warranty (see the licence for more details).  Features: - Create and edit contact details - Start email from contact - Start phone from contact - Start SMS from contact - Export contacts to .vcf files - Import contacts from .vcf files - Protect your exported files with password-based AES encryption ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+}

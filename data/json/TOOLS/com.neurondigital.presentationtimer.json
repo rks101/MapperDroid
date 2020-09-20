@@ -1,0 +1,11 @@
+{
+"name" : "Presentation Timer",
+"url" : "https://play.google.com/store/apps/details?id=com.neurondigital.presentationtimer",
+"package" : "com.neurondigital.presentationtimer",
+"category" : "Tools",
+"description" : "Presentation Timer is the only countdown timer you need for any pitch or speech. The UI is crafted in such a way that it can be read with a glimpse from a distance.  The perfect countdown timer for a PowerPoint, keynote or any slide show presentation.  Dont let your presentation end without getting to say what you want!  The presentation timer features 4 colors: - BLUE - You have enough time left - GREEN - Feel free to end your talk whenever you like. - ORANGE - Time almost up. Conclude. - RED - Stop now.  This app is your standard timekeeper with a modern touch. Inspired by the traditional hourglass, this countdown timer is perfect for any occasion. Just put in the required interval (in minutes and seconds) and press start.   Will remove the need to stay looking at stopwatch or a chrono during your presentation. Keep your attention with the audience.  New in Version 2.0 + Countdown Timer continues when screen is off or app is in background. + Ads limited only to one ad view, when app is open. + When time is up, the Countdown Timer becomes a Count up timer and blinks red. + Rate button instead of Rate pop-up. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

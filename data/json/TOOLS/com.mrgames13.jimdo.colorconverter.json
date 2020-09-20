@@ -1,0 +1,11 @@
+{
+"name" : "Color Converter",
+"url" : "https://play.google.com/store/apps/details?id=com.mrgames13.jimdo.colorconverter",
+"package" : "com.mrgames13.jimdo.colorconverter",
+"category" : "Tools",
+"description" : "Color Converter is an Android app to pick, display and convert colors.  Features:  Pick colors  Get name of picked colors  Display picked colors in different formats (RGB, HEX, HSV)  Generate random colors  Pick color from a photo / image  Save / load colors  Do you want to help us translating the app? Please send an email to contact@chillibits.com.  If you want to support the project financially, please visit https://github.com/sponsors/marcauberer  The app is OpenSource: https://github.com/chillibits/color-converter ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA']",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA']",
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY']" 
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Flashlight Lite",
+"url" : "https://play.google.com/store/apps/details?id=com.fulminesoftware.flashlightlite",
+"package" : "com.fulminesoftware.flashlightlite",
+"category" : "Tools",
+"description" : "Very fast and bright flashlight. Easy to use and elegant! This version of application is optimized for low devices storage memory usage.  A few reasons this flashlight is worth using:  Uses bright LED lamp.  Uses screen light with adjustable brightness and color.  Quick access! Turn your flashlight on from resizable home and lock screen widgets with many configuration options.  You can use LED lamp, screen and keyboard light at the same time!  Fan page: https://www.facebook.com/fulmineflashlight Terms of use: http://www.fulminesoftware.com/eula.html ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.sec.android.iap.permission.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FLASHLIGHT', 'android.permission.CAMERA', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.sec.android.iap.permission.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+}

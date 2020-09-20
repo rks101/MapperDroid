@@ -1,0 +1,11 @@
+{
+"name" : "VR Remote Desktop Free",
+"url" : "https://play.google.com/store/apps/details?id=se.chai.cardboardremotedesktop.lite",
+"package" : "se.chai.cardboardremotedesktop.lite",
+"category" : "Tools",
+"description" : "VR Remote Desktop is a remote desktop client designed for Google Cardboard. Kids using the computer *and* the tablet? Use VR Remote Desktop to control to your computer in virtual reality.  Features:  - Curved screen and magnifying glass options for better usability.  - Control the mouse with your head and the trigger button, or enable Viewer Mode and use the keyboard and mouse connected to the computer.  - Activate the trigger button when focusing away from the screen to re-center the display.  - Camera Preview shows you a live feed of your surroundings.  - Connect and use a Bluetooth keyboard.  This application is supported by (hopefully unobtrusive) ads, if youd like to support the development, please rate the application and write a review, or purchase the full version! Feature suggestions are always welcome!  VR Remote Desktop is released under the GPL license, and the source code can be found on github: https://github.com/svenhenrik/CardboardRemoteDesktop  VR Remote Desktop is based on the open source GPL licensed android-vnc-viewer project: https://code.google.com/p/android-vnc-viewer/ ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.NFC', 'android.permission.CAMERA', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.NFC', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

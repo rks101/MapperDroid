@@ -1,0 +1,11 @@
+{
+"name" : "Pathbuilder 1e",
+"url" : "https://play.google.com/store/apps/details?id=com.redrazors.pathbuilder",
+"package" : "com.redrazors.pathbuilder",
+"category" : "Tools",
+"description" : "Character Planning tool for PFRPG First Edition. Plan out your feats, classes, archetypes and specials from pregenerated lists and menus.  Looking for the 2nd edition app? Search for Pathbuilder 2e.  All artwork by David Revoy: http://www.davidrevoy.com  Open Game License and Copyright Information is available at http://pathbuilder.x10host.com/license.html ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.GET_ACCOUNTS', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_INTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.WRITE_INTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

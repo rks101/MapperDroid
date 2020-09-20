@@ -1,0 +1,11 @@
+{
+"name" : "GWN Cloud",
+"url" : "https://play.google.com/store/apps/details?id=com.grandstream.gwn",
+"package" : "com.grandstream.gwn",
+"category" : "Tools",
+"description" : "GWN Cloud app is developed to manage the network-based APs at anytime from anywhere with Android devices. This free app links seamlessly with APs registered in GWN cloud, and allows users to conveniently monitor and manage the wireless network established by GWN APs. The GWN Cloud app extends web features to Android device to allow you to manage the network and be productive while on-the-go:  monitor Network/AP/Client status in different time periods, receive alert information as soon as alert event occurs,  add AP to the network via phone camera scanning or manually fill in AP MAC and its corresponding password,  monitor AP details including usage, event log and AP information,  support AP locate for users to find its exact physical location and AP debug for problem-tracking, and much more.  There is no purchase necessary to manage the network-based APs with the GWN Cloud app. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.FLASHLIGHT', 'android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+}

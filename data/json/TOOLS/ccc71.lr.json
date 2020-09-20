@@ -1,0 +1,11 @@
+{
+"name" : "3C Logs (root)",
+"url" : "https://play.google.com/store/apps/details?id=ccc71.lr",
+"package" : "ccc71.lr",
+"category" : "Tools",
+"description" : "Allows reading Logcat, kernel messages and xposed logs  Root is required on Android 6.0+ (https://3c71.com/android/?q=node/566). Reading logcat requires READ_LOGS permission if not root.   Search logs for specific information, crash, issue, etc.  Ability to select logcat buffers (main, system, radio, events, crash or all)  Color-coded logs and filtering based on log type (debug, warning, error, info, verbose).  Filtering by running/killed apps on Android 5.1 and lower or if rooted.  User interface is fully customisable.  Share logs by any means available on device.  Save logs for later reading and searching.  In-app purchases can be made to remove ads, unlock UI customization or add a shortcut in notifications. ",
+"desc_perms" : "['android.permission.READ_CALL_LOG']",
+"manifest_perms" : "['android.permission.READ_LOGS', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_LOGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

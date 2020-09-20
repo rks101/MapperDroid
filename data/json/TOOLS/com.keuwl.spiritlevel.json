@@ -1,0 +1,11 @@
+{
+"name" : "Spirit Level",
+"url" : "https://play.google.com/store/apps/details?id=com.keuwl.spiritlevel",
+"package" : "com.keuwl.spiritlevel",
+"category" : "Tools",
+"description" : "Spirit Level. No Permissions Required. Free & No Ads.    Bulls eye level with roll & pitch gauges screen  Horizontal and vertical bubble level and angle gauge screen.   Calibration feature to correct for accelerometer misalignment & different axis sensitivities.  For best results touch CAL and calibrate first. The Spirit Level is only as good as your accelerometer. For indication only. Dont damage your tablet or phone, use a real spirit level when appropriate.   Pause button to hold the current reading.   Zero and reset button to make measuring angles easier.   Option to auto select screen based on inclination.   Thats it. Enjoy. ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

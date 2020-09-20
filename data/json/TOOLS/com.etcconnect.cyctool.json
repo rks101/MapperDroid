@@ -1,0 +1,11 @@
+{
+"name" : "CYC Tool",
+"url" : "https://play.google.com/store/apps/details?id=com.etcconnect.cyctool",
+"package" : "com.etcconnect.cyctool",
+"category" : "Tools",
+"description" : "The CYC Tool from ETC gives you an easy way to plan and set up cyclorama lighting systems using ETC LED light fixtures.   Swipe up on the toolbar to select your ETC fixture (Source Four LED Series 2 Lustr with CYC adapter, ColorSource Spot with CYC adapter, or ColorSource CYC), and then enter the setback (distance from the cyc) for your fixtures, either top-hung, ground-row, or both. After you enter the dimensions of the cyc that youre lighting and set your horizontal blend, the CYC Tool determines how many fixtures you need and how far apart to place the fixtures.   On the Angle tab, you can hold your mobile device against the fixture and then adjust the fixture angle for best resultsthe checkmark lets you know when the fixture is at the optimal angle.   On the Photometrics tab, assess the foot-candles and lux that the fixtures can deliver at different heights on the cyc. (For more detailed photometric data, please consult the .IES files for individual fixtures at etcconnect.com.) ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Codes for Borderlands 3",
+"url" : "https://play.google.com/store/apps/details?id=de.bameos.cheats.codesforborderlands3",
+"package" : "de.bameos.cheats.codesforborderlands3",
+"category" : "Tools",
+"description" : "This is an unofficial app for Borderlands 3.  Get the latest Shift Codes for Borderlands 3.  Use SHiFT- and VIP-Codes for points, golden keys and skins.  Features:  - An automatic Updater looks for newly changed codes. - You can easily copy codes and redeem them on included links to Borderlands VIP / Shift website. - Integrated Webview for community-based code sources.  PRO Features:  - Notification on new codes [BETA] - No Ads - Mark used codes.    This app is not affiliated with Gearbox or 2K. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

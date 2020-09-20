@@ -1,0 +1,11 @@
+{
+"name" : "Allflex SenseHub™",
+"url" : "https://play.google.com/store/apps/details?id=com.scr.sensetime",
+"package" : "com.scr.sensetime",
+"category" : "Tools",
+"description" : "Allflex SenseHub is an advanced mobile application that delivers actionable information on the reproductive, health, nutritional and wellbeing status of individual cows and groups.   With the SenseHub mobile application, you can manage your monitoring solution and have access to full range of functionalities, features and reports with maximum convenience, mobility, and cost-effectiveness.  With SenseHub, dairy and beef solution, farmers with any size operation can make data-driven decisions for maximized productivity. The SenseHub app supports both eSense Flex ear tags and cSense Flex neck tags and manage offers multiple application plans. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.scr.sensetime.permission.C2D_MESSAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

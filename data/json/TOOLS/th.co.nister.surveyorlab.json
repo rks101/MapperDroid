@@ -1,0 +1,11 @@
+{
+"name" : "SurveyorLab",
+"url" : "https://play.google.com/store/apps/details?id=th.co.nister.surveyorlab",
+"package" : "th.co.nister.surveyorlab",
+"category" : "Tools",
+"description" : " Smartphone / Tablet      SurveyorLab    (https://app.surveyorlab.com)  ()     https://www.surveyorlab.com Transform your ordinary Smartphone / Tablet into a simple satisfaction assessment by installing the SurveyorLab application.  You can check the results of the satisfaction assessment immediately on the page. (https://app.surveyorlab.com). You must apply for membership to use the service first. (There is an annual software fee)  If you want to try it out Or start using More information can be found at https://www.surveyorlab.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.REORDER_TASKS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.REORDER_TASKS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

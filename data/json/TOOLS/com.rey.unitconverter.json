@@ -1,0 +1,11 @@
+{
+"name" : "Unit & Currency Converter Pro★",
+"url" : "https://play.google.com/store/apps/details?id=com.rey.unitconverter",
+"package" : "com.rey.unitconverter",
+"category" : "Tools",
+"description" : "Smart unit and currency conversion app with simple yet elegant material design.   Material Unit Converter is now available for all Android devices running version 4.0 or higher. This app has simple yet beautiful Material Design UI. It supports 14 important unit categories and currency conversion that meet your needs and demands.   KEY FEATURES  Completely free, no Ads.  Currency Converter with more than 160+ World Currencies and their latest exchange rates.   Support 14 important unit categories: Length, Speed, Temperature, Time, Area, Energy, Frequency, Fuel Economy, Mass, Plane Angle, Pressure, Volume, Data Transfer Rate, Digital Storage. More will be added in future.  Built-In Calculator to perform basic arithmetic operations on the fly while using the unit converter.  Add and customize Favorite Units.  Simple, easy to use UI.   PERMISSION  Internet connection: to update the latest exchange rates.   FEEDBACK AND SUGGESTIONS Wed love to hear from you! Send us your feedback via rey5137@gmail.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

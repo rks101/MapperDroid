@@ -1,0 +1,11 @@
+{
+"name" : "Cleaner for Telegram",
+"url" : "https://play.google.com/store/apps/details?id=com.mrcinc.telegram.cleaner",
+"package" : "com.mrcinc.telegram.cleaner",
+"category" : "Tools",
+"description" : "This tool allows you to find and delete files sent and received via Telegram to save space on your device. This application makes it easier for users to browse files downloaded from the Telegram application by grouping them by file type. You can sort the files by file name, size, or last modified date. You can delete or share one or more files at a time. You can analyze the contents of files at specified time intervals. And you can also detect duplicate files and delete them so that there is only one file.  Features: - Sort files by file name, size or last modified date. - The user can select one or more files, delete them or share them. - Group duplicate files by type and delete them with a single click. - View the details of each file. - Set the reminder time. - Read or open any image file, audio, video or other word, pdf or Excel. - Its a simple and easy file manager.  You can contact us at any time to report unexpected application errors or make suggestions. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

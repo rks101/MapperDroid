@@ -1,0 +1,11 @@
+{
+"name" : "Lebara Partner Portal Switzerland",
+"url" : "https://play.google.com/store/apps/details?id=ch.lebara.pos",
+"package" : "ch.lebara.pos",
+"category" : "Tools",
+"description" : "The app makes it easier to register a Lebara SIM via your SmartPhone/Tablett.  The Lebara sales app can only be used by resellers with valid login details.  If you do not have any login details yet or have forgotten your password, please send an e-mail to app@lebara.ch.  We hope you enjoy using the Lebara sales app. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

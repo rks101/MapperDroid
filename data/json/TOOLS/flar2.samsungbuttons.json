@@ -1,0 +1,11 @@
+{
+"name" : "Button Light and Touch",
+"url" : "https://play.google.com/store/apps/details?id=flar2.samsungbuttons",
+"package" : "flar2.samsungbuttons",
+"category" : "Tools",
+"description" : "This tool lets you customize the behavior of the capacitive key backlight (back and recents button) on Samsung devices. It also integrates with Button Mapper to offer more control over the backlight and touch vibration for the back and recents buttons for devices running Marshmallow or Nougat.  This is for Samsung devices only, and may not work on all Samsung devices. It does not require root.  This app works as an add-on for Button Mapper. Button Mapper will automatically detect that Button Light and Touch is installed on devices running Marshmallow or Nougat. Installing this app adds new settings to Button Mapper and fixes the issue of the back and recents keys not lighting up if long press actions are assigned.  Button Mapper is available on the Play Store: https://play.google.com/store/apps/details?id=flar2.homebutton ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_SETTINGS']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

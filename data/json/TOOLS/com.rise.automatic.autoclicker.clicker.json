@@ -1,0 +1,11 @@
+{
+"name" : "Click Assistant - Auto Clicker : Gesture Recorder",
+"url" : "https://play.google.com/store/apps/details?id=com.rise.automatic.autoclicker.clicker",
+"package" : "com.rise.automatic.autoclicker.clicker",
+"category" : "Tools",
+"description" : "This auto clicker includes clicks, curve swipes and pinch gestures. It helps you do repetitive work so you can have extra time to do other things!   Any click point can be added to the screen via the floating control panel.  Features:  Easy to use  Innovative curve swipes and two-finger zoom gestures  Separately set the parameters of the clicks, such as delay, touch duration and number of repetitions  It can save/load scripts  No Root  System requirement  Android 7.0 or above  Download and start saving your time today!  User guide https://www.youtube.com/watch?v=urKPZxfEvo8   Quick Macro ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.rise.automatic.autoclicker.clicker.permission.C2D_MESSAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_FINE_LOCATION']",
+}

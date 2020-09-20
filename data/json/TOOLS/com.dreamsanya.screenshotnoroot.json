@@ -1,0 +1,11 @@
+{
+"name" : "Screenshot Pro",
+"url" : "https://play.google.com/store/apps/details?id=com.dreamsanya.screenshotnoroot",
+"package" : "com.dreamsanya.screenshotnoroot",
+"category" : "Tools",
+"description" : "Screenshot Pro  Screenshot Pro provides a lot of high quality tools for taking and editing screenshots.  Features: 1. Taking screenshots(also referred as captured images) with one touch on the touch icon. 2. Taking screenshots with one touch on the notification bar. 3. Taking screenshots by shaking your phone. 4. Cropping captured images with shapes of rectangle, circle, polygon, star or heart. 5. Painting on images with brush or other shapes. 6. Adding text of a variety of styles on captured images. The size, color, stroke, shadow, background, alignment, and other styles of the text is modifiable. 7. Adding mosaic or blur effect to images with brush or other shapes. 8. Adding image sticker or Emoji sticker to images. 9. Stitching multiple images into one large image. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

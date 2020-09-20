@@ -1,0 +1,11 @@
+{
+"name" : "Timely Cleaner for WhatsApp",
+"url" : "https://play.google.com/store/apps/details?id=dev.mark.timelycleaner",
+"package" : "dev.mark.timelycleaner",
+"category" : "Tools",
+"description" : "Do you manage WhatsApps (including GBWhatsApp or WhatsApp Business) storage use, through deleting all the images, videos, voice notes, etc, that you dont want ? This app was designed to make deleting those unwanted WhatsApp files as convenient as possible.   Take a look at the features and see for yourself. Its so much better than using your standard file manager.   Feature Summary:    You dont have to waste time selecting every WhatsApp media file that you want to delete.   The cleaning process can be automated with a cleaning schedule.   You can have the WhatsApp files you want to save be automatically moved to a folder of your choice, during the cleaning process (Android 5.0 and above).    If youre like me, you probably have more WhatsApp files that you want to delete than the WhatsApp files which you want to save. This app was designed with that in mind, and so it works by letting you choose the files you want to save. Doing so will separate them from the files which you dont want to keep. Managing your WhatsApp files will become effortless. Try it for yourself. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

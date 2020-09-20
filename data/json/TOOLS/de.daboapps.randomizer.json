@@ -1,0 +1,11 @@
+{
+"name" : "Randomizer",
+"url" : "https://play.google.com/store/apps/details?id=de.daboapps.randomizer",
+"package" : "de.daboapps.randomizer",
+"category" : "Tools",
+"description" : "supported outcomes: - Yes/No or head/tail - numeric in a desired range - decimal in a desired range and step - random choice of a given list  hint: use the swipe-to-delete-gesture to remove items you want to delete ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.hardware.sensor.gyroscope']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.hardware.sensor.gyroscope', 'android.permission.ACCESS_NETWORK_STATE']",
+}

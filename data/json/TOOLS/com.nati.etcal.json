@@ -1,0 +1,11 @@
+{
+"name" : "Ethiopian Calendar - á‰€áŠ• áˆ˜á‰�áŒ áˆªá‹«",
+"url" : "https://play.google.com/store/apps/details?id=com.nati.etcal",
+"package" : "com.nati.etcal",
+"category" : "Tools",
+"description" : "This is a free Ethiopian Calendar & date converter in both Amharic and English. The calendar displays Christian, Muslim and Ethiopian National Holidays. Users can also add their own appointments with reminders, days with events are marked with a ribbon. The calendar has two views, Month View and Day View. Users can navigate both views by simply swiping left and right. The easy to use date converter allows converting dates from gregorian to Ethiopian or vice versa. Get support straight from the app using a chat like interface.  An ad-free version of this app with more features and languages is available pre-installed on all tecno, infinix and itel phones.  Summary of features: - Christian, Muslim and National Holidays - Personal appointments with reminders (long click on appointments to edit or delete) - Month View - Day View - Simple navigation between months and days using swipe  - Available in Amharic and English - Date converter (Ethiopian to Gregorian) - Date converter (Gregorian to Ethiopian) - Ethiopian Calendar - Gregorian Calendar(can be changed from the settings) ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Probability Hypothesis Test",
+"url" : "https://play.google.com/store/apps/details?id=com.ericyf88.stats_free",
+"package" : "com.ericyf88.stats_free",
+"category" : "Tools",
+"description" : "- Provide visual interpretation of some popular discrete and continuous probability distributions.  - Probability Mass Functions / Probability Density Functions, coupled with Cumulative Probabilities are plotted with user configurable settings.  - Scale is adjustable with a built-in auto scale. - Probability and cumulative probability at a particular random variable can be computed easily. - Critical value for hypothesis testing can also be calculated with ease.  - Supported distributions: Discrete: (FREE VERSION) Binomial, Poisson, Uniform Integer (PRO VERSION) Pascal, Geometric, Hypergeometric Continuous: (FREE VERSION) Normal, Chi_Square, T, F (PRO VERSION) Cauchy, Exponential, Gamma, Laplace, Uniform, Weibull, Lognormal, Gumbel, Beta (PRO ONLY)  - Inferential statistics, specifically hypothesis testing is also included in this application.  - Common statistical hypothesis tests supported in this application include: (FREE VERSION) One-Sample T Test, Chi-squared Test, Two-Sample T Test Equal Variance, One-Sample Variance Test, Two-Sample Variance Test (PRO VERSION) Two-Sample T Test Unequal Variance, Paired-Sampled T Test, , One-way Anova Test, Two-way Anova Test, Two-way Anova Test with no interaction, , Linear Regression ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Counter",
+"url" : "https://play.google.com/store/apps/details?id=me.tsukanov.counter",
+"package" : "me.tsukanov.counter",
+"category" : "Tools",
+"description" : "Counter is an open source tally counter for Android. It makes counting easier. No ads or unnecessary permissions. Enjoy!  You can have multiple counters with their own names and values. Values can be changed using volume buttons. There is a way to export all counters into a CSV file.   This is an open source application. If you want to fix a bug or propose a new feature, check out the project on GitHub: https://github.com/gentlecat/counter/  If you want to help with translation, please go to http://crowdin.net/project/simple-counter   Thank you for using the Counter. I hope you find it useful. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

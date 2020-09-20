@@ -1,0 +1,11 @@
+{
+"name" : "FX991 EX Original Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.fx991ex.fx991exoriginal",
+"package" : "com.fx991ex.fx991exoriginal",
+"category" : "Tools",
+"description" : "This calculator application is meant to be a 1:1 clone of the CASIO FX-991 EX/DEX, the most intuitive and at the same time most powerful calculator on the market. It is also very common and convenient. If you want to have this calculator as an app, please let us know. Mail us and rate this app positively! If there is enough demand, we will develop it. First steps of development are already done. This is a market research and development request application. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

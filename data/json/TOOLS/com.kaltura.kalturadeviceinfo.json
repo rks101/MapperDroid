@@ -1,0 +1,11 @@
+{
+"name" : "Kaltura Device Info",
+"url" : "https://play.google.com/store/apps/details?id=com.kaltura.kalturadeviceinfo",
+"package" : "com.kaltura.kalturadeviceinfo",
+"category" : "Tools",
+"description" : "* Build information (android.os.Build) * Supported DRM engines * Extended information about Widevine DRM * List of supported media decoders * Display metrics * DRM playback test using ExoPlayer of two samples  The report is very technical - displayed as JSON, ready to be shared by email.  This application is open source - https://github.com/kaltura/kaltura-device-info-android . ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Cross-Device Battery Monitor",
+"url" : "https://play.google.com/store/apps/details?id=com.itbenefit.batmon",
+"package" : "com.itbenefit.batmon",
+"category" : "Tools",
+"description" : "Have multiple Android devices? With Battery Monitor you could track battery status of all your devices from a single location.   You will get a notification on your phone when your tablets battery is getting low.  To add devices, simply install Battery Monitor on each one you want to track.   Features:  Shows battery level of all connected devices  Notifies when some devices battery is getting low  Notifies when some device is fully charged  Estimates remaining charging time  Estimates remaining usage time  Add battery widget to your Home screen to keep all your devices battery status always at hand.  The app is in BETA stage and may be not perfectly stable, so if you faced problems or got any ideas to make Battery Monitor better, please let me know at batmon@itbenefit.com. ",
+"desc_perms" : "['android.permission.CALL_PHONE']",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.VIBRATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.itbenefit.batmon.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

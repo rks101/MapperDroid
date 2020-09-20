@@ -1,0 +1,11 @@
+{
+"name" : "Testo Saveris Restaurant Installation",
+"url" : "https://play.google.com/store/apps/details?id=com.cnyapps.testo",
+"package" : "com.cnyapps.testo",
+"category" : "Tools",
+"description" : "The Testo Saveris Restaurant Installation App will guide you through the setup and installation of the Testo System. It will interactively assist you based on your experience level and specific installation profile. Features include a wifi-strength detector, QR Code scanner, and installation photo upload to the Testo Report Server, so that Testo Technicians will be able to more easily support your installation in the the future. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.RECORD_VIDEO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.RECORD_VIDEO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+}

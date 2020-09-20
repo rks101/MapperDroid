@@ -1,0 +1,11 @@
+{
+"name" : "Screen Flashlight",
+"url" : "https://play.google.com/store/apps/details?id=com.eduardo_rsor.apps.linternapantalla",
+"package" : "com.eduardo_rsor.apps.linternapantalla",
+"category" : "Tools",
+"description" : "Screen Flashlight uses your screens light to convert your device into a handy flashlight, owns brightness control and has an elegant design.  Screen flashlight also offers more functionality than a common flashlight, as it has Strobe and SOS (an international code for help) mode.  Screen Flashlight features:  - Flashlight - Strobe. - SOS. - RGB mode for screen color customization. - Preset screen colors. - Strobe frequency changeable. - Brightness control. - Sleep timer.   Warning: some people may be sensitive to flashing lights.  Photosensitive epilepsy (PSE) is a form of epilepsy in which seizures are triggered by visual stimuli that form patterns in time or space, such as flashing lights, bold, regular patterns, or regular moving patterns. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

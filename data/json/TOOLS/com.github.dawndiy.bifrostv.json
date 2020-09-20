@@ -1,0 +1,11 @@
+{
+"name" : "BifrostV",
+"url" : "https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv",
+"package" : "com.github.dawndiy.bifrostv",
+"category" : "Tools",
+"description" : "BifrostV is a V2Ray client for Android.  Support VMessShadowsocksSOCKS protocols.  Project V: https://www.v2ray.com/en/  V2Ray Features:  Multiple proxy support: V2Ray supports Socks, HTTP, Shadowsocks and VMess protocol. - One V2Ray process can use different protocols on different ports at the same time; - By combining different inbound and outbound proxies, one can change traffic format dynamically.  Multiple transport protocols: All proxies above can be send/recieve over TLS, TCP, mKCP and more transport protocols.  Flexible routing:https://www.v2ray.com/en/ V2Ray has an internal router, which can be configured to proxy traffic, or send directly, or even block them.            This App DOESNT provide any V2Ray service. You can build your own service according to the official documents. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+}

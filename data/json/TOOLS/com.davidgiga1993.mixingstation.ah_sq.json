@@ -1,0 +1,11 @@
+{
+"name" : "Mixing Station SQ",
+"url" : "https://play.google.com/store/apps/details?id=com.davidgiga1993.mixingstation.ah_sq",
+"package" : "com.davidgiga1993.mixingstation.ah_sq",
+"category" : "Tools",
+"description" : "Mixing Station SQallows you to remote control the SQ series mixers from Allen&Heath.  Features: - RTA overlay for PEQ - Level timeline for gate and dynamics (pro version) - Peak hold for all meters with changeable hold time (pro version) - Customizable channel strip (pro version) - High contrast mode for outdoor usage (pro version) - Popgroups (pro version) - Unlimited DCA groups (IDCAs) - Customizeable layer, channel order and mutegroup labels - Up to 32 channels visible channels per layer - Runs on smartphones and tablets - And much more: https://dev-core.org/ms-docs/  Compatible mixer: - Firmware V1.4.1 - SQ-5, SQ-6, SQ-7 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+}

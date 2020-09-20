@@ -1,0 +1,11 @@
+{
+"name" : "Internal Audio Plugin (ROOT)",
+"url" : "https://play.google.com/store/apps/details?id=com.mobzapp.internalaudioplugin",
+"package" : "com.mobzapp.internalaudioplugin",
+"category" : "Tools",
+"description" : "This application requires ROOT. This is the application required if you want to be able to use internal audio with our apps from Android M (6.0). Once you have installed this app and activate it (it will ask you to reboot your device) internal audio source should be available in Screen Stream Mirroring and RecMe app settings. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.CAPTURE_AUDIO_OUTPUT', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_SUPERUSER', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.CAPTURE_AUDIO_OUTPUT', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_SUPERUSER', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

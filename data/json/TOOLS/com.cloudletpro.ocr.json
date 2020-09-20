@@ -1,0 +1,11 @@
+{
+"name" : "Cloudletpro Text scan - Screen Translate",
+"url" : "https://play.google.com/store/apps/details?id=com.cloudletpro.ocr",
+"package" : "com.cloudletpro.ocr",
+"category" : "Tools",
+"description" : "We can help you to extract text information from pictures efficiently by google cloud vision api, and provide you one-click translate function. Besides, we consider that you need to share with your friends, so, you can also share pictures or text information in our application. We keep all your recognition records on your device for check needs. Float window will take effects if you grant us the appropriate permission. You can use screen-capture OCR outside our application. Cloudlet is a secretary who does his duty stay with you. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.READ_LOGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_LOGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

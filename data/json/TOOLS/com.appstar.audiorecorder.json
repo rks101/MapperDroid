@@ -1,0 +1,11 @@
+{
+"name" : "Voice Recorder",
+"url" : "https://play.google.com/store/apps/details?id=com.appstar.audiorecorder",
+"package" : "com.appstar.audiorecorder",
+"category" : "Tools",
+"description" : "Voice Recorder is a simple yet powerful application for recording anything you need, its simple and beautifully designed user interface makes it easy and fun to record. Voice Recorder lets you record important conversations, lectures, short voice reminders and anything you can think of. You can sync all your recordings to Google Drive very easily using your Google account or to Dropbox. Notes can be added to each recording and recordings can be shared in many ways such as email, Bluetooth, SMS and more.  It is most useful for students who want to record their lectures. Its free and offers in-app purchases. This app contains ads.  You can change the quality of the audio recording by selecting from different bitrates or between several audio formats: - Advanced Audio Coding (AAC) - Designed to be the successor of the MP3 format - AMR - Audio format that uses less storage and is optimized for recording voice - WAV - Uncompressed lossless high quality format  More awesome features are coming soon... ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.USE_CREDENTIALS', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "TheocBase",
+"url" : "https://play.google.com/store/apps/details?id=net.theocbase.mobile",
+"package" : "net.theocbase.mobile",
+"category" : "Tools",
+"description" : "This software is intended to use as a companion with the desktop version of the software (Theocbase), which can be downloaded from www.theocbase.net. TheocBase Mobile is useful for those maintaining LMM schedules in Jehovahs Witnesses congregations. To use Theocbase Mobile you need to install and configure TheocBase on your desktop computer. You can then connect the app to your Dropbox account and synchronize data between desktop and mobile application. You can establish the Dropbox link from the desktop software. Synchronizing works both ways so you can edit schedule and assignment details in the mobile version and pass information to desktop version via Dropbox account.  Current version is with basic functions. More useful functions will be released in the future versions. Any suggestions are welcome and should be transmitted using theocbase forum at https://www.theocbase.net. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

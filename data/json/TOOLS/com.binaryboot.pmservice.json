@@ -1,0 +1,11 @@
+{
+"name" : "ProPass - Your Offline Password Manager",
+"url" : "https://play.google.com/store/apps/details?id=com.binaryboot.pmservice",
+"package" : "com.binaryboot.pmservice",
+"category" : "Tools",
+"description" : "80% of security breaches happen due to weak or repeated passwords. ProPass is a utility tool which generates and stores passwords so that you can put your mind to other important things, without worrying about your passwords and data security.  Top Features: Completely Offline ProPass works completely offline, protecting you from network-based attacks or sever side data breach. All your data is encrypted and stored on your device, keeping it safe.  Password Backup The app allows you to backup your passwords data in case you need to switch phones or platforms. This encrypted backup can then be imported into any app running ProPass with ease.  Easy to Use The app provides a modern and straightforward UI, helping you start using strong passwords instantly.  Password Generator The app uses an advance algorithm to generate strong and random passwords for your accounts. The app also allows you to customise the type of password to be generated (uppercase, lowercase, numbers, special symbols)  One Password to Rule them All The app uses a master password to protect all your data. No one can access your data without entering this password. But be aware: for security reasons we dont store this password anywhere, so keep it safe with yourself.  Cross-Platform Support ProPass works across Android and iOS, making it easy in case you need to switch phones/OS. Backup from any Android device can easily be imported into an iOS device and vice-versa. ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

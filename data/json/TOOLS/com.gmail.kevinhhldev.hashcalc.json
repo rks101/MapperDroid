@@ -1,0 +1,11 @@
+{
+"name" : "Hash Calc (Checksum Utility)",
+"url" : "https://play.google.com/store/apps/details?id=com.gmail.kevinhhldev.hashcalc",
+"package" : "com.gmail.kevinhhldev.hashcalc",
+"category" : "Tools",
+"description" : "Hash Calc is a tool for computing checksums of files and texts. After computation, the calculated hash values can be compared against other hashes for verifying data integrity.  Features::  Check all files within a directory, or even recursively over all its sub-directories.  A bookmark-tab for you to keep track of important results.  Export file checksums to text files, and compare exported text files to identify differences.  Fast, and efficient; optimized to process large files (ie. disk images).  Supported hash functions include the commonly used MD5, SHA-1, and SHA-2 (SHA-256, SHA-384, and SHA-512).  --Free with no ads--  Permission Requests::  Storage Reading ~ to process files and compute checksums (obviously!).  Storage Writing ~ to export results as plain text files. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

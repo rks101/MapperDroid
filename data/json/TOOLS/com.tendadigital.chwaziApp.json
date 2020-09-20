@@ -1,0 +1,11 @@
+{
+"name" : "Chwazi Finger Chooser",
+"url" : "https://play.google.com/store/apps/details?id=com.tendadigital.chwaziApp",
+"package" : "com.tendadigital.chwaziApp",
+"category" : "Tools",
+"description" : "First, setup the number of fingers that you desire to choose or how many groups you want to group, then place all your fingers on the screen and wait. Chwazi will make your choice automatically.  Chwazi is a funny and interactive way to randomly select someone from a group of people. It doesnt matter if the question is Who will pay the bill, Who will buy bread, Chwazi is the right choice.  Note that the maximum number of fingers supported by Chwazi is 32, however, the maximum accepted depends on each device. Usually, its around 5 to 10. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

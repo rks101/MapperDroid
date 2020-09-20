@@ -1,0 +1,11 @@
+{
+"name" : "Drug Scanner",
+"url" : "https://play.google.com/store/apps/details?id=com.esealed.antidigitaldruglite",
+"package" : "com.esealed.antidigitaldruglite",
+"category" : "Tools",
+"description" : "Digital Drugs Scanner:  Description: Digital drugs are more accurately called binaural beats. These are the sounds that are capable of changing brain wave patterns and inducing an altered state of consciousness. It is similar to real drugs that achieve a deep state of meditation.  Usage of digital drug must also be controlled as it is more dangerous for the kids and parents should have some control over the distribution and usage of these drugs.   This Anti-Digital Drug application helps you to scan all the audio files and identify any Digital drugs found in your device. You can delete those audio files from your device.   This application has following scan modes,  1. Full Scan- It is a detailed scan mode that analyzed each audio file using specialized algorithm for the confirmation of digital drug presence. 2. Quick Scan- It is a quick scan mode it only analyzes the basic parameters of digital drug for all audio files in the device.  This application will help to implement parental control for the safety betterment of their children. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.USE_CREDENTIALS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

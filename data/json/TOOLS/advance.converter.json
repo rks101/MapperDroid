@@ -1,0 +1,11 @@
+{
+"name" : "Advanced Unit Converter",
+"url" : "https://play.google.com/store/apps/details?id=advance.converter",
+"package" : "advance.converter",
+"category" : "Tools",
+"description" : "You may find it difficult to convert units by yourself, it is difficult do remember all conversion factors and it is also very time consuming.   Now no need to worry Advanced Unit Converter helps you to convert units in just a few clicks. This app has a very simple user interface which can be understood by anyone.  Now it Converts : * Angle * Area * Density * Digital Data * Electric Charge * Electric Current * Electric Resistance * Energy * Force * Length * Number System * Power * Pressure * Speed * Temperature * Time * Volume * Weight ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

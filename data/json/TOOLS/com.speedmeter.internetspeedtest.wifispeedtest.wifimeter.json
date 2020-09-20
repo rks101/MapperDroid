@@ -1,0 +1,11 @@
+{
+"name" : "Speed Test - Test Internet Speed and WiFi Speed",
+"url" : "https://play.google.com/store/apps/details?id=com.speedmeter.internetspeedtest.wifispeedtest.wifimeter",
+"package" : "com.speedmeter.internetspeedtest.wifispeedtest.wifimeter",
+"category" : "Tools",
+"description" : "Speed Test - Test Internet Speed and WiFi Speed helps you test Internet Speed and WiFi Speed on Android.  Speed Test - Test Internet Speed and WiFi Speed makes it easy to test your internet and WiFi speed and Speed Test results are presented in a user-friendly way.  Speed Test - Test Internet Speed and WiFi Speed is a simple internet speed meter.  Speed Test - Test Internet Speed and WiFi Speed will help you test internet speed of many mobile networks. you can easily get the information about your internet speed you need.   Speed Test - Test Internet Speed and WiFi Speed Features :  Test and check Internet speed and WiFi Speed.  Real-time network speed.  Test speed of Download, Upload and Ping.  Check internet speed.  Save the past results of Internet speed test automatically.  View History ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE']",
+}

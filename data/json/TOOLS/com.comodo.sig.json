@@ -1,0 +1,11 @@
+{
+"name" : "Cloud Based Web Filtering by Comodo SIG",
+"url" : "https://play.google.com/store/apps/details?id=com.comodo.sig",
+"package" : "com.comodo.sig",
+"category" : "Tools",
+"description" : "Comodo Secure Internet Gateway is a cloud-based DNS security solution that enables protection against web-based attacks and domain filtering. Comodo Secure Internet Gateway secures your device against all advanced threats regardless of where you are connecting the internet. Web security provided with Secure Internet Gateway will work seamlessly across 2G, 3G, 4G, LTE cellular networks and Wi-fi. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

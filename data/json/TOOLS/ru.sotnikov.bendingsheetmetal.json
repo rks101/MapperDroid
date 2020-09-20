@@ -1,0 +1,11 @@
+{
+"name" : "Bending Sheet Metal",
+"url" : "https://play.google.com/store/apps/details?id=ru.sotnikov.bendingsheetmetal",
+"package" : "ru.sotnikov.bendingsheetmetal",
+"category" : "Tools",
+"description" : "The calculator counts the the total flat length according to the K-factor you specify.  If you do not know the value of K-factor, then the program, determining the the total flat length, depending on the method of bending and stiffness of the material offers approximate values of the K-factor.  The program helps to easily calculate the real value of K-factor for your material, tool, tooling, technology. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

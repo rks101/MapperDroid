@@ -1,0 +1,11 @@
+{
+"name" : "Splashtop Add-on: LG",
+"url" : "https://play.google.com/store/apps/details?id=com.splashtop.streamer.platform.lge",
+"package" : "com.splashtop.streamer.platform.lge",
+"category" : "Tools",
+"description" : "This add-on enables remote control of a LG device through the Splashtop SOS app or Splashtop Streamer app by a technician using Splashtop Rugged & IoT Remote Support with proper commercial license required.   Using this add-on with Splashtop SOS: 1. Download and launch Splashtop On-Demand Support (SOS) app on your mobile device (https://play.google.com/store/apps/details?id=com.splashtop.sos) 2. Install the appropriate Add-on per the instructions in the SOS app 3. Share the session ID to your remote technician who will use their Splashtop Rugged & IoT Remote Support account to remotely access and control the device   Using this add-on with Splashtop Streamer: 1. Download and launch Splashtop Streamer app on your device (created and deployed from your Splashtop Remote Support account) 2. Install appropriate Add-on per the instructions in the Streamer app 3. Use the Splashtop Rugged & IoT Remote Support product that you obtained from Splashtop to remotely access and control the device. ",
+"desc_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.INJECT_EVENTS', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_SURFACE_FLINGER', 'android.permission.CAPTURE_AUDIO_OUTPUT', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_SURFACE_FLINGER', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.CAPTURE_AUDIO_OUTPUT', 'android.permission.INJECT_EVENTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECORD_AUDIO']",
+}

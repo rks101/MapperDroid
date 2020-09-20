@@ -1,0 +1,11 @@
+{
+"name" : "Time and Hours Calculator",
+"url" : "https://play.google.com/store/apps/details?id=timecalculator.geomehedeniuc.com.timecalc",
+"package" : "timecalculator.geomehedeniuc.com.timecalc",
+"category" : "Tools",
+"description" : "Time calculator allows you to add and subtract hours but also to divide and multiply hours by a given number. You can operate with hours, minutes and seconds.  Once a computation is completed by pressing Equals button, you will find the record in history. Also the history can be cleared at any time.   The app has two themes: Blue and Dark. Choose the one that best suits you.  You can use the button Now to introduce the current time in the calculator.  Any feedback is welcomed. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

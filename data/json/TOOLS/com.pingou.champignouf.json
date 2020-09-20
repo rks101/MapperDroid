@@ -1,0 +1,11 @@
+{
+"name" : "Mushroom Identify - Automatic picture recognition",
+"url" : "https://play.google.com/store/apps/details?id=com.pingou.champignouf",
+"package" : "com.pingou.champignouf",
+"category" : "Tools",
+"description" : "AUTOMATICALLY IDENTIFY MUSHROOMS FROM A PICTURE Its so easy! Take a picture and get an id in seconds! (this feature is still in development and will get better with time, for now it recognizes more than 900 species)  NEW: buy or sell your mushrooms!   Save places where you found mushrooms on a map. If you arent sure of the type of the mushroom in front of you, you can also check it with the app to identify the mushroom. If you still arent sure, check with a professional! Mushroom Identificator analyses the weather and temperatures of the last days and predict when it is time to go picking ceps/penny buns and Chanterelles! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'com.android.vending.CHECK_LICENSE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'com.android.vending.CHECK_LICENSE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Keypad Lock Screen",
+"url" : "https://play.google.com/store/apps/details?id=com.yadavapp.keypadlockscreen",
+"package" : "com.yadavapp.keypadlockscreen",
+"category" : "Tools",
+"description" : "Keypad Lock screen is one of the best parallax effect Lock For increased security  You have to just enable pin lock in settings in this application and create own password for unlock phone screen.  Features *Slide to unlock. *Enter pin to unlock. *A lot of beautiful wallpapers to choose *Choose Unlock Animation *Keypad Lock Screen also allows to use wallpaper from Your gallery *Unlock sound enable/disable. *Unlock vibration enable/disable. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.FOREGROUND_SERVICE', 'android.permission.EXPAND_STATUS_BAR', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.DISABLE_KEYGUARD', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_PHONE_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.DISABLE_KEYGUARD', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.EXPAND_STATUS_BAR', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

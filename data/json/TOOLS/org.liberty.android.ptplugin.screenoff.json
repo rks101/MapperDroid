@@ -1,0 +1,11 @@
+{
+"name" : "ScreenOff [Root, SmartLock]",
+"url" : "https://play.google.com/store/apps/details?id=org.liberty.android.ptplugin.screenoff",
+"package" : "org.liberty.android.ptplugin.screenoff",
+"category" : "Tools",
+"description" : "This app simulate the poweroff button click. It will turn off the screen as you click the poweroff button. Unlike most all other tools, it will work with the smart lock in Android 5.0+. So if your smart lock is unlocked. this app wont relock your phone like all other screen off apps.  This app requires root to send the power button event. Install the app, drag the icon to your home screen, click on the icon and confirm the root for the first time and power off button will be triggered.  This app is also a plugin for Power Toggles app.    The app is open-sourced under GPL : https://github.com/helloworld1/PTScreenOff ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_SUPERUSER']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.ACCESS_SUPERUSER']",
+}

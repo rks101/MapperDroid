@@ -1,0 +1,11 @@
+{
+"name" : "Launchify- Quick App Shortcuts",
+"url" : "https://play.google.com/store/apps/details?id=com.emberify.launchify",
+"package" : "com.emberify.launchify",
+"category" : "Tools",
+"description" : "Quick shortcuts for apps on your lock screen & notification bar!  Launchify provides you quick access to apps when you need them on your notification bar, lock screen(*4.4+) and even as a widget. Launchify recommends you the right app at the right time depending on the time, place and if youre driving! Multi-task on the go: you can now swap apps in just a swipe from your notification bar. Quick launch apps from your lock screen.  Launchify is not a launcher, it provides smart app shortcuts in your navigation bar and lock screen similar to a notification.  Featured on Google Play, The Next Web, Mashable, Gizmodo, Android Community & Product Hunt!  Enable lock screen notifications to get Launchify on the lock screen. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.CALL_PHONE', 'android.permission.READ_CONTACTS', 'android.permission.PACKAGE_USAGE_STATS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.gms.permission.ACTIVITY_RECOGNITION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_CONTACTS', 'com.android.vending.BILLING', 'android.permission.PACKAGE_USAGE_STATS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Shiny Chain",
+"url" : "https://play.google.com/store/apps/details?id=com.Downfall.ShinyChain",
+"package" : "com.Downfall.ShinyChain",
+"category" : "Tools",
+"description" : "With this application you will be able to take control of your shiny chain in an intuitive and effective way. It shows diverse data, very useful in your adventure, such as percentage of shinys, ivs and hidden ability, in each stage of the chain. Share your hunts with your friends!  FEATURES  Single counter to keep track of your shiny chain in Sun and Moon.  Double counter, if you also want to record how many PP has the opponent spent already. You will be able to know how many they have left. Prevent your enemy from using struggle and an unexpected end of the chain!  Useful data: - % shiny - % hidden ability - minimum maxIVs  Save the chain information when you are done to keep track of your achievements.  Languages: English, Spanish, German, Chinese, Japanese, Italian, Portuguese, French, Korean.  PRO VERSION  Game editions: Lets Go, Ultra Sun & Moon, Sun & Moon, Alpha & Omega, X & Y, Black & White.  No ads.  Register as many chains as you want.  Choose method, game edition and shiny charm option to customize the percentages in each case.  Twitter: https://twitter.com/ShinyChain ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING']",
+}

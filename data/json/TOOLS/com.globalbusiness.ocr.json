@@ -1,0 +1,11 @@
+{
+"name" : "Handwritten OCR",
+"url" : "https://play.google.com/store/apps/details?id=com.globalbusiness.ocr",
+"package" : "com.globalbusiness.ocr",
+"category" : "Tools",
+"description" : "Recognize handwritten text from notes, letters, essays, whiteboards, forms, and other sources. Be more productive by taking photos of handwritten notes instead of transcribing them. Handwritten OCR works with different surfaces and backgrounds, such as white paper, yellow sticky notes, and whiteboards. Only available for English text now. ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'com.globalbusiness.ocr.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_WIFI_STATE']",
+}

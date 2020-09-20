@@ -1,0 +1,11 @@
+{
+"name" : "Name Generator",
+"url" : "https://play.google.com/store/apps/details?id=com.nicknamegenerator.meteorrain",
+"package" : "com.nicknamegenerator.meteorrain",
+"category" : "Tools",
+"description" : "This is a random names generator. If you need create random name or fantasy name for games and registering in social networks - this application will help you! The app will help come up with a fake name, account name or baby name.  No need to think long and invent an interesting name - just click generate and created new name for you!  Features of the application: - Always create a random name. - You can select the number of letters in the name - Create random english name - Free name generator - Friendly interface - Fast and easy name generator - Possibility to copy generated name - Usernames generator - Generate multiple names - Rare name generation - Name maker  Create the best nickname for yourself!  This application is created for entertainment purposes and is not trying to offend anyone. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.SET_WALLPAPER', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.SEND_SMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SEND_SMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "File explorer - File Manager(Small and fully)",
+"url" : "https://play.google.com/store/apps/details?id=com.concise.filemanager",
+"package" : "com.concise.filemanager",
+"category" : "Tools",
+"description" : "The installation file is very small. File manager is a small and fully functional file manager and file explorer application.  Using this file manager, you can browse files by category, or by directory structure, and you can also search files. There are six categories in the category browsing, which are pictures, music, videos, documents, APKs and compression package. At the same time, file manager also has large files and the new files functions, showing large files and the new multimedia files in the phone. You can delete, copy and move files through file manager.  Category files is a fully functional and very small file manager, file explorer. The installation file is very small. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.WRITE_MEDIA_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_MEDIA_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+}

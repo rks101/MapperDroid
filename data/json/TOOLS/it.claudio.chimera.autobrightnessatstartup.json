@@ -1,0 +1,11 @@
+{
+"name" : "Auto Brightness at Startup",
+"url" : "https://play.google.com/store/apps/details?id=it.claudio.chimera.autobrightnessatstartup",
+"package" : "it.claudio.chimera.autobrightnessatstartup",
+"category" : "Tools",
+"description" : "This app sets the brightness to auto at mobile phone startup ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.CHANGE_CONFIGURATION', 'android.permission.WRITE_SETTINGS']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.CHANGE_CONFIGURATION']",
+}

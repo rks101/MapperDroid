@@ -1,0 +1,11 @@
+{
+"name" : "Fast Screen Locker : a plugin for X Launcher",
+"url" : "https://play.google.com/store/apps/details?id=com.ioslauncher.plugin.locker",
+"package" : "com.ioslauncher.plugin.locker",
+"category" : "Tools",
+"description" : "Fast Screen Locker is a plugin fo X Launcher and iLauncher, it is the easiest way to lock the screen. Simply double tap on the blank place of the Launcher, then turn off your screen without using the power button!   FAQ: 1) How to use Fast Screen Locker? 1. Install X Launcher or iLauncher under this account 2. Activate Device Administrator for Fast Screen Locker 3. Launch X Launcher and double tap on blank space  2) Where to find the double tap to lock screen feature in X Launcher? 1. Swipe up on launcher to enter Control Center, then enter launcher settings 2. Go to Launcher Settings > Locker > Double tap to lock screen  3) Why this feature released as a plugin? A separate plugin app designed for better permission handle, memory usage  4) How to uninstall Fas Screen Locker: 1. Go to System Settings > Security > Dev.Admin. 2. Deselect Fast Locker 3. Now you can uninstall it  ATTENTION: This plugin only use one permission Device Administrator permission, It is a very sensitive permission, please be note. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

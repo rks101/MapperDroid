@@ -1,0 +1,11 @@
+{
+"name" : "Mobile KD",
+"url" : "https://play.google.com/store/apps/details?id=com.ecartek.en.kd",
+"package" : "com.ecartek.en.kd",
+"category" : "Tools",
+"description" : "Mobile KD is assistant software of KD200 / KD900/KD-X2, its convenient for users to query remotes data. It also support account management, users can edit remotes data as they want. This software now support generating remotes and Chip clone. Please obey the law when edit the remotes data on the software, individual legal responsibility will be traced by users log account or address(KEYDIY). ",
+"desc_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.CHANGE_WIFI_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.WRITE_SETTINGS', 'android.permission.CHANGE_CONFIGURATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.READ_LOGS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.VIBRATE', 'android.permission.MANAGE_ACCOUNTS', 'android.hardware.usb.host', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.CHANGE_CONFIGURATION', 'android.permission.READ_LOGS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.hardware.usb.host', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

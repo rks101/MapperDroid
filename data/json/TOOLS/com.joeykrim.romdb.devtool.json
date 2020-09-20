@@ -1,0 +1,11 @@
+{
+"name" : "ROMDashboard Developer Tool",
+"url" : "https://play.google.com/store/apps/details?id=com.joeykrim.romdb.devtool",
+"package" : "com.joeykrim.romdb.devtool",
+"category" : "Tools",
+"description" : "**Only the developer can add this application to your ROM** ** If you want support, please direct your developer to https://www.romdashboard.com/ **  This application will not operate properly without support from the ROM developer.  Current Features: **Receive a developer provided welcome message after first boot **Receive battery and bandwidth efficient pushed developer announcements **Receive ROM update notifications  **Easily download ROM updates (including hash matching) **View all of a developers provided contact information (Twitter, Github, Links for Forum Profiles or Personal Web Site, etc) **Access important ROM specific information **View historic developer announcements ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.joeykrim.romdb.devtool.permission.C2D_MESSAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

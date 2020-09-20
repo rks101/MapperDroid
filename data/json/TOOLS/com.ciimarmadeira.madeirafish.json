@@ -1,0 +1,11 @@
+{
+"name" : "MadeiraFish",
+"url" : "https://play.google.com/store/apps/details?id=com.ciimarmadeira.madeirafish",
+"package" : "com.ciimarmadeira.madeirafish",
+"category" : "Tools",
+"description" : "The aim of this app is to provide detailed information on commercial marine species of Madeira, including fishes, crustaceans, and molluscs.  It features a short description of each species, its biology and habitat, seasonality and conservation status, as well as gastronomic and nutritional information. Common names are also provided in several languages (DE, DK, EN, ES, FI, FR, NL, PT and RU).  Information was collected from the scientific literature, FishBase, SeaLifeBase, FAO species identification guides, and Direco Regional de Pescas of Madeira, among other sources. A complete bibliography is provided. Current scientific names of species and classification followed the World Register of Marine Species (WoRMS).  Although we have made every effort to make sure that the information provided is accurate and up to date, please do not hesitate to contact us if you detect any mistakes or factual errors, or have any suggestions for improvement. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

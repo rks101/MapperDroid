@@ -1,0 +1,11 @@
+{
+"name" : "Digital Compass",
+"url" : "https://play.google.com/store/apps/details?id=com.vincentlee.compass",
+"package" : "com.vincentlee.compass",
+"category" : "Tools",
+"description" : "This is a high precision and insanely beautiful digital compass.  Useful features:  Latitude, longitude and address  Full-screen map  True heading and magnetic heading  Magnetic strength  Slope level meter  Sensor status  Caution!  Do not use the app with magnetic covers.  If you encounter a direction error, calibrate your phone by waving the device in a figure 8, two or three times.  Follow us on YouTube!  https://axmt.co/YouTube  Follow us on Facebook!  https://www.facebook.com/DigitalCompass.Android/   20152020 Axiomatic Inc. All rights reserved. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

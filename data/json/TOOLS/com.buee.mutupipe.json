@@ -1,0 +1,11 @@
+{
+"name" : "TubeRocket",
+"url" : "https://play.google.com/store/apps/details?id=com.buee.mutupipe",
+"package" : "com.buee.mutupipe",
+"category" : "Tools",
+"description" : "TubeRocket is an app which can help you to boost your YouTube video views.  Your video can be reached out by as much as people around the world with the TubeRocket.  You will get real views from real users more easily and quickly.  New users will receive 600 coins at the very beginning for free.   NOTICE:  TubeRocket is a 3rd party app.  TubeRocket does NOT offer the ability to buy views as it is against YouTubes policy. It is only a platform which allows your video to be viewed by people all over the world and they can watch those videos easily through the platform. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

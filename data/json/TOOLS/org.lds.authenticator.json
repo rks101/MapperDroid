@@ -1,0 +1,11 @@
+{
+"name" : "Church Authenticator",
+"url" : "https://play.google.com/store/apps/details?id=org.lds.authenticator",
+"package" : "org.lds.authenticator",
+"category" : "Tools",
+"description" : "Two-step verification is an additional security feature for your Church Account that helps prevent anyone from using your account, even if they know your password. When you sign in, you are prompted to verify your identity through a second step before gaining access.  Use Church Authenticator to grant approval by simply tapping a button on your phone. If cell coverage is not available, you can use a code found inside the app to sign in instead.  For convenience, Church Authenticator also supports generating codes for other sites. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.USE_FINGERPRINT', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

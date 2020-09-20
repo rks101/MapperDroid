@@ -1,0 +1,11 @@
+{
+"name" : "MyAlpha",
+"url" : "https://play.google.com/store/apps/details?id=kl.myscript",
+"package" : "kl.myscript",
+"category" : "Tools",
+"description" : "Only for those who needs extra fonts. You dont need this app if you use English only.   If you have a samsung galaxy, please use Fontomizer SP instead. You need to install MultiLing Keyboard MAKE SURE YOU ENABLE use MyAlpha font OPTION under MultiLing Settings  This font pack is also a simple editor/notepad, you can use it to compose short messages. Once done editing, you can send the message via other apps such as SMS, GMail, Twitter, Facebook, Google Docs and so on. These apps may show boxes but dont worry, your recipient should able to see it on a desktop machine.    | Georgian  | Armenian  | Uighur, Uyghur  | Urdu  | Pashto, Pushto   | Sindhi  | Dhivehi; Maldivian  | Tigrinya  | Amharic; Ethiopian  | Geez  | Awadhi  | Nepali  | Bihari  | Marathi (Marh)  | Sanskrit (Saskta) ,  | Hindi  | Assamese  | Bengali   | Bishnupriya Manipuri  | Panjabi, Punjabi  | Gujarati  | Oriya  | Tamil  | Telugu  | Kannada  | Malayalam  | Sinhala, Sinhalese  | Lao  | Tibetan Standard, Tibetan, Central  | Dzongkha , ,  | Khmer   | Cherokee  | Inuktitut  | Ojibwe, Ojibwa  | Cree  Nuosuhxop | Nuosu, Yi,  Baybayin Bugis, Ugi, Lontara Meetei Mayek Myanmar, Burmese Tifinagh Kayah Li Tai Le Jawa | Javanese Sunda | Sundanese Mongolian Manchurian ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.SEND_SMS', 'android.permission.INTERNET']",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

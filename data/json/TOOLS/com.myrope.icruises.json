@@ -1,0 +1,11 @@
+{
+"name" : "iCruise S",
+"url" : "https://play.google.com/store/apps/details?id=com.myrope.icruises",
+"package" : "com.myrope.icruises",
+"category" : "Tools",
+"description" : "iCruise S is a mobile application of GPS tracking system based on cloud server for the purpose of vehicle fleet managment, vehicle security, and vehicle dispatching etc. including the features such as: real-time tracking, useful daily reports, various kind of alerts, history playback and Geo-fence etc.. Are you still worried about the theft of cars? Are you still worried about the big jobs of fleet management? Dont worry, with this excellent application, drink your coffee at table feeling at ease. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WRITE_SETTINGS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.VIBRATE', 'com.myrope.icruises.permission.JPUSH_MESSAGE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.RECEIVE_USER_PRESENT', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.myrope.icruises.permission.JPUSH_MESSAGE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.RECEIVE_USER_PRESENT', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

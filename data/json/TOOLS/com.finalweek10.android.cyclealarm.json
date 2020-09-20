@@ -1,0 +1,11 @@
+{
+"name" : "[Deprecated] Cycle Timer - Customizable",
+"url" : "https://play.google.com/store/apps/details?id=com.finalweek10.android.cyclealarm",
+"package" : "com.finalweek10.android.cyclealarm",
+"category" : "Tools",
+"description" : "WARNING! You may want to use TimeR Machine(https://play.google.com/store/apps/details?id=io.github.deweyreed.timer.google) because  1. This app has been deprecated in favor of TimeR Machine. 2. This app will crash on Android Pie(9.0) or later and wont work on some third-party ROMs or Android Oreo(8.0) or later. Please use TimeR Machine which fixes this problem.  Congratulations! You just found a highly customizable countdown timer!   Only one timer is not always enough. Multiple or a series of timers are needed. To be precise, several timers with different lengths and loops.  This is Cycle Timers mission! It can automatically time, count and remind after started. Its best for work, cook, exercise, game, experiment and many other situations.  Features: 1. Customizable timer: A series of timers which can automatically time, remind and cycle. 2. Background mode: Reminds you even if the screen is off. 3. Multiple remind modes: You can decide if the reminding sound is played as an alarm or multi-media(just in headphones), even dont remind you at all. 4. Concise interface: Concise and easy to use (of course its Material Design). ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'com.android.launcher.permission.INSTALL_SHORTCUT', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

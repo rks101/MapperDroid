@@ -1,0 +1,11 @@
+{
+"name" : "Express App Locker Free",
+"url" : "https://play.google.com/store/apps/details?id=com.softmimo.android.applockerfree",
+"package" : "com.softmimo.android.applockerfree",
+"category" : "Tools",
+"description" : "Updated to work for Android Lollipop and above  With Express App Locker, you can easily and quickly protect your apps from unauthorized use by using a personal screen unlock pattern.  ---Feature list:---  Tap a button to lock multiple applications.  App is locked and protected by screen unlock pattern.  Multiple selection mode.  Upgrade notification.  Reminder in the notification bar.  Auto start  Optional system apps.   ---System requirements:--- -OS: Android v2.1 or above -Physical Resolution: 320x480(HVGA), 480x800(WVGA800), 480x854(WVGA854), 540x960, 800x600, 1024x600,1280x800 and other resolutions -Perfect for Android smart phone and tablet  ---Contact us:--- Provided by Frank Android Software @ http://www.softMiMo.com. Feel free to contact us via email. We have excellent support record and no question will be ignored. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.GET_TASKS', 'android.permission.RESTART_PACKAGES']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.RESTART_PACKAGES', 'android.permission.ACCESS_FINE_LOCATION']",
+}

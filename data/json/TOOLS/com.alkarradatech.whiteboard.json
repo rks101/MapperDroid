@@ -1,0 +1,11 @@
+{
+"name" : "White Board",
+"url" : "https://play.google.com/store/apps/details?id=com.alkarradatech.whiteboard",
+"package" : "com.alkarradatech.whiteboard",
+"category" : "Tools",
+"description" : "It is a simple application that you can use to create drawings on an entire blank with full screen area.  You can use several different drawing tools in the application. You can use the Pen tool, change the background color, the pen color and size that you specify for how the line appears in the drawing.  The application is greatly simplified and without complications, and we tried as much as possible to reduce the appearance of ads.  Whiteboard application can be used by all age groups and it does not require any permissions and does not require any of the features of accessing your personal files and information.  Application features *************************  Very simple and elegant design  You can choose the color of the pen  You can choose the pen size  You can choose the background color  Eraser to erase and correct a specific part of the drawing  Clear your screen in one click  Easy access to important menu functions  The whiteboard application is completely free application and does not need internet to work.  We hope you have fun with our whiteboard app. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.INTERNET', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY']",
+}

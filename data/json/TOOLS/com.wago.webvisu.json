@@ -1,0 +1,11 @@
+{
+"name" : "WAGO WebVisu",
+"url" : "https://play.google.com/store/apps/details?id=com.wago.webvisu",
+"package" : "com.wago.webvisu",
+"category" : "Tools",
+"description" : "The WAGO-WebVisu-App operates and monitors automation processes. It supports a wide range of applications in industrial and building automation. The app works exclusively with WAGO controllers from a defined firmware version.  Websites created with e!COCKPIT or CODESYS version 2 can be called up on site or on the road using the app to retrieve a system status or to perform an operation. This applies not only to newly created, but also to already created websites without further programming adjustments.  License Agreements By downloading the app, the WAGO license agreements are accepted (available via EULA and the support URL below).  Safety Information Please also note our safety instructions for Special Application Conditions for ETHERNET Devices in the WAGO controller manuals. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "C.M.I.",
+"url" : "https://play.google.com/store/apps/details?id=ta.cmi",
+"package" : "ta.cmi",
+"category" : "Tools",
+"description" : "With the C.M.I. App of Technische Alternative GmbH, you can access your C.M.I. quick and easy.  If after a C.M.I. Update the app does not work properly then you need to clear the cache (settings/delete CACHE). ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.launcher.permission.INSTALL_SHORTCUT', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Deleted Photo Recovery - Restore Deleted Photos",
+"url" : "https://play.google.com/store/apps/details?id=com.photo.recovery.deleted.image.recovery.restoredeletedpictures",
+"package" : "com.photo.recovery.deleted.image.recovery.restoredeletedpictures",
+"category" : "Tools",
+"description" : "Deleted Photo Recovery - Restore Deleted Photos help you easily recover deleted photos from your phone storage.   If you have lost any photos witch are very important, Deleted Photo Recovery - Restore Deleted Photos can help you find them.  If you think it is very difficulty to find best photo recovery app to restore Deleted Photos, Deleted Photo Recovery - Restore Deleted Photos can help you.  Just one click, All deleted photos you selected will be restored to your phone storage.   Deleted Photo Recovery - Restore Deleted Photos is Useful Photo Recovery tool which can find and recover deleted photos.   The Deleted photo recovery tool can help you restore your lost or deleted photos!   Features: - Restore photos from your phone storage  - Quickly recover deleted photos - Nice UI Design and Fast - Safe and Easy to recover lost photos  Note Deleted Photo Recovery - Restore Deleted Photos may show some pictures even if they are not deleted yet. But keep looking and you will find deleted photos you are looking for. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

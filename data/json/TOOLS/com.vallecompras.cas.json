@@ -1,0 +1,11 @@
+{
+"name" : "Caldroid CAS  Circuito acondicionador de señal",
+"url" : "https://play.google.com/store/apps/details?id=com.vallecompras.cas",
+"package" : "com.vallecompras.cas",
+"category" : "Tools",
+"description" : "Muestra el diseo detallado para el acondicionamiento de niveles de volatjes de seales usando amplificador operacional It shows the detailed design for the conditioning of signal volatile levels using operational amplifier ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'com.vallecompras.cas.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

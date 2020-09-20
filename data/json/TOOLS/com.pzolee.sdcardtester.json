@@ -1,0 +1,11 @@
+{
+"name" : "SD Card Test",
+"url" : "https://play.google.com/store/apps/details?id=com.pzolee.sdcardtester",
+"package" : "com.pzolee.sdcardtester",
+"category" : "Tools",
+"description" : "Use the best SD speed test tool! Test the speed of internal or external storage, sd card!  Highlighted features:  Measure the speed of your external (removable) SD card  Measure the speed of your internal storage or any disks  Read/write tests using several different combinations.  Show storage type: eMMC, UFS 2.0 and 2.1 or higher  Show class: Class 2, Class 4, Class 6, Class 10, UHS-I, UHS-II and UHS-III  Supporting several file systems like ext4, exFAT or FAT/FAT32.  Support portable and adoptable storage as well  Show storage details: free space, total space, mount options, device name  Supported memory cards: * Basically any sd cards: Micro SD, SDHC and SDXC * built-in memory (card)   Good to know:  If the sd card is formatted as adoptable storage, the app may unable to access it directly. In that case either move the app to the adoptable storage (change the install storage), or format the storage as portable storage.   Note: if you measure slow speed, this is not the fault of the app. This is the reality of your phone. Common reasons: fake sd card, slow sd card reader/hardware problems of the phone, software problems.  Easy to use even for beginners. Quick tests. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_CALL_LOG']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

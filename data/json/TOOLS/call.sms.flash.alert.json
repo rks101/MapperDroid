@@ -1,0 +1,11 @@
+{
+"name" : "Flash Alert : Call & Sms",
+"url" : "https://play.google.com/store/apps/details?id=call.sms.flash.alert",
+"package" : "call.sms.flash.alert",
+"category" : "Tools",
+"description" : "Flash Alert : Call & Sms will give you flash notification on incoming calls and text messages. The flash on call feature finally available for Android phones.   With this free app you will be able to answer any call quickly and avoid missing vital communications when you cannot hear your phone ringing.  Key Features :  + Flash Alert on Incoming Calls . + Blinking Flash on Sms Message . + Flash on notifications from : Viber, Facebook, Messenger, Instagram, Skype and Whatsapp . + Shake phone to disable Call light . + Silent mode to activate Led light and disable ringing .  Best ways to use Flash Alerts ?   + Hospitals or meeting or in silent zones . + When you are in a noisy area and wont hear your phone ring . + This app may also help you find your phone in dark . + Helps those who are hearing impaired .  This application use your camera led to make blinking flashes without keeping the app open all the time, so if you decide you no longer want your phone to use flash light, slide the button to off .   If you like Flash Alert : Call & Sms, please rate with 5 stars to support developers . ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.CAMERA', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.BROADCAST_STICKY', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_NOTIFICATION_POLICY', 'android.permission.WAKE_LOCK', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

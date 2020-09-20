@@ -1,0 +1,11 @@
+{
+"name" : "KONAMI OTP TOKEN (World Wide)",
+"url" : "https://play.google.com/store/apps/details?id=jp.konami.android.otp_token",
+"package" : "jp.konami.android.otp_token",
+"category" : "Tools",
+"description" : "This software token can be used for the KONAMI OTP (One-Time Password) Service.   In addition to this application,  - Acquisition of a KONAMI ID and confirmation of the receipt of an e-mail sent by Konami - Purchase of the Right to Use the software token are required for using the token for the OTP.  The KONAMI ID can be registered through the following link. https://my.konami.net/  For more information about the KONAMI ID, visit the following website. https://my.konami.net/konamiid.html  For more information about the KONAMI OTP, visit the following website. https://my.konami.net/otp.html  To see the Terms of Use on the KONAMI OTP Service, visit the following website. https://id.konami.net/help/otp/agreement/  * Add the URL of the Terms of Use Terms of Use on the KONAMI OTP Service https://my.konami.net/help/otp/agreement/  This is designed to reinforce the authentication of OTP-supported online services, with which the KONAMI ID is used. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+}

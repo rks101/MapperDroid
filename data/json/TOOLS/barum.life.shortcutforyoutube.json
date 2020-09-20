@@ -1,0 +1,11 @@
+{
+"name" : "Shortcut for YouTube",
+"url" : "https://play.google.com/store/apps/details?id=barum.life.shortcutforyoutube",
+"package" : "barum.life.shortcutforyoutube",
+"category" : "Tools",
+"description" : "How to create a YouTube shortcut on your home screen.  1. Launch the YouTube app. 2. Touch Share on the video. 3. Touch Create Shortcut. 4. Create a shortcut. 5. A shortcut of the YouTube video is created on the home screen.  You can also create shortcuts for YouTube channels and playlists. (Thumbnails are currently not supported for channels and playlists.)  Thank you. ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+"manifest_perms" : "['com.android.launcher.permission.INSTALL_SHORTCUT', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

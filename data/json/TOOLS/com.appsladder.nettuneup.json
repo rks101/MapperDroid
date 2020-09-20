@@ -1,0 +1,11 @@
+{
+"name" : "Net TuneUp",
+"url" : "https://play.google.com/store/apps/details?id=com.appsladder.nettuneup",
+"package" : "com.appsladder.nettuneup",
+"category" : "Tools",
+"description" : "Net TuneUp is all in one app to speed up wifi/data connection, monitor its usage and also to perform security testing of the connection.  Its main features: -> Network boost: It increases speed of wifi/data connection by killing other unwanted apps consuming the data in the background which also increases the battery life. -> Wifi/Data usage: You can set limit on wifi or mobile data usage with a single tap -> Security testing: Are you worried about security when connected to public wifi? Not anymore. Net TuneUp app tells you the vulnerabilities associated with the connected wifi connection. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.GET_PACKAGE_SIZE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.CLEAR_APP_CACHE', 'android.permission.INTERNET', 'android.permission.PACKAGE_USAGE_STATS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.PACKAGE_USAGE_STATS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

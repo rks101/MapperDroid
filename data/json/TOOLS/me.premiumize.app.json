@@ -1,0 +1,11 @@
+{
+"name" : "Premiumize.me",
+"url" : "https://play.google.com/store/apps/details?id=me.premiumize.app",
+"package" : "me.premiumize.app",
+"category" : "Tools",
+"description" : "*currently does not include a free service - needs a paid Premiumize.me membership!*  Premiumize.me lets you remotely download and collect files from the biggest file and video services of the world.  Features:  *Access and manage your cloud Easily browse and manage your cloud content on your phone just like you would on your desktop or browser.  *Super fast remote torrent and filehost downloads The app supports the main Premiumize features such as remote torrent downloads, and filehost grabbing.  *Magnet link handler:  Conveniently submit magnets to Premiumize by simply clicking on them  *Offline Mode Save files locally so you do not exhaust your data caps  *Darkmode You can change the color scheme to be more comfortable to the eyes ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

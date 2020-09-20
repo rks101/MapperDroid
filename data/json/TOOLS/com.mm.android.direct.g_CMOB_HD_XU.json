@@ -1,0 +1,11 @@
+{
+"name" : "gCMOB HD",
+"url" : "https://play.google.com/store/apps/details?id=com.mm.android.direct.g_CMOB_HD_XU",
+"package" : "com.mm.android.direct.g_CMOB_HD_XU",
+"category" : "Tools",
+"description" : "Android Surveillance Software gCMOB HD, allows user to monitor and control live streaming from Cameras And Video Encoders. Besides, Controlling Live View, it has some major features like Push Alarm, Video Playback, Invisible Task wheel, Finger Gesture, Windows Slide and so on as mentioned below:  - 16 Channel Preview. - 16 Channel Playback - Instant Playback  - Supports InstaOn-Instant Cloud Service for CP Plus DVR/NVR & IP Cameras. - Supports sliding feature to view next set of cameras - Supports digital zoom in live videos. - Push Video - Can control Relay outputs like switch Close/Open Doors. - Support PTZ controls - Remote Configuration of Device. - Switch to Main or Extra/Sub Stream in one click. - Supports Two Way Talk. - Create, Edit and View your Favorite cameras. - Basic health monitoring like HDD status etc - Supports E-map. ",
+"desc_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS', 'android.permission.USE_CREDENTIALS', 'android.permission.FLASHLIGHT', 'com.mm.android.direct.g_CMOB_HD_XU.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

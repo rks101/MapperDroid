@@ -1,0 +1,11 @@
+{
+"name" : "Shift Light pro",
+"url" : "https://play.google.com/store/apps/details?id=com.HealTech.Shift_Light_Pro",
+"package" : "com.HealTech.Shift_Light_Pro",
+"category" : "Tools",
+"description" : "Use this free application to control your Shift Light pro module from HealTech, through your Android device via Bluetooth. After installation, it does not use internet connection and its Ad-free.  Main features of the Shift Light pro module: 1. With true color SMD Power LED. Can be seen from the corner of your eye. 2. Flash rate, Duration, Brightness and Color are fully adjustable for up to 3 different RPM thresholds. 3. Can be programmed as a shift light for sport bikes and race cars, or as a low/optimal/high RPM range indicator for touring bikes and other vehicles. 4. Set up through your Android phone/tablet or a Windows PC via Bluetooth connection. Quick, easy and fun to use! Switch between saved profiles with a few taps. 5. The smallest shift light module in the world (30 x 20 x 13 mm). 6. One unit fits all motorcycles, ATVs, cars and other vehicles. 7. Rugged design, 100% waterproof. 2 year warranty.  The product is available from our distributors and dealers in most countries.  Please check out our website for other cool and useful products for your motorcycle. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

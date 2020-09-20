@@ -1,0 +1,11 @@
+{
+"name" : "XIM APEX Manager",
+"url" : "https://play.google.com/store/apps/details?id=com.xim5.manager",
+"package" : "com.xim5.manager",
+"category" : "Tools",
+"description" : "XIM APEX provides the highest precision mouse and keyboard (and more) experience on Xbox One, PlayStation 4, Xbox 360, and PlayStation 3. Unsurpassed by quality, ease-of-use, and flexibility, XIM APEX is the perfect companion to the even most demanding gamer.  XIM APEX empowers gamers with the state-of-the-art without bombarding them with unneeded complexity. Through XIMs unique Smart Translator technology, XIM APEX is able to provide unparalleled 1-to-1 aiming precision that consistently performs in every game you play. Its quick and easy to set up your preferred gaming environment though its wireless smartphone configuration tool. XIM APEX enables gamers to choose their preferred input devices that suit them best whether gaming at a desk or from a couch in the living room.  XIM APEX Manager is XIM APEXs configuration companion app.  To learn more, please visit: http://xim.tech ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.BLUETOOTH_ADMIN']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

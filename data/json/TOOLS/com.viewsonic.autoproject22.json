@@ -1,0 +1,11 @@
+{
+"name" : "ViewSonic AutoProject",
+"url" : "https://play.google.com/store/apps/details?id=com.viewsonic.autoproject22",
+"package" : "com.viewsonic.autoproject22",
+"category" : "Tools",
+"description" : "Users can broadcast any displayed content from Android mobile devices on the projectors or big screens wirelessly. And more contents from your clouds can be accessed for play. No matter in-meeting or in-class demonstrations, users can save time by enabling AutoProject App for every sharing without switching different Apps. The AutoProject App supports Android 5.0 or above version.  Format support:  Any displayed content from Android mobile devices  Compatible product: ViewSync series, ViewStick series ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'com.viewsonic.autoproject22', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.viewsonic.autoproject22']",
+}

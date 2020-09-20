@@ -1,0 +1,11 @@
+{
+"name" : "JUMPFLEX-ToGo",
+"url" : "https://play.google.com/store/apps/details?id=wago.jumpflex",
+"package" : "wago.jumpflex",
+"category" : "Tools",
+"description" : "The free app JUMPFLEX-ToGo brings the power of PC-based configuration software to your mobile device. Configure input and output parameters via a smart phone or tablet PC on an Android basis via a finger swipe for the transducer of the 857 series. Likewise, you can easily view the configuration data and the actual measured value. The WAGO Bluetooth adapter 750-921 will take over communications between your phone and transducer.   Apps were previously considered to be mere frivolities, they are currently developing more and more into really useful and productive tools. Particularly in light of the increasing decentralization - bringing automation components closer to the actual process  enormously simplify the serviceability of productive apps such as JUMPFLEX-ToGo.  A key feature of the app is a clear and user-driven operation. Configuring is now very easy due to the automatic module detection. Configuration data can also be stored as project on the SD card of the smart phone. Data of a JUMPFLEX module then can be easily transferred to other JUMPFLEX devices of the same type.    Briefly: - Automatic module detection - Visualization of process values - Uncomplicated communication via Bluetooth - Capability of storing the projects on an SD card - For Android devices from version 2.3 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Niko detector tool",
+"url" : "https://play.google.com/store/apps/details?id=com.gshare.servodan",
+"package" : "com.gshare.servodan",
+"category" : "Tools",
+"description" : "Niko detector tool  Niko detector tool is an app for configuration of Niko detectors. Thus you can configure detectors without any other auxiliary tools as computer, remote control or similar. It is quick and easy to configure daylight control, even though it includes advanced modes as multizone, day/night mode, several lighting scenarios etc.  Step by step guide  The Niko detector tool app gives you a completely new and user-friendly experience when configuring detectors. A wide range of solutions typical in your everyday work are defined in the app. Select the required option and then you will automatically be guided through the configuration step by step.  App secures uniform configuration During the configuration you can always customize the configuration according to specific needs and requirements. These customized settings can be stored in the app for later use. This ensures uniformity in configuration of several rooms, and subsequently facilitates preparation of the statutory documentation. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

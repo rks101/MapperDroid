@@ -1,0 +1,11 @@
+{
+"name" : "Quick QR Code Scanner",
+"url" : "https://play.google.com/store/apps/details?id=com.softdx.qrscanner",
+"package" : "com.softdx.qrscanner",
+"category" : "Tools",
+"description" : "Very fast QR code reader and bar code scanner.  Features :  * QR Codes and supports most Barcode * Support flashlight in the dark  Use easy How to:  If the location you want to scan a QR code or barcode on the screen, in square Quick QR Scanner automatically detects.  If you include a URL when you scan the QR code can be open when you click a link to open the linked site. And if that includes text can be immediately confirmed.  Text, URL, ISBN, products, contacts, calendars, email, location, Wi-Fi Automatically recognize the format.  Support Code: QR Code, Data Matrix, Quick Code, EQS, EAN8 / 13, Code39, Code128, Barcode, QRCode  This app has been developed based on ZXing library, Apache License 2.0. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.INTERACT_ACROSS_USERS_FULL', 'com.android.vending.BILLING', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.INTERACT_ACROSS_USERS_FULL', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

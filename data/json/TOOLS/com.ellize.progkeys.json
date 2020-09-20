@@ -1,0 +1,11 @@
+{
+"name" : "Programmers keyboard",
+"url" : "https://play.google.com/store/apps/details?id=com.ellize.progkeys",
+"package" : "com.ellize.progkeys",
+"category" : "Tools",
+"description" : "Programmers keyboard consist of 5 sets: - main set (regular keys qwerty...) - short qwerty -  - C/C++ - Java - Pascal - Python  Do not use the keyboard on phones!:) ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

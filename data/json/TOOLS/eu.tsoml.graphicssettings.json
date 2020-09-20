@@ -1,0 +1,11 @@
+{
+"name" : "GFX Tool for PUBG - Game Launcher & Optimizer",
+"url" : "https://play.google.com/store/apps/details?id=eu.tsoml.graphicssettings",
+"package" : "eu.tsoml.graphicssettings",
+"category" : "Tools",
+"description" : "GFX Tool is a free utility launcher for specific games where you can fully customize the game graphics to get beautiful pictures and smooth gameplay.  App features  Change resolution  Unlock HDR graphics and all FPS levels  Fully control Anti-aliasing and shadows  And much more other useful options  All game versions are supported.  How to use GFX Tool  Close game if its currently running before starting GFX Tool  Choose your version of your game  Customize the graphics according to your desires and device capabilities.  Once everything is set, click on Accept and Run Game  GFX Tool Official Website: https://gfxtool.app/  DISCLAIMER: This is an UNOFFICIAL application for PUBG. This application is not associated in any way with PUBG Corporation. All rights reserved. In accordance with https://developer.pubg.com/tos?locale=en  PUBG, PLAYERUNKNOWNS BATTLEGROUNDS and all related logos are trademarks of PUBG Corporation or its affiliates.  If you feel that we have violated your intellectual property rights or any other agreement, please contact us by e-mail tsoml.v17@gmail.com, we will immediately take the necessary measures. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

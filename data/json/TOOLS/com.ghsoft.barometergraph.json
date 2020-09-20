@@ -1,0 +1,11 @@
+{
+"name" : "Barometer Graph",
+"url" : "https://play.google.com/store/apps/details?id=com.ghsoft.barometergraph",
+"package" : "com.ghsoft.barometergraph",
+"category" : "Tools",
+"description" : "Barometer graph is a modern air pressure monitoring application offering advanced features.   - Accurate pressure reporting from your devices Barometer sensor - Convert to 14 different standard units - Adjustable running average to filter noisy data - Ability to record, review, save, share, and export data as CSV files - Zoom and pan live graph ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

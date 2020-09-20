@@ -1,0 +1,11 @@
+{
+"name" : "Mixing Station Wing",
+"url" : "https://play.google.com/store/apps/details?id=com.davidgiga1993.mixingstation.mg_wing",
+"package" : "com.davidgiga1993.mixingstation.mg_wing",
+"category" : "Tools",
+"description" : "This app allows you to remote control the Behringer WING digital mixer.   Features: - RTA overlay in PEQ /GEQ view - Peq preview in channel strip - High contrast mode for outdoor usage - Popgroups - Access to all FX and processing blocks - Create unlimited DCA groups (IDCAs) - Customizable layers, channel order and mutegroup labels - Up to 32 channels visible channels per layer - Much more :-)   Compatible mixer: - Behringer WING ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+}

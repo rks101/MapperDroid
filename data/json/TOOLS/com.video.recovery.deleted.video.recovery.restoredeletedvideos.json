@@ -1,0 +1,11 @@
+{
+"name" : "Deleted Video Recovery - Restore Deleted Videos",
+"url" : "https://play.google.com/store/apps/details?id=com.video.recovery.deleted.video.recovery.restoredeletedvideos",
+"package" : "com.video.recovery.deleted.video.recovery.restoredeletedvideos",
+"category" : "Tools",
+"description" : "Deleted Video Recovery - Restore Deleted Videos help you easily recover deleted videos from your phone storage.   if you have lost any videos witch are very important, Deleted Video Recovery - Restore Deleted Videos can help you find them.  if you think it is very difficulty to find best Video recovery app to restore Deleted Videos, Deleted Video Recovery - Restore Deleted Videos can help you.  Deleted Video Recovery - Restore Deleted Videos is a Useful Video Recovery tool which can find and recover deleted videos.   The Deleted Video Recovery tool can help you restore your lost or deleted videos!   Features: - Restore Videos from your phone storage  - Quickly recover deleted videos - Nice UI Design, Fast and Easy to use. - Safe to recover lost videos  Note Deleted Video Recovery - Restore Deleted Videos may show some videos even if they are not deleted yet. Just keep looking and you will find deleted videos you are looking for. ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

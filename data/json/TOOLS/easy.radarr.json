@@ -1,0 +1,11 @@
+{
+"name" : "Radarr & Sonarr Companion",
+"url" : "https://play.google.com/store/apps/details?id=easy.radarr",
+"package" : "easy.radarr",
+"category" : "Tools",
+"description" : "A simple app designed to help you by managing your movie & shows library and easily adding new stuff to your radarr/sonarr system.  * Browse your entire movie library, or just check most recents downloads. * Browse your shows library, check out what episode are coming and which where downloaded recently. * Add wanted movies with one tap * Add wanted shows with one tap (all seasons, last season or only future shows; your choice!) * Want to watch an old episode again? Add the one you want easily by browsing the show  This may seem obvious but this app needs a running Radarr/Sonarr server, you wont be able to do anything with it since the app is just an interface.  You like the app? A positive rating is always welcome! You dont like the app? Please get in touch and let me know what could be improved :-)  Please report any bug and feel free to send me improvements ideas.  Logo & splashscreen by Alex P. (@acryllect sur twitter) ! Check it out ! ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

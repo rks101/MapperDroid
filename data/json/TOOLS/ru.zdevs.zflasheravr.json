@@ -1,0 +1,11 @@
+{
+"name" : "ZFlasher AVR",
+"url" : "https://play.google.com/store/apps/details?id=ru.zdevs.zflasheravr",
+"package" : "ru.zdevs.zflasheravr",
+"category" : "Tools",
+"description" : "ZFlasher AVR - program for flash AVR microcontrollers. The application is based on avrdude - one of the best flasher.  Your device must support USB Host (OTG), otherwise the program will not work.  Program work checked with programmer: * USBasp * AVRISP mkII * USBtiny * STK500v2 * AVR109 * Arduino bootloader  !! Some devices may have problems with USB, if the device was turned on with the connected OTG. Remove OTG adapter before boot device!  Please write your wishes! Thank you for your attention. Good luck! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

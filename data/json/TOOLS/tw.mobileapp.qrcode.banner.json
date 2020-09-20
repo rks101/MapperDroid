@@ -1,0 +1,11 @@
+{
+"name" : "QR code reader & QR code Scanner",
+"url" : "https://play.google.com/store/apps/details?id=tw.mobileapp.qrcode.banner",
+"package" : "tw.mobileapp.qrcode.banner",
+"category" : "Tools",
+"description" : "Description  qr code reader and scanner / Barcode scanner / Barcode reader / QR code scanner free app is the lightning QR scanner app extreme for Android in the Google play store to scan QR code for Android device.  Key features of QR code reader / QR code scanner for android  free extreme QR code reader app  free lightning QR code scanner app.  free Barcode scanner app  free Barcode reader app  Simple user guide as following:  To scan the QR code / Barcode , simply open the QR code scanner / Barcode scanner app free, align the code. QR scanner / Barcode scanner app free will automatically recognize any QR code. To scan QR code / flashcode, if the code contains a URL, you can open browser to the site by press browser button . If the code contains only text, you can instantly see.  Scan QR code for below types : EQS  qrcode Data MatrixQuick CodeEAN8Code39 Code128  Barcode , flashcode ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET']",
+}

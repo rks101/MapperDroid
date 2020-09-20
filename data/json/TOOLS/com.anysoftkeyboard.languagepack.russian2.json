@@ -1,0 +1,11 @@
+{
+"name" : "Russian for AnySoftKeyboard",
+"url" : "https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.russian2",
+"package" : "com.anysoftkeyboard.languagepack.russian2",
+"category" : "Tools",
+"description" : "This is a Cyrillic expansion pack for AnySoftKeyboard. Install AnySoftKeyboard first, and then select the desired layout from AnySoftKeyboards Settings->Keyboards menu.  This pack contains Cyrillic and phonetic Russian keyboard layouts, physical keyboard mapping and dictionary.  Search for AnySoftKeyboard on Google Play.  . .  https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

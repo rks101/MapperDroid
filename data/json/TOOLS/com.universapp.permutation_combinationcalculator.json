@@ -1,0 +1,11 @@
+{
+"name" : "Permutation - Combination Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.universapp.permutation_combinationcalculator",
+"package" : "com.universapp.permutation_combinationcalculator",
+"category" : "Tools",
+"description" : "Permutation - Combination Calculator is a convenient tool that helps you calculate permutations and combinations with or without repetitions. The results can be used for studying, researching or any other purposes.  - Feature: + Lightweight and works fast: uses smart algorithms for calculating and converting the result to string, able to calculate large numbers in a very short time. + Shows result numbers in scientific notation format (exponential form) or shows digits fully. You can change the minimum format number on Settings. The result that is less than this minimum will be displayed fully digits. + Instant run: when you fill in 2 fields (n and r) fully, the results will appear simultaneously as you type. + Able to copy output. + Nice and modern interface, allow choosing light theme or dark theme. + Simple and easy to use.  Please feel free to email us at universappteam@gmail.com to send feedback or help us translate the app.  Wish it would help your work!  Permutation - Combination Calculator - Developed by Universapp ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

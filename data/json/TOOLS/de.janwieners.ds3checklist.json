@@ -1,0 +1,11 @@
+{
+"name" : "Checklist for Dark Souls 3",
+"url" : "https://play.google.com/store/apps/details?id=de.janwieners.ds3checklist",
+"package" : "de.janwieners.ds3checklist",
+"category" : "Tools",
+"description" : "[Please note: Unfortunately, the checklist doesnt run on older Android-Systems (<4.4)!]  Checklist to collect all Gestures, Wonders, Pyromancies, Rings and Sorceries in Dark Souls 3.  Thats how it works:  - Tap an item to save it to your list of collected items - Hold an item to start a Google-search for the item - Tap the eye symbol to show / hide already collected items ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Auto Bluetooth",
+"url" : "https://play.google.com/store/apps/details?id=com.solarwoodenrobot.autobluetooth",
+"package" : "com.solarwoodenrobot.autobluetooth",
+"category" : "Tools",
+"description" : "Auto-Bluetooth automatically turns on Bluetooth based upon your settings:  * Incoming call * Outgoing call * Phone charging * On a Timer (e.g. Every 3, 5, 10 or 15 mins)   It will then turn off Bluetooth based on your settings:  * When the call ends * When the Bluetooth connection is lost * Do not disable Bluetooth  Also included is the ability to auto answer call and specify specific Bluetooth devices to speed up connection  This app is particularly useful for when driving a car where you have forgotten to turn on Bluetooth for your in-car connection.   It will also save your battery as you dont need to keep your Bluetooth on all the time. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ANSWER_PHONE_CALLS', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.FOREGROUND_SERVICE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ANSWER_PHONE_CALLS', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Kmh Counter (Speedometer)",
+"url" : "https://play.google.com/store/apps/details?id=com.firitools.firitools.kmhfiritools",
+"package" : "com.firitools.firitools.kmhfiritools",
+"category" : "Tools",
+"description" : "Simply shows the current speed and counts total kilometers during the trip.  Show max and average trip speed. Save trip history after closing app (or pressing reset trip). Export trips history spreadsheet to Google Drive/WhatsApp/Gmail and more. Show total trip time. Pause/resume trip.  * A very accurate speedometer *  * Keeps counting kilometers and time on background while listening for music or using other apps *  * Simply view trips history later and share it as an Excel file* ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Graco BlueLink",
+"url" : "https://play.google.com/store/apps/details?id=com.graco.sprayer",
+"package" : "com.graco.sprayer",
+"category" : "Tools",
+"description" : "BlueLink connects the people and equipment that drive your business in a completely new way. BlueLink pairs a powerful mobile app with Bluetooth-enabled Graco sprayers to provide jobsite and sprayer information in real-time.   Whether on the jobsite, at the office, or anywhere in between, BlueLink provides the critical information you need to improve the way you manage your business. The app is free to use and does not offer in-app purchases.  Create a free account in the app to experience the full benefits of BlueLink:  Painters on the Job  Easily view live sprayer performance on your phone  Enter daily job & maintenance   Faster service from Graco  Managers on the Go  See where your sprayers are  Know job productivity from anywhere  Manage paint and supply deliveries for your crew  Verify estimated profits with historical job data ",
+"desc_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

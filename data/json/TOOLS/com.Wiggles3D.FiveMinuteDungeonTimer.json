@@ -1,0 +1,11 @@
+{
+"name" : "Five Minute Dungeon Timer",
+"url" : "https://play.google.com/store/apps/details?id=com.Wiggles3D.FiveMinuteDungeonTimer",
+"package" : "com.Wiggles3D.FiveMinuteDungeonTimer",
+"category" : "Tools",
+"description" : "The 5-Minute Dungeon Timer App is designed to be used with the 5-Minute Dungeon board game. It displays the time remaining in the round and announces when the timer hits certain milestones, leaving players free to focus on playing the game. With five narrator options to choose from, youll find this app to be the perfect companion to your 5-Minute Dungeon game! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

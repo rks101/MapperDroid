@@ -1,0 +1,11 @@
+{
+"name" : "XML Editor",
+"url" : "https://play.google.com/store/apps/details?id=com.lapay.xmleditor",
+"package" : "com.lapay.xmleditor",
+"category" : "Tools",
+"description" : "The application is designed for viewing and editing .xml, .html and other text files. Implemented the opportunity of the editing by two ways: by rows and page by page.  Implemented: 1) the ability to open files in different encodings; 2) auto-detect encodigs:  KOI8-R  MACCYRILLIC  IBM866  IBM855  WINDOWS-1251  WINDOWS-1252  WINDOWS-1253  WINDOWS-1255  ISO-8859-5  ISO-8859-7  ISO-8859-8  ISO-2022-CN  ISO-2022-JP  ISO-2022-KR  BIG-5  UTF-8  UTF-16BE | UTF-16LE  UTF-32BE | UTF-32LE 3) saving file with selected encoding; 4) creation of the new (buffer) document; 5) open a file from another application; 6) preview of the .FB2 file; 7) sending a file (with applications: Google drive, mail...); 8) copying document in the application folder XML Editor (for Android 4.4 or above); 9) find/change text dialog (menu). ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.SEND_SMS']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

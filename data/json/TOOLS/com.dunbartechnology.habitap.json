@@ -1,0 +1,11 @@
+{
+"name" : "HabiTap - Auto Clicker No Root Automatic Tapping",
+"url" : "https://play.google.com/store/apps/details?id=com.dunbartechnology.habitap",
+"package" : "com.dunbartechnology.habitap",
+"category" : "Tools",
+"description" : "THIS APP ONLY WORKS ON ANDROID 7 AND HIGHER. THIS IS OUT OF OUR CONTROL, OLDER ANDROID PHONES DO NOT SUPPORT NO-ROOT METHOD.  HabiTap is an automatic clicker (auto clicker) that can tap a point on your screen repeatedly, designed for people suffering from disabilities such as carpal tunnel syndrome and partial paralysis of the hand and arm where repeated tapping on the screen is necessary and difficult to accomplish. Features:  Automatic Multi-point Recorder Record different positions to automatically tap (auto click) in your favorite apps and games.  Single-point Tap Tap in a single spot repeatedly at a speed you can set.  Dual-point Tap Tap in two spots repeatedly at a speed you can set.  No-Root, Ad-Free This app does not require root. It has no ads, and is completely free to use. It only works with Android 7 (Nougat) devices and higher, and does not require your device to be rooted. It works on 90% of apps and games on the market, as well as on the basic android system. There is an optional in-app upgrade to HabiTap pro which allows dual pointer mode.  Is it your habit to tap? Then get HabiTap today... ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.SYSTEM_ALERT_WINDOW']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

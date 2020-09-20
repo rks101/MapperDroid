@@ -1,0 +1,11 @@
+{
+"name" : "Camera Sound off! (root)",
+"url" : "https://play.google.com/store/apps/details?id=de.akirilow.tool.cso",
+"package" : "de.akirilow.tool.cso",
+"category" : "Tools",
+"description" : "Turn off the annoying phone camera sound of your default Android camera! Finally succeed snapshots of animals or babies without scaring them!  Please note ... * This app requires ROOT privileges on the device. * It is the first BETA version of the app. * Some devices are not yet supported. * It also can disable S-Pen sound.  Therefore, I ask for help. If the app should not be able to turn off the camera sound on your device, so please send me a comment / email with your device name and the version of Android and I will fix the problem asap. Thank you! :-)  Works on all devices by ... *Samsung *Nexus *Motorola *Sony Ericsson  Dont work on some devices by ... *LG (The LGs camera app has own not removable sound files!) *Alcatel *Micromax ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE']",
+}

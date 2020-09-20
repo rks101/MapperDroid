@@ -1,0 +1,11 @@
+{
+"name" : "App Backup - Easy and Fast! Support "SD card"!",
+"url" : "https://play.google.com/store/apps/details?id=com.colure.app.ibu",
+"package" : "com.colure.app.ibu",
+"category" : "Tools",
+"description" : "Support SD card!  Set app save location to any folder on SD card and phone storage.  Backup your installed applications.  Save as an installation file to your sdcard or share to your online storage or contacts.  This is an easy, fast, elegant tool for you. Hope you like it ;-)  - Batch backup, install, uninstall applications. - Download installation files via your desktop browser. - Backup your installation files to SD Card (support all devices).  --- Help --- Where is the installation file archived? A:The files are stored on sdcard ibu/backup folder. You can download them all via your browser ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.REQUEST_DELETE_PACKAGES', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.REQUEST_DELETE_PACKAGES', 'android.permission.ACCESS_FINE_LOCATION']",
+}

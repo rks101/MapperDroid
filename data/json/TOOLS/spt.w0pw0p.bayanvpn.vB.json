@@ -1,0 +1,11 @@
+{
+"name" : "VPN ng Bayan Official",
+"url" : "https://play.google.com/store/apps/details?id=spt.w0pw0p.bayanvpn.vB",
+"package" : "spt.w0pw0p.bayanvpn.vB",
+"category" : "Tools",
+"description" : "Your online security is our outmost priority.  Vision:  We envision to be one of the leading VPN in the country that offers affordable services, ensures clients privacy in the web and gives opportunities for aspiring online entrepreneurs.  Mission:  To provide excellent VPN services, 24/7 online support, and business opportunities.  Values:  - Security is our utmost priority - Extend online opportunities - Provide excellent services  Official Website: https://vpnngbayan.net  Follow us on Facebook:   Facebook Page: https://www.facebook.com/vpnngbayan/ Facebook Group: https://www.facebook.com/groups/vpnngbayan1/  By: Christine Tiu ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

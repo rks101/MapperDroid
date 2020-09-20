@@ -1,0 +1,11 @@
+{
+"name" : "Simple Counter",
+"url" : "https://play.google.com/store/apps/details?id=com.kimo.simpleCounter",
+"package" : "com.kimo.simpleCounter",
+"category" : "Tools",
+"description" : "Simple Counter is just another numeric counter. By using app controls, user can increase or decrease the counter. Also speech and vibration features are available. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

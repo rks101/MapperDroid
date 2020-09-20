@@ -1,0 +1,11 @@
+{
+"name" : "Calculator of number systems. Converter. Decision",
+"url" : "https://play.google.com/store/apps/details?id=ru.sandello.binaryconverter",
+"package" : "ru.sandello.binaryconverter",
+"category" : "Tools",
+"description" : "Simple and intuitive to use converter and calculator of number systems with a complete solution and decimal fractions  Fast transfer from one number system to another (from 2 to 36) with support for decimal fractions Ability to perform mathematical operations: addition, subtraction, multiplication, division  Binary calculator, ternary calculator, octal calculator, decimal calculator, hexadecimal calculator. Translation of binary systems. BIN, OCT, DEC, HEX  Complete translation solution   Intuitive interface Modern minimal design Dark theme ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

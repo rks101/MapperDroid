@@ -1,0 +1,11 @@
+{
+"name" : "PotatoNotes",
+"url" : "https://play.google.com/store/apps/details?id=com.potatoproject.notes",
+"package" : "com.potatoproject.notes",
+"category" : "Tools",
+"description" : "POSP official notes application, written in flutter, beautiful, fast and secure.  Main features: - Online sync - List/grid view for notes - Multiple note extras, such as lists, images and remainders - Lock notes with a pin or password for hiding them on main menu - Search notes for content/title with various filters - Complete theme personalization - Archive and trash for notes - Offline backup/restore functionality  The app is also completely open source! Propose changes, open issues and clone the code from https://github.com/HrX03/PotatoNotes.  If you wanna get the latest news, be sure to join the telegram channel on t.me/potatonotesnews, instead if you want to chat join the group t.me/potatonotes ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

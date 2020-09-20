@@ -1,0 +1,11 @@
+{
+"name" : "Centinela Universal(Turnos)",
+"url" : "https://play.google.com/store/apps/details?id=com.hersonviverosuniversaltechnology.centinelauniversal",
+"package" : "com.hersonviverosuniversaltechnology.centinelauniversal",
+"category" : "Tools",
+"description" : "Sencillamente esta aplicacin esta hecha para personas que realizan cuentas de turnos difciles en sus horarios de trabajo. Simply this application is made for people who perform difficult shift accounts in their work schedules. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Caldroid Analisis Transistor Bjt, Mosfet, Jfet",
+"url" : "https://play.google.com/store/apps/details?id=com.caldroid.bjt",
+"package" : "com.caldroid.bjt",
+"category" : "Tools",
+"description" : "Con esta App podrs hacer el anlisis DC de transistores Bjt, Jfet, y Mosfet (incremental y decremental); ver la grfica del punto Q en tiempo real como tambin el procedimiento detallado paso a paso del anlisis del circuito.  El anlisis de transistores es experiencia educativa y formativa que deben tener todos los entusiastas, Estudiantes y amantes de la electrnica. para el anlisis se usan las leyes de Kirchhoff para el anlisis de mallas y la Ley de Shockley para transistores incremental y decremental. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.caldroid.bjt.permission.C2D_MESSAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.SEND_SMS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.SEND_SMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

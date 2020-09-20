@@ -1,0 +1,11 @@
+{
+"name" : "Video Compressor and Cutter",
+"url" : "https://play.google.com/store/apps/details?id=es.com.leonweb.videocompresor",
+"package" : "es.com.leonweb.videocompresor",
+"category" : "Tools",
+"description" : "Compress and cut videos in many formats: mp4, avi, webm, 3gp, mov, wmv, mkv, etc. The videos are compressed to the mp4 format. If they are only trimmed, they will remain in their original format. Very useful if you want to share a video and it takes a lot to reduce its size. You can trim the video without compressing it, this way you will have the video ready in a few seconds. The compression progress is monitored in a notification. Access to all compressed videos with the possibility to open, share, delete or rename.  The application requires the read and write permission in external storage to be able to read and write the compressed videos. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

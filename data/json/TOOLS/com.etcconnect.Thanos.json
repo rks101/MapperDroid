@@ -1,0 +1,11 @@
+{
+"name" : "MyETC: Photometrics",
+"url" : "https://play.google.com/store/apps/details?id=com.etcconnect.Thanos",
+"package" : "com.etcconnect.Thanos",
+"category" : "Tools",
+"description" : "The MyETC: Photometrics app helps you estimate how an ETC luminaire will perform on stage by providing dynamic photometric data.   MyETC: Photometrics pulls photometry from across a fixture product line and combines it into an intuitive app for all your design and fixture comparison needs.   Designers, specifiers, and lighting enthusiasts can easily configure and display customized photometrics for each fixture in any color, compare products, and save favorites. Full gel libraries are included with DMX and full spectral values so you can easily reproduce any gel color youve used in the past. Select any ETC fixture and its array and quickly get condensed datasheet information.   Meet your new swatchbook in the MyETC: Photmetrics app. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

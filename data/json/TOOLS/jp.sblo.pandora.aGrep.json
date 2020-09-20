@@ -1,0 +1,11 @@
+{
+"name" : "aGrep",
+"url" : "https://play.google.com/store/apps/details?id=jp.sblo.pandora.aGrep",
+"package" : "jp.sblo.pandora.aGrep",
+"category" : "Tools",
+"description" : "aGrep is a open-source text search program like a grep.  aGrep can ... -search text from text files in the SDcard. -supports Regular Expression. -be started by SEARCH-intent. -view the result by filename,line-number and content. -have a internal text viewer. -auto-detect multi char-code.  This application is not for searching in System Directoies.  If you found something mail me or tweet me @jiro_aqua ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+}

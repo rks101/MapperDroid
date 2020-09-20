@@ -1,0 +1,11 @@
+{
+"name" : "Smart Camera Start",
+"url" : "https://play.google.com/store/apps/details?id=com.kuma.autocamstart",
+"package" : "com.kuma.autocamstart",
+"category" : "Tools",
+"description" : "Fast launch of camera app Rotate your phone to landscape position for launching of default camera app Start then camera app by clicking on the button or with volume down key on mobile You can start it from any screen or from home screen only Only for phones or tablets with accelerator sensor ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.FOREGROUND_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.CAMERA']",
+}

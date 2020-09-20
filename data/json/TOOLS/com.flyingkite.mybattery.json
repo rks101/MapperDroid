@@ -1,0 +1,11 @@
+{
+"name" : "Flyingkite 的電池 App",
+"url" : "https://play.google.com/store/apps/details?id=com.flyingkite.mybattery",
+"package" : "com.flyingkite.mybattery",
+"category" : "Tools",
+"description" : "      >  >   App      Battery information notification bar, wave the switch screen, click the button to switch the vibration volume  In order to reach the wave, you can close the screen. This app requires device administrator privileges. You can find the settings for this app in Settings > Security > Device Manager.  If you just want to check the batterys temperature, battery, voltage, wave on the screen It is not necessary to use device administrator privileges. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

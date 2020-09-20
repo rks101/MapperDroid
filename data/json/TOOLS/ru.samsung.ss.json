@@ -1,0 +1,11 @@
+{
+"name" : "Numeral Systems: Calculator + Converter",
+"url" : "https://play.google.com/store/apps/details?id=ru.samsung.ss",
+"package" : "ru.samsung.ss",
+"category" : "Tools",
+"description" : "NumConverter + is the application for the convertation of numbers from one numeral system to another, as well as to calculate the sum, subtract, division and multiplication of two different numbers with different base numeral systems.  Advantages: -Convertation of numbers with numeral systems from 2 to 36 base inclusive; -Fractional numbers; -Negative numbers; -Full solution example of integer and fractional numbers; -Math operations: addition, subtraction, division, multiplication of any number with any base. -Material Design; -Easy and intuitive interface; -Nine themes; ",
+"desc_perms" : "[]",
+"manifest_perms" : "['ru.samsung.ss.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

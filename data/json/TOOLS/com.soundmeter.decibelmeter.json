@@ -1,0 +1,11 @@
+{
+"name" : "Sound Meter decibel",
+"url" : "https://play.google.com/store/apps/details?id=com.soundmeter.decibelmeter",
+"package" : "com.soundmeter.decibelmeter",
+"category" : "Tools",
+"description" : " A convenient and fast sound meter on Android will help to check the noise level in decibels   The noise detector is useful for speakers (to find out the sound level) or to check the sound insulation of a car. Perhaps you have noisy neighbors, then with the help of a sound meter, you can find out if the noise level exceeds the permissible norms.   FEATURES AND OPPORTUNITIES:   Sound meter decibel for free  Checking the noise level in decibels with noise meter app Ability to measure sound volume in the range up to 100 dB  Calibration of sound level measurements  Spectral analyzer with decibel detector reader  Sound pressure level meter  Fixation of maximum, average and minimum results of the noise meter  Decibel tester tracker  Sound decibel meter app  Sound Meter decibel  Sound measuring app    Important * The sound level meter does not replace your professional device, its functionality is limited by the capabilities of the microphone of your device. This sound meter is well suited for amateur use.   The app requires access to the microphone ",
+"desc_perms" : "['android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

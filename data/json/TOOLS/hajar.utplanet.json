@@ -1,0 +1,11 @@
+{
+"name" : "UT planeT",
+"url" : "https://play.google.com/store/apps/details?id=hajar.utplanet",
+"package" : "hajar.utplanet",
+"category" : "Tools",
+"description" : "This application mainly divided into six major parts, which fulfill basic requirement of new UT technicians and advanced UT operators, as per industrial applications,  1. Glossary part covers possible welding defects, casting defects along with UT, PAUT basic definitions,  2. Theory part covers basic knowledge of conventional ultrasound, advanced ultrasound specially AUT zonal description, PAUT technical advantages and TOFD potential benefits,  3. Ultrasound calculations part covers, all the conventional UT calculations with very good user interface design, (basic explanation towards corresponding calculation),  4. Formulas part mainly focus on all the formulas which we come across conventional UT and TOFD,   5. Sample interpreted defects part having defect data which was collected from various real projects, this part really useful for learning operators and some cases it acts like reference defects, specially TOFD and AUT (in AUT and UT part there is explanation for every defect )  6. Other part covers very useful information specially on UT checks for new UT technicians, Codes and Standards for Level III persons, UT operators (Procedure preparation), interaction rules for critical applications and material velocities for reference,    Finally I would like to inform you all that, I am just AUT supervisor / Technician like (you) or other UT Operator, this application made by personnel interest on UT, I am sure it would be helpful in some point of your NDT journey, ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

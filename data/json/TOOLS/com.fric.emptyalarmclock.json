@@ -1,0 +1,11 @@
+{
+"name" : "Empty Alarm Clock",
+"url" : "https://play.google.com/store/apps/details?id=com.fric.emptyalarmclock",
+"package" : "com.fric.emptyalarmclock",
+"category" : "Tools",
+"description" : "Test app. This app is strictly for test purposes by the developer. It isnt supposed to be used by the public, and, while functional, has a lot of inconsistencies in the labeling and theme, and is also missing some media files.  Second paragraph to see how the Full Description looks in Invites. We can tell how well it will be displayed soon.  Heres another paragraph to see how things look. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

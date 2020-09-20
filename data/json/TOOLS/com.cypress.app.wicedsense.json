@@ -1,0 +1,11 @@
+{
+"name" : "WICED Sense",
+"url" : "https://play.google.com/store/apps/details?id=com.cypress.app.wicedsense",
+"package" : "com.cypress.app.wicedsense",
+"category" : "Tools",
+"description" : "Cypresss WICED Sense for Android is the client application for Cypresss WICED Sense development TAG.  The WICED Sense TAG is made up of the CYW20737 Bluetooth Low Energy SoC and five sensors: gyroscope, accelerometer, eCompass, pressure, and humidity/temperature. The CYW20737 connects directly to the sensors without the need for an external microprocessor.  WICED Sense for Android displays the real-time data from the sensors on the TAG. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+}

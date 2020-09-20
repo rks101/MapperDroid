@@ -1,0 +1,11 @@
+{
+"name" : "Voltage Regulator",
+"url" : "https://play.google.com/store/apps/details?id=com.peterhohsy.regulator",
+"package" : "com.peterhohsy.regulator",
+"category" : "Tools",
+"description" : "Adjustable voltage regulator is a device to produce steady voltage by adjusting resistors. It is very common used in electronic projects for hobbyist, electronic engineers.  Features * To find out combinations of 2 resistors making a desired output voltage * Calculate resistor values / output voltage * Export result to a CSV file  Features in PRO version only * Calculate thermal resistance of heatsink  * No Ads * No limitation  Pro version https://play.google.com/store/apps/details?id=com.peterhohsy.regulatorpro  Note : 1. For those who need support please email to the designated email. Do NOT use either the feedback area to write questions, it is not appropriate and that is not guaranteed that can read them. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

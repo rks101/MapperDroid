@@ -1,0 +1,11 @@
+{
+"name" : "Docx Reader - Word, Document, Office Reader - 2020",
+"url" : "https://play.google.com/store/apps/details?id=com.skydot.docxreader.docx.docxviewer.document.doc.office.viewer.reader.word",
+"package" : "com.skydot.docxreader.docx.docxviewer.document.doc.office.viewer.reader.word",
+"category" : "Tools",
+"description" : "Docx Reader is a fast way of reading Word documents on your device. It supports viewing of Word files. You can browse through all of your Doc/Docx files in one single place   MAIN FEATURES   Simple Interface: Read any Docx file with a simple and elegant reader screen which has the essential controls.   Easy Navigation: Go through the Word file with essential navigations like going to a given page, etc.   Browse all Word files: The app lists all the Word files in your device in a single place so that you can easily scroll through it.   Search the List: Quickly find any desired file with the simple search option.   Essential Options: The Docx Viewer app comes with all the necessary options like Renaming, Deleting, Sharing etc.  Other features include: - Checking the details of a Doc/Docx file - Sorting: By name, date & size - Refreshing the list  Download the app today.  Enjoy reading :)  Your feedback is important to us. Write us on feedback@skydot.tech  Please share the app with others too :) ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

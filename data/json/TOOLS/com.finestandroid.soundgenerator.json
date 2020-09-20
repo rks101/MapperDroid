@@ -1,0 +1,11 @@
+{
+"name" : "Frequency Sound Generator",
+"url" : "https://play.google.com/store/apps/details?id=com.finestandroid.soundgenerator",
+"package" : "com.finestandroid.soundgenerator",
+"category" : "Tools",
+"description" : "Frequency Sound Generator is a simple wave form sound generator and oscillator. It is easy to use tool so you can create high variety of sounds and signals in just few seconds. All controls are in real time so you can dynamically change the sound signals.  Frequency Sound Generator features: - 3 oscillators - every oscillator can generate 3 wave forms - accurate frequency selector with fast and slow controls - volume control - wave signal modulation control - CD audio - 16 bit PCM encoding / Sampling rate at 44100Hz - oscillator range is from20Hz to 20KHz - 2 speed frequency selector - can save/load signal generator settings ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

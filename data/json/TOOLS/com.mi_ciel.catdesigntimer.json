@@ -1,0 +1,11 @@
+{
+"name" : "Cat Design Timer",
+"url" : "https://play.google.com/store/apps/details?id=com.mi_ciel.catdesigntimer",
+"package" : "com.mi_ciel.catdesigntimer",
+"category" : "Tools",
+"description" : "It is an application of cat timer. Its design is chic. It is a simple as a timer function. Therefore, it can be used immediately.   (1) Set [hours: minutes: seconds] using the number button. (2) You push start button, and this application starts Countdown. (3) When the alarm time comes, it starts the alarm sound. (4) In the other, It have stop button and reset button. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

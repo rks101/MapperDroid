@@ -1,0 +1,11 @@
+{
+"name" : "Tracking Venezuela",
+"url" : "https://play.google.com/store/apps/details?id=com.birkot.trackingvenezuela",
+"package" : "com.birkot.trackingvenezuela",
+"category" : "Tools",
+"description" : "Tracking Venezuela te permite en una sola aplicacin consulta el estatus de tus envos en Venezuela realizados va Domesa, DHL, Tealca y ZOOM. Venezuela Tracking allows you in a single query the status of your application shipments made via Domesa Venezuela, DHL, TEALCA and ZOOM. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

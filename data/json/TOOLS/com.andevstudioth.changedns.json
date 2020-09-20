@@ -1,0 +1,11 @@
+{
+"name" : "Change DNS (No Root 3G/Wifi)",
+"url" : "https://play.google.com/store/apps/details?id=com.andevstudioth.changedns",
+"package" : "com.andevstudioth.changedns",
+"category" : "Tools",
+"description" : "- Change Domain Name Server(DNS) settings easily. - Unblock the restricted web content. - Browse faster on the net after changing to proper DNS server. - Simple UI and easy to use. - Auto change DNS when device boot completed. - Auto change DNS when mobile data on.  Change DNS is the most powerful DNS Changer tool. It doesnt require root and works on both Wi-Fi and Mobile Data connection. You can easily change your DNS to expected DNS by just one click.   [ Why this app make a VPN connection ? ] To change DNS without needing root permissions, this app create a local VPN connection (No data leaves your phone using this VPN connection) to apply your configured DNS servers on both Wi-Fi and Mobile Data. You can check it by reading packet logs, or you can check simply, in System VPN dialog, there isnt sent/received data info as a real VPN connection. Please check and discuss deeply with developer (andevstudioth@gmail.com) before low review due to unclear investigation. ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

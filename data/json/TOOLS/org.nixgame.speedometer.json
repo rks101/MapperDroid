@@ -1,0 +1,11 @@
+{
+"name" : "Speedometer",
+"url" : "https://play.google.com/store/apps/details?id=org.nixgame.speedometer",
+"package" : "org.nixgame.speedometer",
+"category" : "Tools",
+"description" : "A speedometer is a tool for determining speed. During the workout, this application allows you to measure the speed and distance of your run. When traveling by bike, it can be used as a cycling computer. You can determine the mileage, average and maximum speed of travel on a motorcycle or car. The application is designed in modern style - Material Design. The app supports compass function (only on devices with compass sensor)  The main functions of the speedometer: - Speed determination (maximum and average in km / h or mph), - Speed control - Measurement of distance (in kilometers or miles) - Digital speedometer - SpeedTracker - Velocomputer - Measuring speed while riding a motorcycle and car - Using GPS - Beautiful and modern design of the speedometer - Economy mode - Dark theme - Compass  Our application is available for free. For the application to work correctly, you must run it in an open area. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_CORSE_LOCATION', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_CORSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

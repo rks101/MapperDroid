@@ -1,0 +1,11 @@
+{
+"name" : "Chess Clock",
+"url" : "https://play.google.com/store/apps/details?id=net.lrstudios.android.gameclock",
+"package" : "net.lrstudios.android.gameclock",
+"category" : "Tools",
+"description" : "Enjoy playing your favorite game with this free chess clock app! It can be used for almost all two player games, like Chess, Go game (Weiqi, Baduk), Checkers, Shogi, Othello, Backgammon, ... No realistic chess clock design : its kept simple to let you see clearly the player times.  Features :  - Handle 7 different time systems (listed below) - Undo any number of moves - Sound warnings - Restore the clock (if you accidentally close it or want to resume it later) - Edit player times or change settings while playing - Display the clock vertically or horizontally - Several text fonts available - Optimized for both phones and tablets  Time systems available :  - Fischer - Sudden death - Sudden death + additional time (for example, 30 min + 15 min after 40 moves) - Japanese Byo-yomi - Canadian overtime - Hourglass - Bronstein  Game specific features : - For Go players : on Canadian overtime, automatically pauses the clock to let you take your stones  Try it now and enjoy this chess clock for free ! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

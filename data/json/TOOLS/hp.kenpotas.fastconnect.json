@@ -1,0 +1,11 @@
+{
+"name" : "Internet Speed Test 3G,4G,LTE,Wifi",
+"url" : "https://play.google.com/store/apps/details?id=hp.kenpotas.fastconnect",
+"package" : "hp.kenpotas.fastconnect",
+"category" : "Tools",
+"description" : "Internet Speed Test 3G,4G,LTE,Wifi is an application help you test your network speed include download and upload.  Beside of main feature - network speed test which helps you to measure Internet connection speed on Android test speed for WiFi ,GPRS, 2G , 3G , 4G, LTE... Main feature:  Tests download speed (downlink)  Tests upload speed (uplink)  Real-time upload and download speed  IP address display  Share result with your friends via social networks.  If you have any questions or suggestions on how we could make this Internet Speed Test Meter for 3G,4G,LTE,Wifi app better, feel free to contact us via email bichthuan12355@gmail.com. Thank for download speed test app! ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.VIBRATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Mipony Remote Lite",
+"url" : "https://play.google.com/store/apps/details?id=mipony.remote.lite",
+"package" : "mipony.remote.lite",
+"category" : "Tools",
+"description" : "Official application to control Mipony from your Android. - Manage downloads (Start, stop, cancel) - Enter captchas (Trial limited) - Add downloads (Trial limited) - Clean completed downloads  Lite version includes ads and it does not include: - Unlimited captchas - Unlimited add files - Show an android notification when it is required to enter a captcha - Download the files to the mobile phone  Requires Mipony 1.5.0 or higher on the host machine.  If you dont know about Mipony. It is a download manager similar to JDownloader but more user friendly and it uses less resources. You can get more information here http://www.mipony.net ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

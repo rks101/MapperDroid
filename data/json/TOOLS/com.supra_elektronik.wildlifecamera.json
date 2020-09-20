@@ -1,0 +1,11 @@
+{
+"name" : "Maginon WildlifeCam Wifi",
+"url" : "https://play.google.com/store/apps/details?id=com.supra_elektronik.wildlifecamera",
+"package" : "com.supra_elektronik.wildlifecamera",
+"category" : "Tools",
+"description" : "Fascinating impressions and pin-sharp Full HD recordings - download directly to your smartphone.  The waterproof Full HD game camera is great for watching and monitoring of animals in the wild, as well as land and gardens. The 42 integrated infrared LEDs provide optimal lighting conditions for nocturnal shots up to 15 meters. Thanks to the large TFT display, you can comfortably use the cameras numerous recording functions via the intuitive menu navigation.  You can use the integrated WiFi function at any time via a mobile device. Manage system settings of your camera or save pictures to your device. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

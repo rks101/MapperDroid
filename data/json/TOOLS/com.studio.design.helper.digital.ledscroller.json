@@ -1,0 +1,11 @@
+{
+"name" : "LED Scroller",
+"url" : "https://play.google.com/store/apps/details?id=com.studio.design.helper.digital.ledscroller",
+"package" : "com.studio.design.helper.digital.ledscroller",
+"category" : "Tools",
+"description" : "LED Scroller  LED Scroller is an intuitive, lightweight app that turns your android device(s) into an electronic bulletin board/electronic notice board.  Concerts, video games fans are using this application!  Input text anywhere, anytime, display mobile phone screens, and convey messages. I hope you like it and love it.  Features Include:  Customize the size of the font to be displayed.  Customize the color of the font to be displayed.  Adjust the speed of movement  Blink mode  Control scroll direction  Simple and easy-to-use interface ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

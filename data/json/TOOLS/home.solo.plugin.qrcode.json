@@ -1,0 +1,11 @@
+{
+"name" : "Solo QR Code Scanner",
+"url" : "https://play.google.com/store/apps/details?id=home.solo.plugin.qrcode",
+"package" : "home.solo.plugin.qrcode",
+"category" : "Tools",
+"description" : "The product of Solo System by NewBornTown(NewBorn-Town). Solo QR Code Scanner is a plugin for Solo Launcher, it supports scanning QR code and Bar code.  Features: - Quickly access the scanner from the Solo Launcher search bar. - Minimum Design. - Supports QR code and Bar code. - Fastest code scanning and code recognition.  Let Solo QR Code Scanner be your QR code and Bar code scanner, and never miss the code information again. To use this scanner feature, you need to download the latest Solo Launcher. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FLASHLIGHT', 'android.permission.CAMERA', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+}

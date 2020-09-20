@@ -1,0 +1,11 @@
+{
+"name" : "CoolCool - Grid Maker for Instagram",
+"url" : "https://play.google.com/store/apps/details?id=com.mobilelab.gridlayout",
+"package" : "com.mobilelab.gridlayout",
+"category" : "Tools",
+"description" : "The No 1 best free app to crop your photos into 3x1, 3x2, 3x3, 3x4, 3x5 grids and upload directly to Instagram while keeping it in original quality. Gain more followers by beautiful and best looking grids on Instagram. The best grid maker for Instagram  MAIN FEATURES  * Crop any pictures, photos into 3x1, 3x2, 3x3, 3x4, 3x5 grids * Rotate pictures, photos from 0 to 360 before crop * Zoom in, out pictures, photos before crop * High resolution, quality images * Post images directly to Instagram * Very simple and easy to use ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

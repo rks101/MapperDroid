@@ -1,0 +1,11 @@
+{
+"name" : "To Do List - Reminder app with alarm",
+"url" : "https://play.google.com/store/apps/details?id=com.todo.reminder",
+"package" : "com.todo.reminder",
+"category" : "Tools",
+"description" : "A simple and convenient reminder app will allow you to create your to-do list as well as set reminders with alarm  The app is designed to plan your tasks.  Main functions:  To do list Daily Planner - Weekly and Monthly Reminder app with alarm and notification Birthday reminders Goals tracker and planner Task List Plan for the day - Widget  The application is made on the basis of the project GitHub - Recurrence ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'com.android.launcher.permission.INSTALL_SHORTCUT', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

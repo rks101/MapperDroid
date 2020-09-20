@@ -1,0 +1,11 @@
+{
+"name" : "WiFi Auto On Off",
+"url" : "https://play.google.com/store/apps/details?id=com.amir.WiFiOnOff",
+"package" : "com.amir.WiFiOnOff",
+"category" : "Tools",
+"description" : "The application WiFi Auto On Off allows you to automatically turn on or turn off WiFi. If you want a way to schedule when your WiFi turns on or off on your Android phone, you can try this a free app. This app lets you to set schedules, both for turning your WiFi on and off at a given time and day on your Android smartphone or tablet.  The app will reduce your battery power or, for example, when you sleep, notifications will not come to you that could wake you up.   Introduction: This simple app can help you increase the standby time of your device: WiFi Automatic automatically disable your WiFi radio when you dont need it and thereby lowers the battery consumption. You can also specify to automatically turn on WiFi again, if you turn on your device or when you enter a specified location (requires a cell radio and therefore does not work on WiFi-only tablets!). Also, the app can regularly scan for available networks to connect to and re-disable WiFi if no suitable network is found. This way, you are always connected to your WiFi network when using the device.. Main Features  Wifi Auto on-off: When device gets unlocked Set everey day,hour. Turn wifi off when screen is off,not connected ti wifi. every day at 22:00 default *** ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

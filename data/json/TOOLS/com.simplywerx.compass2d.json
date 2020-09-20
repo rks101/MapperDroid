@@ -1,0 +1,11 @@
+{
+"name" : "Compass Steel (No Ads)",
+"url" : "https://play.google.com/store/apps/details?id=com.simplywerx.compass2d",
+"package" : "com.simplywerx.compass2d",
+"category" : "Tools",
+"description" : "FEATURES:  Ad-free digital compass app.  Choose from multiple color themes.  Choose between 2 heading modes - True heading (based on True north) and Magnetic heading (based on Magnetic north).   Sun direction indicator.  Moon direction indicator.  Set and save a target direction.   Tilt-compensated and self-calibrates as you use.  High contrast design improves readability.  PERMISSIONS:  Requires access to location coordinates to calculate True heading.   Any suggestions or feedback are warmly welcomed. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

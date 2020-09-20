@@ -1,0 +1,11 @@
+{
+"name" : "A Counter",
+"url" : "https://play.google.com/store/apps/details?id=com.pra.counter",
+"package" : "com.pra.counter",
+"category" : "Tools",
+"description" : "Features and functionality:  - Friendly interface.  - Button on the screen to increment the counter.  - Use the volume control.  - Counter list with search and selection tools.  - Creating, editing and deleting counters.  - Easy preferences configuration.  - Sound effects.   Free application. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.VIBRATE', 'android.permission.INTERNET', 'android.permission.URL', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.URL', 'android.permission.ACCESS_NETWORK_STATE']",
+}

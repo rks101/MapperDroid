@@ -1,0 +1,11 @@
+{
+"name" : "Ruler",
+"url" : "https://play.google.com/store/apps/details?id=fr.ecp.ruler.app",
+"package" : "fr.ecp.ruler.app",
+"category" : "Tools",
+"description" : "A simple, user-friendly and accurate ruler for your phone!  Use a coin or a credit card to calibrate the ruler anywhere, when you dont have a real ruler with you!  - Ad free, for real, forever! - Pick your units: fractional inches, decimal inches, centimeters or millimeters - Calibrate your ruler with a credit card to get you started anytime, anywhere - Dont have a credit card with you? Calibrate your ruler with a coin! - Calibrate your ruler with a real ruler to achieve the best precision in your measurement transfers - Manually set the ruler to a known length for accurate measurements  - Night mode to save battery (on AMOLED screens) and to relieve your eyes at night - Save your measurements for future use - No permission required   Update history:  3.5 -- Millimeters, set to predefined length 3.3 -- Calibrate with a credit card, remove saved measurements from history 3.2 -- Fractional display of measurements in inches 3.0 -- Android Material theme and new scale for measurements in inches 2.1 -- Calibrate with a coin, default calibration button (reset) 2.0 -- You can now save your measurements 1.7 -- Night mode to save battery and/or read more easily at night 1.6 -- Added default calibration for common devices (Nexus series, Galaxy S series, Galaxy Note 1, 2 and 3) ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

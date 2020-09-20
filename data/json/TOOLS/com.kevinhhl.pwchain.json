@@ -1,0 +1,11 @@
+{
+"name" : "PwChain",
+"url" : "https://play.google.com/store/apps/details?id=com.kevinhhl.pwchain",
+"package" : "com.kevinhhl.pwchain",
+"category" : "Tools",
+"description" : "Password-Chain (PwChain) is a password manager that enables you to securely manage your passwords. PwChain will protect your passwords using military-grade encryption standards.  Features::  This app does not request your device for internet connection permission.  Database import/export support. You can backup and restore your encrypted database at either locally, or to another app via sharing (i.e. sending it to Dropbox, Box, Google Drive, OneDrive, and your email app)  A built-in password generator for generating unique passwords.  Security Design:: In a nutshell, your master-password is used along with a random data (salt) to derive a secret-key using PBKDF2. After authentication, your secret-key is temporarily stored in memory and acts as a symmetric-key for data encryption and decryption purposes. The app, by default, uses AES (Advanced Encrypted Standard) with a 256-bit key length.  --Free with no ads--  Permission Requests::  Storage writing ~ for exporting databases.  Storage reading ~ for for importing databases. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

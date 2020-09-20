@@ -1,0 +1,11 @@
+{
+"name" : "Personalliggare",
+"url" : "https://play.google.com/store/apps/details?id=com.SmartDok.BuildInsiteCheckin.Android",
+"package" : "com.SmartDok.BuildInsiteCheckin.Android",
+"category" : "Tools",
+"description" : "SmartDok Personalliggare r en app som gr det mjligt fr underentreprenrer att registrera sig p en SmartDok-baserad personalliggare via sin mobil eller surfplatta.  Tjnsten r speciellt framtagen fr SmartDoks kunder som ett komplement till vra registreringsboxar.   SmartDok r en ackrediterad leverantr av personalliggare fr ID06 av Sveriges Byggindustrier. SmartDok Personnel Giver is an app that enables subcontractors to sign up for a SmartDok-based personal lier via their mobile or tablet. The service is specially designed for SmartDok customers as a complement to our registration boxes.  SmartDok is an accredited supplier of ID06 personal lighters by the Swedish Construction Industries. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INSTANT_APP_FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.FOREGROUND_SERVICE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INSTANT_APP_FOREGROUND_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

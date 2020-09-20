@@ -1,0 +1,11 @@
+{
+"name" : "DroidVim",
+"url" : "https://play.google.com/store/apps/details?id=com.droidvim",
+"package" : "com.droidvim",
+"category" : "Tools",
+"description" : "This app is for those who understand Vim and unix.  DroidVim is a Vim clone text editor ported for Android. Vim 8 (huge version, multi language), grep, diff and ctags are ready to use.   Required - ARM (Android 4.1 and up), x86 (Android 4.3 and up) Features:   External storage support - External SD card, USB memory, GoogleDrive, Dropbox, etc. (Requires Android 4.4 and up)   Special Keys - Esc, Ctrl, Tab, Arrow keys and more.  Direct input - Disabling predictive text and/or auto correction for normal mode.  Clipboard - Clipboard commands (*p *y) are supported.  Custom Font - Use your favorite monospaced font.  Touch to move - Touch, swipe, flick to move cursor.  Multi language - Vim with multi byte option, iconv and multi language messages.  Extra features (in-app purchase): Git - Version Control System. Python - Programming language.  Appendix: DroidVim is an open source project. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_SUPERUSER', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_SUPERUSER', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

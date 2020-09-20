@@ -1,0 +1,11 @@
+{
+"name" : "Motorcycle manuals",
+"url" : "https://play.google.com/store/apps/details?id=com.johnmarin.manualesmotos",
+"package" : "com.johnmarin.manualesmotos",
+"category" : "Tools",
+"description" : "Motorcycle Manuals facilitates access to the workshop, user and parts manuals of the different motorcycles available on the market.  It also includes manuals on motorcycle mechanics and official training of different brands.  Important!!! The app has more than 1000 manuals available, even so you may not find a specific model, brand or manual. The manuals are available in a single language (mostly Spanish). Therefore, before making a negative review for these reasons, please contact us in order to provide the best possible help. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

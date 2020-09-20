@@ -1,0 +1,11 @@
+{
+"name" : "secuENTRY ConfigApp",
+"url" : "https://play.google.com/store/apps/details?id=de.burgwachter.config.app",
+"package" : "de.burgwachter.config.app",
+"category" : "Tools",
+"description" : "Gratis app for programming locks of the BURG-WCHTER product series secuENTRY. With the exclusive secuENTRY PC-software (Light, System and System+) you are able to administrate easily complete master key systems as well as single locks and do the programming of the complete lock system or the single locks via Bluetooth. The secuENTRY software creates during the data transmission a zipped data which will be send by email into a preselected folder where it will be unzipped. The data will be loaded automatically into the ConfigApp and the selected locks can be programmed.  The app was tested with the following devices: - Samsung Galaxy S4, S4mini, S5 and S5mini - Google Nexus 4, 5, 6  - Motorola Moto G (1st Generation) (X1032) - HTC one M7, M8 ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

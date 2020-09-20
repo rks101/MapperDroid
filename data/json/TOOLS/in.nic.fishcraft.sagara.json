@@ -1,0 +1,11 @@
+{
+"name" : "Sagara- for the fishermen",
+"url" : "https://play.google.com/store/apps/details?id=in.nic.fishcraft.sagara",
+"package" : "in.nic.fishcraft.sagara",
+"category" : "Tools",
+"description" : "Sagara, a Digital Kerala initiative by Department of Fisheries and NIC Kerala for ensuring Fishermen security, focused on monitoring the fishing vessels and registering the crews going for fishing operation. The mobile application Sagara will primarily act as a form of communication between fishermen and government entities, to monitor fishermen and the vessels There is an integrated Android based application to help the Fisheries Department to keep an up-to-date active exit and entry of vessels and fishermen venturing in to sea. The Mobile App has to be first downloaded into their Smart Phone and register for further use. The Mobile App supports multiple languages, which allows the vessel owner / representative to select their preferred language and register the entry and exit details of the vessels and passengers. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_LOCATION', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_GPS', 'in.nic.fishcraft.sagara.permission.C2D_MESSAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_LOCATION', 'android.permission.ACCESS_GPS', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

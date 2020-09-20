@@ -1,0 +1,11 @@
+{
+"name" : "New Diary: Life journals",
+"url" : "https://play.google.com/store/apps/details?id=info.kfsoft.diary",
+"package" : "info.kfsoft.diary",
+"category" : "Tools",
+"description" : "Do you keep a diary or journal? This app provide a diary and calendar function. You can write down your feeling of the day, and see the progress of your colorful life.   Diary functions with feeling icons, weather icons and photo galleries. It support reminder for writing diary of selected time. There is a pattern lock for privacy protection. Searching and bookmark function enable your to find out the record quickly. It is also integrated with calendar.  You can backup your records to google drive. There is a statistics page to summarize your effort. You can choose from over 20 colorful themes. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BIND_JOB_SERVICE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MANAGE_ACCOUNTS', 'android.permission.USE_FINGERPRINT', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.RECORD_AUDIO', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.GET_TASKS', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.BIND_JOB_SERVICE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

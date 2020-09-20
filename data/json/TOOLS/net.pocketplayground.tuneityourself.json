@@ -1,0 +1,11 @@
+{
+"name" : "Tune It Yourself",
+"url" : "https://play.google.com/store/apps/details?id=net.pocketplayground.tuneityourself",
+"package" : "net.pocketplayground.tuneityourself",
+"category" : "Tools",
+"description" : "*Try it for free, full version requires a paid subscription*. Tune It Yourself makes use of the in game telemetry feed and advanced algorithms to tune each race car to the driver and circuit conditions.   Using improved tuning formulas and a brand-new tuning technique, Tune It Yourself connects with Forza Motorsport 7 or Forza Horizon 4 and collects live data from your car as you race. This allows Tune It Yourself to automatically adjust your base tunes using the data gathered from your time on track to tailor the suspension and gearing setups for both the car and the track it is on.  The trial version of this app allows the user to tune the Radical SR8 on any track in Forza Motorsport 7, or the 1993 Skyline GT-R VSPEC in Forza Horizon 4. To tune other cars, a Tune It Yourself subscription is required which can be purchased from within the app.  The Pocket Playground terms of service can be found at https://www.pocketplayground.net/tos ",
+"desc_perms" : "['android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "HTMLhouse",
+"url" : "https://play.google.com/store/apps/details?id=com.abunchtell.htmlhouse",
+"package" : "com.abunchtell.htmlhouse",
+"category" : "Tools",
+"description" : "HTMLhouse helps you publish HTML quickly  publicly or privately. With the Android app, you can see what others have created!  If youd like to be added to the app, visit https://html.house on your laptop or tablet and create your page. Theres no sign up  just write some HTML and press publish. If youd like to show up in the app, check the Public box before publishing.  Let us know what youd like to see in the app by emailing (hello@write.as) or tweeting us (https://twitter.com/@HTMLhouse)! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

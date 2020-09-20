@@ -1,0 +1,11 @@
+{
+"name" : "Montana clock",
+"url" : "https://play.google.com/store/apps/details?id=pl.mb.montana",
+"package" : "pl.mb.montana",
+"category" : "Tools",
+"description" : "Watch Montana was hit the 80 . Equipped with a mass of features such as alarm, stopwatch, displaying the date and day of week, beep every hour, backlight. A suitable combination of keys you can start playing melodies that play from a tiny speaker. Support for the watch was made possible thanks to the four buttons located on the metal envelope. Watches were placed in the Polish thanks to private importers. They can be bought at consignment stores or at markets.  The application allows you to: - Preview the current time - See the current date - Preview day of the week - Measure the time (stopwatch) - Set the alarm - Backlight inclusions - Playing sound or speak hour every hour - Playing tunes watch  The application does not contain ads. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

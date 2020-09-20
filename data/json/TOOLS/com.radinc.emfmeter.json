@@ -1,0 +1,11 @@
+{
+"name" : "Electromagnetic Field Meter (EM/EMF/Gauss Gauge)",
+"url" : "https://play.google.com/store/apps/details?id=com.radinc.emfmeter",
+"package" : "com.radinc.emfmeter",
+"category" : "Tools",
+"description" : "Measure the electromagnetic field in your enviroment Features - Measure electromagnetic field in realtime (tap value to toggle XYZ) - Generate graph of data - EM field direction indicator  Acknowledgments: Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY  SpeedometerView  GraphView ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

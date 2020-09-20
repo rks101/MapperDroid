@@ -1,0 +1,11 @@
+{
+"name" : "Barcode To Excel - Barcode & QR Code Scanner",
+"url" : "https://play.google.com/store/apps/details?id=com.sukronmoh.bwi.barcodescanner",
+"package" : "com.sukronmoh.bwi.barcodescanner",
+"category" : "Tools",
+"description" : "The number of items that should be recorded, make you overwhelmed handle it. Now you can log all the items quickly using this Barcode To Excel application. Can be done together through their android phone respectively, export to excel, and combine data via PC.  Barcode To Excel is a convenient and free Barcode Scanner. This application also support for QR Code. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "SAP2000 Cloud Viewer",
+"url" : "https://play.google.com/store/apps/details?id=com.csiamerica.csisap2000cloudviewer",
+"package" : "com.csiamerica.csisap2000cloudviewer",
+"category" : "Tools",
+"description" : "SAP2000 Cloud Viewer is a companion app to the desktop version of the structural analysis and design program, SAP2000. The app allows users to view their SAP2000 models and analysis results directly from a smartphone or tablet. It enables engineers and managers on the go to make quick, collaborative, and informed decisions about a project from anywhere in the world. Users can assess the geometry and behavior of SAP2000 models by viewing 3D models, as well as mode shapes, structural deformations, and force diagrams produced by any number of loading conditions, including wind and earthquake. A CSI Cloud account is required to use the SAP2000 Cloud Viewer.  Application / Usage:  View mode shapes, structural deformations and force diagrams produced by various loading conditions, including wind and earthquake  Target Users:  Project managers for making quick, collaborative decisions on structural models, on the go  Structural engineers who need access to their models anywhere, anytime  Bridge engineers who need access to their models anywhere, anytime  Key Features:  Access plan, elevation and 3D views of SAP2000 models from anywhere in the world  Animate 3D mode shapes  Related Apps:  ETABS Cloud Viewer  Key Input:  A model previously uploaded to the cloud using the CSI Cloud Explorer  Key Output:  3D model  Mode shapes  Structure deformations  Force diagrams for moment, shear, and torsion ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

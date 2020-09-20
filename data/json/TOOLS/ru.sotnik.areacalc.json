@@ -1,0 +1,11 @@
+{
+"name" : "The area of geometric figures",
+"url" : "https://play.google.com/store/apps/details?id=ru.sotnik.areacalc",
+"package" : "ru.sotnik.areacalc",
+"category" : "Tools",
+"description" : "This geometric calculator will help You calculate area of the geometric shapes such as a triangle, circle, square, rhomb sector, the segment etc. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

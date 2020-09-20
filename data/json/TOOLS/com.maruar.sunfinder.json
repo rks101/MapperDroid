@@ -1,0 +1,11 @@
+{
+"name" : "Sun",
+"url" : "https://play.google.com/store/apps/details?id=com.maruar.sunfinder",
+"package" : "com.maruar.sunfinder",
+"category" : "Tools",
+"description" : "Sun app show you solar path on augmented reality camera view.  Sun app find solar position (sun position) and seek solar path (sun location).   Sun app show sunrise time and sunset time at your location.  Sun app predicts the sun position and path during the course of a day.  Calibrate your compass regularly to improve accuracy of solar position.  Sun app will display the position of the sun over the camera image like the AR.  Screenshot is supported. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

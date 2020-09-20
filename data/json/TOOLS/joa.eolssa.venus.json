@@ -1,0 +1,11 @@
+{
+"name" : "Lotto Girl - Lottery machine simulator",
+"url" : "https://play.google.com/store/apps/details?id=joa.eolssa.venus",
+"package" : "joa.eolssa.venus",
+"category" : "Tools",
+"description" : "- 3D realistic lottery machine - Applicable to any lottery system . UK National Lottery, EuroMillions, Euro Jackpot, Lotto6 aus 49, Bonoloto, Vietlott Mega645, Korea 6/45, France 5/49, ToTo Singapore, Turkey, Australia Oz Lotto, Philippine PCSO Lotto, etc.  . Presets : 1/10, 1/14, 2/12, 5/34, 5/49, 5/50, 5/90, 6/42, 6/45, 6/49, 6/54, 6/55, 6/58, 6/59, 6/100, 7/45, 22/80 - enable/disable specific number - change number of pick-out balls - change number of game - camera zoom in/out, rotation - cute lotto girl ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_PHONE_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

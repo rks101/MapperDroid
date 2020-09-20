@@ -1,0 +1,11 @@
+{
+"name" : "Video Noise Reducer",
+"url" : "https://play.google.com/store/apps/details?id=com.firitools.firitools.videoaudiodenoiser",
+"package" : "com.firitools.firitools.videoaudiodenoiser",
+"category" : "Tools",
+"description" : "With Video Noise Reducer you can simply reduce vocal noises from video files.  Do you have a video with some unwanted hum sounds ? Want to remove low/high audio frequencies from the your video ? Want to get rid of some vocal voices in a music video?  ** Video Noise Reducer is the answer **  How to use ? Very simple: ***************************** 1. Load your noisy video. 2. Press the wave button at the top menu to review the frequencies spectrogram. Try to locate the noisy frequency in this image. Then go back to the main screen. 2. Choose the noise frequency to reduce (in Hz). 3. Choose the bandwidth of the noise (filter strength). 4. Press Apply. The result is saved in VideoNoiseReducer folder in the gallery.  Note: you can repeat the action on the result video to get a stronger noise reduction.  How does it work ? ************************ Video Noise Reducer simply uses a band reject filter to reduce the noise frequencies in the video. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

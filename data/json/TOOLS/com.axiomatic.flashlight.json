@@ -1,0 +1,11 @@
+{
+"name" : "Flashlight",
+"url" : "https://play.google.com/store/apps/details?id=com.axiomatic.flashlight",
+"package" : "com.axiomatic.flashlight",
+"category" : "Tools",
+"description" : "Your smartphone is the new Flashlight.  This is the brightest and easy to use flashlight app. It is highly optimized for energy-efficiency and smaller size. More features will be updated soon!   Android 5 Lollipop or earlier: The app needs permission to access your camera to turn on the camera flash.  Follow us on YouTube!  https://axmt.co/YouTube   20172020 Axiomatic Inc. All rights reserved. ",
+"desc_perms" : "['android.permission.CAMERA']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.CAMERA', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

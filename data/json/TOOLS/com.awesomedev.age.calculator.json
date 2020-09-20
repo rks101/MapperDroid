@@ -1,0 +1,11 @@
+{
+"name" : "Age Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.awesomedev.age.calculator",
+"package" : "com.awesomedev.age.calculator",
+"category" : "Tools",
+"description" : " Age Calculator is easy and fast to calculate your age from date of birth. It calculates your exact age in years, months and days from your date of birth.   You can add birthdays or your special days to calendar and use widgets to display the event countdown on your home screen.   For every event you add to the calendar, you can choose your own image, set reminder, and allow counting all days or only working days (excluding Sat and Sun). For example, you add birthdays of your family members with their photos.   Age Calculator now supports time calculations. You can find duration between two times or add/subtract from a time.   Age Calculator allows you to compare two people age. It shows difference in years, months, and days.  We are constantly working hard on making Age Calculator app better and more useful for you. Your good reviews are important to us to continue making the app better. Please feel free to email us for any queries/suggestions/problems. If you have enjoyed Age Calculator, do not forget to rate us on the Google Play store.  ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.WRITE_CONTACTS', 'android.permission.WRITE_CALENDAR', 'android.permission.INTERNET', 'android.permission.READ_CALENDAR']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

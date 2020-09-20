@@ -1,0 +1,11 @@
+{
+"name" : "VLC Benchmark",
+"url" : "https://play.google.com/store/apps/details?id=org.videolan.vlcbenchmark",
+"package" : "org.videolan.vlcbenchmark",
+"category" : "Tools",
+"description" : "VLCBenchmark is a benchmark application focused on testing android devices video capabilities using the VLC Media Player. It runs a test suit of video samples encoded according to many different parameters to see what works and what doesnt. It then rates the device according theses tests, and allows you to upload the results online, for everyone to see and compare devices. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Tap Screen Wake Up",
+"url" : "https://play.google.com/store/apps/details?id=com.arekneubauer.wakeupphone",
+"package" : "com.arekneubauer.wakeupphone",
+"category" : "Tools",
+"description" : "Simple application to turn screen on, using proximity sensor. Its very useful, for example, when youre running having your phone in a case, without access to power button.  Application features: - proximity sensor monitor - phone wake up customization (number of sensor clicks in given period of time) - optional tick sound while waking up ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

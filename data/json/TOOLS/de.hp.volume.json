@@ -1,0 +1,11 @@
+{
+"name" : "Volume Manager",
+"url" : "https://play.google.com/store/apps/details?id=de.hp.volume",
+"package" : "de.hp.volume",
+"category" : "Tools",
+"description" : "This is a simple app that allows to manage the different volume channels of your device. You can place icons on your home screen to quickly switch profiles. The app features beautiful Material Design, offering both dark and light themes.  Features:  Gratis and ad-free   Profile shortcuts on your homescreen  No nasty permissions ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NOTIFICATION_POLICY', 'android.permission.VIBRATE', 'com.android.launcher.permission.INSTALL_SHORTCUT']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

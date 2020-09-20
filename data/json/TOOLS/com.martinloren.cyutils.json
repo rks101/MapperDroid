@@ -1,0 +1,11 @@
+{
+"name" : "Cypress FX2 Utils",
+"url" : "https://play.google.com/store/apps/details?id=com.martinloren.cyutils",
+"package" : "com.martinloren.cyutils",
+"category" : "Tools",
+"description" : "An utility for Cypress FX2 based devices. Useful for backup/recovery of the firmware, tests, low level code analyse/optimization and diagnosis.  You can: - Read and save the EEPROM data.  - Write a firmware in the EEPROM (full version). - Analyse the firmware with a specific ASM decompiler (full version).   Attention: requires USB OTG. Use only with Cypress FX2 chipset. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.USB_PERMISSION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.USB_PERMISSION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

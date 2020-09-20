@@ -1,0 +1,11 @@
+{
+"name" : "Wake Lock - PowerManager",
+"url" : "https://play.google.com/store/apps/details?id=eu.thedarken.wl",
+"package" : "eu.thedarken.wl",
+"category" : "Tools",
+"description" : "Wake Lock gives you control over the Android Power- and WifiManager. For example, you can force the PowerManager to keep the screen on or have the CPU still running in standby mode or make sure the Wifi connection keeps running at full performance.  You can use it on any android phone or tablet. Use it to keep the screen on in full brightness or dimmed mode during movies or slideshows. To make sure the CPU is still running in the background doing your tasks when you press the standby button.  There is a Donate Version available if you wish to support my work.  What are the permissions used for: * WAKE_LOCK, to obviously be allowed to aquire wakelocks. * RECEIVE_BOOT_COMPLETED, to start the app after device reboot. * READ_PHONE_STATE, to be able to act on start/ending calls, allowing the app to aquire a lock just for the duration of the call. ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.WAKE_LOCK', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

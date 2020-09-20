@@ -1,0 +1,11 @@
+{
+"name" : "Compass Black FREE",
+"url" : "https://play.google.com/store/apps/details?id=rgs.compassfree",
+"package" : "rgs.compassfree",
+"category" : "Tools",
+"description" : "Fast and stable Compass in a beautiful Style. Simply shows you the north. It uses accurate values for the degrees.   The following functions you can activate or deactivate:  - Needle changes to green when youre close to north - degrees on the Circle - stabilizer - Fast red Indicator  - Speed and perfomance can be changed  strong magnetical fields can change the results. The FULL Version is without any Banner. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Free Magnifying Glass camera",
+"url" : "https://play.google.com/store/apps/details?id=tw.fancyapp.magnifier.telescope.magnifyingglass.microscope.free",
+"package" : "tw.fancyapp.magnifier.telescope.magnifyingglass.microscope.free",
+"category" : "Tools",
+"description" : "Up to 20x magnifying glass and microscope and telescope and magnifier zoom app free with light for Android  Try it , stable and fast microscope .This is a very useful magnifier , Use a finer magnifying glass zoom function to read a book even small font size.  The screen resolution of magnifying glass was optimized , perfect square font size for reading.   The freeze mode can be used when the magnifying glass is zoomed in or out, making it easier to read.  The magnifying glass with a flashlight, it can be easily reading even in dark environments.  Use negative film effects to read reflective files.  The Max zoom in scale of microscope up to 20 times.  Not much to say, whether it is to look at the IC label / number, business card, product label, supermarket food label , the magnifier can make things easier. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

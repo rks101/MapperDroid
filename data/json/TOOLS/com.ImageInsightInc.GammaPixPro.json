@@ -1,0 +1,11 @@
+{
+"name" : "GammaPix Pro Command Center",
+"url" : "https://play.google.com/store/apps/details?id=com.ImageInsightInc.GammaPixPro",
+"package" : "com.ImageInsightInc.GammaPixPro",
+"category" : "Tools",
+"description" : "The GammaPix Pro Command Center App is for use with the GammaPix Command Center Web Application and requires a subscription to that service. GammaPix and GammaPix Lite are offered without subscription. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.ImageInsightInc.GammaPixPro.permission.CONTENT_PROVIDER', 'android.permission.WAKE_LOCK', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'com.ImageInsightInc.GammaPixPro.permission.C2D_MESSAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'com.android.vending.CHECK_LICENSE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'com.ImageInsightInc.GammaPixPro.permission.RECORDS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.ImageInsightInc.GammaPixPro.permission.CONTENT_PROVIDER', 'android.permission.INTERNET', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.ImageInsightInc.GammaPixPro.permission.RECORDS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

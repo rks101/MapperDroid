@@ -1,0 +1,11 @@
+{
+"name" : "Five Minute Marvel Timer",
+"url" : "https://play.google.com/store/apps/details?id=com.Wiggles3D.FiveMinuteMarvelTimer",
+"package" : "com.Wiggles3D.FiveMinuteMarvelTimer",
+"category" : "Tools",
+"description" : "This timer is a companion app for 5-Minute Marvel, the chaotic, fast-paced, co-operative card game. With this app, youll be able to keep track of the time left in your mission and receive helpful reminders and encouragement from J.A.R.V.I.S., Iron Mans AI companion. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

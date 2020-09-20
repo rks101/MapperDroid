@@ -1,0 +1,11 @@
+{
+"name" : "T9A - Game Tracker",
+"url" : "https://play.google.com/store/apps/details?id=it.lucabriganti.NinthAgeGameTracker",
+"package" : "it.lucabriganti.NinthAgeGameTracker",
+"category" : "Tools",
+"description" : "Tool for a 9th Age match: - quick access to offline rules - detailed game management - game result calculator  Game management summary: - game timer  - selection of Maps, Deployment and Secondary Objective - spells selection - turn counter - Channels and Veil Tokens counter - Flux Card management   Tag: The Ninth Age ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

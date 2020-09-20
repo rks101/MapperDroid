@@ -1,0 +1,11 @@
+{
+"name" : "Bluetooth On/Off Widget",
+"url" : "https://play.google.com/store/apps/details?id=lapay.biz.bluetooth",
+"package" : "lapay.biz.bluetooth",
+"category" : "Tools",
+"description" : "The widget is designed to enable/disable Bluetooth adapter, quick access to settings and list of available devices.  Implemented:  option turn off the Bluetooth adapter when device is reboot;  option switch types: one button or three (with buttons settings);  ability to change the border color of the widget (for Android 2.2 and above);  start scan for Bluetooth devices;  ability to change the horizontal and vertical size (for Android 3.1 and above);  option Make discoverable for other Bluetooth devices (button More...).  Permission Location (network-based) is used to discovering available Bluetooth-devices (for Android 6.0 and above). You must enable location on the device. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "[]",
+}

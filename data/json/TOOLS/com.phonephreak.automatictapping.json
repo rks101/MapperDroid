@@ -1,0 +1,11 @@
+{
+"name" : "Automatic Tapping: Auto Clicker/Record&Replay Taps",
+"url" : "https://play.google.com/store/apps/details?id=com.phonephreak.automatictapping",
+"package" : "com.phonephreak.automatictapping",
+"category" : "Tools",
+"description" : "Automatic Tapping helps you do repeated taps - at any location on your screen, at any interval you specify. It requires no root access. Theres no limit for the click interval you choose - safely go as low as 2ms (500 clicks/sec). No matter how fast you set it, the clicking can always be stopped by hitting the on-screen Stop button.  Automatic Tapping features a floating control panel for easy control of the automatic clicking. Have the panel automatically appear in your selected apps, and be hidden in all others. Conveniently select the location for the auto click via separate click point widgets. Set the clicking speed, number of clicks and length of each click directly from the control panel. The location of the clicks will be saved for each app, as also the selected click interval and number of clicks.  For easy automation of more complex sequences of taps, Automatic Tapping also lets you live record a sequence of taps: place click points on the screen, then record a sequence of taps that you do on those click points. Have Automatic Tapping repeat a recorded sequence as often as you like, at any speed you like. Multiple recorded sequences can be saved for each app, along with your selected settings. You can also add long presses/swipes while recording.   Problems/suggestions? Please email me at support@phonephreaksoftware.com   This app uses Accessibility services. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'com.android.vending.BILLING']",
+}

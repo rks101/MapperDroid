@@ -1,0 +1,11 @@
+{
+"name" : "Standard Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.roamingsquirrel.android.standard_calculator",
+"package" : "com.roamingsquirrel.android.standard_calculator",
+"category" : "Tools",
+"description" : "A simple, easy to use, calculator designed to be more functional than the default installed model - also includes a tip calculator and a loan calculator, both of which can be accessed from the menu - features of the main calculator include:   decimal mode  fractions mode  running total of each calculation shown as it is entered  full text of the calculation is displayed as it is entered  the output text can be set to scroll either horizontally (the default) or vertically  full text of each calculation is stored in the history  results of each calculation can be reclaimed from the history and reused in future calculations  a range of color schemes to suit different moods  Useful whilst shopping to monitor a running total of your purchases.  Use it to determine discounts, surcharges, sales tax etc. via the percentage function.  A help section, where the main functions of the application are explained, can be accessed via the menu.  This is an ad-supported app - upgrade to an ad-free version for USD 0.99 (or the equivalent in local currency) via https://play.google.com/store/apps/details?id=com.roamingsquirrel.android.standard_calculator_plus ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

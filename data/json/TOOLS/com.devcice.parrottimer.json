@@ -1,0 +1,11 @@
+{
+"name" : "Cute timer app : Parrot Timer",
+"url" : "https://play.google.com/store/apps/details?id=com.devcice.parrottimer",
+"package" : "com.devcice.parrottimer",
+"category" : "Tools",
+"description" : "Cute kitchen timer app of parrots.   Features - A cute parrot has appeared in timer window, the parrot will start dancing when the time has come. - Five parrots are available ibydefault . You might get new parrots if you use Parrot Timer a lot. - Parrot timer is not only cute, but easy to use as a kitchen timer.  * Prrot Timer is designed for kitchen timer. But the app can be used as normal timer. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+}

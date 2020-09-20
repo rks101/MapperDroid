@@ -1,0 +1,11 @@
+{
+"name" : "HC24",
+"url" : "https://play.google.com/store/apps/details?id=com.mobile.hc24",
+"package" : "com.mobile.hc24",
+"category" : "Tools",
+"description" : "SCR HealthyCow24 (HC24) is the fastest and most convenient way to access your farm data. HC24 works with SCR Heatime cow monitoring solutions and integrates with many other dairy farm management solutions. You can see real-time health, reproduction and other status of individual cows, groups and herds. You can also input data, such as AI, breed now, tag assignment, and more. The HC24 service is available in limited countries; please contact your Heatime representative for more information. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.GET_TASKS', 'com.mobile.hc24.permission.C2D_MESSAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

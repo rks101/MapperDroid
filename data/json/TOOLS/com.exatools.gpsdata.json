@@ -1,0 +1,11 @@
+{
+"name" : "GPS Data",
+"url" : "https://play.google.com/store/apps/details?id=com.exatools.gpsdata",
+"package" : "com.exatools.gpsdata",
+"category" : "Tools",
+"description" : "GPS Data app - you can check any necessary GPS data. If you like sports, mountaineering, journey, running you can use it to check your results or external parameters like speed, altitude, location, etc.  Using this app you get: - altitude and elevation (measures of the height of a point relative to some datum - Height above sea level) - the location (latitude and longitude - GPS coordinates, lat and long) - speed km/h or mph - the quality of the GPS signal - list of GPS satellites (the number of satellites, and PRN are the pseudo random noise) - direction - compass (determining the geographical position)  In this app you get the access to the necessary mobile data, you dont need navigation, GPS tracker or GPS Watch.  With this app you can check sunrise and sunset time of the day, local UTC time, position on the world map and many others data.  Have a fun with GPS data app ! ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

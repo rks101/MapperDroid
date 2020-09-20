@@ -1,0 +1,11 @@
+{
+"name" : "Star Spangled Alarm Clock",
+"url" : "https://play.google.com/store/apps/details?id=com.fric.patrioticalarmclock",
+"package" : "com.fric.patrioticalarmclock",
+"category" : "Tools",
+"description" : "The Star Spangled Banner (Americas national anthem!), Stars and Stripes Forever, America the Beautiful, and with many other patriotic classics are included in this app!  The alarms background includes fireworks, national monuments, flags, and more!  The lights start dim, and the sound starts quietly, but they both gradually increase in intensity, until your morning becomes a patriotic celebration!  Perfect for the 4th of July, Memorial Day, Labor Day, or any other national holiday! Or, just use Star Spangled Alarm Clock to celebrate America every day!  You can also customize the alarms with your own music and pictures! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

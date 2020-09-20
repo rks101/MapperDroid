@@ -1,0 +1,11 @@
+{
+"name" : "Big Font - Change Font Size & Text Size",
+"url" : "https://play.google.com/store/apps/details?id=com.awesomedroid.bigfont",
+"package" : "com.awesomedroid.bigfont",
+"category" : "Tools",
+"description" : "Do you feel hard to read text on your mobile or tablet because the text size is too small?  Will you spend your limited time to read text message or news on mobile phone for your grandparents just because they cant read by themselves at normal font size? Even they put on their glasses?  Is there anything which can help you and your grandparents to zoom up the font? Can they happily read by themselves on their phone? This Big Font - Change Font Size & Text size is what you are looking for.   Using Big Font will help you:  Increase system font size on mobile/tablets   ONLY 1 TOUCH  Read easier  FEATURE  Totally FREE   Preview the scaled text before applying  Allow increase font size from 50% to 300%  If you love Big Font, please leave review or send your feedback to contact.awesomedroid@gmail.com We are glad to hear from you and welcome you at anytime Thank you for using Big Font! ",
+"desc_perms" : "['android.permission.SEND_SMS', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.android.vending.BILLING', 'android.permission.WRITE_SETTINGS', 'android.permission.INTERNET', 'com.awesomedroid.bigfont.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

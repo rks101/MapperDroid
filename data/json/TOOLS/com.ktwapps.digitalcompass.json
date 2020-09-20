@@ -1,0 +1,11 @@
+{
+"name" : "Digital Compass",
+"url" : "https://play.google.com/store/apps/details?id=com.ktwapps.digitalcompass",
+"package" : "com.ktwapps.digitalcompass",
+"category" : "Tools",
+"description" : "The most precise, accurate and smart compass or GPS compass available in android.  Digital Compass is the most accurate smart compass and a great tool for outdoor activities. This application allows you to determine the direction (bearing, azimuth or degree) you currently facing. Digital Compass build using the gyroscope, accelerator, magnetometer, gravity of the device. Make sure your device has an accelerator sensor and magnetometer sensor otherwise it will not function.   Feature: - Show the current location(longitude, latitude, address) - Show the altitude - Show the magnetic field strength - Show the slope angel - Show the current accuracy state - Show available sensor status on this device - Add a direction pointer marker  Caution: The accuracy of the compass will interfere when the device is near any other magnetic interference, be sure to stay away from magnetic things/objects such as another electronic device, battery, magnet, etc while using the compass. If the accuracy becomes unreliable, calibrate the device by simultaneously flipping and moving the phone back and front in patterns 8(as screenshot illustrate).   Some of the common usage of compass are: - Adjust Television Antenna - Vastu Tips  - Find Qibla direction(no guarantee) - Finding horoscope - Fengshui(Chinese) - Outdoor activities - Education purpose  Direction: N point to the north E point to the east S point to the south W point to the west ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

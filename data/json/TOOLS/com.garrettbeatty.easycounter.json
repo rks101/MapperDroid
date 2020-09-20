@@ -1,0 +1,11 @@
+{
+"name" : "Easy Counter",
+"url" : "https://play.google.com/store/apps/details?id=com.garrettbeatty.easycounter",
+"package" : "com.garrettbeatty.easycounter",
+"category" : "Tools",
+"description" : "Easy Counter is an elegant, efficient, and easy to use counter app that helps you count! Easy Counter is FREE and always will be.   Whether youre counting the score of a football game or the number of planes you see in the sky, Easy Counter can help you do it!  Features Include!  Beautiful Design  Create Multiple Counters  Sound Effects  Vibration  Use Volume Buttons to Count  Light Theme  Dark Theme  Negative Numbers  Custom Increment Value  Dont lose count! Counters are saved even when the app exits  Want to see a new feature? Email garrettbdev@gmail.com for suggestions and comments.  Internet permission is for ads only - an in app purchase can remove ads if wanted. ",
+"desc_perms" : "['android.permission.READ_CALENDAR', 'android.permission.vibrate']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+}

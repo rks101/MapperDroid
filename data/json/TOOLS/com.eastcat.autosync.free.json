@@ -1,0 +1,11 @@
+{
+"name" : "SyncMyDroid Free - Copy files to your PC",
+"url" : "https://play.google.com/store/apps/details?id=com.eastcat.autosync.free",
+"package" : "com.eastcat.autosync.free",
+"category" : "Tools",
+"description" : "Send your files from your Android device to your computer over WiFi.  * Backup your pictures, videos, documents and other files easily. * Automatically transfer files from your phone or tablet to your computer when both are connected to the same network. * Keep your sensitive data safe at home instead of sending it to the cloud, nothing is sent through internet.  In the full version of SyncMyDroid: * Copy files to your laptop using secure encrypted connection on public WiFi (in places like hotels) * Synchronize multiple folders at once  Usage : 1. Download SyncMyDroid for PC from www.syncmydroid.com and install it on your computer 2. Connect your Android device over WiFi to the same local network as your computer 3. Choose the folders you want to synchronize Its done! :) ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

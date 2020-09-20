@@ -1,0 +1,11 @@
+{
+"name" : "Helper(AppLock)",
+"url" : "https://play.google.com/store/apps/details?id=com.sp.protector.helper",
+"package" : "com.sp.protector.helper",
+"category" : "Tools",
+"description" : " Install Helper for improving a service of AppLock!   Helper feature  AppLock will not be forced closed by task manager or killer app.  AppLock automatically start after update in Play Store.  * changed a method of installing Helper.(within AppLock Play Store) ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

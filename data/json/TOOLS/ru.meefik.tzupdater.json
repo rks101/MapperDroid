@@ -1,0 +1,11 @@
+{
+"name" : "Timezone Updater",
+"url" : "https://play.google.com/store/apps/details?id=ru.meefik.tzupdater",
+"package" : "ru.meefik.tzupdater",
+"category" : "Tools",
+"description" : "This app downloads and updates a time zones to latest version on your device. This update should fix all known problems with time zones, such as incorrect time in Android and some applications.  Procedure: 1. Get superuser privileges (root). 2. Install BusyBox. 3. Check the connection to Internet. 4. Tap UPDATE button. 5. Restart your device.  Will be updated a time zones and ICU data. Before starting the update procedure is recommended to make backup of the Android system.  NOTICE: Forum: http://4pda.ru/forum/index.php?showtopic=692805 Developer site: http://meefik.ru Donations: http://meefik.ru/donate/  ATTENTION! This program comes with ABSOLUTELY NO WARRANTY. This is free software, and you are welcome to redistribute it under license GPLv3. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_SUPERUSER', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_SUPERUSER', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "RtlLateNight extractor(LJ Video Downloader plugin)",
+"url" : "https://play.google.com/store/apps/details?id=com.leavjenn.m3u8downloaderplugin.RtlLateNight",
+"package" : "com.leavjenn.m3u8downloaderplugin.RtlLateNight",
+"category" : "Tools",
+"description" : "Dont download before you read this!!! This is a plugin for app LJ Video Downloader, NOT a standalone app and can NOT work by itself. You can NOT find its icon on your launch screen.  You can install LJ Video Downloader from here:  https://play.google.com/store/apps/details?id=com.leavjenn.m3u8downloader  A plugin for extracting video links (m3u8 format) from rtllatenight.nl.   Usage 1. After installing, open LJ Video Downloader; 2. Paste the link from rtllatenight.nl (see supported formats below); 3. Click Download, wait for the result.  Supported formats https://www.rtllatenight.nl/video/video/4593466/william-janz-un-canto-galiciamijn-allerliefste  https://www.rtllatenight.nl/video/video/4593416/martijn-zegt-sorry-code-geel  Contact Twitter: twitter.com/@leavjenn Email: leavjenn+m3u8downloader@gmail.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

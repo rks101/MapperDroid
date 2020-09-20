@@ -1,0 +1,11 @@
+{
+"name" : "NAO control",
+"url" : "https://play.google.com/store/apps/details?id=de.daboapps.androidnao",
+"package" : "de.daboapps.androidnao",
+"category" : "Tools",
+"description" : "control a NAO robot (NAOqi 2.1) with your smartphone  supported features: - LEDs: switch on/off, change intensity, choose color - head: move head, show camera, speak any text - arms: move arms, elbows and hands, open/close hands - body: stand, sit, crouch, lying - walk and turn  three input methodes: - slider - joystick - multiple (allows you to control multiple features at the same time, e.g. head and walk) Control a robot NAO (Naoqi 2.1) with your smartphone  Supported features: - LEDs: switch on / off, change intensity, choose color - Head: Move head, show camera, speak any text - Arms: move arms, elbows and hands, open / close hands - Body: stand, sit, crouch, lying - Walk and Turn  Three input methodes: - Slider - joystick - Multiple (Allows you to control multiple features at the sametime, EC head and walk) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.hardware.sensor.gyroscope']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.hardware.sensor.gyroscope', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Percentage Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.appovo.percentagecalculator",
+"package" : "com.appovo.percentagecalculator",
+"category" : "Tools",
+"description" : "Percentage Calculator is simply the fastest way to calculate discounts, tips, interest and other percentages.  Instantly calculate and visualize all kind of percentages. Any input value can either be a source or result of a calculation  just enter the values you know and it will calculate the remaining one.  The supported calculators and their possible use cases of this Percentage Calculator are:   Value: (Sales Tax, VAT, School (mathematics, statistics, algebra), Fat Percentage in Food, Cooking Ingredients)  Change: (Percentage Increase/Decrease, Tips, Markups, Profit Margin, Shopping Discounts, Sale Price, Net/Gross Price; Return on Investment (ROI)  Conversiom: (Convert Fractions)  Growth: (Business and Financial, Compound Interest, Inflation, Cumulative Growth, Compound Annual Growth Rate (CAGR), Doubling Time (Rule of 72)) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Meters reading for water, gas or electricity",
+"url" : "https://play.google.com/store/apps/details?id=com.water.consumption",
+"package" : "com.water.consumption",
+"category" : "Tools",
+"description" : "The water is becoming more and more scarce and expensive. Help the planet by reducing your water consumption and save money.  One way to do this is to use this application to read your water meter. Thereby, you will always be aware of your water consumption and your daily average. You will also be noticed in case of abnormal consumption, thus detecting possible water leaks.  Reading your water meter give you awareness of how much water you actually consume and motivates you to reduce unnecessary waste.    This application also allows to: - monitor gas meter and electric meter - manage various water meters - scan a barcode or even a text to identify a meter using the cameras device - view weekly, monthly or yearly total and average consumption - make online backups - export to excel ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.CAMERA', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Free42",
+"url" : "https://play.google.com/store/apps/details?id=com.thomasokken.free42",
+"package" : "com.thomasokken.free42",
+"category" : "Tools",
+"description" : "Free42 is a re-implementation of the HP-42S calculator and the HP-82240 printer. It is a complete rewrite, not using any HP code, and it does not require an HP-42S ROM image. Free42 is an Open Source project. The executables and source code are released under the terms of the GNU General Public License, version 2. All third-party code used in Free42 is either in the public domain, or licensed under terms compatible with GPLv2, or used with the authors permission. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

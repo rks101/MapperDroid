@@ -1,0 +1,11 @@
+{
+"name" : "Battery percentage",
+"url" : "https://play.google.com/store/apps/details?id=de.oemel09.batterieanzeige",
+"package" : "de.oemel09.batterieanzeige",
+"category" : "Tools",
+"description" : "This is a small app which places a notification in your statusbar which shows you the actual battery percentage and other usefull infos about your battery. You can also configure an application or shortcut as a quickstart which will be started on pressing the notification. Besides this you can set it to intelligent quickstart. This will replace the quickstart with a shortcut to the wifi settings if your wifi is enabled but not connected to a network or with a shortcut to bluetooth-settings if bluetooth is enbled.  * Batterylevel in Statusbar (in %) * Quickstart for apps * or for shortcuts * intelligent quickstart * start on boot * auto-wifi-off *different themes  Help to translate or improve the language of this app: http://ackuna.de/translate-/batterieanzeige  Participate at the beta here: https://plus.google.com/communities/100825141465511081208 Get a member in this community and follow the link there!  Small, easy, useful! Enjoy :)  Tags: battery, notification, accu, charger, useful, tool, quickstart, wifi settings, status bar ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

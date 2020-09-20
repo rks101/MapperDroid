@@ -1,0 +1,11 @@
+{
+"name" : "Audio Cutter: mp3 cutter - ringtone maker",
+"url" : "https://play.google.com/store/apps/details?id=com.keesadens.audiocutter",
+"package" : "com.keesadens.audiocutter",
+"category" : "Tools",
+"description" : "Cut your audio/mp3 and set it as ringtone! This apps is really easy to use! NOTE: After cutting the audio and if you want to set it as default ringtone in your smartphone, you need to grant access the system settings manually! For example: Go to phone settings/Installed apps/and search Audio Cutter then grant access permission Modify system settings! ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MOUNT_UNMOUNT_FILESYSTEM', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.MOUNT_UNMOUNT_FILESYSTEM', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

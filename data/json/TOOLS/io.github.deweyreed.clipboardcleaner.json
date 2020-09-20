@@ -1,0 +1,11 @@
+{
+"name" : "CleanboardCleaner",
+"url" : "https://play.google.com/store/apps/details?id=io.github.deweyreed.clipboardcleaner",
+"package" : "io.github.deweyreed.clipboardcleaner",
+"category" : "Tools",
+"description" : "Check and clean your clipboard using service, widget, shortcut, and quick setting tile.  Source Code: https://github.com/DeweyReed/ClipboardCleaner  Possible reasons for the app failure 1. From Android 10(Q), Non-input-method apps cant get, modify, and listen to the clipboard in the background. Your phone is safer and doesnt need this app anymore. 2. If youre seeing multiple clips or the clip history, it means something like a soft keyboard app stores them. In this case, this app fails. ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['com.android.launcher.permission.INSTALL_SHORTCUT', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.FOREGROUND_SERVICE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "â­�â­�â­�Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.om.calc",
+"package" : "com.om.calc",
+"category" : "Tools",
+"description" : "Simple calculator. Made with practicality in mind, Calculator is a simple and easy calculator app, ideal for your everyday use.  It is easy to use with large buttons, clean and stylish design, and provides the basic functionalities most people need for daily calculations. For example, Calculator is perfect in situations such as adding up receipts, calculating taxes or discounts when shopping, doing homework study for school, some calculation at your workplace, or even when you calculate a tip at restaurants.  *This is a free version of Calculator, which displays ad at the bottom of the screen. Ad-free version is also available. Beautiful, simple and stylish design, Easy to use with large buttons to minimize errors All images used here are done and intended for informational purposes only and are found courtesy of search engine image results and are hosted locally. If the original owner or owners of any image found in this app would like an image removed, please send us a message indicating this and the image will be completely removed. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

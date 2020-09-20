@@ -1,0 +1,11 @@
+{
+"name" : "PalGate",
+"url" : "https://play.google.com/store/apps/details?id=com.bluegate.app",
+"package" : "com.bluegate.app",
+"category" : "Tools",
+"description" : "Open your garage door/gate/barrier from your Android quickly and easily! Download the PalGate application to take full advantage of our PalGate device: - Full gate control - Access management - Add/remove users in seconds! - Gate history  - Encrypted remotes (can be purchased separately and will be available soon) This application works with PalGate device which can be purchased with either one or two relays. Turn your gate into a smart gate using PalGate device.   Credits: Confetti animation by Mark Geyer at lottiefiles.com ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

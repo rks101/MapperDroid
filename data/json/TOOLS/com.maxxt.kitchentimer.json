@@ -1,0 +1,11 @@
+{
+"name" : "Kitchen Timer",
+"url" : "https://play.google.com/store/apps/details?id=com.maxxt.kitchentimer",
+"package" : "com.maxxt.kitchentimer",
+"category" : "Tools",
+"description" : "You can fast set default timers or create many custom presets and widgets and run it simultaneously.   Main features: Two default timers always on screen  Unlimited custom timers  Volume, vibration, repeat, sound, title settings for each timer  Quick time add buttons Clean design Day and Night mode  Optimized for tablets landscape mode Cute little widgets Completely FREE without limits and premiums   Happy users using this app for: Cooking Baking Sleeping Yoga Reading Gaming  ATTENTION: Make sure you have this app in white list of your power saving(or battery optimisation) settings otherwise app may stop working in background and you will miss alarm. App contain information how to do this. ",
+"desc_perms" : "['android.permission.vibrate']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Percentage Calculator",
+"url" : "https://play.google.com/store/apps/details?id=stephenssoftware.percentagecalculator",
+"package" : "stephenssoftware.percentagecalculator",
+"category" : "Tools",
+"description" : " Easy to use interface allows the calculation of percentage changes.   Calculate both forward and reverse percentages.   A variety of practical uses, including calculating sales tax, from both the original price or the final selling price.   The calculators colors are customizable.   User definable decimal marker (point or comma).   Optional thousands separator. Choose between space or comma/point(depends on decimal marker).   Variable precision up to 20 decimal places.  An ad free version of this app is also available. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

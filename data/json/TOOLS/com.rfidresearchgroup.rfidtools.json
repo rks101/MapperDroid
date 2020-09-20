@@ -1,0 +1,11 @@
+{
+"name" : "RFID Tools",
+"url" : "https://play.google.com/store/apps/details?id=com.rfidresearchgroup.rfidtools",
+"package" : "com.rfidresearchgroup.rfidtools",
+"category" : "Tools",
+"description" : "This Android App is a necessary research tool in the field of RFID. It includes proxmark3 universal client. The client comes from the latest RRG Iceman repo. You can use it to connect your Proxmark 3 RDV4.0 via Bluetooth or USB-OTG. Later, it will be compatible with more devices in the future.  Firmware version: RRG/Iceman// 2019/08/12 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.NFC', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.VIBRATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.NFC', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

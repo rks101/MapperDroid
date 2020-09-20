@@ -1,0 +1,11 @@
+{
+"name" : "VPN settings on home screen",
+"url" : "https://play.google.com/store/apps/details?id=it.claudio.chimera.vpn",
+"package" : "it.claudio.chimera.vpn",
+"category" : "Tools",
+"description" : "This App opens the VPN settings. You can add a link on the home screen, in order to open VPN setting quickly. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

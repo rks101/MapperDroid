@@ -1,0 +1,11 @@
+{
+"name" : "ClockView : All-in-one Clock",
+"url" : "https://play.google.com/store/apps/details?id=com.kimscom.clockview",
+"package" : "com.kimscom.clockview",
+"category" : "Tools",
+"description" : "Screensaver and calendar in wallpaper theme and dark mode, Talking time and alarm, Current weather and world clock on the lock-screen.  *Some features are not supported on some devices.  Always On Display, AOD  Analog, digital, hybrid compass. Screen saver and sleep mode. On/Off with power button (Lock screen) Clock and calendar on the wallpaper. Seconds (hands) and 12/24-hour display. Year and date, day of the week. Battery level and temperature display.  Useful functions and options  Easy change to night mode. Adjust the clock brightness. Auto-off when flip or in pocket. Memo with handwriting and S-Pen. Bouncing ball game for eye training. Set the alarm and timer. Color, position, and size setting. Digital clock font setting. 8 Types of home screen widget.  Talking clock by voice  Hourly time by voice. Talking alarm messages by voice. Useful for medication, meetings.  Current waeather info  Weather icon or scroll text display. Local sunrise, sunset time display.  Dual time world clock  Worldwide local time display. Dual time display on widget.  Floating clock  Analog and digital. Always display on top of all app screens. Clock move by touch and drag.  This app does not collect any personal information. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.alarm.permission.SET_ALARM', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

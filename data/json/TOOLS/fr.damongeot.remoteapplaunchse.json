@@ -1,0 +1,11 @@
+{
+"name" : "Remote App Launch SE",
+"url" : "https://play.google.com/store/apps/details?id=fr.damongeot.remoteapplaunchse",
+"package" : "fr.damongeot.remoteapplaunchse",
+"category" : "Tools",
+"description" : "Launch apps on your android phone remotely using HTTP GET requests.  This is a special version of Remote App Launch without the need to add each app manually : all installed app on your device can be started immediatly.  For example, to launch firefox, use your browser to request : http://yourPhoneIP:8888/start/org.mozilla.firefox  The app need to be requested by its package name (RemoteAppLaunchSE will show the package name of each app on your phone, dont worry).  To stop the app remotely, you just need to switch from start to stop in the URL : http://yourPhoneIP:8888/stop/org.mozilla.firefox  Be aware that android doesnt allow a foreground app to be killed, only background processes. If you remotely launch an app that stays in foreground, it cant be killed remotely by Remote App Launch SE.  You can secure the app by using HTTP Authentication with a user/password needed to start/stop apps. In that case, to launch an app just use the following URL : http://username:password@yourPhoneIP:8888/start/org.mozilla.firefox ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.WAKE_LOCK', 'android.permission.DISABLE_KEYGUARD', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.DISABLE_KEYGUARD', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Screen On",
+"url" : "https://play.google.com/store/apps/details?id=de.dieterthiess.keepiton",
+"package" : "de.dieterthiess.keepiton",
+"category" : "Tools",
+"description" : "Screen On   App and widget to keep the screen on.  Features: - Keep display bright or dim display - Set timer to end automatically - Automatically start when charging - Automatically start when connected to computer - Automatically disable on low battery level - Automatically start when headphones attached - Automatically start on bluetooth connection  - Flashlight widget  Widget included to quickly enable or disable.  No Ads.  - Available languages:  -- English -- German -- Svenska (by Gran Helsingborg) -- Portuguese (by Marco Silva) -- Turkish (Zeyneddin DLEN) -- Bangla (by Md Monsur Alam https://fb.com/MdMonsurAlamid)  ideas? issues? Write me an e-mail: dieter.thiess@gmail.com ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.FOREGROUND_SERVICE', 'com.android.launcher.permission.INSTALL_SHORTCUT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.FLASHLIGHT', 'android.permission.CAMERA', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

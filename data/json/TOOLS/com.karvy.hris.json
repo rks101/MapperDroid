@@ -1,0 +1,11 @@
+{
+"name" : "Karvy HR",
+"url" : "https://play.google.com/store/apps/details?id=com.karvy.hris",
+"package" : "com.karvy.hris",
+"category" : "Tools",
+"description" : "It is our constant endeavour to digitize HR operations and make it more efficient, we are pleased to inform you that we have developed a mobile app for our HRIS (hr.karvy.com) . The new HRIS app is a new age product with intuitive user interfaces and ease of self-service. Commonly used functionalities like Attendance, Leave details , Employee information are available for yourself and the team on this app. All this functionalities are now available on your mobile which can help you to use the application on the Go. This is a significant step to give the employees a new and better employee experience.  For seamless access we have ensured that the login credentials of app remains same as Karvy HRIS. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_NUMBERS', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_CONTACTS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_BACKGROUND_LOCATION']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_NUMBERS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_BACKGROUND_LOCATION']",
+}

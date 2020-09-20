@@ -1,0 +1,11 @@
+{
+"name" : "Tomato Planner",
+"url" : "https://play.google.com/store/apps/details?id=ru.tomatoplanner.tomatoplanner",
+"package" : "ru.tomatoplanner.tomatoplanner",
+"category" : "Tools",
+"description" : "Create a schedule for today using Pomodoro Technique to work efficiently!  The app creates a schedule, alternating intervals of work (so-called Pomodoros) and breaks according to the following algorithm:  Work, then break. Every fourth break is long, all other breaks are short.  Best suited to perform work that requires concentration, as well as monotonous and routine tasks.  The app will send a notification at the beginning and end of each Pomodoro, in which you will see what is the current interval and when it will end.  Statistics section allows you to track your activity by day: the number of work intervals, and work hours as graphs.  Its suggested to use these settings, however you can change them as you wish: Work: 25 min. Short break: 3 - 5 min. Long break: 15 - 30 min. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

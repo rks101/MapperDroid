@@ -1,0 +1,11 @@
+{
+"name" : "Reflex-ErP",
+"url" : "https://play.google.com/store/apps/details?id=de.consoft.reflex.erp",
+"package" : "de.consoft.reflex.erp",
+"category" : "Tools",
+"description" : "Calculation Tool for a System efficiency label according EU Directive  Reflex provides the assistance to calculate the system efficiency label on the simplest way via App. It includes systems for drinking water application, heating application and also the combination of both. With this App it is ensured, that the values for the system efficiency label are available correctly and in time. The App is linked to the German VDZ database, therefore all the information are always up to date. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

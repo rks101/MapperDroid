@@ -1,0 +1,11 @@
+{
+"name" : "Bangla Arbi English Calender 2020",
+"url" : "https://play.google.com/store/apps/details?id=com.bangla.arbi.english.calender",
+"package" : "com.bangla.arbi.english.calender",
+"category" : "Tools",
+"description" : " (-) , (  -  ) ,                                 ,     , , , ,                                                  The calendar of Bangla (1228-12), Arabic (1 Hijri-12 Hijri), English, 2020, and the official holidays and international days have been made precisely. Inside these ups you can see Bangla Arabic English dates together. General holidays of every month, executive leave on official orders, Muslims, Hindus, Christians, Buddhists, all religions are listed separately for the benefit of listing desirable holidays. . We hope to download the calendar and let you know about your valuable feedback. Your reviews encourage us to make more new ups. Have a great year all year long. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

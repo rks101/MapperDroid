@@ -1,0 +1,11 @@
+{
+"name" : "Camera Sound 2",
+"url" : "https://play.google.com/store/apps/details?id=com.AMAJamry.CameraSound2",
+"package" : "com.AMAJamry.CameraSound2",
+"category" : "Tools",
+"description" : "The application attempts to mute camera shutter sound and screenshots. Tested on Galaxy S, S2, S3, S4, S5, Note-2, Note-3. Expected to work on a variety of devices running many Android versions. No ads and no root access is required. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.BLUETOOTH']" 
+"extra_perms" : "[]",
+}

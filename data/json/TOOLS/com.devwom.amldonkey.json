@@ -1,0 +1,11 @@
+{
+"name" : "AMLDonkey",
+"url" : "https://play.google.com/store/apps/details?id=com.devwom.amldonkey",
+"package" : "com.devwom.amldonkey",
+"category" : "Tools",
+"description" : "Multi-Network p2p file sharing MLDonkey installer. Supports overnet, kadmelia, donkey, bittorrent and direct networks. It is compatible with eMule and eDonkey network. Get more info at http://mldonkey.sourceforge.net/Main_Page  MLDonkey can be managed from remote PC accessing to its web Interface via http://RUNNING_IP:4080/ To do that add allowed_ips under options->Settings->Ports using your Android device. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

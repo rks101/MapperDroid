@@ -1,0 +1,11 @@
+{
+"name" : "KUTO Video Browser-Web video downloader & player",
+"url" : "https://play.google.com/store/apps/details?id=com.kuto.video.browser",
+"package" : "com.kuto.video.browser",
+"category" : "Tools",
+"description" : "KUTO Video Browser is designed for web video browsing, you can easily find the video in the page and then play the video or just download it  Features:  * Pure & Tiny * Totally free * Support most of popular websites, such as facebook, twitter, instagram and so on * Powerful downloader and file manager, you can simply download or manage your video files * Powerful video player, supports most of popular formats, and you have serval gestures to control the playing. Moreover you can play the video on smart TV via DLAN * Less advertisement  Due to legal restrictions, videos on YouTube CANNOT be downloaded. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.launcher.permission.INSTALL_SHORTCUT', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

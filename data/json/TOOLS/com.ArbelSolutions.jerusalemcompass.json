@@ -1,0 +1,11 @@
+{
+"name" : "Jerusalem Compass",
+"url" : "https://play.google.com/store/apps/details?id=com.ArbelSolutions.jerusalemcompass",
+"package" : "com.ArbelSolutions.jerusalemcompass",
+"category" : "Tools",
+"description" : "Jerusalem Compass is a simple app that helps you finding the direction to the Temple Mount in Jerusalem. Please note that the accuracy of the Jerusalem Compass like any other compass, is affected by existence of metals near it or other environmental conditions.  This app will help you finding the direction to Temple Mount easily. Please contact us for any question, requests or bug report.  Please notice - some devices does not support Azimuth/gyro ability. We cannot calculate azimuth without this ability.  In this case - a message will appear on the screen.  arbelsolutions@gmail.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

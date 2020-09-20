@@ -1,0 +1,11 @@
+{
+"name" : "TimeTable",
+"url" : "https://play.google.com/store/apps/details?id=ric.ov.TimeTable",
+"package" : "ric.ov.TimeTable",
+"category" : "Tools",
+"description" : "A timetable viewer with integration with the read-only STS. If you do not know what this is, other timetabling apps may better suit your needs. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERNET']",
+}

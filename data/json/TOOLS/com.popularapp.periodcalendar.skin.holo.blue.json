@@ -1,0 +1,11 @@
+{
+"name" : "Holo blue theme - Free",
+"url" : "https://play.google.com/store/apps/details?id=com.popularapp.periodcalendar.skin.holo.blue",
+"package" : "com.popularapp.periodcalendar.skin.holo.blue",
+"category" : "Tools",
+"description" : "This is theme of blue holo for Period Calendar with no pink, you can change it through the following steps:  download the latest Period Calendar; open Period Calendar; click setting from home page; click theme; choose this one and apply;  if you have any question, please contact us (abishkking@gmail.com). ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CALENDAR']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

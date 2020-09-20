@@ -1,0 +1,11 @@
+{
+"name" : "JanSamiksha Himachal Pradesh",
+"url" : "https://play.google.com/store/apps/details?id=nic.hp.Jansamiksha",
+"package" : "nic.hp.Jansamiksha",
+"category" : "Tools",
+"description" : "The Planning department in Himachal Pradesh is the nodal department for designing schemes to carry out development works at the grass root level. The funds for these schemes are routed from head office to the respective district. The district planning development committee (DPDC) receives proposals from individuals, groups and Panchayati Raj Institutions under the defined framework of various schemes. New works are sanctioned by the DPDC and executing agencies are assigned to carry out the works.   JanSamiksha is an initiative by the Planning Department, Himachal Pradesh to empower the citizen of Himachal Pradesh so that they can send feedback on the status of any work carried out under these Schemes at the field level. The citizen can rate the work and provide textual feedback along with the photograph of the Work/Asset. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.LOCATION_HARDWARE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_MOCK_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.LOCATION_HARDWARE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_MOCK_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

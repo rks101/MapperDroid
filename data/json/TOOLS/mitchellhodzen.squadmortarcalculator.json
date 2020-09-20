@@ -1,0 +1,11 @@
+{
+"name" : "Squad Mortar Calc (Unofficial)",
+"url" : "https://play.google.com/store/apps/details?id=mitchellhodzen.squadmortarcalculator",
+"package" : "mitchellhodzen.squadmortarcalculator",
+"category" : "Tools",
+"description" : "Quickly and accurately calculate azimuth and elevation settings for your mortar emplacements for any given target in range.   -Easy to quickly input grid coordinates - no need to pull up a keyboard -Accurate down to the sub-sub-sub-keypad -Set new targets quickly - no need to re-enter mortar coordinates -Works for any sized map - Just scroll to see more grid letters and numbers -Fast and efficient - No fluff, just open the app and enter coordinates   Mitchell Hodzen is in no way affiliated with, or endorsed or sponsored by Offworld Industries. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

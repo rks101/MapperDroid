@@ -1,0 +1,11 @@
+{
+"name" : "Calculator-BMI Calculator,Unit conversion",
+"url" : "https://play.google.com/store/apps/details?id=com.orangestudio.calculator",
+"package" : "com.orangestudio.calculator",
+"category" : "Tools",
+"description" : "A feature-rich, easy-to-use calculator that solves life computing challenges.  The main function 1 Calculator function: calculation expression calculation, addition, subtraction, multiplication and division mathematics 2 Unit conversion function: temperature conversion, mass conversion, length conversion, power conversion, energy conversion, speed conversion, area conversion, volume conversion, time conversion 3 BMI Calculator: Body mass index calculation, input height and weight, calculate BMI body mass index, clear fat and thin value, suitable for daily use of weight loss people. 4 Exchange rate conversion, common exchange rate calculation, automatic calculation of currency exchange rates of major countries  We will continue to improve this app, and will add more features in the future. Welcome to feedback in the app~ ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

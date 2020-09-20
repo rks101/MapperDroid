@@ -1,0 +1,11 @@
+{
+"name" : "GFPVM",
+"url" : "https://play.google.com/store/apps/details?id=org.brightify.gfpvm",
+"package" : "org.brightify.gfpvm",
+"category" : "Tools",
+"description" : "Skoro dn stedn kola na svt nem svou aplikaci. Gymnzium Frantika Palackho Valask Mezi se od 23. nora 2014 ad mezi koly, kter ji maj.  Veker data jsou natna serverem z webu koly, nsledn se pefiltruj (m se minimalizuje poet penesench dat) a nakonec odelou do vaeho zazen. Aplikace um:   zobrazit jdelnek na nejbli dva tdny a  vypsat zmny v rozvrhu na dnen a dal pracovn den.  Uivatel m takt monost nastavit si automatick aktualizace po sputn. Almost no high school in the world has its application. Grammar School Frantisek Palacky Wallachian Mezirc from February 23, 2014 among the schools that have it.  All data are loaded from the web server of the school, then filtered (to minimize the amount of data transferred), and finally sent to your device. Applications can:   display the menu for the next two weeks  list the changes in the schedule for today and the next working day.  The user also has the option to set the automatic update after launch. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

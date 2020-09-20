@@ -1,0 +1,11 @@
+{
+"name" : "Wiggles 3D Game Box",
+"url" : "https://play.google.com/store/apps/details?id=com.Wiggles3D.GameBox",
+"package" : "com.Wiggles3D.GameBox",
+"category" : "Tools",
+"description" : "The Wiggles 3D Game Box is a helper app for use with board games by Wiggles 3D games. The first of these is the Lexigo RUSH board game.   With Game Box, you can:  TIME YOUR ROUNDS - Displayed as large, easily readable text - Simple controls allow easy set and reset - Pick from five different sound effects for when time runs out  TRACK YOUR SCORES - Keeps track of scores for up to 8 players in one app! - Remembers what your scores were, just in case you had to take a break  CHECK WORDS IN THE DICTIONARY - Not sure if something is a word? This app can tell you! - Want to show the definition? Players with an Internet connection can get definitions as they type!  READ ALL OF THE RULES - Not sure where your instructions went? Step-by-step instructions are included in the app. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

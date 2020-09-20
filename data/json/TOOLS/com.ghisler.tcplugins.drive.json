@@ -1,0 +1,11 @@
+{
+"name" : "Plugin: Drive for Totalcmd",
+"url" : "https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.drive",
+"package" : "com.ghisler.tcplugins.drive",
+"category" : "Tools",
+"description" : "This is a Total Commander plugin! Do not download if you do not use Total Commander. This plugin allows you to access your Google Drive data. Requires a Google account and Google Play services on your device.  Google Drive is a trademark of Google Inc.  Google Play is a trademark of Google Inc. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.INTERNET', 'com.ghisler.tcplugins.restricted', 'android.permission.USE_CREDENTIALS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.GET_ACCOUNTS', 'com.ghisler.tcplugins.restricted', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

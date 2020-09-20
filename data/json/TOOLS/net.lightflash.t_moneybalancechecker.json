@@ -1,0 +1,11 @@
+{
+"name" : "Shows T-money card balance",
+"url" : "https://play.google.com/store/apps/details?id=net.lightflash.t_moneybalancechecker",
+"package" : "net.lightflash.t_moneybalancechecker",
+"category" : "Tools",
+"description" : "This is a very simple application to show the T-Money card balance and last 10 transactions if available (no ads and offline)  Works in two modes:  1) shows the card balance in full screen overlay, just tap your card to NFC sensor and you will see it (make sure NFC is enabled), you dont need to run the application. 2) shows some basic info beside the balance like card ID and transaction history, to show it just run the application.  If youre not Korean you have to know that T-money card is not just a transportation card is a much more than that. First of all you will get some discount when you use it, like subway or buses. And second of all is not just for public transportation you also can use it in Taxi or you can pay in some stores like GS25, 7-Eleven, Paris Baguette, Caffe Pascucci, Lotteria and so on where you see a T-Money logo. Its highly recommended to have it while you traveling peninsula.  Supported cards:  Pretty much everything with T-Money chip inside, but no all of them of course, including One Card All Pass and Cash Bee, also some foreign cards like Japanese Suica & Momo etc.   Statement & Copyrights:  1) This is an unofficial T-Money application 2) I have no relation to T-Money owners (Korea Smart Card Co.,Ltd) 3) This is a totally offline application no data is collected or stored  If you have any questions dont hesitate to contact me...  P.S. Please note that some devices have limited NFC functionality (like for payment only) and there is no way to know which ones, so it is not necessarily this application will work for you even if you have NFC on board. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.NFC']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.NFC']",
+}

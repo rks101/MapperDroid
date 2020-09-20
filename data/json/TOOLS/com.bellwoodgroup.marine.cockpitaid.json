@@ -1,0 +1,11 @@
+{
+"name" : "CockpitAid",
+"url" : "https://play.google.com/store/apps/details?id=com.bellwoodgroup.marine.cockpitaid",
+"package" : "com.bellwoodgroup.marine.cockpitaid",
+"category" : "Tools",
+"description" : "Real-time compass with artificial horizon displaying heading, roll and pitch for vehicles, boats, and planes.  This application displays heading, roll and pitch using the devices internal 3-axis sensors. You can reduce jitter by selecting different data average and update values. You can also lock the orientation of the device and adjust for any offset in roll and pitch.  For devices with internal GPS, the application can display speed, altitude, latitude and longitude. You can enter a waypoint and display its range and bearing. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

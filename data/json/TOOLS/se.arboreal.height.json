@@ -1,0 +1,11 @@
+{
+"name" : "Arboreal - Height of Tree",
+"url" : "https://play.google.com/store/apps/details?id=se.arboreal.height",
+"package" : "se.arboreal.height",
+"category" : "Tools",
+"description" : "Now you could measure the height of a tree with high accuracy. The app uses AR technology in your phone to measure the distance from the tree and the angle to the top of the tree to get an estimate of its height.   The best tool is the one thats always with you, your phone.   You could also measure buildings, towers and bridges.  Features: - Feet/ Meter - Save measurements  In order to get the best results, hold the camera in an upright position when you walk away from the tree. Dont point the camera to the ground. Try to stand some distance from the tree and have a good view of the top of the tree.  Try five measurements for free. You could buy unlimited measurements and help us to add more features.  You get the best result with Samsung.  The app needs: - At least Android 8.0 (Oreo), We strongly recommend Android 9 (Pie)  - Google Play services for AR (https://play.google.com/store/apps/details?id=com.google.ar.core)  - One of the following phones:  https://developers.google.com/ar/discover/supported-devices#android_play ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+}

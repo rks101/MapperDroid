@@ -1,0 +1,11 @@
+{
+"name" : "Aadhaar QR Scanner",
+"url" : "https://play.google.com/store/apps/details?id=in.net.uidai.qrcodescanner",
+"package" : "in.net.uidai.qrcodescanner",
+"category" : "Tools",
+"description" : "Aadhaar QR Code Scanner is official mobile application developed by Unique Identification Authority of India (UIDAI) to provide facility of reading and validating the data present in QR code shown on eaadhaar and printed aadhaar card. The QR Code that is generated in e-aadhaar and aadhaar card is digitally signed by UIDAI and this application can read the QR Code to show the masked aadhaar number, Name, Date of Birth, Gender, Address and Photograph of the resident. Post showing the data, the application will also validate the information against the signature and show it as Aadhaar Data Verified. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

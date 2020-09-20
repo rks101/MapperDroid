@@ -1,0 +1,11 @@
+{
+"name" : "Taskmanager",
+"url" : "https://play.google.com/store/apps/details?id=de.hp.taskmanager",
+"package" : "de.hp.taskmanager",
+"category" : "Tools",
+"description" : "Features:  Gratis and ad-free  Android 5 Material design  Ignore apps you dont want to kill  Add a shortcut to your homescreen to kill all running apps using only one tap  No nasty permissions  Supported languages:  English  German  Hungarian  French  Italian ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.REAL_GET_TASKS', 'com.android.launcher.permission.INSTALL_SHORTCUT', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.GET_TASKS', 'android.permission.RESTART_PACKAGES']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.REAL_GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.RESTART_PACKAGES', 'android.permission.ACCESS_FINE_LOCATION']",
+}

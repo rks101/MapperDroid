@@ -1,0 +1,11 @@
+{
+"name" : "Code Generator",
+"url" : "https://play.google.com/store/apps/details?id=net.codemonkey.otpgeneratorapp",
+"package" : "net.codemonkey.otpgeneratorapp",
+"category" : "Tools",
+"description" : "Code Generator is a time based code generation app for not just facebook. It creates a unique login code every 30 seconds, even when you arent connected to the internet, so you always have a code when you need one. If you have login approvals turned on, you can use Code Generator instead of waiting for a text message with your login code.  How to use for facebook: Open your facebook account on your personal computer and go to settings->security setup code generator. Or you may go to this link http://on.fb.me/1dTEf8n or http://is.gd/codegen and setup code generator. Use the secret key from facebook to Add Secret in the Code Generator app.  Please note that, for successful code generation your device clock need to be in correct time and date and also set to correct time zone. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

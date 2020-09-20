@@ -1,0 +1,11 @@
+{
+"name" : "Jota+Connector for Dropbox V2",
+"url" : "https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus.dropboxv2",
+"package" : "jp.sblo.pandora.jota.plus.dropboxv2",
+"category" : "Tools",
+"description" : "Jota+ Connector for Dropbox is a plugin to connect Jota+ with Dropbox.  Install this plugin then you can activate the connectivity to Dropbox of Jota+.  This app only connect to Dropbox server.  Jota+ Connector for Dropbox includes Dropbox SDK for Android. ---------------------------- This app needs Jota+ and Jota+PRO-KEY.  ---------------------------- How to use connector. - Start Jota+. - Touch Open on the toolbar then file browser will open. - Click Hamburger icon on the top-left corner then click Settings-Storage. - Select one which you want and install a connector. - Log in to the connector. - Again open the drawer. - Click the name of the connector. - Browse directory on the file system. - Open a file.  You shouldnt use Official Dropbox App to use this app. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['jp.sblo.pandora.jota.FILE_ACCESS', 'android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['jp.sblo.pandora.jota.FILE_ACCESS']",
+}

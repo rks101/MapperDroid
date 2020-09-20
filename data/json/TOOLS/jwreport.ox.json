@@ -1,0 +1,11 @@
+{
+"name" : "MYReport Field Service",
+"url" : "https://play.google.com/store/apps/details?id=jwreport.ox",
+"package" : "jwreport.ox",
+"category" : "Tools",
+"description" : "MYReport is a practical app, useful and with a compelling graphics that will supports you through your ministery and allows ti manage your ministery report, the notes you take, the itinieraries, the bibles studies easily.  MYReport operation:   Registration of the ministery report.  Viewing the total of the monthly report or annual report of the pioneer (from september to august of the follwing year).  The possibility of sending the personal report by mail, sms, whatsapp etc...  Registration of the various territories for the notes from house to house with the possibility of view through a filter the type of territory.   Registration of people for notes from house to house with the possibility of view through a filter all the absent or the visits.  Registration of monthly itineraries.  Registration of bible studies.  Automatic setting of the language Italian, English, French, Spanish, Brazilian potuguese, Albanian, Serbian, Dutch, Russian, Czech and Indonesian.  Registration of appointments  Viewing of the personal ministery card.  The great operation that allows you to find a biblical writing by transcribing some words you remember from it and the possibility of add new biblical writing whenever you want.  Possibility of set the data by backup in case of need (ex. wrong removal of the app, purchase new phone..).  Detailed guide of the application. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WRITE_SECURE_SETTINGS']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.SEND_SMS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_SECURE_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE']",
+}

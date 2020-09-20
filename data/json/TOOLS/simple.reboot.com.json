@@ -1,0 +1,11 @@
+{
+"name" : "Simple Reboot (only for rooted devices)",
+"url" : "https://play.google.com/store/apps/details?id=simple.reboot.com",
+"package" : "simple.reboot.com",
+"category" : "Tools",
+"description" : "Itll be the best reboot youll ever experience.  Do you want to reboot and your rom doesnt have that shortcut? Simple Reboot.  Do you want to enter the recovery and you dont want to enter the line manually into the terminal? Simple Reboot.  Do you want to enter your bootloader to use fastboot and there is no way reboot into it? Simple Reboot.  Now also including a Soft Reboot and Safe Mode reboot options!  Restart SystemUi without rebooting your device.  Be afraid no more! This simple application gives you all the shortcuts for all these tasks without having to type it into command line or adb. You just need root and youre good to go!!!  It only does what its advertised, no shady permissions or data collection.  For transparency the source code is available here: https://github.com/franciscofranco/Simple-Reboot-app   It just works ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

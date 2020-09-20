@@ -1,0 +1,11 @@
+{
+"name" : "Media converter",
+"url" : "https://play.google.com/store/apps/details?id=com.saulawa.mediaconverter.fast_media_converter_free",
+"package" : "com.saulawa.mediaconverter.fast_media_converter_free",
+"category" : "Tools",
+"description" : "With media converter, you can convert your favorite media files to other formats, easily and efficiently. Media converter is well engineered to meet users needs.  The app has the following features: Fast conversion. Support batch conversion. Background conversion. Video to audio converter. Simple and clean UI. Audio extractor.  You can convert your media files to mp3, FLAC,aac, alac, mkv, flv, mov, mp4 etc   Please support the project by giving it a five-star rating. more features will be added in the future. The app is based on the opensource project Media converter built on top of FFMPEG here is the link   https://github.com/Khang-NT/Android-Media-Converter ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "ANY WIDGET - your own mobile dashboard",
+"url" : "https://play.google.com/store/apps/details?id=app.anywidget.anywidget",
+"package" : "app.anywidget.anywidget",
+"category" : "Tools",
+"description" : "ANY WIDGET - is a super simple way to create your own everyday mobile dashboard from existing widgets or for any API data. It will fetch your URL and show important info  Create your own mobile dashboard from widgets created by you. Create any widget from any URL and display any information. Be in touch with your important information! Share created widgets with anyone you want.  This app helps you organize important information from any source of data and provide you a simple way for fast analitycs.  Its very simple - just provide title, icon, URL, time to poll this URL, and type of data returned by the URL.  Data format returned by the URL can be: plain text, JSON or HTML.   Plain text will be shown as is;  JSON - will show you values of objects inside for whole structure or for only one param by JSON-path;  HTML - will show you text inside elements by CSS Query selector. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "DS Voyager controller",
+"url" : "https://play.google.com/store/apps/details?id=com.digitalsputnik.voyagercontroller",
+"package" : "com.digitalsputnik.voyagercontroller",
+"category" : "Tools",
+"description" : "Position your lights in the scene.  Snap pictures of the lighting setup and your lights can be detected and mapped.  Pick a color or effect to selected lamps. Use mapping tool to position lamps on the effect.  The professional lighting industry has used light controller boards for remote operation of lights for over three decades. Digital Sputnik has spent countless weeks to come up with an interface that would provide the same flexibility with a much simpler learning curve.  This software works only with Digital Sputnik Voyager LED -lamp. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.CHANGE_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Video to Mp3 Converter",
+"url" : "https://play.google.com/store/apps/details?id=video.to.mp3",
+"package" : "video.to.mp3",
+"category" : "Tools",
+"description" : "Video to Mp3 Converter is an easy tool to local videos from your device to Mp3 (Audio). Video to MP3 Converter provides an elegant and easy to use interface that allows you to browse through your files and select the video you want to convert to MP3 with just one click. Not only that, but also you can browse through converted files to play or share anytime!  With Video to MP3 Converter you can simply open the video you want to convert from the file manager and choose to complete the action using video to MP3 converter in order to convert the video to MP3.  How to use Video to MP3 Converter (Method 1): 1- Open the application then click browse. 2- Select the video you want to convert. 3- Click convert.  How to use Video to MP3 Converter (Method 2): 1- Open your preferred file manager. 2- Navigate to the video to convert and open it. 3- Choose to complete the action using Video to MP3 Converter when prompted.   Features: - Quality customization. - Ease of use. - Light weight. - Play, share and manage your converted files.  * Video to MP3 Converter uses ffmpeg and libmp3lame (LGPL) libraries as codec. ",
+"desc_perms" : "['android.permission.CAMERA']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION']" 
+}

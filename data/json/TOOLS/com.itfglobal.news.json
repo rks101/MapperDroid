@@ -1,0 +1,11 @@
+{
+"name" : "ITF Global",
+"url" : "https://play.google.com/store/apps/details?id=com.itfglobal.news",
+"package" : "com.itfglobal.news",
+"category" : "Tools",
+"description" : "The ITF Global app brings you the latest news from the International Transport Workers Federation wherever you are. Download it now to your smartphone and get:  - news alerts from the ITF delivered to your phone - personalised news feed: with My News you can select transport sections or regions to receive the news that matters to you most  - articles automatically downloaded for offline reading later - social media sharing for stories to promote the ITFs work to your networks - contact details for the ITF, our regional offices and our sections  About: The ITF is a democratic global union federation of 665 transport workers trade unions representing over 18 million workers in 147 countries.  The ITF works to improve the lives of transport workers globally, encouraging and organising international solidarity among its network of affiliates. The ITF represents the interests of transport workers unions in bodies that take decisions affecting jobs, employment conditions and safety in the transport industry. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'com.itfglobal.news.permission.C2D_MESSAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

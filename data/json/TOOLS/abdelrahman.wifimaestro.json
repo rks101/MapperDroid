@@ -1,0 +1,11 @@
+{
+"name" : "WiFi Maestro - Speed Test & Block Devices",
+"url" : "https://play.google.com/store/apps/details?id=abdelrahman.wifimaestro",
+"package" : "abdelrahman.wifimaestro",
+"category" : "Tools",
+"description" : "Manage your router like a Maestro! Check the speed and quality of your Internet connection with our accurate unbiased speed test and control your WiFi router.  WiFi Maestro allows you to test and compare internet speed between two different WiFi channels, A new way to find the best channel for your router based on real tests. With just a click you can see who is connected to your WiFi router in real-time and easily block unauthorized strange devices from connecting to your network.  Features: - Download Speed Test - Compare two WiFi channels - Latency and Jitter Test - Check whos connected to WiFi - View default router password - Access router settings - Change your WiFi channel, Password, Name + Much More! ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

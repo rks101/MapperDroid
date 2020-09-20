@@ -1,0 +1,11 @@
+{
+"name" : "ShareListener",
+"url" : "https://play.google.com/store/apps/details?id=com.laurencedawson.sharelistener",
+"package" : "com.laurencedawson.sharelistener",
+"category" : "Tools",
+"description" : "A simple app that registers itself as a Browser. When opened, the link is then shared and can be opened with any apps that listen for the share intent.  Useful for apps that dont have a share functionality but allow users to click on links.  Requested on /r/android: http://www.reddit.com/r/Android/comments/185aul/is_there_an_app_that_registers_itself_as_a/ ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

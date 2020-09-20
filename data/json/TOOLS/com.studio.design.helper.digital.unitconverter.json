@@ -1,0 +1,11 @@
+{
+"name" : "Unit Converter",
+"url" : "https://play.google.com/store/apps/details?id=com.studio.design.helper.digital.unitconverter",
+"package" : "com.studio.design.helper.digital.unitconverter",
+"category" : "Tools",
+"description" : "This unit converter is the most intuitive and easy to use. It also has a beautiful and optimized UI.  Features:  Completely free.  Beautiful UI.  Instant Conversion as you type.  Convert to all units simultaneously.  Currency conversion with over 30 currencies.   Available Units:  Angle  Area  Binary  Concentration  Currency  Current  Data  Density  Flow  Force  Fuel  Illuminance  Length  Power  Prefix  Pressure  Radiation  Speed  Temperature  Time  Torque  Viscosity  Voltage  Volume  Weight  Work ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

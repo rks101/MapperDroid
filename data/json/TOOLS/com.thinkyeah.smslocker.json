@@ -1,0 +1,11 @@
+{
+"name" : "Message Lock (SMS Lock)",
+"url" : "https://play.google.com/store/apps/details?id=com.thinkyeah.smslocker",
+"package" : "com.thinkyeah.smslocker",
+"category" : "Tools",
+"description" : " Lock your messages from prying eyes   Do your friends always borrow your phone to play games? Do you concern your short messages may be read by people you do not want to? SMS Lock helps you out!  SMS Lock is a light tool to protect your personal short messages (SMS & MMS). The cute lock is designed upon Android system level, to provide fully privacy protection to your short message box (Messaging). After enabling SMS Lock, there will be lock pattern protection when opening short message apps. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.PACKAGE_USAGE_STATS', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.GET_ACCOUNTS', 'android.permission.READ_LOGS', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.PACKAGE_USAGE_STATS', 'android.permission.ACCESS_WIFI_STATE', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.GET_ACCOUNTS', 'android.permission.READ_LOGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

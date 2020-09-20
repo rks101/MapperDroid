@@ -1,0 +1,11 @@
+{
+"name" : "Screen Off Lite",
+"url" : "https://play.google.com/store/apps/details?id=com.auronapp.offlite",
+"package" : "com.auronapp.offlite",
+"category" : "Tools",
+"description" : "Screen Off app allows to lock the screen with 1 click. If your power button is broken, or difficult to reach, Screen Off Lite saves you.   Lite Features: - 8 Colorful Icons - 2 Lock Methods (works with Fingerprint lock) - No Advertisements, Well Designed, Customer Support   PRO Features:  - 16 Colorful Icons - 6 Screen Lock Sounds - 6 Screen Unlock Sounds - Floating Button over All Apps - Add Lock Icon to Notification Bar - 4 Languages Support - Widgets   Get PRO version from below Screen Off Pro  This app uses the Device Administrator permission. It is necessary to be able to turn off the screen. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_SETTINGS', 'com.android.launcher.permission.INSTALL_SHORTCUT']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Secure Eraser",
+"url" : "https://play.google.com/store/apps/details?id=com.aiuspaktyn.secureeraser",
+"package" : "com.aiuspaktyn.secureeraser",
+"category" : "Tools",
+"description" : "Wipe free disk space to prevent deleted data restoration. DTEK  Data erasure (also called data clearing or data wiping) is a software-based method of overwriting the data that aims to completely destroy all electronic data residing on a hard disk drive or other digital media.   random fill (-RANDOM-)  zero fill (0000-0000)  f fill (FFFF-FFFF)  Permanent data erasure goes beyond basic file deletion commands, which only remove direct pointers to the data disk sectors and make the data recovery possible with common software tools. Unlike degaussing and physical destruction, which render the storage media unusable, data erasure removes all information while leaving the disk operable, preserving IT assets and the environment.  Secure Eraser provides a way to reset the SSD to its factory default state if there is a problem with the performance.  junk data  Note: Wiping free space can take a substantial amount of time.  Peter Gutmann VS BCWipe. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+}

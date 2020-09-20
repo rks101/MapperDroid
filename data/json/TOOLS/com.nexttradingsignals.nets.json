@@ -1,0 +1,11 @@
+{
+"name" : "Nâ‚¬t$ - Next Trading Signals",
+"url" : "https://play.google.com/store/apps/details?id=com.nexttradingsignals.nets",
+"package" : "com.nexttradingsignals.nets",
+"category" : "Tools",
+"description" : "Receive trading signals always and everywhere!  Through our app you get trading signals for all major currency pairs. The signals are executed both manually by real professional traders, as well as by a mathematically calculated algorithms. The free Nt$ - Next Trading Signals app is a handy tool developed by traders for traders or those who want to become one. The Nets App is perfect for those who want to enter the trading world because of its easy handling.  - 25-40 trading signals daily - Relaxed entry, manual signals with pre function - The last 100 signals clearly summarized - Forex trades with take profit, stop / loss instruction - Ad-free subscription in Premium mode possible (cancellable monthly)  We wish you successful trades and have fun with the Nets App! Please note, even with our signals you have no 100% Quote. So use the app to the best of your knowledge and belief.   Trading is risky and can lead to the loss of your capital. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

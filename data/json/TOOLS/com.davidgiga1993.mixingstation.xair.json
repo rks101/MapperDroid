@@ -1,0 +1,11 @@
+{
+"name" : "Mixing Station X Air",
+"url" : "https://play.google.com/store/apps/details?id=com.davidgiga1993.mixingstation.xair",
+"package" : "com.davidgiga1993.mixingstation.xair",
+"category" : "Tools",
+"description" : "Control your Behringer X AIR series mixer with your smartphone or tablet.  WARNING: THIS APP DOES NOT PLAY ANY SOUND! ITS FOR REMOTE CONTROLLING ONLY!  Features: - RTA overlay in PEQ view - RTA averaging - Level timeline for gate and dynamics (pro version) - Peak hold for all meters with changeable hold time (pro version) - Peq preview in channel strip (pro version) - High contrast mode for outdoor usage (pro version) - Popgroups (pro version) - Routing Matrix - Create unlimited DCA groups (IDCAs) - Customizeable layer, channel order and mutegroup labels - Up to 32 channels visible channels per layer - Runs on smartphones and tablets - Direct email support - Much more :-) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+}

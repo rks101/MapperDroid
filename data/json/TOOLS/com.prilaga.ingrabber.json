@@ -1,0 +1,11 @@
+{
+"name" : "in Grabber",
+"url" : "https://play.google.com/store/apps/details?id=com.prilaga.ingrabber",
+"package" : "com.prilaga.ingrabber",
+"category" : "Tools",
+"description" : "in Grabber helps to save public photos and videos from posts (feed line), stories, highlights, igtv for Instagram social network.  Basic features: * Save photo & video. * Save IGTV on users profile * Search for users. * Repost photo & video with caption. * List of downloaded photos & videos. * Watch any video. * Share to other apps. * Save stories for reposting. * Download story to local storage  Note: * Please ask owner approval before reposting of any downloaded content. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE']",
+}

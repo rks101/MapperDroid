@@ -1,0 +1,11 @@
+{
+"name" : "Birthday Countdown",
+"url" : "https://play.google.com/store/apps/details?id=kulana.tools.birthdaycountdown",
+"package" : "kulana.tools.birthdaycountdown",
+"category" : "Tools",
+"description" : "This simple and clean Birthday Countdown counts down the months, days, hours, minutes and SECONDS to your birthday or a birthday of a special person in your life.  FEATURES - Share your countdown on Facebook, WhatsApp, Skype, Email etc - Choose your favorite background picture  - Choose your favorite theme - Read and share the Birthday Quote of the day   NEW: Birthday wish list  Countdown to an important birthday with this beautiful free Birthday Countdown App! ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.SET_WALLPAPER_HINTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SET_WALLPAPER', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SET_WALLPAPER_HINTS', 'android.permission.BROADCAST_STICKY', 'android.permission.SET_WALLPAPER', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

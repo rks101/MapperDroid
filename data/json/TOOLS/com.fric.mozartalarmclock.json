@@ -1,0 +1,11 @@
+{
+"name" : "Mozart Alarm Clock",
+"url" : "https://play.google.com/store/apps/details?id=com.fric.mozartalarmclock",
+"package" : "com.fric.mozartalarmclock",
+"category" : "Tools",
+"description" : "Does listening to Mozart make you smarter? Find out for yourself!   Treat yourself to over three hours of Mozarts finest works! Whether you are a classical music affectionado, or just familiarizing yourself with the classical scene, Mozarts work will surely start your day off on an energetic and creative note!  Choose from over 30 full-length compositions!  This app features gradual light and sound, and will wake you gently, pleasantly, and reliably. The music starts softly, with a dark background, and the music loudens as the background brightens, illuminating beautiful scenery containing nature and flowers. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

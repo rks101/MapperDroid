@@ -1,0 +1,11 @@
+{
+"name" : "Shake Me",
+"url" : "https://play.google.com/store/apps/details?id=com.clevermobile.shakeme",
+"package" : "com.clevermobile.shakeme",
+"category" : "Tools",
+"description" : "Shake Me - is a clever and convenient way to use your phone or tablet. You can turn On/Off camera flash light, run any application you want just by shaking your android device. Available actions are:  Turn camera flashlight On/Off.  Run any application that you have installed in your device: camera, calculator, etc...  If you have some questions or suggestions, please contact us via email: polis@clevermobile.net ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.VIBRATE', 'com.android.vending.BILLING', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.CAMERA', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

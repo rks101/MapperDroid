@@ -1,0 +1,11 @@
+{
+"name" : "â�°Dual Clock Widget",
+"url" : "https://play.google.com/store/apps/details?id=com.om.dualclock",
+"package" : "com.om.dualclock",
+"category" : "Tools",
+"description" : "If your location is missing, find a place in the same time zone & change the clock title: (1) Find another city/location in the same time zone, and add it.  (2) Click on the new city and select Edit Clock.  (3) Rename the clock title & description and click on OK.  Small, easy to read and highly customizable, Simple World Clock Widget. Refreshed with Material design, a simple world clock right on your home screen exactly the way you want it. Features Custom Time zone  Custom Background color Custom label, text size and color Set application shortcuts by tapping clock   To add this widget, simply long press on your home screen and select Simple World Clock Widget. Some devices need different way to add widgets. Please check the manual of your device to add home screen widgets. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.vibrate', 'android.permission.ACCESS_COURSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

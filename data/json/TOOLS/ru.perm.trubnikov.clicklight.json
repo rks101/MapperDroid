@@ -1,0 +1,11 @@
+{
+"name" : "Triple-Click Flashlight",
+"url" : "https://play.google.com/store/apps/details?id=ru.perm.trubnikov.clicklight",
+"package" : "ru.perm.trubnikov.clicklight",
+"category" : "Tools",
+"description" : "Simple flashlight. To turn on the flashlight just click 3 times on your phones hardware Power Button. Make sure that you click not very fast (the screen should turn on/off). So, if you click 3 times during 2 seconds interval (yo can change it in Settings), the flashlight will turn on. To turn it off, click 3 times again.  ATTENTION!!! In-app purchases are only used for donations!  KEY FEATURES  Works on every smartphone or tablet with flash, running Android 2.2 and higher  Allows to turn on and off flashlight without looking on your phones screen (using the hardware power button)  Option to choose the time interval for the triple-click commitment  Vibration feedback option on flashlight toggle  Works even when the screen is locked  Movable on the SD card  Completely Open Source application. Absolutely free and has no advertising  Multiple-language support (thanks to all translators!)  Automatic switch off option  CONTRIBUTE  Report an Issue on the Github page: http://goo.gl/FKUiFq  Do you like the app? Please comment and share on Twitter, Google Plus or wherever you like. Thanks!  USEFUL LINKS  XDA-Developers thread: http://goo.gl/X4t730 ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE', 'android.permission.vibrate', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.FLASHLIGHT', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.CAMERA', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+}

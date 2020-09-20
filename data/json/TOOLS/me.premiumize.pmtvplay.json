@@ -1,0 +1,11 @@
+{
+"name" : "Premiumize TV",
+"url" : "https://play.google.com/store/apps/details?id=me.premiumize.pmtvplay",
+"package" : "me.premiumize.pmtvplay",
+"category" : "Tools",
+"description" : "Easily browse and play your cloud content on your AndroidTV just like you would on our official mobile app or browser.  Premiumize.me lets you remotely download and collect files from the biggest file and video services of the world. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "[]",
+}

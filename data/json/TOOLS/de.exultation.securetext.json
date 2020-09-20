@@ -1,0 +1,11 @@
+{
+"name" : "Text Encrypter",
+"url" : "https://play.google.com/store/apps/details?id=de.exultation.securetext",
+"package" : "de.exultation.securetext",
+"category" : "Tools",
+"description" : "Encrypting texts is similar to enclosing a text into a safe. To enclose the text in the safe, a secret key is used for enclosing the Text into the safe. If you want to encrypt a text, first enter a secret key . The key can be any string. Then enter the text to be encrypted in the input field in the input area. If you do not enter a secret key, Secure Text will use an internal secrect key.  The encrypted text is now displayed in the output area. To transfer the encrypted text to another app, tap the share icon or on the output area, to share the encrypted text with other apps.  If you want to decrypt a text, you will need the secret key with which the text was encrypted.  Make sure that the decode icon is displayed in the lower right corner of the input area and in the output area. If not, tap the icon to toggle in to the decrypt mode. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

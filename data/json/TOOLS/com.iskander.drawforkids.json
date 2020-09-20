@@ -1,0 +1,11 @@
+{
+"name" : "Doodle",
+"url" : "https://play.google.com/store/apps/details?id=com.iskander.drawforkids",
+"package" : "com.iskander.drawforkids",
+"category" : "Tools",
+"description" : "It is proved that drawing has a positive effect on children by developing fine motor skills, imagination and memory. For adults, this hobby helps to relieve stress and relax emotionally. The functionality drawing application is simple and intuitive, which allows you to start drawing immediately after installation. The toolbar already has a set of colors for quick access, if it turns out to be small, you can always use the color palette with flexible settings. Among the functions of the app are: resizing the brush, saving the picture in the gallery, eraser, cleaning the canvas, the ability to add a photo or drawing from the gallery or camera, draw on the photo, undo the last actions, return the canceled actions, share the pictures on social networks. The application is adapted to different sizes and screen resolutions, i.e. it can draw with a finger on the screen of both the tablet and the phone. The application is intended for children and adults. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_CONTACTS']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

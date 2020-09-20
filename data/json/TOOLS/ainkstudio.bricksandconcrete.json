@@ -1,0 +1,11 @@
+{
+"name" : "Builder Calculator - Concrete Volume Calculator",
+"url" : "https://play.google.com/store/apps/details?id=ainkstudio.bricksandconcrete",
+"package" : "ainkstudio.bricksandconcrete",
+"category" : "Tools",
+"description" : "Builder Calculator - Concrete Volume Calculator is a simple tool to calculate volume of footings, slab, square column, round column, and steel weight. It also calculate total cost and quantity of concrete needed for construction of footings, slab, square column and round column. .............................  Builder Calculator - Concrete Volume Calculator features : - Calculates volume and total cost for different types of footings, slab, square column and round column. - Calculates weight and total cost for different types of steel. ................................ - Calculates concrete mix  Amount of concrete cement, sand, gravel and water for given volume. - How many premix concrete bags required for your project. ................................ -Edit option to set your own bag size and rate of premix bags. - Calculates quantity of bricks needed to build a wall.  - Calculates quantity of bricks needed to build a circle wall.  - Calculates quantity of blocks needed to build a wall.  ................................. - Unit converters ( length unit converter, area unit converter, volume unit converter and weight unit converter ). ................................. - Metric or imperial Units support - It is free, fast, simple and easy to use. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

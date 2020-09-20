@@ -1,0 +1,11 @@
+{
+"name" : "ILS Toolkit",
+"url" : "https://play.google.com/store/apps/details?id=io.appery.project197795",
+"package" : "io.appery.project197795",
+"category" : "Tools",
+"description" : "The ILS Toolkit provides formulas and information for Instrument Landing System Technicians and Engineers.  It simplifies the calculations required for many ILS system adjustments and provides a quick reference to useful information that is difficult to find in technical manuals especially when working in an outdoor airport environment.  Some of the tools include: Width adjustment, Localizer Null Cutting, Glide Slope antenna heights/offsets, antenna phaser zeroing, distribution magnitude/phase, conversion, and much more...  Issues:  Some Samsung devices do not display the decimal point on the numeric keyboard. For now I recommend downloading the free SwiftKey keyboard from Google Play. Its easy to switch back and forth between keyboards. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

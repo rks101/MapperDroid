@@ -1,0 +1,11 @@
+{
+"name" : "Conkeeper",
+"url" : "https://play.google.com/store/apps/details?id=org.pingtools.connkeeper",
+"package" : "org.pingtools.connkeeper",
+"category" : "Tools",
+"description" : "Conkeeper is a simple app that helps you to solve problems with unstable internet connectivity.  The app runs in the background and performs endless HTTP requests to a remote server. Thanks to this, your Internet connection remains in good shape and other apps, such as online games, vpns, etc. begin to work smoothly.  Unlike other apps, Conkeeper uses its own HTTP servers. All you need to do is choose one of more than 20 servers worldwide to achieve the best results. This unique feature effectively use the connection and save your traffic.  So if you encounter lags in online games, if your connection is not stable and often lost - Try Conkeeper and keep it Toned! ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

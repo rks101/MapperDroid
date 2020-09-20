@@ -1,0 +1,11 @@
+{
+"name" : "LoginTC",
+"url" : "https://play.google.com/store/apps/details?id=com.cyphercor.logintc",
+"package" : "com.cyphercor.logintc",
+"category" : "Tools",
+"description" : "A simple, secure cybersecurity solution in the palm of your hand. This LoginTC app works with LoginTC-enabled digital assets (VPNs, websites or applications) to protect your logins via two-factor authentication in three easy steps: receive, decide, unlock.  Users receive an administrator-issued Activation Code to establish a credential in the LoginTC app. The app, which acts as a credential manager, allows users to store multiple tokens for access to multiple LoginTC-enabled assets and accounts. Access requests will pop up on your phone via wireless push notification. Approve or deny with the tap of a finger! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

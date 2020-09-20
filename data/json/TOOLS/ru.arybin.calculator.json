@@ -1,0 +1,11 @@
+{
+"name" : "Simple Calculator",
+"url" : "https://play.google.com/store/apps/details?id=ru.arybin.calculator",
+"package" : "ru.arybin.calculator",
+"category" : "Tools",
+"description" : "Calculator is an application which must be in all devices, because no one knows when and where you need to calculate something. This calculator is very easy to use, it does not have any scary and complicated functions, only those that are in the usual everyday pocket calculator. It has big numbers to allow you easily calculate everything even on the small screen. In addition, you can always change the color of this calculator, if youre tired of everyday gray colors... You can for example choose the pink :) The main advantages of this calculator is: - Simplicity and ease of use. - Big numbers. - Stylish design. - Ability to change colors, you just need to click the menu and go to the settings.  https://twitter.com/antontkapps ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

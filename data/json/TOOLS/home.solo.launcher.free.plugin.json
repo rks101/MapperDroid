@@ -1,0 +1,11 @@
+{
+"name" : "Solo Lock Screen",
+"url" : "https://play.google.com/store/apps/details?id=home.solo.launcher.free.plugin",
+"package" : "home.solo.launcher.free.plugin",
+"category" : "Tools",
+"description" : "The product of Solo System by NewBornTown(NewBorn-Town). Simple and easy application to turn off your device with Solo Launcher. This plugin will enable Solo Launcher to use Double-tap to turn off screen feature. Locker Screen Master  HOW TO UNINSTALL - Please enter Solo Lock Screen, click on the Close button, and then uninstall as usual. OR - Disable administrator permissions in Settings -> Location & Security -> Select device administrators -> uncheck TurnOffScreen. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET']",
+}

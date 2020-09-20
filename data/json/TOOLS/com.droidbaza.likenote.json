@@ -1,0 +1,11 @@
+{
+"name" : "Like Note - notepad with voice input",
+"url" : "https://play.google.com/store/apps/details?id=com.droidbaza.likenote",
+"package" : "com.droidbaza.likenote",
+"category" : "Tools",
+"description" : "Simple and handy notepad. Safely stores your thoughts, goals, objectives and any other information!  + Take notes in seconds  + Create a reminder  + Auto-save notes when you press the back button  + Speech recognition function (requires internet connection)  + Share your note with other apps.  + Text search function for all notes  + No ads ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

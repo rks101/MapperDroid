@@ -1,0 +1,11 @@
+{
+"name" : "Darts Score Easy scoreboard",
+"url" : "https://play.google.com/store/apps/details?id=com.cynto.dartsscoreboard",
+"package" : "com.cynto.dartsscoreboard",
+"category" : "Tools",
+"description" : "Simple scoreboard for darts.  Game Types: 101, 201, 301,..., 1001 (with finish suggestions and average scores) and Cricket  From 1 to 4 Players Available also on iOS Thank you for downloading my app, if you need new features or observe some bugs please feel free to contact me :) ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

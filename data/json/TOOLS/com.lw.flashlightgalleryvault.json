@@ -1,0 +1,11 @@
+{
+"name" : "Flashlight Gallery Vault",
+"url" : "https://play.google.com/store/apps/details?id=com.lw.flashlightgalleryvault",
+"package" : "com.lw.flashlightgalleryvault",
+"category" : "Tools",
+"description" : "Flashlight gallery vault is a secret gallery vault which can be used for hide your photos/videos and other files and secure your hidden data by secret pin code.  Flashlight can be used for turn on/off LED light and if you long press on flashlight title actual gallery vault will be open.  Features: Image slideshow,video player, share hidden files, fingerprint lock. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.CAMERA']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.USE_FINGERPRINT', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

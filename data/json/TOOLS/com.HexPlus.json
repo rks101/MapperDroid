@@ -1,0 +1,11 @@
+{
+"name" : "Hex Converter Plus",
+"url" : "https://play.google.com/store/apps/details?id=com.HexPlus",
+"package" : "com.HexPlus",
+"category" : "Tools",
+"description" : "Primarily for converting between number bases, but also with simple calculator functions and the advantage of showing simultaneously the same number in Decimal, Octal, Hex, Binary and ASCII. Optional base 3-9 capability (replaces octal). Most calculators display only a single row of digits - this one displays five lines at once.  63-bit capability. Calculator functions AND, OR, XOR, NOT and Shift included. Copy and paste to clipboard.  It is designed for the buttons to be pressed on the screen - you cant use a hardware keyboard.  Android 4.03+. Screens normal or larger (does not support small screens). Full functionality both portrait and landscape on large screen tablet devices.  Now also displays ASCII. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

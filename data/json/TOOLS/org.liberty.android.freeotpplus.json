@@ -1,0 +1,11 @@
+{
+"name" : "FreeOTP+ (2FA Authenticator)",
+"url" : "https://play.google.com/store/apps/details?id=org.liberty.android.freeotpplus",
+"package" : "org.liberty.android.freeotpplus",
+"category" : "Tools",
+"description" : "FreeOTP+ is an free and open-sourced 2FA autenticator forked from the original FreeOTP with additional feature to help backup, restore and interoperate with other OTP authentication clients.  Additional feature: 1. Back up the data to Google Drive or other storage 2. Restore data from Google Drive or other storage 3. Material design and updated UI. 4. Android 6.0 on-demand permission support 5. Android 6.0 backup support. After reinstalling, all your saved authentications will come back. 6. Dark theme support 7. Search token  Source code: https://github.com/helloworld1/FreeOTPPlus Original FreeOTP: here: https://play.google.com/store/apps/details?id=org.fedorahosted.freeotp&hl=en ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

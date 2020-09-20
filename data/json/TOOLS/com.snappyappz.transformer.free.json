@@ -1,0 +1,11 @@
+{
+"name" : "Transformer Calculator Free",
+"url" : "https://play.google.com/store/apps/details?id=com.snappyappz.transformer.free",
+"package" : "com.snappyappz.transformer.free",
+"category" : "Tools",
+"description" : "Transformer Calc is a fast, easy way to create a schedule of transformer calculations for any size of job or just to perform a single calculation on the fly. Put your pencil down and start making professional, consistent calculations today.   - Create and save multiple jobs each with multiple transformers.  - Create an unlimited list of calculations for each job that automatically save.  - Solve overcurrent sizing, wire sizing, conduit sizing, bond and ground sizing and more. - Export your results to a spreadsheet for formatting or printing.  - Print directly from the app. - Support for 2014 NEC and 2018 CEC. - Support for low and high voltage. - Easily choke down your transformers and see results instantly recalculate. - Built in construction calculator allows intermediate calculations to be performed within the app. - Built in conversion calculator. - Includes torque calculator. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

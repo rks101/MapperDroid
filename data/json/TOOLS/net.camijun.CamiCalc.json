@@ -1,0 +1,11 @@
+{
+"name" : "Cami Calculator",
+"url" : "https://play.google.com/store/apps/details?id=net.camijun.CamiCalc",
+"package" : "net.camijun.CamiCalc",
+"category" : "Tools",
+"description" : "Cami Calculator performs the same function as the Casio Calculator.  Cami Calculator is easy to use, because size of button is designed larger. Support the buttons on a variety of themes, so depending on personal taste or mood, try changing the theme of a button.  Please use it habitually. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Screen Size",
+"url" : "https://play.google.com/store/apps/details?id=tw.url.omega.screensize",
+"package" : "tw.url.omega.screensize",
+"category" : "Tools",
+"description" : "Screen Size is a handy tool for UI designers or engineers.  Enter screen size in pixel and diagonal in inch, and then you will get screen size in inch/cm, resolution in ppi, and common aspect ratios such as 16:9 (full version only). Common screen sizes are included.  Free version:  > No common aspect ratios supported. > With ads.   Full version:  > Show common aspect ratios if matched. > No ads, no distractions. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_VIDEO', 'android.permission.VIBRATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_CONTACTS']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_VIDEO', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_CONTACTS']",
+}

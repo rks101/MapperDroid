@@ -1,0 +1,11 @@
+{
+"name" : "EzCalculators",
+"url" : "https://play.google.com/store/apps/details?id=com.scientific.calculator",
+"package" : "com.scientific.calculator",
+"category" : "Tools",
+"description" : "This app is free.   This app has no ads.  This app does not need any system permission.   This app does not need internet connection.  EzCalculator for Android helps you to do basic and advanced math calculation. This app includes the following calculators:  1. Math Calculator with regular and scientific functions. The app stores the calculation history. 2. Fraction Calculator 3. Fraction and Decimal converter 4. Unit Converter 5. Tips Calculator 6. Discount Calculator 7. Percentage Calculator  Please report issue or suggestion to the developer at pfinanceapp@gmail.com. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

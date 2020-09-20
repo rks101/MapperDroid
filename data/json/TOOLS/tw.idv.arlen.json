@@ -1,0 +1,11 @@
+{
+"name" : "Invoice123",
+"url" : "https://play.google.com/store/apps/details?id=tw.idv.arlen",
+"package" : "tw.idv.arlen",
+"category" : "Tools",
+"description" : "OCR invoice number: tesseract 3.0 tess-two  barcode scanner: zxing ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.VIBRATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_SETTINGS', 'android.permission.READ_PHONE_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.FLASHLIGHT', 'com.android.vending.CHECK_LICENSE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.CAMERA', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.CHECK_LICENSE']",
+}

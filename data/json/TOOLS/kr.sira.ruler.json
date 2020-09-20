@@ -1,0 +1,11 @@
+{
+"name" : "Smart Ruler",
+"url" : "https://play.google.com/store/apps/details?id=kr.sira.ruler",
+"package" : "kr.sira.ruler",
+"category" : "Tools",
+"description" : "Smart Ruler is in the 1st set of the Smart Tools collection.  This app measures the length of a small object by touching the screen.  Usage is very simple. 1. Put an object on the screen of your device. 2. Adjust the object to the left of the screen. 3. Touch the screen, adjust the red line and read the length.  * Main features: - Multi-touch - Meter <-> Inch - Background color - Material design  I calibrated a lot of android devices. Currently, there are 15,000+ Android devices. If there is an error, you can input correct width with [Calibrate] menu for yourself. If possible, let me know through email.   * Pro version added features: - No ads - Caliper mode - Architectural and Engineering Scales - Ruler Extension - Various Tilt units - Protractors, Level, Thread pitch  * Do you want more tools? download [Smart Ruler Pro] and [Smart Tools] package.  For more information, watch YouTube and visit the blog. Thank you. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

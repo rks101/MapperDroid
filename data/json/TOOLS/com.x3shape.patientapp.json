@@ -1,0 +1,11 @@
+{
+"name" : "my3Shape for Patients",
+"url" : "https://play.google.com/store/apps/details?id=com.x3shape.patientapp",
+"package" : "com.x3shape.patientapp",
+"category" : "Tools",
+"description" : "Whether you are following orthodontic treatments, planning your new smile, or you simply want to see your teeth for yourself in 3D, this app is for you.  As a dental patient, you can now stay up-to-date by inspecting your 3D scans, designs and smile images, and share with friends and family - anytime, anywhere!   Disclaimer: Older devices might not be able to show bigger 3D models due to memory limitations.  NOTE: Supported browsers for login are Chrome, Microsoft Edge and Samsung Internet. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_LOGS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MANAGE_DOCUMENTS', 'android.permission.INTERNET', 'android.permission.USE_FINGERPRINT', 'android.permission.BIND_NOTIFICATION_LISTENER_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.READ_LOGS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MANAGE_DOCUMENTS', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BIND_NOTIFICATION_LISTENER_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+}

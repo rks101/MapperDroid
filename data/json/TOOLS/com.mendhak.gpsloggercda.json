@@ -1,0 +1,11 @@
+{
+"name" : "Central De Angeles - GPSLogger",
+"url" : "https://play.google.com/store/apps/details?id=com.mendhak.gpsloggercda",
+"package" : "com.mendhak.gpsloggercda",
+"category" : "Tools",
+"description" : "Ayuda a localizar el celular en donde se encuentra en tiempo real. Debe estar registrado en la Plataforna de Central de Angeles/TaxinTime para visualizar los mapas.  Help you to find your cell phone where it is in real time. To see maps must be registered in Central de Angeles/TaxinTime plattform.  http://www.centraldeangeles.com/  http://www.taxintime.org/ Helps locate the cell where it is in real time. You must be registered in the Central Plataforna Angeles / TaxinTime to display the maps.  Help you to find your cell phone where it is in real time. To see maps must be registered in Central Angeles / TaxinTime plattform.  http://www.centraldeangeles.com/  http://www.taxintime.org/ ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_CREDENTIALS', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.GET_ACCOUNTS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

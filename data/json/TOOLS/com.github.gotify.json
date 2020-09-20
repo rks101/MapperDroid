@@ -1,0 +1,11 @@
+{
+"name" : "Gotify",
+"url" : "https://play.google.com/store/apps/details?id=com.github.gotify",
+"package" : "com.github.gotify",
+"category" : "Tools",
+"description" : "Gotify is a server for sending and receiving messages in real-time per web socket. This app subscribes to the web socket and creates push notifications on new messages.  Gotify and this app are open source. You can view the source code on GitHub https://github.com/gotify   Note: A self-hosted Gotify-server is needed for this app to work, an explanation on how to set up Gotify server is displayed on https://gotify.net/docs/install ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Silent Presentation Timer",
+"url" : "https://play.google.com/store/apps/details?id=com.stastnj1.discreettimer",
+"package" : "com.stastnj1.discreettimer",
+"category" : "Tools",
+"description" : "Silent Presentation Timer is the most unobtrusive presentation timer, lecture timer, or meeting timer ever. Just keep the phone in your pocket and feel the silent vibrations. I use the timer during my own meetings, presentations, and lectures and I have been developing it using my own presentation experience. And all this is for free, without ads.  Features: - full Android Wear/smartwatch support, application runs on phone as well as on Wear - ambient low power mode support with special presentation visualization on the Wear device - configurable length of presentation/end time of presentation - countdown presentation timer with visualisation - green (lots of time left), orange (lots of time passed), red (close to end) indication of the time left for your presentation - optional measurement of overdue time (violet) - presentation timer can run in background  - runs if you put the phone to the sleep mode - set the timer, run, and put your phone sleeping to your pocket  - runs even if you switch to another application and the intervals will be still indicated by vibrations - change of phone orientation or incoming call will not stop the presentation timer - optional screen dimming (to save battery if you disable sleep) - optional disable of the phone sleep mode  Users guide: http://papacut.sweb.cz/dt_wear_users_guide_international.html  Have fun and enjoy your presentations! ",
+"desc_perms" : "['android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.READ_PHONE_STATE', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

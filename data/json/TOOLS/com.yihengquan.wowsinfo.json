@@ -1,0 +1,11 @@
+{
+"name" : "WoWs Info Origin",
+"url" : "https://play.google.com/store/apps/details?id=com.yihengquan.wowsinfo",
+"package" : "com.yihengquan.wowsinfo",
+"category" : "Tools",
+"description" : "WoWs Info is an open source project created by me late 2016. It aims to provide all kinds of information for World of Warships, such as wows wiki, player stats, useful websites and so on.  Features: - WoWs wiki - Realtime statistics Beta - Player statistics - Clan information - Useful websites - YouTuber lists - Material theme and dark mode - Open source and optional Ads  All information are from Wargaming API, WoWs Numbers and Wargaming Global Wiki. World of Warships is trademark of Wargaming.net ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

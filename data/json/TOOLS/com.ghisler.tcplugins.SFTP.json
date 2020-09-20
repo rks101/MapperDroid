@@ -1,0 +1,11 @@
+{
+"name" : "SFTPplugin for Total Commander",
+"url" : "https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.SFTP",
+"package" : "com.ghisler.tcplugins.SFTP",
+"category" : "Tools",
+"description" : "This is a Plugin for Total Commander for Android! It does not work standalone!  Do NOT install if you do not use Total Commander!  Note: This plugin allows to connect to SFTP servers (file transfer over SSH secure shell). For FTPS (FTP over SSL), please use the separate FTP plugin from the Play Store: https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.FTP  Why is this plugin so big? It includes the free sshj library for ssh connections. To support authentication via client certificates, it also has to include libraries from the BouncyCastle project. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

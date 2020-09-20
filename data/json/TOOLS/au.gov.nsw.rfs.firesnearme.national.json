@@ -1,0 +1,11 @@
+{
+"name" : "Fires Near Me Australia",
+"url" : "https://play.google.com/store/apps/details?id=au.gov.nsw.rfs.firesnearme.national",
+"package" : "au.gov.nsw.rfs.firesnearme.national",
+"category" : "Tools",
+"description" : "The app for bush fire warnings and incident information using data from participating fire agencies in Australia.  This app has been developed by the NSW Rural Fire Service (NSW RFS). The NSW RFS recommends users of the app do not rely solely on the information provided in the app. In an emergency always rely on other communication channels such as websites, information lines and local radio. Check your state or territorys fire agency website for more details. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Bee VPN: Vpn proxy free",
+"url" : "https://play.google.com/store/apps/details?id=com.bee.vpn",
+"package" : "com.bee.vpn",
+"category" : "Tools",
+"description" : "Its 100% free VPN! The best unlimited free VPN clients for android. Bee VPN  Free VPN proxy, connect as a hare to unblock sites, WiFi hotspot secure and protect privacy. Fastest - Connect successfully as a hare with high VPN speed. Easiest - One tap to connect to free VPN proxy server. Most Stable - Have lots of free vpn cloud proxy server to provide better net and VPN service.  Bee VPN  Free VPN Proxy Server & Secure Service Bypass the firewalls as school free VPN proxy for school wifi hotspot and school computer. Protect your network traffic under WiFi hotspot Browse anonymously and securely without being tracked. Enjoy private browsing and better net. Works with WiFi, LTE, 3G, and all mobile data carriers.  Highlights of Bee VPN  Free: 100% free. No credit card information needed. No trials offered.  Unlimited: Truly unlimited. No session, speed or bandwidth limitations.  Simple: Unblock the world with just one touch of the Connect button.  Secured: Our strong SSL encryption will make you fully anonymous and secured.  Thanks you for using Bee VPN ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

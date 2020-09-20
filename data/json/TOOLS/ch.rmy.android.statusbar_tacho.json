@@ -1,0 +1,11 @@
+{
+"name" : "Status Bar Speedometer",
+"url" : "https://play.google.com/store/apps/details?id=ch.rmy.android.statusbar_tacho",
+"package" : "ch.rmy.android.statusbar_tacho",
+"category" : "Tools",
+"description" : "This simplistic app displays your current speed, obtained from GPS readings, as an icon in your status bar at the top of your screen. This speedometer allows you to check how fast you are travelling without having to switch between apps.  Please be aware of the dangers of using your phone while driving.  This app is open source, find it on Github: https://github.com/Waboodoo/Status-Bar-Tachometer  If you have any questions, feature requests or other comments feel free to contact me: android@rmy.ch. Please note that I am not interested in marketing or advertisement services and will not respond to such mails. ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

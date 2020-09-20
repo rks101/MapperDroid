@@ -1,0 +1,11 @@
+{
+"name" : "Magnifying Glass Flashlight - Lite",
+"url" : "https://play.google.com/store/apps/details?id=com.ilite.magnify.magnifyingglass.lite",
+"package" : "com.ilite.magnify.magnifyingglass.lite",
+"category" : "Tools",
+"description" : "Are you looking for an app which can work as a magnifying glass? Now your wait is over.  A Magnifying Glass app where you can magnify any text or image or view or content.  A Magnifying Glass app comes with Flashlight and Auto Focus which can work for you in low light environment. You can use your Flashlight as a Torch while magnifying small text or image or view or content.  A Magnifying Glass app will allow you to zoom in or zoom out the magnify effect so you can easily analyze a small text, insect and much more.  A Magnifying Glass app has an option to captured the magnified image/picture as well. You can also view the magnified image itself in app and can share with any user by one click.  All your captured magnified images will be stored in Magnified Pictures folder.  Enjoy now Magnify effect with Flashlight at one click by using your smartphone.  ** Remove Ad by downloading a pro version. ** Help us for the translation & better improvement. contactus.appstore@gmail.com ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

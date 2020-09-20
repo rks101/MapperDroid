@@ -1,0 +1,11 @@
+{
+"name" : "Troop Talk Beta",
+"url" : "https://play.google.com/store/apps/details?id=se.brolinembedded.trooptalkfree",
+"package" : "se.brolinembedded.trooptalkfree",
+"category" : "Tools",
+"description" : "Warning: Do NOT run this app without external headset connected to your phone. You will get severe noise feedback! ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Herbalife Bizworks Mobile",
+"url" : "https://play.google.com/store/apps/details?id=com.herbalife.bizworks",
+"package" : "com.herbalife.bizworks",
+"category" : "Tools",
+"description" : "Welcome to the future of BizWorks. With BizWorks Mobile App - Your Business is at Your Fingertips! Stay connected to your business wherever you go! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'com.herbalife.bizworks.permission.C2D_MESSAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.htc.launcher.permission.READ_SETTINGS', 'com.majeur.launcher.permission.UPDATE_BADGE', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'com.sec.android.provider.badge.permission.READ', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'android.permission.ACCESS_NETWORK_STATE', 'com.sec.android.provider.badge.permission.WRITE', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET']",
+}

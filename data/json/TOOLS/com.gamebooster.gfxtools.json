@@ -1,0 +1,11 @@
+{
+"name" : "GFX Tool Pro For PUBG",
+"url" : "https://play.google.com/store/apps/details?id=com.gamebooster.gfxtools",
+"package" : "com.gamebooster.gfxtools",
+"category" : "Tools",
+"description" : "This Is Best App For You Experience The Winner Winner Chicken Dinner in ultra graphics setting   GFX Tool for PUBG helps you configure the game graphics by the best optimized  App features:  Change resolution  Unlock HDR graphics on low end devices  Unlock the extreme FPS levels  Change graphics style settings  Enable or disable shadow  Enable or disable Anti-aliasing or make it even better by X2, X4  Enable or disable GPU optimization  Remember your last selected version & settings for next uses!   * How To Use GfX Tool :  - First Open GfX Tool Application - Select Your Graphic And Resulations Options - If you want to save That Setting you can save it - Click on Apply And Thats it    Please note:  This app is developed for specific game and we are not affiliated with Tencent if you like this app please give 5 star review ! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.DOWNLOAD_WITHOUT_NOTIFICATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.DOWNLOAD_WITHOUT_NOTIFICATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+}

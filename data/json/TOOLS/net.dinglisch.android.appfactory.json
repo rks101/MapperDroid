@@ -1,0 +1,11 @@
+{
+"name" : "Tasker App Factory",
+"url" : "https://play.google.com/store/apps/details?id=net.dinglisch.android.appfactory",
+"package" : "net.dinglisch.android.appfactory",
+"category" : "Tools",
+"description" : "*** This Is An Extension To The App Tasker *** *** You Cannot Launch It *** *** You Cannot Use It Without The latest Tasker version ***  Create your own apps for fun and profit! Astound friends and family with your development abilities!  - generate an app from a task or project in less than 10 seconds - no programming required - no Internet connection required - Tasker not required after app creation - app can be distributed or sold (e.g. on Play Store) however you like  * Disclaimer *  Tasker App Factory is not guaranteed to work with all future versions of Android. Specifically, Google may make changes which make on-device app creation impossible.  * More Info *  http://tasker.dinglisch.net/userguide/en/appcreation.html  * Mini FAQ *  Q: Can I create apps with profiles and/or scenes ? A: Yes, read the More Info link  Q: Did you know App Factory is crashing on Lollipop ? A: Yes, an update is due start of December  * Permissions Notes *  - READ_CONTACTS is required to be able to include contact thumbnails in the created app, and then only if specified by the user - WRITE_EXTERNAL_STORAGE is required to put the new app on external storage (note: on some devices, external storage is non-removable, which is also fine) - WAKE_LOCK is required to stop the device sleeping while the app is being created - created apps do not necessarily have these permissions, only the ones needed for the functions they use ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_CONTACTS', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

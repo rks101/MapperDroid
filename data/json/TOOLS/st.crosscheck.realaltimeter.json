@@ -1,0 +1,11 @@
+{
+"name" : "Real Altimeter",
+"url" : "https://play.google.com/store/apps/details?id=st.crosscheck.realaltimeter",
+"package" : "st.crosscheck.realaltimeter",
+"category" : "Tools",
+"description" : "Turn your phone into a real working aircraft altimeter.   Features: * Touch and drag to set reference pressure. * Altitude in metres or feet. * Pressure in hPa, mbar, or inHg. * Easy to use. * No ads.  This app is only available for devices with a built-in barometric sensor.  DISCLAIMER: This is not an approved aircraft instrument. This software program can not take the place of an approved and properly calibrated aircraft altimeter. For education purposes only.   IMPORTANT NOTE:  This altimeter will not work inside a pressurised cabin, like those found on an airliner.  There is a version with automatic calibration available here: https://play.google.com/store/apps/details?id=st.crosscheck.realaltimeterplus (free, ads) https://play.google.com/store/apps/details?id=st.crosscheck.app_donate (no ads, donation) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

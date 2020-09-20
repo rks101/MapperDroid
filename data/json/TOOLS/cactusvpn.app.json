@@ -1,0 +1,11 @@
+{
+"name" : "CactusVPN - VPN and Smart DNS services",
+"url" : "https://play.google.com/store/apps/details?id=cactusvpn.app",
+"package" : "cactusvpn.app",
+"category" : "Tools",
+"description" : "With CactusVPN you will get:  - High Speed VPN Servers - Best Data Encryption - Unlimited Bandwidth and Speed - 5 Devices in the Same Time - No Logs - Shared Static IP - 30-Days Money Back Guarantee - Professional 24/7 Customer Support  CactusVPN Android app allows you to:  1. Enjoy our VPN service directly from your Android device. Simply choose the VPN server location and tap the Connect button. You can set the app to sign in at app start, to connect VPN on sign in, to hide app on connect, to reconnect if connection drops, to protect you from DNS leak.  2. Enjoy our Smart DNS service directly from your Android device and its easier than ever as you dont need to manually connect anymore. All you have to do is run the app, sign in and enable the Smart DNS service. You can choose how frequently our app will validate your IP address, what DNS servers and what websites regions you want to use. You can automatically enable the Smart DNS every time you sign in to the app and you can sign in automatically at app startup. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

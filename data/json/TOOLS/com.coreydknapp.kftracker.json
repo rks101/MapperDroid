@@ -1,0 +1,11 @@
+{
+"name" : "Archon Counter - Unofficial KeyForge Tracker",
+"url" : "https://play.google.com/store/apps/details?id=com.coreydknapp.kftracker",
+"package" : "com.coreydknapp.kftracker",
+"category" : "Tools",
+"description" : "Archon Counter enables you to track the scores of up to two players in a game of KeyForge!  * Track Aember, Keys, and Chains for each player * Easy-to-use interface allows you to press Forge to automatically deduct 6 Aember, and customization options allow you to edit the cost of a Key. * History tracking allows you to undo misclicks * Bait and Switch button automatically resolves the cards effect  Archon Counter is unaffiliated with KeyForge and Fantasy Flight Games. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

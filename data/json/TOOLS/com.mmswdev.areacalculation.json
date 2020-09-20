@@ -1,0 +1,11 @@
+{
+"name" : "Area Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.mmswdev.areacalculation",
+"package" : "com.mmswdev.areacalculation",
+"category" : "Tools",
+"description" : "Length and width can be entered in two different units such as foot and inch or even meter and inch if you will. The resulting area may also be in any unit system.  Length and width can be in following units - Kilometer - Meter - Centimeter - Millimeter - Micrometer - Nanometer - Mile - Yard - Foot - Inch  Area can be in following units Square kilometer Square meter Square mile Square yard Square foot Square inch 100 Square foot (Kyinn) Hectare Acre  The term Kyinn in Myanmar language is used specifically in Myanmar to represent 100 square foot, and its also included as one of the options for the area. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

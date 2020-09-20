@@ -1,0 +1,11 @@
+{
+"name" : "Jota+ Drive ConnectorV2",
+"url" : "https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus.googledrivev2",
+"package" : "jp.sblo.pandora.jota.plus.googledrivev2",
+"category" : "Tools",
+"description" : "Jota+ Drive Connector is a plugin to connect Jota+ with Drive.  === V2 version is better performance than V1 version!! ===  Install this plugin then you can activate the connectivity to Drive of Jota+.  This app only connect to Drive server.  ---------------------------- This app needs Jota+ and Jota+PRO-KEY.  ---------------------------- Caution: You CANT edit Docs files.  ---------------------------- How to use connector. - Touch Open on the toolbar then file browser will open. - Click Hamburger icon on the top-left corner then click Settings-Storage. - Select one which you want and install a connector. - Log in to the connector. - Again open the drawer. - Click the name of the connector. - Browse directory on the file system. - Open a file.  Shouldnt use official Drive app to use this app. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['jp.sblo.pandora.jota.FILE_ACCESS', 'android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['jp.sblo.pandora.jota.FILE_ACCESS']",
+}

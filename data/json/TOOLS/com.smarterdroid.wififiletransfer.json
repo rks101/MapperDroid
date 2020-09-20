@@ -1,0 +1,11 @@
+{
+"name" : "WiFi File Transfer",
+"url" : "https://play.google.com/store/apps/details?id=com.smarterdroid.wififiletransfer",
+"package" : "com.smarterdroid.wififiletransfer",
+"category" : "Tools",
+"description" : "WiFi File Transfer lets you upload and download files to/from your phone or tablet over a wireless connection. Easy-to-use web interface, no USB cable needed.   FEATURES   Upload or download multiple files at once  Upload entire folder structures (Google Chrome only)  Delete, rename, copy, zip or unzip files using the built-in file manager interface  Password authentication (optional)  Shortcuts to photo, video and music directories  Runs as a background service  View photos directly in your web browser (integrated thumbnail gallery)  Autostart service when connected to home network (optional)  Provides access to external SD cards and USB storage devices  Works while the device is in hotspot mode   NOTE   In order to use this app, your computer and your phone need to be on the same local area (or wlan) network.  If you would like to use this app on public WiFi networks, please make sure to set an access password in the app settings.  If youre using WiFi File Transfer alongside other server apps such as WebSharing or Kies Air, make sure they do not use the same port number.   LIMITATIONS   This free version cannot upload files larger than 5 MB. Everything else works 100%.   Feel free to send any questions, comments, complaints or suggestions to smarterdroid@gmail.com. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS', 'android.permission.CALL_PHONE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "[]",
+}

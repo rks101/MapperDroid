@@ -1,0 +1,11 @@
+{
+"name" : "All reminder",
+"url" : "https://play.google.com/store/apps/details?id=com.inglesdivino.reminder",
+"package" : "com.inglesdivino.reminder",
+"category" : "Tools",
+"description" : "If you have many things in your head that you hardly can remember them, do not worry, All Reminder is here to solve your problem. With All Reminder you can create as many notes as you want.  Each note has a date and a time that you specify when you create the note. When that date and hour is reached, the associated note will be notified to you. With this app you wont forget birthdays, aniversaries, orders, etc. anymore. Enjoy it. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

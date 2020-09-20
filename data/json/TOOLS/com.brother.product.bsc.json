@@ -1,0 +1,11 @@
+{
+"name" : "Brother SupportCenter",
+"url" : "https://play.google.com/store/apps/details?id=com.brother.product.bsc",
+"package" : "com.brother.product.bsc",
+"category" : "Tools",
+"description" : "Brother SupportCenter App will provide you how to setup your Brother products, manuals, FAQ & Troubleshooting, and contact to Brother customer service.  You can also check remaining level of supplies.   Note: Some menues are available only to limited models.  This App will provide you following menu. For more detail, please refer to each description.  Product Setup: You can view product setup video and/or setup guide.  Manuals: You can view product manuals.  Supplies You can view various information about your product supplies. You can order supplies on-line, check genuine, recycle information, and so on.  Contact: You can view contact to Brother customer service.  Device Status/Information: You can view your product network status, serial number, and remaining amount of supplies.  User Setting: You can check or change the country and language setting.  QR Code Reader: You can scan QR and Data Matrix codes assigned to Brother products or manuals to obtain more information. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.brother.product.bsc.permission.C2D_MESSAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

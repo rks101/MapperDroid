@@ -1,0 +1,11 @@
+{
+"name" : "Laser Distance Meter",
+"url" : "https://play.google.com/store/apps/details?id=com.maruar.laserdistance",
+"package" : "com.maruar.laserdistance",
+"category" : "Tools",
+"description" : "The Laser Distance Meter app can easily measure distance or height using augmented reality (AR) technology.  The Laser Distance Measure app shows distance or height from a smartphone to a vertical or horizontal surface.  The laser distance measurement app can easily measure the height from the floor or the distance from the wall. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

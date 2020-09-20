@@ -1,0 +1,11 @@
+{
+"name" : "Progress for Clash Royale",
+"url" : "https://play.google.com/store/apps/details?id=com.progressroyale",
+"package" : "com.progressroyale",
+"category" : "Tools",
+"description" : "Get your progress, clan activity manager, friends comparison, chest tracker, wallpapers, cards analysis and many more tools for Clash Royale all of them together in one single app.  Please Note:  This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see Supercells Fan Content Policy. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.providers.gsf.permission.READ_GSERVICES']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

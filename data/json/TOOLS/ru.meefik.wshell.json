@@ -1,0 +1,11 @@
+{
+"name" : "wShell",
+"url" : "https://play.google.com/store/apps/details?id=ru.meefik.wshell",
+"package" : "ru.meefik.wshell",
+"category" : "Tools",
+"description" : "Web-based terminal emulator for Android. Based on Shell In A Box.  This program comes with ABSOLUTELY NO WARRANTY. This is free software, and you are welcome to redistribute it under license GPLv3. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

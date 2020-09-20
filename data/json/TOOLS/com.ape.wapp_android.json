@@ -1,0 +1,11 @@
+{
+"name" : "Ape Labs W-APP",
+"url" : "https://play.google.com/store/apps/details?id=com.ape.wapp_android",
+"package" : "com.ape.wapp_android",
+"category" : "Tools",
+"description" : "This is the first app ApeLabs has ever released and we will continue to improve it for a long time to come. If something isnt perfect - Just let us know!  If you have problems, dont hesitate to contact us at app@apelabs.com This is the first app ApeLabs has ever released and will continue to do better. If something is not perfect - just let us know!  If you have problems, do not hesitate to contact us at app@apelabs.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

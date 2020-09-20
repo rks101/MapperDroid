@@ -1,0 +1,11 @@
+{
+"name" : "Hoymiles InstallerAPP hoymiles",
+"url" : "https://play.google.com/store/apps/details?id=com.hoymiles.install",
+"package" : "com.hoymiles.install",
+"category" : "Tools",
+"description" : "Hoymiles APP_Installer (HAI) is a mobile application developed by Hoymiles for installers of distributed PV power plants especially. It provides easy setting procedure for monitoring account and visual physical layout guide for microinverters to be installed, which helps installers configure a monitoring accounts rapidly, and provides installers power generation data on both plant-level & module-level, also detailed alarm info of power plant for commissioning & diagnose. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.INTERACT_ACROSS_USERS_FULL', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_GPS', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'org.simalliance.openmobileapi.SMARTCARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERACT_ACROSS_USERS_FULL', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_GPS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'org.simalliance.openmobileapi.SMARTCARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

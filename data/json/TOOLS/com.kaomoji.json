@@ -1,0 +1,11 @@
+{
+"name" : "Kaomoji - Japanese Emoticons",
+"url" : "https://play.google.com/store/apps/details?id=com.kaomoji",
+"package" : "com.kaomoji",
+"category" : "Tools",
+"description" : "Discover Kaomoji - kawaii anime style emoticons!  Kaomoji (, lit. face characters) is a text-based Japanese emoticons, distinct from a Western emoticon in that it is meant to be written and read horizontally, and can be understood without tilting ones head to the left.  The app provides a large collection of Japanese emoticons (kaomoji) grouped into categories for easier navigation and search.  Just choose the emoticon you like and it will be automatically copied to your clipboard and will become available for use in text messages, social networks and wherever you want... ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'host.exp.exponent.permission.C2D_MESSAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'com.kaomoji.permission.C2D_MESSAGE', 'android.permission.STORAGE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.SYSTEM_ALERT_WINDOW', 'host.exp.exponent.permission.C2D_MESSAGE', 'android.permission.STORAGE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

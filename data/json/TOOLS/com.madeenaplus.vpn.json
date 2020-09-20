@@ -1,0 +1,11 @@
+{
+"name" : "Madeena Plus",
+"url" : "https://play.google.com/store/apps/details?id=com.madeenaplus.vpn",
+"package" : "com.madeenaplus.vpn",
+"category" : "Tools",
+"description" : "Madeena Plus VPN app provides the most secure and reliable connection on the internet.  The cheapest yet fastest internet connection experience.  You can bypass the restriction and browse anonymously.  Works with WiFi, LTE, 3G, 4G, and all mobile data carriers.   Why Madeena Plus VPN   Best Customer Support: 24 hours/day support   Internet Freedom: Encrypt all your traffic.   No buffering: YouTube and Video Streaming   No lags and play smoothly: Online Games   Secure online connection: Hide your IP address, identity, and location from trackers, and enjoy maximum privacy and security. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

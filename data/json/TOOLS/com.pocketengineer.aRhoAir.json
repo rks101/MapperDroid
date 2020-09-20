@@ -1,0 +1,11 @@
+{
+"name" : "Psychrometric air - a rhoAir",
+"url" : "https://play.google.com/store/apps/details?id=com.pocketengineer.aRhoAir",
+"package" : "com.pocketengineer.aRhoAir",
+"category" : "Tools",
+"description" : "No ads. aRhoAIR is a state point psychrometric air properties calculator to find air density, specific heat, various vapour pressure, dew point temperature, moisture content, enthalpy, etc. It is specially developed by a professional engineer to replace the psychrometric chart. aRhoAIR will change the way you normally find air properties, air density and specific heat by using conventional psychrometric chart.  - input options - RH or Twb.  - input options - Z (altitude) or P (pressure) with units selection (Pa, hPa, kPa, mbar, bar, in.Hg, psi, atm)  - calculation formulation based on ASHRAE guidelines.  - in SI & IP units.  - save result function with built-in result file viewer.   for detail and worked example, see https://sites.google.com/view/pocketengineer/android-os/rhoair-free-and ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

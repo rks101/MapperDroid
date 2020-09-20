@@ -1,0 +1,11 @@
+{
+"name" : "Noise Meter",
+"url" : "https://play.google.com/store/apps/details?id=com.pjw.noisemeter",
+"package" : "com.pjw.noisemeter",
+"category" : "Tools",
+"description" : "Noise Meter Measure the volume of sounds using your ANDROID. Easy to Use and Powerful. Support the digital filter. You can see the filter curve.  Support languages : Arabic, English, Korean, Polish, Portuguese, Russian, Spanish, Swedish.  There are no ad. Does not require any unnecessary permissions.  In-app purchases: Donate cafe. If you like this app, buy me a cup of coffee :)  Feature:  1. Background measurements. 2. Show average, Leq, min, max and peak dB 3. User define update rate 4. High and Low alarm 5. dBA, dBB, dBC, ITU-R 468, Low, High, Band pass filter. 6. Shows the filter curve. 7. Keep screen 8. Logging and log viewer 9. Brightness measurements. (lux) 10. Spectrum analysis.  This application is not meant to be used in place of scientific instrumentation.  Depending on the device can also be caused by differences in measurement.  Devices employing AGC (Automatic Gain Control) will have significant measurement errors. This is not apps fault.  Noise Sound Light level meter dB Lux counter ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.FOREGROUND_SERVICE', 'com.android.vending.BILLING', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+}

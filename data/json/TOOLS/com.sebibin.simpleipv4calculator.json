@@ -1,0 +1,11 @@
+{
+"name" : "Simple IP Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.sebibin.simpleipv4calculator",
+"package" : "com.sebibin.simpleipv4calculator",
+"category" : "Tools",
+"description" : "Simple calculator ipv4 addresses. Calculates subnet, netmask, wildcard, broadcast address, the number of hosts, CIDR. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

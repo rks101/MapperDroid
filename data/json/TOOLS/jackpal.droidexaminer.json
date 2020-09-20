@@ -1,0 +1,11 @@
+{
+"name" : "Droid Examiner",
+"url" : "https://play.google.com/store/apps/details?id=jackpal.droidexaminer",
+"package" : "jackpal.droidexaminer",
+"category" : "Tools",
+"description" : "Displays information on the hardware and software features of an Android device. This is mainly useful for programmers.  Currently displays information on:  Build, Battery Status, Camera Status, Configuration, ConfigurationInfo, CpuInfo, Crypto, Devices, DiskStats, Display, Filesystems, Input Devices, Kernel Version, LoadAvg, Memory, Modules, OpenGL, Runtime, Sensors, Storage, and Uptime.  There are many applications like this in the store, this ones main benefit is that it does not require touch input. It can be run on devices that dont have touch screen support.  This is an open source application, the source code is available here:  https://github.com/jackpal/droid-examiner ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

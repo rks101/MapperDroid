@@ -1,0 +1,11 @@
+{
+"name" : "EasyUbnt Lite",
+"url" : "https://play.google.com/store/apps/details?id=com.ispsoft.easyubntlite55",
+"package" : "com.ispsoft.easyubntlite55",
+"category" : "Tools",
+"description" : "If you need support for new 802.11ac models (AirOS 8), I recommend you to use official and free UNMS Mobile app from Ubiquiti (Android and iOS version available).  Absolute must for wireless ISP providers running network on Ubiquiti Networks gear! EasyUbnt can connect to any device with AirOS 3/4/5 operating system (Nanostation, PowerStation, Nanobridge, Airgrid, Rocket, Bullet, Picostation, Powerbridge, ..) and setup them completely from your Android device. No need to take your laptop with you anymore.   Moreover it has some professional and unique features which are not in the AirOS web interface. You can try ubnt device discovery tool, online speedtest (shows instantaneous device speed), voice signal navigation, continuous site survey, encryption key database for your whole network and many other unique tools for wireless professionals!  This version was tested on AirOS 5. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.CHANGE_WIFI_STATE', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

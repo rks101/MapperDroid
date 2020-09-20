@@ -1,0 +1,11 @@
+{
+"name" : "Video Player",
+"url" : "https://play.google.com/store/apps/details?id=video.player.videoplayer.videoplayer.hdvideoplayer",
+"package" : "video.player.videoplayer.videoplayer.hdvideoplayer",
+"category" : "Tools",
+"description" : ";Video Player is support HD quality videos and audio files .video player smoother and easy to use support all type of video format MPG, MOV, RM a, VOB, ASF, MKV, F4V, TS, TP, M3U, AVI, MP4, M4V, WMV, FLV, M3U8, RMVB, MPEG, . This video player quickly to find and listing your sd card videos and audio files   main function  . Smooth playback of video files . Automatically scan and listing audieo and video file in your sd card . Display Thumbnail of all videos in your SD card . play all type of video and audieo format ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'video.player.videoplayer.videoplayer.hdvideoplayer.permission.BIND_DATA_CONSUMER', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.WRITE_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.WAKE_LOCK', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.BLUETOOTH', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'video.player.videoplayer.videoplayer.hdvideoplayer.permission.READ_EXTENSION_DATA']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW', 'video.player.videoplayer.videoplayer.hdvideoplayer.permission.BIND_DATA_CONSUMER', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE', 'video.player.videoplayer.videoplayer.hdvideoplayer.permission.READ_EXTENSION_DATA']",
+}

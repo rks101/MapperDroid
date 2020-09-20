@@ -1,0 +1,11 @@
+{
+"name" : "Desert Island - A Digital Wellbeing Experiment",
+"url" : "https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.desertisland",
+"package" : "com.digitalwellbeingexperiments.desertisland",
+"category" : "Tools",
+"description" : "Desert Island helps you find focus, by challenging you to go a day with only your essential apps. Simply pick the apps that are most important to you, then give it a go for 24 hours.   Desert Island is part of Digital Wellbeing Experiments, a platform to share ideas and tools that help people find a better balance with technology. Try the experiments and create your own at g.co/digitalwellbeingexperiments   Permissions Notice  Device Usage: Needed to show how often you open different apps on your device. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

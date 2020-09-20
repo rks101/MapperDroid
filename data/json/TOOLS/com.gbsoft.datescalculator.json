@@ -1,0 +1,11 @@
+{
+"name" : "Calculator  Date & time (Free)",
+"url" : "https://play.google.com/store/apps/details?id=com.gbsoft.datescalculator",
+"package" : "com.gbsoft.datescalculator",
+"category" : "Tools",
+"description" : "Calculator Date & time is a calculator to operate on time and numbers.  Calculator Date & time is easy to use.  Calculator  You can do operations on numbers like on a regular calculator, addition, subtraction, multiplication, division, square root and percentage.  Time calculator Addition, subtraction, multiplication, division.  Difference date & time Calculation of the time spent between two dates or two times. Age calculator Calculator work time or free time and much more.  Add or subtract Addition and subtraction calculator, you can do operations on dates and time values.  Converter You can convert all time values.  World clock Time zone.  Stopwatch.  All calculations can be done in years, months, weeks, days, hours, minutes, seconds and milliseconds.  The calculator supports 12h (AM/PM) or 24h time format. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

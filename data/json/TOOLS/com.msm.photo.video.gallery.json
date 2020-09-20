@@ -1,0 +1,11 @@
+{
+"name" : "Gallery",
+"url" : "https://play.google.com/store/apps/details?id=com.msm.photo.video.gallery",
+"package" : "com.msm.photo.video.gallery",
+"category" : "Tools",
+"description" : "Keep your growing photo and video library organized and accessible with the Photos app. Then use the Search bar to quickly find the thing that youre looking for.  A simple, fast and light gallery for your Android Phone, you can review all your special moments in it.  Key Features  Albums Management - Manage your albums, you can add, modify and delete your albums.  Photo Slide Show - Play slideshow of gallery photos instantly in a high-quality slideshow. You can change the interval timing, sequencing, and how the image is displayed in Galleries settings.  Photo Editor - Crop, Rotate, Brightness, Effects, Zoom in etc.  Secure - We support password protect the whole application with Patten, pin and fingerprint lock system.  More Features - Create photo albums. Auto-style change on position/orientation change of device. - Crop photo view. - Supported all the popular image and video formats. - Show photo details. - Easy to share pictures. - Multi-selection moves & copy-paste files. - Create photo albums. - Change the Theme color from setting. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.SET_WALLPAPER']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.SET_WALLPAPER', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

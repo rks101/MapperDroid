@@ -1,0 +1,11 @@
+{
+"name" : "Lebara Switzerland App",
+"url" : "https://play.google.com/store/apps/details?id=ch.lebara.app",
+"package" : "ch.lebara.app",
+"category" : "Tools",
+"description" : "NOW AVAILABLE: CREDIT CARD TOP UP!  HIGHLIGHTS: > Easy login.  > See your remaining call credit. > Top up your account. > See your usage and top-up history. > Check on active options. > Activate and deactivate options.   MANAGE YOUR SAVINGS OPTIONS: With the Lebara app you can see what savings options you have active, when they will be renewed and how much they cost.  EASY LOGIN: Log in once with your Lebara number and stay logged in. No password to remember.   NOTE: The App is available exclusively to those with a Lebara Mobile Switzerland SIM card.  --------------------------------------  Costs: - using Lebara CH App is free of charge - the Apps data traffic, is billed in accordance with the connection rates of your mobile service provider or your Wi-Fi network. - using the application abroad will result in additional cost due to roaming.  Feedback: If you discover a bug or have suggestions to improve this app, please contact us at app@lebara.ch. For bug reports, please include as much relevant information as possible.  We would greatly appreciate it if you could leave us a five star rating!! ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Security Plugin for Vault - Hide photos and videos",
+"url" : "https://play.google.com/store/apps/details?id=com.ps.vaultprotector",
+"package" : "com.ps.vaultprotector",
+"category" : "Tools",
+"description" : "Security Plugin must be installed to prevent the Vault app from being terminated by task killer apps. Please install NQ Vault first (https://play.google.com/store/apps/details?id=com.netqin.ps) before installing Security Plugin.   NQ Vault keeps your personal photos, videos , app lock, cloud backup Feel free to contact NQ customer service at vault@nq.com if you have any questions or concerns. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

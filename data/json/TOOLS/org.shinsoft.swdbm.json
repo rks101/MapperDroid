@@ -1,0 +1,11 @@
+{
+"name" : "SW-DB",
+"url" : "https://play.google.com/store/apps/details?id=org.shinsoft.swdbm",
+"package" : "org.shinsoft.swdbm",
+"category" : "Tools",
+"description" : "Browse through the Community database SW- DB directly from your mobile . Find all the information of your favorite monsters Summoners War: - Their ratings - The  builds of recommended runes - Statistics - Feedback from the community and their respective opinions on the monsters - Teams for the arena, dungeons , raids  You can also guides to help you in your evolution . ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'com.sec.android.provider.badge.permission.WRITE', 'com.htc.launcher.permission.READ_SETTINGS', 'org.shinsoft.swdbm.permission.C2D_MESSAGE', 'com.sec.android.provider.badge.permission.READ', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'com.majeur.launcher.permission.UPDATE_BADGE', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'android.permission.USE_CREDENTIALS', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS', 'com.android.vending.BILLING']",
+}

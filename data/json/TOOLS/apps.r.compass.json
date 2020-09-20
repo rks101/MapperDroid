@@ -1,0 +1,11 @@
+{
+"name" : "Compass",
+"url" : "https://play.google.com/store/apps/details?id=apps.r.compass",
+"package" : "apps.r.compass",
+"category" : "Tools",
+"description" : "Easy to use compass and spirit level application with magnetic north, coordinates, exact address and offline off road navigation.  Choose between magnetic north and true north, see your current address and coordinates, or navigate to specific coordinates without internet connection. Compass also comes with a high precision spirit level with which you can measure relative angles.  Attention:   Please wave your device around several times in a figure of eight () to calibrate it! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

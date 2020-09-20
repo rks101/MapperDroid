@@ -1,0 +1,11 @@
+{
+"name" : "Papel de Parede - Orçamentos",
+"url" : "https://play.google.com/store/apps/details?id=com.trilema.papeldeparede",
+"package" : "com.trilema.papeldeparede",
+"category" : "Tools",
+"description" : "Uma ferramenta para os aplicadores de papel de parede.  Calcular papel de parede.  Calcula o nmero de rolos necessrios, clcula o valor da aplicao por metro quadrado e clculo do oramento final.  Pode-se aplicar descontos nos valores aplicao. A tool for wallpaper applicators.  Calculate wallpaper.  Calculates the number of rolls required, calculates the application value per square meter and calculation of the final budget.  You can apply discounts on the application values. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

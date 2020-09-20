@@ -1,0 +1,11 @@
+{
+"name" : "Orthodox Calendar 2017 - 2020",
+"url" : "https://play.google.com/store/apps/details?id=florin.vistig.calendarortodox2013",
+"package" : "florin.vistig.calendarortodox2013",
+"category" : "Tools",
+"description" : "Orthodox (romanian) calendar with all the fastings of the year, all sunday gospel references and major holidays. Available for 2013-2020 included. The calendar also has a search function!  For improvements and proposals, please contact me at: calendarortodox2013@gmail.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

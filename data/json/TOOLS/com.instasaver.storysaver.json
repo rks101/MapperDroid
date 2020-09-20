@@ -1,0 +1,11 @@
+{
+"name" : "Story Saver",
+"url" : "https://play.google.com/store/apps/details?id=com.instasaver.storysaver",
+"package" : "com.instasaver.storysaver",
+"category" : "Tools",
+"description" : "Sunrise tech developed the Story Saver application to help users can Download videos and Photos on Stories for Instagram with the best quality possible.  In addition, Story Saver helps you to repost photos and videos to other social networks in a very simple and flexible way. You will not take long to post back to Instagram itself.  To use Story Saver is also very simple. It is designed according to international standards. So you can use it the first time when you use it the best way.  This application 100% FREE.  Disclaimer: 1. Re-uploading image/video stories and is NOT encouraged, please seek owner approval. 2. This app is not affiliated with Instagram. 3. Any unauthorized downloading or re-uploading of contents and/or violations of Intellectual property rights is the sole responsibility of the user.  Note: * If you face any issue with the app, kindly drop us an email to the address mentioned below. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

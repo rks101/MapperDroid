@@ -1,0 +1,11 @@
+{
+"name" : "Percentage",
+"url" : "https://play.google.com/store/apps/details?id=com.spectensys.percentage",
+"package" : "com.spectensys.percentage",
+"category" : "Tools",
+"description" : "This is a simple percentage calculator which allows you to: - Calculate the percentage, the percentage increase and percentage decrease of a number, all in one single operation. - Calculate the percentage change between two numbers. - Consult recent operations in order to view or compare the results of the percentages that you have calculated. The last five operations are temporarily saved, they will be lost the moment you turn off your device or when the system clears its memory. - Results are rounded to two decimals. - Two themes, you can choose a light (default) or a dark theme in the Settings menu. - Increase the font size for operations and results in the Settings menu.  Percentage calculators can help you calculate sales prices and discounts, add VAT to a net amount or substract VAT from a gross amount etc.  Permissions: - None. ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Home Battery %",
+"url" : "https://play.google.com/store/apps/details?id=it.claudio.chimera.battery.percentage",
+"package" : "it.claudio.chimera.battery.percentage",
+"category" : "Tools",
+"description" : "Home launcher and battery indicator in an app.  This is a simple and tiny app that show the battery level as a percentage of the full charge in the notification bar.  This app has been created with the less impact in the mind.  The app is very small in order to save memory. The app do not show the battery info, there are a lot of application doing it in the play store. The app dont show any prediction about the time battery power left. The android SDK do not provide this info and the APK needs battery power in order to guess it.  If you select the battery notification, the launcher will be run. This allow you to save your home button (if it is a physical key). ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

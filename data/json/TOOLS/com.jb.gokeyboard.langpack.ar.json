@@ -1,0 +1,11 @@
+{
+"name" : "Arabic Language - GO Keyboard",
+"url" : "https://play.google.com/store/apps/details?id=com.jb.gokeyboard.langpack.ar",
+"package" : "com.jb.gokeyboard.langpack.ar",
+"category" : "Tools",
+"description" : "Do you get annoyed with the foreign language keyboard? The Arabic keyboard dictionary pack for GO Keyboard will surely help you input smoothly and correct your spelling as a translation dictionary Besides, Arabic keyboard dictionary supportsa huge number of local language and translate them to locals.  Download this FREE Arabictranslation pack to use it with your GO Keyboard. How to download GO Keyboard? PC User: GO Keyboard.  Andriod User: https://goo.gl/tyKsUc  GO Keyboard Twemoji Free Emoji For Twitter delivers auto-correction and a user-friendly interface. It supports 60+ languages ,800+emojis and 10000+themes.  FAQ 1. How to use this translation pack?  Step 1: Download and install GO Keyboard from link above Step 2: Click into Settings -> Languages -> Check the language box  Follow us on FACEBOOK: http://goo.gl/kLxbSl ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

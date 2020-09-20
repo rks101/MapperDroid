@@ -1,0 +1,11 @@
+{
+"name" : "Wi-Fi Hotspot Data Widget",
+"url" : "https://play.google.com/store/apps/details?id=com.lapay.datacontrolwidget",
+"package" : "com.lapay.datacontrolwidget",
+"category" : "Tools",
+"description" : "The widget intended to enable/disable Wi-Fi Hotspot and the monitoring the device adapters (Wi-Fi adapter, data transfer over cellular).  Implemented: 1) option to enable of the configured hotspot after the system boot; 2) display a list of the connected devices; 3) enabling/disabling the configured Wi-Fi hotspot; 4) enabling/disabling of the Wi-Fi adapter; 5) enabling/disabling data transfer over the cellular network; 6) on/off the Airplane mode; 7) ability to change the background color of the widget; 8) display of the number of devices that have been connected to the Wi-Fi hotspot.  The options to enable/disable data transfer over the cellular and on/off the Airplane mode by one-click is not supported with Android 5.0 and above. ",
+"desc_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_SETTINGS', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "PC Remote",
+"url" : "https://play.google.com/store/apps/details?id=com.monect.portable",
+"package" : "com.monect.portable",
+"category" : "Tools",
+"description" : "Monect PC Remote is a free app that allows you to control PC over Wi-Fi or Bluetooth locally or remotely.   Key Features: - Play all kinds of PC games with on board sensors and specifically designed button layouts and you can edit them as you wish - Transfer screen and camera of PC to phone in real time and vice verse - File transfer between devices - Highest security: 256 Bit AES Session Encoding on remote network   How to use: Please install PC Remote Receiver on your computer before using PC remote. Download the PC Remote Receiver at our official site for free:  https://www.monect.com/ ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.CAMERA', 'android.permission.FOREGROUND_SERVICE', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_FINE_LOCATION']",
+}

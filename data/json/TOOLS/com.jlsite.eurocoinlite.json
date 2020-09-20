@@ -1,0 +1,11 @@
+{
+"name" : "My Euros Lite",
+"url" : "https://play.google.com/store/apps/details?id=com.jlsite.eurocoinlite",
+"package" : "com.jlsite.eurocoinlite",
+"category" : "Tools",
+"description" : "My Euros is an Euro collector application to manage your Euro coin collection from your mobile phone.  My Euros offer you the posibility of manage your Euro coin collection taking into consideration the differents uro countries with their years and different mints. In addition, a quick view is included to see a Euro coins resume for a country of your Euro collector.  Furthermore, a complete database of the coin information is available inside this application, 2 commemorative coin included.  The main window offer a quick view all of Euro countries. A long click over the country flag provide the Euro coin country information.   The application also includes (Pro version): - Functionality to include the conservation state, the cost and the number of collected coins.  - A Global Statistic window. - A simple backup management functionality. - Export Excel  Available in English, German, Spanish, Italian and French. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

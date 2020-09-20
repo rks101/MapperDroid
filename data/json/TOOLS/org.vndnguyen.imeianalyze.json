@@ -1,0 +1,11 @@
+{
+"name" : "IMEI Analyzer",
+"url" : "https://play.google.com/store/apps/details?id=org.vndnguyen.imeianalyze",
+"package" : "org.vndnguyen.imeianalyze",
+"category" : "Tools",
+"description" : "IMEI Analyzer is a powerful tool for IMEI Analyzing, IMEI Checking and IMEI Calculating.   - IMEI Checking:  Check whether the given IMEI (15-digit number) is valid or not by calculating the Check Digit (using Luhn algorithm) and then comparing with the Check Digit of the given IMEI. There is also the option that allow you to fetch data (Brand and Phone Model) from the popular website www.imei.info.   - IMEI Calculating:  You can enter the IMEI without the Check Digit (only 14 digits) and this app will calculate the Check Digit by using Luhn algorithm.   - IMEI Analyzing:  Breakdown the IMEI into the following parts:   Type Allocation Code (TAC)  Reporting Body Identifier (RBI)  Mobile Equipment Type Identifier  Final Assembly Code (FAC)  Serial Number  Check Digit   More info about IMEI:  IMEI stands for International Mobile Station Equipment Identity. The full IMEI number is 15 digits in length. You can obtain the IMEI by open the phones dialpad and enter *#06*. Or you can see it in the label on the back of the phone, behind the battery. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'org.vndnguyen.imeianalyze.permission.C2D_MESSAGE', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.SEND_SMS', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

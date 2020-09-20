@@ -1,0 +1,11 @@
+{
+"name" : "Flashlight",
+"url" : "https://play.google.com/store/apps/details?id=ru.lithiums.flashlight2",
+"package" : "ru.lithiums.flashlight2",
+"category" : "Tools",
+"description" : "Flashlight from camera flash and screen light.  Simple, powerful, bright and functional.  Multiple modes: bright light, strobe light and SOS. The frequency of the strobe can be adjusted.  Flashlight on shake. The app supports turn on or off the flashlight by shaking.  Flashlight on call. Blinking during an incoming call. The flashing frequency is adjustable.  There is a widget. You can switch the flashlight using the widget. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_PHONE_STATE', 'android.permission.QUICKBOOT_POWERON', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.FLASHLIGHT', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_SETTINGS']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.QUICKBOOT_POWERON', 'android.permission.CAMERA', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Simple DiceRoller",
+"url" : "https://play.google.com/store/apps/details?id=com.projectsexception",
+"package" : "com.projectsexception",
+"category" : "Tools",
+"description" : "Simple DiceRoller 2.0!  One of the most complete dice roller in the store.  Main features  * Easy to use (two clicks are sufficient) * Truly random (when internet connection is available it uses random.org) * Custom modifiers and formulas, an unique feature * Results sorting * Widgets * Combine differents dices  With the custom modifiers and formulas you can use Simple DiceRoller for your favorite RPG game.  It can be adapted to majority of role games like Rolemaster, MERP, dungeons & dragons, vampire or HERO. Moreover you can use with boardgames. Try it now and dont forget visit the Google Plus Community for new formulas or get support https://plus.google.com/u/0/communities/110510881704315369498  Simple DiceRoller includes the following dice:  * d100 * d20 * d12 * d10 * d8 * d6 * d4 * d2  Simple DiceRoller is ad supported, but you will not see more than one ad a day. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

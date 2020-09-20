@@ -1,0 +1,11 @@
+{
+"name" : "Deleted Video Recovery Workshop",
+"url" : "https://play.google.com/store/apps/details?id=com.photorecoveryshop.video",
+"package" : "com.photorecoveryshop.video",
+"category" : "Tools",
+"description" : "1. Scan deleted and lost video in android devices. 2. Select and restore erased video and movie.  The Worlds leading video reconstruction technology, have achieved a movie recovery rate of over 92%. More video, More memories.  Features: * No rooting necessary, high quality to undelete file. * Free download, scan and preview. * Find and save video from internal storage, external memory and memory card of phone. * File format: 3GP, MP4, AVI. * Supports devices: Samsung, HTC, Sony, Google, Motorola, ZTE, LG, Lenovo, Huawei, Vivo, OPPO, Nubia, Mi, Meizu, Coolpad, Gionee.  MP4 Fix Video Repair Tool. Easily fix your damaged video. Save your repaired videos on your phone and share a joy with your friends. Can recover as many corrupted files as you want so all your future phone videos are protected. To restore your crashed file all you need. Works with -> phone camera recordings -> mp4 files broken by camera crash, dead battery and lack of memory. ",
+"desc_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING']",
+}

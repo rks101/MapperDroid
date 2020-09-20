@@ -1,0 +1,11 @@
+{
+"name" : "Easy Fire Tools",
+"url" : "https://play.google.com/store/apps/details?id=de.agondev.easyfiretools",
+"package" : "de.agondev.easyfiretools",
+"category" : "Tools",
+"description" : "With this app it becomes an easy task to install (sideload) apps on Amazons FireTv right from your phone / tablet.  Features - Install (sideload) apps on FireTV - Push, pull, delete, rename files and folders - Uninstall apps from FireTv - Download / install / update Kodi Media Center / SPMC - Search for FireTVs in your network - Create Screenshots - Create and transfer advanced settings for Kodi Media Center / SPMC - Close apps in FireTv - Reboot FireTv - Supports all Amazon FireTvs  Quick start guide 1. You need to have [ADB debugging] & [Apps from unknown sources] activated on your FireTV (located in [Settings] - [System] - [Developer options])  2. Make sure the phone / tablet is in the same Wi-Fi network as the Amazon FireTv is.  3. It is necessary that the IP address of the FireTv is specified in the app settings. The ip address of your FireTv can be found in [Settings] - [Network] - [System] - [Info].  4. Connect through the connection symbol in the upper range of the app  5. If the connection was successful the features of this app can be used ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

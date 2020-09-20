@@ -1,0 +1,11 @@
+{
+"name" : "MATRIC - PC control",
+"url" : "https://play.google.com/store/apps/details?id=tbm.matric.client",
+"package" : "tbm.matric.client",
+"category" : "Tools",
+"description" : "IMPORTANT: This app requires Windows app which can be downloaded at https://matricapp.com  MATRIC is an innovative app utilizing the smartphone to control applications on PC. In a nutshell, it allows you to create a button grid displayed on the smartphone or tablet with each button performing an action in PC application or game.  Remotely control Netflix, Youtube, PowerPoint or use smartphone/tablet as virtual cockpit in flight simulator, use drag & drop editor to create your unique remote and share it with the community (https://community.matricapp.com).  Integration API allows integration of 3rd party apps enabling 2-way integration - e.g. media player can display song name, game could display health/ammo etc.  MATRIC has built in OBS Studio integration so you can use it as stream deck controller. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

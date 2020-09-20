@@ -1,0 +1,11 @@
+{
+"name" : "Solis TechView",
+"url" : "https://play.google.com/store/apps/details?id=www.ginlong.ac_coupled_android",
+"package" : "www.ginlong.ac_coupled_android",
+"category" : "Tools",
+"description" : "Solis TechViewis a near-end maintenance tool for Solis string level PV inverters  The main user of Solis APP is the installers, it can communicate with Inverter WiFi and realize some functions like device check, parameter check and setting, inverter control, inverter upgrade, alarms, etc.    1.Real-timemonitoringofdevicedata 2.Setinverterparameters/functions 3.Real-timealarm/faultfeedback 4.QuickfirsttimesetupisConvenient 5.Fastfirmwaredownload,one-clickupgradeofthedevice 6.QuicklyswitchWIFI ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

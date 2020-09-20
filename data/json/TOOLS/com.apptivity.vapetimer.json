@@ -1,0 +1,11 @@
+{
+"name" : "Vape Timer : Steeping Assistant",
+"url" : "https://play.google.com/store/apps/details?id=com.apptivity.vapetimer",
+"package" : "com.apptivity.vapetimer",
+"category" : "Tools",
+"description" : "Keep track of your DIY e-juices steeping process and make great e-juices.  This app is for vapers who make their own juices only.  Vape Timer allows you to create your own steeping processes and lets you know when your e-juice will be ready.  Features : * Create timer for e-juice in seconds. * Detailed tracking of the steeping progress. * Create template for most used timers and create timer almost instantly * With on time alerting, you dont need to worry about the progress. * Pre-determined or custom processes. * A quick guide for new DIY e-juice beginners.   Getting started to Vape Timer only takes a couple of minutes.   If you have any problem or suggestions please let us know. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

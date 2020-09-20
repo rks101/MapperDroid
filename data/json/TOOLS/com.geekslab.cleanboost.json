@@ -1,0 +1,11 @@
+{
+"name" : "Boost Clean",
+"url" : "https://play.google.com/store/apps/details?id=com.geekslab.cleanboost",
+"package" : "com.geekslab.cleanboost",
+"category" : "Tools",
+"description" : "- Clean Junk This app can detect useless junk files, app cache, system cache,, uninstalled apk, and clean them up. Free up your storage space.  - Super booster Analyze memory usage and force stop memory draining apps. Free up RAM and memory, make your phone more fast, speed and light.  - Battery Saver This app can help you to save battery power, stop apps that cause battery draining  - Android Optimizer Optimize your android phone and make your phone always at fast, light and smart status. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.KILL_BACKGROUND_PROCESSES', 'com.geekslab.cleanboost.andpermission.bridge', 'android.permission.GET_PACKAGE_SIZE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.EXPAND_STATUS_BAR', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.USE_SIP', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.ACCESS_FINE_LOCATION', 'com.geekslab.cleanboost.andpermission.bridge', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_SIP', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.EXPAND_STATUS_BAR']",
+}

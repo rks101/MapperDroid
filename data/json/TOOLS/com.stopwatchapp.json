@@ -1,0 +1,11 @@
+{
+"name" : "Stopwatch",
+"url" : "https://play.google.com/store/apps/details?id=com.stopwatchapp",
+"package" : "com.stopwatchapp",
+"category" : "Tools",
+"description" : "Stopwatch is the stopwatch in your pocket, when you need it, where you need it.   Start recording time, stop recording time, save lap times, restart recording time, reset everything and much more.  Stopwatch has the following functions: - Start - Stop - Restart - Lap - Reset  Other features: - Simple to use, it only takes a click to turn start recording your time Show unlimited amount of lap times - Professional design  Large numbers and buttons Stopwatch can run in background by pressing menu button on your Android, back button exits application - Professional and optimized coding to keep application size as small as possible, 0.2 MB, much smaller as competitive apps on the market - NO unneeded features no use uses  just the important stuff :) - Its FREE :)  Try it out, you will love it! ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "SQLite Viewer",
+"url" : "https://play.google.com/store/apps/details?id=com.kokufu.android.apps.sqliteviewer.free",
+"package" : "com.kokufu.android.apps.sqliteviewer.free",
+"category" : "Tools",
+"description" : "Important If you cant open your database, please confirm that the db can be opened with SQLite 3.22.0. This app is developed for developers.   You can choose from the following three ways to open the database.  1. Open the database file directly. 2. Send an intent with Content Provider uri. 3. Send an intent with database files full path.  Please see below for more details. https://sites.google.com/site/kokufuym/android-application/sqlite-viewer  If you have rooted device, using FuseDroid makes it possible to open a db which is not accessed normally. https://play.google.com/store/apps/details?id=com.kokufu.android.apps.fusedroid   If you purchase the PRO version, you will also be able to use the following functions: Sort Query assist button (for search) The number of recently viewed database can be changed. The number of query histories (for search) can be changed. Save the column width Display null and blob No ads https://play.google.com/store/apps/details?id=com.kokufu.android.apps.sqliteviewer   Please help by leaving a comment, especially when your rating for this app is low. Better yet, I would greatly appreciate it if you could send me an email stating the reason for your low rating beforehand so I can try and fix the problem. Thank you! ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

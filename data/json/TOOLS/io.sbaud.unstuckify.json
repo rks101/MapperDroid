@@ -1,0 +1,11 @@
+{
+"name" : "Unstuckify - Stuck Pixel Fixer",
+"url" : "https://play.google.com/store/apps/details?id=io.sbaud.unstuckify",
+"package" : "io.sbaud.unstuckify",
+"category" : "Tools",
+"description" : "Use Unstuckify to fix stuck pixels on your screen without the extra bloat.  Features + No ads. + No permissions. + Tiny app size of ~55kb.  *This will not fix dead pixels or damaged screens. **Do not use this app if you have a history of epilepsy. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

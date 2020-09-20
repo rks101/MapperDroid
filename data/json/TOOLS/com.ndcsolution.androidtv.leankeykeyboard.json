@@ -1,0 +1,11 @@
+{
+"name" : "Keyboard for Android TV",
+"url" : "https://play.google.com/store/apps/details?id=com.ndcsolution.androidtv.leankeykeyboard",
+"package" : "com.ndcsolution.androidtv.leankeykeyboard",
+"category" : "Tools",
+"description" : "Keyboard for Android-based set-top boxes and TVs  Features: Designed for TV screens. Any remote controller support. Supports dozens of languages. Doesnt depend on Google Services. No root required!  Switch to other language performed with world button, menu key or long press on the space bar.  Keyboard has been tested on Xiaomi Mi Box, Amazon Fire TV, LETV Smart TV, Nexus Player ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

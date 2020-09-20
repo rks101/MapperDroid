@@ -1,0 +1,11 @@
+{
+"name" : "Coin Flip Free",
+"url" : "https://play.google.com/store/apps/details?id=com.ihandysoft.coinflip",
+"package" : "com.ihandysoft.coinflip",
+"category" : "Tools",
+"description" : "Wanna flip a coin for a hard decision? This app let you select your favorite coins to try your luck.  The coins in android phone will flip just like real coins flipping in the air. You can even use your phone to toss a coin with the same gesture tossing a real coin! The coins are beautiful, making you feel even better. ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'com.ihandysoft.coinflip.permission.FRAMEWORK_SECURITY', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.ihandysoft.coinflip.permission.FRAMEWORK_SECURITY']",
+}

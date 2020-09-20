@@ -1,0 +1,11 @@
+{
+"name" : "Gallery",
+"url" : "https://play.google.com/store/apps/details?id=junk.images.photos.cleaner.clean.gallery.photo.photocleaner",
+"package" : "junk.images.photos.cleaner.clean.gallery.photo.photocleaner",
+"category" : "Tools",
+"description" : "A fast , simple , beautiful gallery app for your Android Phone.  Key features:  1.High-Definition photo viewing 2.View by date 3.View by albums 4.Photo cleaner function , help you clean duplicated photos , blur photos and useless screenshots , save storage of your device 5.Photo information 6.Share photo 7.Add to favorite 8.Set photo as wallpaper 9.delete photo ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

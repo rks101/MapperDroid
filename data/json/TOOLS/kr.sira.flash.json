@@ -1,0 +1,11 @@
+{
+"name" : "Smart Flashlight",
+"url" : "https://play.google.com/store/apps/details?id=kr.sira.flash",
+"package" : "kr.sira.flash",
+"category" : "Tools",
+"description" : "Smart Flashlight is in the 5th set of Smart Tools collection.  Have you ever wanted a simple and handy flashlight app? [Smart Flashlight] can be the solution. This app has three essential modes without complicated features.  1. LED light : you can turn camera LED on as a torch. 2. Screen light : you can turn your screen into a brilliant light source. It is enough to find your way in the dark. 3. LED widget : you can create a flashlight widget on home screen.  The app supports most android devices running OS 4.0 and more. If it does not work properly on your device, please let me know. androidboy1@gmail.com   * Do you want more tools? download [Smart Light Pro] and [Smart Tools] package.  For more information, watch YouTube and visit the blog. Thank you.   android.permission.CAMERA: Required to turn on camera LED.  ** After OS upgrading, if the widget does not work properly, remove and re-create it.  ** To create a flashlight widget, you must install the app into your device (not into SD card). ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "PXG GUIDE",
+"url" : "https://play.google.com/store/apps/details?id=egcompany.pxgguide",
+"package" : "egcompany.pxgguide",
+"category" : "Tools",
+"description" : "The app is developed by fans with all geek love <3. This is the first app for Uncyclopedia, the community driven PokexGames. The app is under development. Here it is easily accessible in application format with improved navigation. PXG Guide is designed to help all novice and experienced players. - Complete Pokedex: All generations available in the game always up to date! - Estimated Pokmon averages per Pokmon. - All available Quests. - Boost Stone table. - Brotherhood Quest Maps. - Description of the Helds. - Master ball table. - Guide for Professions (Teacher, Engineer, Stylist and Adventurer) - Adventurous maps available. - Clan information. - Dimenzional Zone rotations available. - Location of all level 40+ Pokemon  Dont have data or wifi access? No problem, the app is 90% offiline you can use it anywhere to take your questions :).    PXG Guide is not affiliated with Nintendo, Creatures Inc., Game Freak Inc. or Pokmon Company. Pokmon content and materials are trademarks and copyrights of Nintendo, Creatures Inc., Game Freak Inc., The Pokmon Company and its licensors. All rights reserved. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

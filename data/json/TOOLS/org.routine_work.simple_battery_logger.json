@@ -1,0 +1,11 @@
+{
+"name" : "Simple Battery Logger",
+"url" : "https://play.google.com/store/apps/details?id=org.routine_work.simple_battery_logger",
+"package" : "org.routine_work.simple_battery_logger",
+"category" : "Tools",
+"description" : "Simple Battery Logger is a simple tool to record the history of the battery status. This is a tool for Android developers. You can use this tool for the battery benchmarking of your applications or devices.  The following functions are supported. * The battery status logging function. * Exporting CSV file to external storage. * Deleting the old data in built-in storage automatically.  This software has the following features. * No advertisement * Open source ( http://sourceforge.jp/users/say/pf/android_battery_logger/scm/ )  This app requires the following permissions. * WRITE_EXTERNAL_STORAGE - Exporting CSV file ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

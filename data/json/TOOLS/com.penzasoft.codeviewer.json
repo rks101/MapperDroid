@@ -1,0 +1,11 @@
+{
+"name" : "Code Viewer",
+"url" : "https://play.google.com/store/apps/details?id=com.penzasoft.codeviewer",
+"package" : "com.penzasoft.codeviewer",
+"category" : "Tools",
+"description" : "Code Viewer is a program for viewing the source code in Java, C#, C++, etc. It supports syntax highlighting, line numbering, word wrapping and text search. This application is not an editor, it is just a viewer. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+}

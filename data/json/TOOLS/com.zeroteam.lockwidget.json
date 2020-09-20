@@ -1,0 +1,11 @@
+{
+"name" : "ZERO Lock Screen",
+"url" : "https://play.google.com/store/apps/details?id=com.zeroteam.lockwidget",
+"package" : "com.zeroteam.lockwidget",
+"category" : "Tools",
+"description" : "Lock your device with just one click!  Lock Screen  is a tiny app that can help you lock easily (without power button).  - This app uses ZERO Launcher . In case your phone doesnt already support that, dont worry, the app will assist you by opening a download page!  How to unInstall:  Before uninstalling the widget, disable admin permissions in Location & security > Select device admin > Lock Screen  ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

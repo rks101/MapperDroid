@@ -1,0 +1,11 @@
+{
+"name" : "Compass Steel 3D",
+"url" : "https://play.google.com/store/apps/details?id=com.simplywerx.compass3d",
+"package" : "com.simplywerx.compass3d",
+"category" : "Tools",
+"description" : "FEATURES:  Ad-free digital compass  Choose from multiple color themes  Choose between 2 heading modes - True heading (based on True north) and Magnetic heading (based on Magnetic north).   Sun direction indicator  Moon direction indicator  Sunrise and sunset times  Moonrise and moonset times  Self-calibrates as you use  Marine-style compass  PERMISSIONS:  Requires access to location coordinates to calculate True heading. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

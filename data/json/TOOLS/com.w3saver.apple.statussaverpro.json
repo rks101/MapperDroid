@@ -1,0 +1,11 @@
+{
+"name" : "Status Saver Pro",
+"url" : "https://play.google.com/store/apps/details?id=com.w3saver.apple.statussaverpro",
+"package" : "com.w3saver.apple.statussaverpro",
+"category" : "Tools",
+"description" : "Status Saver Pro   This app lets you save and share your friends WhatsApp statuses with few steps.   Features of this app    Seprate Images and Video tabs    Minimal UI with smooth transitions    Simple and strightforward    Very small in size (~4mb)    Share status directly to the WhatsApp or to other apps   How to use?  1) First you have to load the WhatsApp Statuses from that WhatsApp  2) Open the Status Saver Pro App  3) Choose whitch image or video that you want to download/save  4) Tap on the download icon to save the status and that status will be saved in the saved tab (alternativly you can also share directy to the other apps)  5) Boom thats it !    Functons of this app  - status video and image download and save   - status video and image share with other app or post as your own status   What are you waiting for ? Download the App its completely FREE!   Please write a review and rate us if you like this app   - Thank You ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

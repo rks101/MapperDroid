@@ -1,0 +1,11 @@
+{
+"name" : "EFP – Easy Formwork Planner",
+"url" : "https://play.google.com/store/apps/details?id=com.doka.efp",
+"package" : "com.doka.efp",
+"category" : "Tools",
+"description" : "Easy formwork planning and ordering directly on site independent from external planning capacities.  By using the Easy Formwork Planner the foreman on site is able to do a professional formwork planning. Based on a construction plan the building structure can be easily detected by using the finger on your smartphone or tablet.  In the background, an automated formwork planning comes along. So the foreman can quickly react to project changes without contact an engineering expert.  The possibility of generating piece lists of the required material is also integrated.  Furthermore, the formwork material can be ordered via the Doka online shop. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

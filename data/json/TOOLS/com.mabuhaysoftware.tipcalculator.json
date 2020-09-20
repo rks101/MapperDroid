@@ -1,0 +1,11 @@
+{
+"name" : "Calculator, Tip & Travel Guide",
+"url" : "https://play.google.com/store/apps/details?id=com.mabuhaysoftware.tipcalculator",
+"package" : "com.mabuhaysoftware.tipcalculator",
+"category" : "Tools",
+"description" : "Bluecoins Calculator is a beautiful and elegantly simple tool for calculating tips, taxes, total bill and splits between friends. The calculator is front and center, which makes it handy enough to replace your daily calculator while being an excellent travel companion!  More than a calculator, its has an integrated tip travel guide you can take with you anytime, anywhere.  Key Features  Calculate tip and total payment as you type your bill  Handy enough to replace your daily calculator  Easy controls to make granular adjustments of your tips, splits and more  Quick option to add or remove sales tax into total bill  Tip guide for 100 countries around the world  Works offline, access your complete travel tipping guide anywhere   This app is brought to you by the same developer of Bluecoins- Finance & Budget app (Googles Editor Choice) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.mabuhaysoftware.tipcalculator.permission.C2D_MESSAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+}

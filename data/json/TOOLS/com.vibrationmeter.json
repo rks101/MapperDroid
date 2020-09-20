@@ -1,0 +1,11 @@
+{
+"name" : "Vibration Meter",
+"url" : "https://play.google.com/store/apps/details?id=com.vibrationmeter",
+"package" : "com.vibrationmeter",
+"category" : "Tools",
+"description" : "Vibration Meter, also known as seismograph, seismometer measures vibrations using your Androids sensors and   shows reference to earthquake vibrations as classified by Mercalli intensity scale.   Vibrations are shown in all directions: X, Y, Z in different colors. Place your device on stable surface and measure vibrations.   Mercalli intensity scale  I. Instrumental - Not felt. Recorded by seismographs. II. Weak - Rarely felt, usually only on top floors of high buildings. III. Slight - Felt indoors, like a passing light truck. IV. Moderate - Windows, dishes, doors rattle. Like passing train. V. Rather Strong - Felt by all. Small objects upset. VI. Strong - Books off shelves. Trees shake. Isolated damage. VII. Very Strong - Difficult to stand. Many poor buildings damaged. VIII. Destructive - Significant damage. Branches broken from trees. IX. Violent - General panic. Serious damage. Ground cracking. X. Intense - Most buildings destroyed. Rails bent slightly. XI. Extreme - Rails bent greatly. Pipelines destroyed. XII. Catastrophic - Near total damage. Objects thrown into the air. ",
+"desc_perms" : "['android.permission.vibrate']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "BlendZ",
+"url" : "https://play.google.com/store/apps/details?id=com.wookiesoft.blendz",
+"package" : "com.wookiesoft.blendz",
+"category" : "Tools",
+"description" : "Creativity frequently begins with a brilliant thought, rapidly followed by the frantic scribblings of pencil on paper, often accompanied by thumpings on a calculator. This is where BlendZ began.  I wrote BlendZ to save me time working-out and re-calculating the math for large, widescreen, overlapping (blending) projectors, to make up screens larger than a single projectors image. If you need to work out the math for a wide screen projection surface using multiple projectors BlendZ is for you.  To begin all you need to know is the desired width and height of the projection surface, the native chip resolution of the projectors (or output resolution of the source device) you are planning to use, and the number of projectors you think you need. Then, BlendZ will give you all the information you need. BlendZ works in both Feet and Metres, just choose your preferred flavour of measurement, in Preferences, and off you go.  Originally this application was written for the Mac and PC as a tool for the Project Managers of Creative Technology (www.ctinternational.com) and now I have released a mobile version for the Android OS. (Sorry iphone users!) Unlike the desktop version, for Mac and PC, this app doesnt draw out the full grids, but you are able to e-mail the calculations sheet to yourself or someone else as a .pdf.  Currently BlendZ only works out the stuff for a single row or column of projectors, at some point in the near future I plan to expand it to calculate projection arrays. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.READ_CALL_LOG']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.SEND_SMS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.SEND_SMS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "QR Code Reader & Barcode Scanner",
+"url" : "https://play.google.com/store/apps/details?id=com.peace.QRcodeReader",
+"package" : "com.peace.QRcodeReader",
+"category" : "Tools",
+"description" : "This is QR Code Reader & Barcode Scanner.  It is the fastest and the most accuracy QR code reader in Android, so you can stably read the QR code and barcode!  There are a lot of QR codes and barcodes in a variety of products and medias, but you can not read them if your smartphone has no application to read them.  In that case, please use this application to read the QR code and bar code. Just holding the camera, you can read information quickly.  QR codes and barcodes are continue to increase in the future, Lets get more and more information by this application! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_CALENDAR', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_CONTACTS', 'android.permission.CAMERA', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_CALENDAR', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_CONTACTS', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

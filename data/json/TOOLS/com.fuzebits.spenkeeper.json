@@ -1,0 +1,11 @@
+{
+"name" : "S Pen Keeper",
+"url" : "https://play.google.com/store/apps/details?id=com.fuzebits.spenkeeper",
+"package" : "com.fuzebits.spenkeeper",
+"category" : "Tools",
+"description" : "S-Pen Keeper is a smart tiny companion utility to your S-Pen enabled Samsung device. It keeps an eye on your valuable S-Pen and will remind you to attach it if youre moving away without it.   Just install the app and rest assured you dont lose your S-Pen!  Feature highlights:  - Autostarts at boot - Configurable motion detector (three levels of sensitivity) - Configurable notification (alert sound, vibration etc) - Lock-screen alert message - Simple last attached/detached event journal (in-app) - Negligible battery consumption (motion tracking is active only when S Pen is detached and device screen is off) - Can be completely disabled when not used  If you like S Pen Keeper and fancy spending a few spare coins, please make the in-app - its rather a donation to support further releases than a valuable add-on!  IMPORTANT: DO NOT ENABLE OREOS BACKGROUND EXECUTION LIMITS ON THE APP - IT WILL NOT WORK CORRECTLY IF YOU DO IT!!!  THIS APPLICATION IS TARGETED EXCLUSIVELY FOR SAMSUNG S-PEN ENABLED DEVICES. IT MAY NOT WORK ON DEVICES WITH CUSTOM ROM.  In case you experience any issue while using S-Pen Keeper please report it to us via email. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.vibrate', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.VIBRATE', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING']",
+}

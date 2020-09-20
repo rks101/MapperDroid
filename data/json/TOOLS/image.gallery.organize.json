@@ -1,0 +1,11 @@
+{
+"name" : "Gallery - Photo Album & Image Editor",
+"url" : "https://play.google.com/store/apps/details?id=image.gallery.organize",
+"package" : "image.gallery.organize",
+"category" : "Tools",
+"description" : "Photo Gallery is fast, lightweight and the most stable gallery app, and making it the best alternative Android gallery app. You can quick and easy to access all your photos and videos. It has utilized all advantage of your phone or tablet. Photo Gallery set photo management and photo editing in one, is essential on your mobile phone photo tool.  Key Features:   ORGANIZE YOUR GALLERY - Ultra fast photos & videos viewer - Automatically organize your photos by time, album and location - Move photos - Copy photos - Share photos to social network - Picture details - Delete - Create albums - Set as favorite  - Scan photos from SDCard.  - Viewing high definition photos ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SET_WALLPAPER', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.USE_FINGERPRINT', 'image.gallery.organize.permission.C2D_MESSAGE', 'android.permission.SYSTEM_OVERLAY_WINDOW', 'android.permission.SYSTEM_ALERT_WINDOW', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.SET_WALLPAPER', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.SYSTEM_OVERLAY_WINDOW', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

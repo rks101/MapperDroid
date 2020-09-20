@@ -1,0 +1,11 @@
+{
+"name" : "Fleet Hunt",
+"url" : "https://play.google.com/store/apps/details?id=com.fleethunt",
+"package" : "com.fleethunt",
+"category" : "Tools",
+"description" : "Fleet Hunt provides real time fleet tracking and fleet management solutions to existing business problems. Using GPS technology with cellular/satellite networks it is the most effective way to have full control over your assets at your fingertips.   With easy to understand insights, fleet managers can observe and improve driving behaviors making their task a safer and economical experience. Customizable reports are available on web portal for business to business consumers for more efficient, safer, cost eective monitoring and better route planning.  A compatible device and an active subscription from fleethunt is required to use this app. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.SEND_SMS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SEND_SMS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

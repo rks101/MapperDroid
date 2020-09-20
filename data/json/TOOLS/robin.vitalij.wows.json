@@ -1,0 +1,11 @@
+{
+"name" : "WoWS Assistant",
+"url" : "https://play.google.com/store/apps/details?id=robin.vitalij.wows",
+"package" : "robin.vitalij.wows",
+"category" : "Tools",
+"description" : "WoWS Statistics is a mobile application for displaying player statistics in World of Warships on a PC.  This application is NOT a product of Wargaming.net and is created in accordance with the rules of the Wargaming Developer Partner Program: Http://eu.wargaming.net/developers/documentation/rules/rules/  Main features: -Display of the general statistics of the player; -Calculation of popular ratings (RP); -Ratings for each tank separately; -Compare players; -Information about the clan, viewing the techniques of the clan, ratings of clan members; -View the last session.  P.S. Dear users of the application. If you have any errors, please let us know and indicate your nickname. The application is in active development. If you have suggestions for improving the application, write to the mail vitalij.robin@gmail.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

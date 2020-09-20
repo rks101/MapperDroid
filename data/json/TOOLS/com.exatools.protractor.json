@@ -1,0 +1,11 @@
+{
+"name" : "Protractor",
+"url" : "https://play.google.com/store/apps/details?id=com.exatools.protractor",
+"package" : "com.exatools.protractor",
+"category" : "Tools",
+"description" : "Protractor - smart instrument to measure angles. Turn on the camera mode and measure the angle of buildings, mountains or any other object around you.  This app including two measuring mode: - touch measure - touch the screen to set angle (use camera view !),  - plumb measure - pendulum - use to determine the slope (remember to calibrate the plumb).  In each mode, you can (for free) switch to camera view and take measurements all objects around you.  Both mode allows you to make a screenshot of anything on the screen.  Enjoy !!! ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING', 'android.permission.CAMERA', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

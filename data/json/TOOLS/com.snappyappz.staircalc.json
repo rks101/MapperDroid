@@ -1,0 +1,11 @@
+{
+"name" : "Stair Calculator Pro",
+"url" : "https://play.google.com/store/apps/details?id=com.snappyappz.staircalc",
+"package" : "com.snappyappz.staircalc",
+"category" : "Tools",
+"description" : "Stair Calc Pro is a fast, easy way to create stair calculations. Put your pencil down and start making professional, consistent calculations today.   - Solve rise, run, incline, headroom, stringer length, throat and more.  - View a detailed diagram of the stairwell or the stringer that is to scale and zoomable.  - Change font size, arrow size, line width, and more to customize your drawing.  - Work in either imperial or metric. - Built in construction calculator allows intermediate calculations to be performed within the app. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

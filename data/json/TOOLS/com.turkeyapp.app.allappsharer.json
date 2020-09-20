@@ -1,0 +1,11 @@
+{
+"name" : "All App Share - Transfer / Sender App",
+"url" : "https://play.google.com/store/apps/details?id=com.turkeyapp.app.allappsharer",
+"package" : "com.turkeyapp.app.allappsharer",
+"category" : "Tools",
+"description" : "With the All App Share , you can share application and transfer apk file on your device to new phone , as well as support for sharing applications via bluetooth and many other features  Application features 1 Select All feature, which you can send all your applications to at once. 2 Search feature helps you find your application more easily 3 Application link sharing feature 4 with High performance and speed ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

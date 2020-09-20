@@ -1,0 +1,11 @@
+{
+"name" : "Simple digital stopwatch â€“free",
+"url" : "https://play.google.com/store/apps/details?id=sux.simplestopwatch",
+"package" : "sux.simplestopwatch",
+"category" : "Tools",
+"description" : "For all of those who tired of all the complicated stopwatches with all the advance features, I created this simple stop watch. This digital stopwatch is very simple to handle. One tap on the clock to start, one more tap to pause, and while on pause mode you can long click the clock to reset the time. Also, the stopwatch has a simple sportive lock. For now you can change the fonts, the text color and clock color. In the future there will be more customization options. Just click on the wheel icon which located at the top of the screen and all the settings options will be available for you while the clock is still running. One more tap on the icon will close the settings. Please rate, leave a comment and suggestion, and most important enjoy! ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Night Light",
+"url" : "https://play.google.com/store/apps/details?id=com.unlimitedpocketsoftware.nightlight",
+"package" : "com.unlimitedpocketsoftware.nightlight",
+"category" : "Tools",
+"description" : "This is a simple application that you will find useful at night. If you need some soft light during the night, for instance if you dont want to turn the room lights on but still be able to see around, the this is the app for you.  You can select whether you want the screen in full black or full white with maximum brightness just by tapping the screen or shaking the phone a little bit, this shaking feature is really handy if you are sleepy and you cant find your phone in the middle of the night.  Additionally, tap and hold to progressively move from full dark screen to full brightness. and vice versa.  It is very important to keep your phone plugged to the power adapter while the app runs, the phone is always responsive and the screen and processor are ready for your input so if you dont plug your phone you would run out of battery in the middle of the night.  It is a free download which I hope you like it being such a simple app, and you find it useful. It is just launched so please rate it in the market and leave me your (hopefully constructive) comments and ideas for it.  Thanks! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

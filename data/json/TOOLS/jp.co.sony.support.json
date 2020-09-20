@@ -1,0 +1,11 @@
+{
+"name" : "Support by Sony: Find support",
+"url" : "https://play.google.com/store/apps/details?id=jp.co.sony.support",
+"package" : "jp.co.sony.support",
+"category" : "Tools",
+"description" : "- Find support information for your Sony products with Support by Sony Support by Sony helps you quickly find support information.  - Instant notification about your bookmarked products Receive important news, software / firmware updates and helpful guides about your products directly to your smartphone.  - Touch your smartphone to your Sony product that supports NFC* and display support information in a flash. *See NFC compatible Sony products on our official site. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WRITE_CALENDAR', 'jp.co.sony.support.permission.C2D_MESSAGE', 'android.permission.NFC', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'android.permission.BLUETOOTH_ADMIN', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.NFC', 'android.permission.WRITE_CALENDAR']",
+}

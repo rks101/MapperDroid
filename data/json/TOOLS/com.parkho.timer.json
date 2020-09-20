@@ -1,0 +1,11 @@
+{
+"name" : "Timer & stopwatch",
+"url" : "https://play.google.com/store/apps/details?id=com.parkho.timer",
+"package" : "com.parkho.timer",
+"category" : "Tools",
+"description" : " Multiple timer & stopwatch. Supports several timer & stopwatch adding, editing and deleting.   Timer - You can add several timers and play it each other. - Stay on top of all other apps. - Timer is going to run after setting the time and press the start button. - When the time expires, a vibration alerts.   Stopwatch - You can add several stopwatches and play it each other. - Stay on top of all other apps. - Provides the functions such as start, stop, reset.   Keywords timer, stopwatch ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

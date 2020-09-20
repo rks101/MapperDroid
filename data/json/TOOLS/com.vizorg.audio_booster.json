@@ -1,0 +1,11 @@
+{
+"name" : "Volume Booster",
+"url" : "https://play.google.com/store/apps/details?id=com.vizorg.audio_booster",
+"package" : "com.vizorg.audio_booster",
+"category" : "Tools",
+"description" : "A new application that allows you to increase the volume of the speaker for better viewing movies, listening to music or audiobooks.  YOU ARE SOLELY RESPONSIBLE FOR YOUR USE OF THE APPLICATION. Audio playback at high volume, especially for extended periods of time can lead to damage to the dynamics of the system and your hearing. Some users have REPORTED damage to speakers and headphones. IF YOU HEAR static WHEN PLAYING, TURN down the VOLUME (but it may be too late)!!!  By installing this app, you agree that the developer is not responsible for any damage to your equipment or hearing. YOU ARE solely responsible for your use of the application. Consider this app as EXPERIMENTAL.  This app does not support all devices!  Remember that only you ARE responsible FOR ITS USE!!!   This application is not designed to adjust the volume of the speaker during calls, it is designed to adjust the volume of music, movies and audiobooks. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.QUICKBOOT_POWERON', 'android.permission.WAKE_LOCK', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.QUICKBOOT_POWERON', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+}

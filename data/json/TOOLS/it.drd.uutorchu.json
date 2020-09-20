@@ -1,0 +1,11 @@
+{
+"name" : "Light LED Torch",
+"url" : "https://play.google.com/store/apps/details?id=it.drd.uutorchu",
+"package" : "it.drd.uutorchu",
+"category" : "Tools",
+"description" : "Light LED torch, is an light and easy torch that use the flash of your camera to transform your smartphone in a torch.  Light LEd torch is only a torch without particular effect, but its small apps to save memory of your smartphone  you con choose bettwen turn on the flash of your camera and screen brightness af full power. If you dont have camera flash, you can only set screen brightness   Use the widget to turn on and turn off light LED torch without open application, you can turn of the torch directly from notification bar.  if you have suggest or problem contact drdsoftwareapps@gmail.com ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

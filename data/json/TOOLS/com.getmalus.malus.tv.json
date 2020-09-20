@@ -1,0 +1,11 @@
+{
+"name" : "Malus VPN for TV",
+"url" : "https://play.google.com/store/apps/details?id=com.getmalus.malus.tv",
+"package" : "com.getmalus.malus.tv",
+"category" : "Tools",
+"description" : "Malus is a best China Proxy that extremely easy to use, help you watch videos and listen musics outside of China, just one click to unblock and accelerate the videos and musics data stream, It support China apss such as bilibili, youku, iqiyi, tencent, qq music etc.  Features lists:  * Unblock china media sites, such as youku, iqiyi, bilibili and tencent and so on. * Accelerate video stream, music stream and websites pages host in China * Access all sites host in China anonymous * Support all platform  Malus support Chrome browser, iPhone, iPad, Android Phone now, and will publish the Desktop support and Android TV support in the future. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

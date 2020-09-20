@@ -1,0 +1,11 @@
+{
+"name" : "M2 Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.wookiesoft.bromptoncalculator",
+"package" : "com.wookiesoft.bromptoncalculator",
+"category" : "Tools",
+"description" : "The SX40, M2, S4 or T1 Processors (by Brompton*) are used on Large LED video screen, it takes in a variety of inputs and has 4 output ports on the SX40, M2 and S4s and a single output on the T1 that can drive up to a maximum of 500,000 pixels per port, but there are some conditions. Frame Rate, Colour Depth and how many pixels each connected tile has can impact the number of tiles you can drive per Port.  By selecting the type of LED tile in the wall and selecting a frame rate, and colour depth you can see how many tiles you can connect to each port.  I wrote this application for the Techs and PMs I work with so that they can see for simple LED screens how many M2, S4 or T1 Processors are needed on the show for a given frame rate and colour depth.  The SX40 can drive 4K screens in a single processor thanks to its 4x10G network Ports via Cat 6 or Opticon to its fiber receivers.  * this program was not written by Brompton, and they do not provide technical support for this program. ",
+"desc_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

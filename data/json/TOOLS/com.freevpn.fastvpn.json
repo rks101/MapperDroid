@@ -1,0 +1,11 @@
+{
+"name" : "U-VPN (Free Unlimited & Very Fast & Secure VPN)",
+"url" : "https://play.google.com/store/apps/details?id=com.freevpn.fastvpn",
+"package" : "com.freevpn.fastvpn",
+"category" : "Tools",
+"description" : "U-VPN is super fast VPN service using a new technology.  U-VPN is the ultimate Android VPN. It is 100% free unlimited VPN.  Easy to use, One click to connecting to U-VPN server. U-VPN is completely anonymous. All of your traffic is encrypted and not logged at all. U-VPN give you unlimited bandwidth and unlimited free trial time. U-VPN protect your privacy and keep you safe from 3rd party tracking. Unblock geographically restricted websites through U-VPN servers. U-VPN support UI with multi languages and many vpn servers located in different area.  U-VPN Benefits: * U-VPN Service is almost never blocked in any country. * The connection speed of U-VPN is very fast compared to others. * The traffic speed of U-VPN is more fast compared to others. * Encrypts your internet traffic. * Unblock geographically restricted websites. * No registration needed. * No login or password required. * Easy to connect to U-VPN. * No root access needed.  We hope you enjoy with U-VPN. Thank you! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.NFC', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.CHANGE_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'com.freevpn.fastvpn.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.NFC', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Clocks of Cities on Terra",
+"url" : "https://play.google.com/store/apps/details?id=com.macbear.clock",
+"package" : "com.macbear.clock",
+"category" : "Tools",
+"description" : "What time is it? Cities around the world use various clock time by timezone. When New York is daylight, but Tokyo is in night. This app show cities on globe-earth and their clocks. Some city-clock will be adjusted in DST (Daylight Saving Time) period. ----------------  Feature   Realtime high quality globe blended by sunlight and city-light  Database with 1300+ cities   Display city-timezone by specify color   Support Daylight-Saving-Time (DST)   Preset your favorite cities   Support 12/24 hour time   Boundary of country and coast line (included disputed areas)   Longitude/Latitude display (with equator, tropical, and polar)   Smoothly control by gesture: tap, double-taps, pinch, slide   Search tool by city-name   Show your location on earth   No internet requirement to use the app   InAppPurchase: remove ads -------------  Gesture Control    Tap: focus on city   Double-Taps: add/del city   Pinch: zoom in/out, rotate   Slide: move viewer  ----------------   Special Thanks    Naaty Design, http://www.content-pack.com   Visible Earth, http://visibleearth.nasa.gov   Natural Earth, http://www.naturalearthdata.com   Tom Patterson, www.shadedrelief.com  ---------------- ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_COARSE_LOCATION', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Workarounds for Automagic",
+"url" : "https://play.google.com/store/apps/details?id=ch.gridvision.ppam.androidautomagicworkarounds",
+"package" : "ch.gridvision.ppam.androidautomagicworkarounds",
+"category" : "Tools",
+"description" : "Automagic Workarounds is a little helper app required to modify some settings with Automagic on Android 6 and later.  The app does not show up in the app drawer of your device since it does not have its own user interface. The app only serves as a helper for Automagic and does not have any purpose without the main Automagic app. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_SETTINGS']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "BatchAlarm",
+"url" : "https://play.google.com/store/apps/details?id=com.rishabhkh.batchalarm",
+"package" : "com.rishabhkh.batchalarm",
+"category" : "Tools",
+"description" : "Note:- This app is not under active development anymore.  BatchAlarm eliminates the need to manually set multiple alarms.  Pick the start time, the number of alarms, the time interval between each alarm and the app will automatically populate the alarms.  The interface is simple and intuitive.The app is lightweight.       PS-Please send all bug reports/feature requests to rishabhk147@gmail.com ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.VIBRATE', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

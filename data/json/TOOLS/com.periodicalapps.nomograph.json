@@ -1,0 +1,11 @@
+{
+"name" : "Nomograph",
+"url" : "https://play.google.com/store/apps/details?id=com.periodicalapps.nomograph",
+"package" : "com.periodicalapps.nomograph",
+"category" : "Tools",
+"description" : "Pressure-temperature boiling point calculator.  Preset list of common chemistry laboratory solvents.  Useful in a research laboratory.  Uses the Clausius-Clapeyron relation to calculate the boiling point of liquids at different pressures, and Troutons rule to estimate the enthalpy of vaporisation for custom/unknown liquids.  Pressure units selectable.  Ad free. No special permissions. Lightweight, fast and precise.   ******** HOW TO USE:  1) Select solvent from drop-down menu, or select custom if the desired solvent is not available, or you are unsure.  2) Enter two of the three fields (Normal boiling point in degrees Celsius, Pressure in your preferred units, Temperature in degrees Celsius).  3) Click the relevant button to calculate the missing value.  To change what units for pressure you are working in, go to menu > settings > Pressure unit preferences and select your preferred pressure.  ******** More information at www.periodicalapps.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "2K HD cam 0.9.7.20",
+"url" : "https://play.google.com/store/apps/details?id=org.jght.turnigy.zone",
+"package" : "org.jght.turnigy.zone",
+"category" : "Tools",
+"description" : "Description :  Now you can control based on NTK96655 VCR, by using your smart devices , Like remote viewfinder/preview, view the photo album . Application for Turnigy 2K HD cam and FPV cam.  Main Features :   . Real-time preview video preview . Control the sport dv recording , stop recording , take photos . Setting the resolution of the DV, AWB, AE, etc . Download videos and photos from sports DV ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.WRITE_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.INTERNET']",
+}

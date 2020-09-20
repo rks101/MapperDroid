@@ -1,0 +1,11 @@
+{
+"name" : "Sound Meter",
+"url" : "https://play.google.com/store/apps/details?id=com.gamebasic.decibel",
+"package" : "com.gamebasic.decibel",
+"category" : "Tools",
+"description" : "Sound level meter(or SPL) app is shows a decibel values by measure the environmental noise, displays measured dB values in various forms. You can experience tidy graphic design with high frame by this smart sound meter app.  Features: - Indicates decibel by gauge - Display the current noise reference - Display min/avg/max decibel values - Display decibel by graph line - Display Elapsed time of decibel  - Can calibrate the decibel for each devices  **Notes Microphones in most android devices are aligned to human voice. The maximum values are limited by the device. Very loud sounds(over ~90 dB) may not be recognized in most device. So please use it as just an auxiliary tools. If you need more accurate dB values, we recommend a actual sound level meter for that. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

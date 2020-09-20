@@ -1,0 +1,11 @@
+{
+"name" : "Game Battery Saver for Game Auto Play",
+"url" : "https://play.google.com/store/apps/details?id=com.sisomobile.android.gamebattersaver",
+"package" : "com.sisomobile.android.gamebattersaver",
+"category" : "Tools",
+"description" : "If you use this when you play the game automatically, The battery is saver and the heat is reduced.  When the battery saver mode is enabled, the screen is blacked to conserve battery power and reduce heat.    Main Features    Status bar The saver function can be change via the status bar.   Brightness control Battery saving You can adjust the brightness of the screen.   Clock You can display the clock on the battery saving screen.   Full termination of all processes This is the ability to terminate all apps and status bars and delete them from the process. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

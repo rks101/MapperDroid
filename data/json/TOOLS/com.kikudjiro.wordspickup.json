@@ -1,0 +1,11 @@
+{
+"name" : "Words Pickup",
+"url" : "https://play.google.com/store/apps/details?id=com.kikudjiro.wordspickup",
+"package" : "com.kikudjiro.wordspickup",
+"category" : "Tools",
+"description" : "Words Pickup is a tool to select options in word games like 4 Pictures 1 Word or Picture IQ: Guess the Word. You need to enter a set of source letters and the target word length. The application is matching all possible cases by the dictionary. There are English and Russian dictionaries. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

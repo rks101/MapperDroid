@@ -1,0 +1,11 @@
+{
+"name" : "System Monitor Float Free",
+"url" : "https://play.google.com/store/apps/details?id=a98apps.monitorfree",
+"package" : "a98apps.monitorfree",
+"category" : "Tools",
+"description" : "System Monitor Float Free is a monitoring tool. It shows in a floating window information about the system being a useful tool for users interested in seeing how your device is behaving.  With System Monitor Float Free you can:  Monitor the CPU; Monitor RAM; Monitor your Network; Monitor your Battery;  In addition to monitoring system information on floating windows, it also offers the customization of floating windows.  In this version you can customize:  Design is compact or no; CPU Update time; Text Size; ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.SYSTEM_ALERT_WINDOW', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW', 'com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY', 'android.permission.ACCESS_FINE_LOCATION']",
+}

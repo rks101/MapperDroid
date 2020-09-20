@@ -1,0 +1,11 @@
+{
+"name" : "STOVE Authenticator",
+"url" : "https://play.google.com/store/apps/details?id=com.stove.otp.google.android",
+"package" : "com.stove.otp.google.android",
+"category" : "Tools",
+"description" : " What is STOVE Authenticator? STOVE Authenticator is an OTP (One Time Password) app that creates and controls an 8-digit OTP in the two-step verification to strengthen the security. Using the OTP authentication, STOVE Authenticator protects your account from password hacking, account fraud, disclosure of personal information, and other forms of attack.    How to Register STOVE Authenticator  Install the STOVE Authenticator app from Google Play Store.  Go to http://www.onstove.com from your PC or smartphone and log in.  In the top right menu, select My Info > STOVE Authenticator Settings.  Enter the unique number and authentication number displayed on the Authenticator app screen to register your STOVE Authenticator.   Supported Language  Korean  English  Japanese  Traditional Chinese   STOVE is the trademark of an online service provided by Smilegate Inc. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.GET_TASKS']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Big File Cleaner",
+"url" : "https://play.google.com/store/apps/details?id=cleaner.junk.booster.boost.clear.clean.cachecleaner.clearcache.cleancache.optimize.cache.bigfile",
+"package" : "cleaner.junk.booster.boost.clear.clean.cachecleaner.clearcache.cleancache.optimize.cache.bigfile",
+"category" : "Tools",
+"description" : "Big File Cleaner is an android app help you cleaning unnecessary big size files. It can list big size files by type(image/audio/video/others) , by file directory and by file extensions. With this app , you can find big files which waste phone storage easily , and save phone storage.  Features:  fastest scanning speed list big size files by type list big size files by file directory list big size files by extensions list new big size files ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

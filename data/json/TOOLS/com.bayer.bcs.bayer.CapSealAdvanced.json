@@ -1,0 +1,11 @@
+{
+"name" : "Bayer CapSeal Advanced",
+"url" : "https://play.google.com/store/apps/details?id=com.bayer.bcs.bayer.CapSealAdvanced",
+"package" : "com.bayer.bcs.bayer.CapSealAdvanced",
+"category" : "Tools",
+"description" : "In 2016 Bayer introduces its 3rd-generation CapSeal. By protecting our packaging with a special seal, we allow farmers to benefit by checking of the authenticity of the product in a smooth and easy way.  As manipulation can never be excluded, the App only gives an indication but no guarantee wheter the product is authentic or not.  Moreover a broken CapSeal indicates that the bottle has already been opened. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

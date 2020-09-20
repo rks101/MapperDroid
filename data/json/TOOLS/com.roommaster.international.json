@@ -1,0 +1,11 @@
+{
+"name" : "TTRenting - The property management system",
+"url" : "https://play.google.com/store/apps/details?id=com.roommaster.international",
+"package" : "com.roommaster.international",
+"category" : "Tools",
+"description" : "Smart Lock based Apartment Management System ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WRITE_SETTINGS', 'android.permission.READ_LOGS', 'android.permission.READ_PHONE_STATE', 'android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_LOCATION_EXTRA_COMMANDS', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.INTERNET', 'android.permission.READ_CONTACTS', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.RECEIVE_USER_PRESENT', 'android.permission.BLUETOOTH', 'android.permission.SYSTEM_OVERLAY_WINDOW', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_SYNC_SETTINGS', 'android.permission.READ_SETTINGS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'com.roommaster.international.permission.JPUSH_MESSAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_SETTINGS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_LOGS', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_LOCATION_EXTRA_COMMANDS', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.INTERNET', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_USER_PRESENT', 'android.permission.SYSTEM_OVERLAY_WINDOW', 'com.roommaster.international.permission.JPUSH_MESSAGE']",
+}

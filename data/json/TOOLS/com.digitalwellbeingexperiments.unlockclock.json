@@ -1,0 +1,11 @@
+{
+"name" : "Unlock Clock - A Digital Wellbeing Experiment",
+"url" : "https://play.google.com/store/apps/details?id=com.digitalwellbeingexperiments.unlockclock",
+"package" : "com.digitalwellbeingexperiments.unlockclock",
+"category" : "Tools",
+"description" : "Unlock Clock helps you consider your tech usage, by counting and displaying the number of times you unlock your phone in a day. Once downloaded, you can find it under Live Wallpapers in your wallpaper chooser.  Unlock Clock is part of Digital Wellbeing Experiments, a platform to share ideas and tools that help people find a better balance with technology. Try the experiments and create your own at g.co/digitalwellbeingexperiments ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

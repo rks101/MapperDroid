@@ -1,0 +1,11 @@
+{
+"name" : "Digital Compass",
+"url" : "https://play.google.com/store/apps/details?id=com.mycompass.compass",
+"package" : "com.mycompass.compass",
+"category" : "Tools",
+"description" : " A simple and accurate digital compass will help you determine the directions of the cardinal points, as well as longitude and latitude.   Smart compass for android with GPS and offline mode  Beautiful compass degrees themes for your choice  Magnetic Field Power display with compass map & rose  Accurate compass with altimeter   Compass with elevation and true north  Altitude above sea level    Download digital compass for android free with current position ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

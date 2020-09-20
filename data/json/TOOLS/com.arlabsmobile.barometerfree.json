@@ -1,0 +1,11 @@
+{
+"name" : "Accurate Barometer",
+"url" : "https://play.google.com/store/apps/details?id=com.arlabsmobile.barometerfree",
+"package" : "com.arlabsmobile.barometerfree",
+"category" : "Tools",
+"description" : "Do you want to know the atmospheric pressure? Here you have an accurate barometer with an elegant analogical dial.  It shows: - Your local pressure - The pressure reduced to the mean sea level (the value that every weather forecast service use) - The pressure got from the nearest airport - Latest 24 hours pressure chart  Excellent for fishing or if you are simply interested in weather trend.  You can: - Calibrate the sensor - Enable automatic periodic pressure recording - Choose different barometric units (hPa, mbar, mmHg, inHg, psi)   WARNING: If your device has not an integrated pressure sensor, you will only get the pressure from the nearest airport. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.CHECK_LICENSE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+}

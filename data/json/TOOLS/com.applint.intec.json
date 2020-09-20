@@ -1,0 +1,11 @@
+{
+"name" : "Intec",
+"url" : "https://play.google.com/store/apps/details?id=com.applint.intec",
+"package" : "com.applint.intec",
+"category" : "Tools",
+"description" : "Instalador Intec! Intec de Mxico te da acceso al catlogo completo de productos donde y cuando quieras sin necesidad de consumir tus datos mviles. Con solo ingresar tus datos de instalador puedes disponerdel catlogo completo de productos, diagramas de conexin y unifilares, videos de instalacin, imgenes de equipos instalados y una gua sobre posibles fallas y soluciones. Adems, tienes la posibilidad de enviar tus facturas de compra de equipos y obtener puntos como recompensa; estos puntos podrs canjearlos por productos Intec.  Slo baja la aplicacin gratuita y comienza a obtener los mejores beneficios de ser Instaldor Intec  Si no eres Instalador Intec y te interesa formar parte de nuestro equipo descarga la aplicacin y envanos tu solicitud, slo elige la opcin Obtener informacin. Intec Installer! Intec of Mexico gives you access to the complete catalog of products anywhere, anytime without consuming your mobile data. Just enter your installer data you can have the complete catalog of products, and single-wire connection diagrams, installation videos, images of installed equipment and guidance on possible failures and solutions. You also have the ability to send your invoices to purchase equipment and get points as a reward; these points can redeem them for products Intec.  Only lowers the free application and start to get the best benefits of being INSTALLER Intec  If youre not Installer Intec and are interested in joining our team download the application and send us your application, just choose Get Info. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.applint.intec.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

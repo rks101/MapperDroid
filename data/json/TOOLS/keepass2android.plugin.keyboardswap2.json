@@ -1,0 +1,11 @@
+{
+"name" : "KeyboardSwap for Keepass2Android",
+"url" : "https://play.google.com/store/apps/details?id=keepass2android.plugin.keyboardswap2",
+"package" : "keepass2android.plugin.keyboardswap2",
+"category" : "Tools",
+"description" : "This app is compatible with Keepass2Android.  Instructions for setting up this app:  1.) Install ADB on your computer. ADB is the Android Debug Bridge, you find instructions how to do this on https://developer.android.com/studio/command-line/adb.html 2.) Open a command prompt and change to the directory where the adb executable is located (e.g. [Android SDK location]\\platform-tools).  3.) Launch an adb shell. Therefore, type adb shell  4.) In the adb shell, enter  pm grant keepass2android.plugin.keyboardswap2 android.permission.WRITE_SECURE_SETTINGS and hit the Enter key.  5.) Type exit to leave the adb shell. 6.) Go to Keepass2Android > Settings > App Settings > Password-Access > Keyboard switching and enable Auto-switch keyboard  NOTE for Xiaomi devices: You might have to enable some settings before running the adb shell command, see https://www.xda-developers.com/keyboardswap-plugin-keepass2android-automatically-switches-keyboards-without-root/#comment-3432883576 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_SECURE_SETTINGS', 'android.permission.WRITE_SETTINGS']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.WRITE_SECURE_SETTINGS']",
+}

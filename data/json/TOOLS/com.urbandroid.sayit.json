@@ -1,0 +1,11 @@
+{
+"name" : "SayIt ğŸ’¬ Text, articles or books to speech",
+"url" : "https://play.google.com/store/apps/details?id=com.urbandroid.sayit",
+"package" : "com.urbandroid.sayit",
+"category" : "Tools",
+"description" : "NEW: Now with a dark theme!  Want to say it? Share it with SayIt!  Listen to any text selection, article or website  Any PDF or EPUB becomes an audiobook  Remembers where you left off  SayIt is multilingual  Many more: - automatic article text download from a link - most junk like navigation menus gets automatically removed from articles - automatic language recognition - support the Android standard sharing mechanism: can be used from any app  - reading from clip board - makes audiobooks from your regular books - PDF documents or EPUB book reading - speed control - supported languages recognition: Af, Ar, Bg, Bn, Cs, Da, De, El, En, Es, Et, Fa, Fi, Fr, Gu, He, Hi, Hr, Hu, Id, It, Ja, Kn, Ko, Lt, Lv, Mk, Ml, Mr, Ne, Nl, No, Pa, Pl, Pt, Ro, Ru, Sk, Sl, So, Sq, Sv, Sw, Ta, Te, Th, Tl, Tr, Uk, Ur, Vi, Zh (Simplified), Zh (Traditional)  Help translate the app here: https://docs.google.com/spreadsheets/d/1EW0x0NB7M93Ij6nDatnxmC7AE9D7gXFFLGixzazxBgs/edit?usp=sharing ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

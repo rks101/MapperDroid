@@ -1,0 +1,11 @@
+{
+"name" : "Unit Converter",
+"url" : "https://play.google.com/store/apps/details?id=com.kokchoon.unitconverter",
+"package" : "com.kokchoon.unitconverter",
+"category" : "Tools",
+"description" : "The Unit Converter is a simple, user friendly & useful tool to convert Length, Weight, Area, Volume, Temperature, Time and Data.   1) Length - mm (Millimetre), cm (Centimetre), m (Metre), km (Kilometre), in (Inch), ft (Feet), yd (Yard), mi (Mile), nmi (Nautical mile).  2) Area - mm (Millimetre), cm (Centimetre), m (Metre), km (Kilometre), in (Inch), ft (Feet), yd (Yard), ac (Acre), ha (Hectare).  3) Weight - mg (Milligram), g (Gram), kg (Kilogram), oz (Ounce), lb (Pound), t (Ton), ton (UK), gr (Grain).  4) Volume - m (Millilitre),  (Litre), cm (Centimetre), m (Metre), in (Inch), ft (Feet), yd (Yard), gal (Gallon US), gal (Gallon UK).  5) Temperature - K (Kelvin), C (Celsius), F (Fahrenheit), R (Rankine).  6) Time - Millisecond, Second, Minutes, Hour, Day, Week, Month, Year.  7) Data - bit (Bit), b (Byte), kb (Kilobyte), mb (Megabyte), gb (Gigabyte), tb (Terabyte).   Please feel free to send your comments and feedback to us at kokchoon78@gmail.com.   Thank you. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

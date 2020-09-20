@@ -1,0 +1,11 @@
+{
+"name" : "Warband Commander",
+"url" : "https://play.google.com/store/apps/details?id=com.m_antoine_leclerc.android.judgementapp",
+"package" : "com.m_antoine_leclerc.android.judgementapp",
+"category" : "Tools",
+"description" : "An app to view rules for Judgement and track your Heroes statistics during a game.   Features:  - Updated rules for all Heroes, Monsters and Magical Artefacts - Add Heroes to your Warband for quick access to their stats during a game - Keep track of the HP and level of the Heroes in your Warband - Equip Magical Artefacts to your Heroes - Battlefield Maps reference - Rulebook reference - List Builder  Notes on the list builder:  - In the Lists window, you can press the button to create a new list or delete all lists. - To delete a specific list, you need to hold press the view with the lists name. - In the List Builder, press the button to see the options. You can add a hero, save your list, play a game with the list, or delete all heroes. - To add a hero, type in the name of the hero, it will autofill with suggestions - When you save the list, you will return to the Lists window - If you press the play button, you will be redirected to the Your Warband window and your list will already be loaded. - To delete a single Hero, hold press the view with the Heros name. - To see the card of a Hero, single press the view with the Heros name.  For tablets, the app is optimized for landscape view. It allows viewing of the lists and reference cards on the same screen.  If you have any questions about the app, feel free to email me by using the Send Feedback option in the upper right menu or ask a question in the Judgement Discord group. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

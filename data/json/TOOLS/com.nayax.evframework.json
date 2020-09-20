@@ -1,0 +1,11 @@
+{
+"name" : "EV Meter",
+"url" : "https://play.google.com/store/apps/details?id=com.nayax.evframework",
+"package" : "com.nayax.evframework",
+"category" : "Tools",
+"description" : "Enjoy the freedom to charge your EV whenever you need with our EV Meter app!  Our easy-to-use app works with our residential chargers  the Bee Meter Socket and the Bee Meter Cable. Once the chargers are installed, simply download the app and start managing your charging remotely.  Scan the unique QR code included in your installation kit to share your charger with friends and family! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.CHANGE_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.BLUETOOTH', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.SEND_SMS', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.USE_FINGERPRINT', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.BLUETOOTH', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.SEND_SMS', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CAMERA']",
+}

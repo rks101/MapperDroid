@@ -1,0 +1,11 @@
+{
+"name" : "Spectre Device - System and HW Info",
+"url" : "https://play.google.com/store/apps/details?id=com.spectre.device",
+"package" : "com.spectre.device",
+"category" : "Tools",
+"description" : "Spectre Device is an application for viewing the system information on the Android device, as well as testing the main components of the device (CPU, GPU, and the display).  Spectre Device collects information about the CPU, GPU, system, memory, WIFI, SIM, camera, battery, display, sensors, and software components. The application allows you to perform stress tests on the CPU and the GPU. Also, you can search the display for dead pixels.  If you need some data which is not available in our application, please contact our support team, and we will try to add it soon. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

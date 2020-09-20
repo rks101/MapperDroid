@@ -1,0 +1,11 @@
+{
+"name" : "Bubble Level (Free & No Ads)",
+"url" : "https://play.google.com/store/apps/details?id=fr.avianey.level",
+"package" : "fr.avianey.level",
+"category" : "Tools",
+"description" : "A spirit level, bubble level or simply a level is an instrument used by carpenters, stonemasons, bricklayers to check if a surface is horizontal or vertical. Bubble Level app is handy, accurate, simple to use and incredibly useful tool for your Android device. The three indicators allow you to use any side of your phone to check whether a surface is level or plumb. It also gives you the inclination of the surface just as a clinometer. A clinometer or inclinometer is an instrument for measuring angles of slope (or tilt). It will gives you the slope in degrees, percents (like a gradiometer) or inches per foot (also known as roof pitch).  Main characteristics   Use any of the four sides of your phone to measure angles  Show slope direction and value of any surface   Show angle in degree, inclination in percent, roof pitch or inches per foot (:12)  Sound effects to measure without looking at the phone  Relative & absolute calibration  No Ads  About calibration  You can calibrate any side of the device independently. When using your phone in landing mode, it is best to calibrate your device using two samples : a first one and then a second one after rotating your phone by 180 degrees.  Use it everyday   Align pictures, boards, wall mounts of any kind   Calculate inclination of pipes and more  Park your camper van properly   Install washing machine properly ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

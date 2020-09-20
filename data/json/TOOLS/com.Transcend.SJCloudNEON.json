@@ -1,0 +1,11 @@
+{
+"name" : "StoreJet Cloud 10K",
+"url" : "https://play.google.com/store/apps/details?id=com.Transcend.SJCloudNEON",
+"package" : "com.Transcend.SJCloudNEON",
+"category" : "Tools",
+"description" : "The StoreJet Cloud App for Android device is an all-in-one media player that allows you to navigate and stream files stored on your Transcend StoreJet Cloud 10K wireless flash drive. All of your photos, documents, eBooks, music, and movies are listed within the App for easy search and select. Accessed via a dedicated Wi-Fi network; StoreJet Cloud 10K provides much-needed freedom from cables, network coverage, and capacity limitations of your mobile device. And with up to 5 users sharing content at the same time, StoreJet Cloud 10K lets everyone view, read, listen or watch whatever they like, anytime, anywhere.    Simple file organization - easy sort and select   Supports a wide range of high-quality file formats   Set Wi-Fi encryption by WEP / WPA / WPA2 / WPA2-Mixed   Access Internet and StoreJet Cloud 10K simultaneously   Download / Upload / Delete files from StoreJet Cloud 10K and Android device   Set administrator password to prevent unauthorized changes to StoreJet Cloud 10K settings   * Requires use with Transcend StoreJet Cloud 10K  If your device cant connect to StoreJet Cloud 10K or show StoreJet Cloud Internet not available,  please go Settings > Wi-Fi > Press Menu Key > Advanced > Turn off Auto network switch, and connect to StoreJet Cloud again. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

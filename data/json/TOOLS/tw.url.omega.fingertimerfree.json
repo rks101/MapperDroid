@@ -1,0 +1,11 @@
+{
+"name" : "Finger Timer (Lite)",
+"url" : "https://play.google.com/store/apps/details?id=tw.url.omega.fingertimerfree",
+"package" : "tw.url.omega.fingertimerfree",
+"category" : "Tools",
+"description" : "Finger Timer is a speedcubing/speedstacking timer in your pocket! Its a simple and elegant timer app that you must have! And, its free!  [HOW TO USE] 1. Put your fingers on the left and right pads, and hold. 2. When the red and green lights are both on, the timer is ready, and then you can release your fingers to start the timer. 3. When you want to stop the timer, put your fingers back on the left and right pads. 4. If you want to restart the timer, press RESET and do the steps 1 to 3.  [DISPLAY CONNECTION] 1. Connect your Finger Timer device (Android) and Display device (PC/Mac/Android/iOS...) to the same Wi-Fi network. 2. In Finger Timer device, tap the top-right icon, and check Allow connection checkbox. 3. In Display device, enter the Timer address into the address bar of your browser, and then press START. 4. Enjoy it!  Like us on Facebook for the latest news: https://facebook.com/omegastudiopage ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "[]",
+}

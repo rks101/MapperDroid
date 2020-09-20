@@ -1,0 +1,11 @@
+{
+"name" : "AtomicClock â€” NTP Time (with widget)",
+"url" : "https://play.google.com/store/apps/details?id=partl.atomicclock",
+"package" : "partl.atomicclock",
+"category" : "Tools",
+"description" : "Ever wanted to know exact current time to celebrate someones birthday or New Years Eve? Or simply to synchronize clocks? AtomicClock provides exact times based on NTP servers which are getting their time directly from atomic clocks!   current time in correct time format  analog & digital clock  choose from different time servers  customizable widget with time & date  acoustic ticking  choose between different clock faces  switch between local time and UTC, 24-hour and 12-hour clock ",
+"desc_perms" : "['android.permission.vibrate']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'com.huawei.permission.external_app_settings.USE_COMPONENT', 'android.permission.WAKE_LOCK', 'com.vivo.permission.manage.permission.ACCESS', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.huawei.permission.external_app_settings.USE_COMPONENT', 'android.permission.ACCESS_WIFI_STATE', 'com.vivo.permission.manage.permission.ACCESS', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "DrivePro",
+"url" : "https://play.google.com/store/apps/details?id=com.transcend.cvr",
+"package" : "com.transcend.cvr",
+"category" : "Tools",
+"description" : "DrivePro is designed to work with Transcends DrivePro Car Video Recorder.  For your own safety, do NOT operate the DrivePro or use the App while driving.  If your device cant connect to DrivePro or show DrivePro Internet not available, please go Settings > Wi-Fi > Press Menu Key > Advanced > Turn off Auto network switch, then connect again.  For more information, please visit http://us.transcend-info.com/product/cvr ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.CHANGE_NETWORK_STATE', 'com.transcend.cvr.permission.C2D_MESSAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

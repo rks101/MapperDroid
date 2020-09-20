@@ -1,0 +1,11 @@
+{
+"name" : "Where is My Stuff ? - LITE",
+"url" : "https://play.google.com/store/apps/details?id=com.wilcorp.WhereIsMyStuffLite",
+"package" : "com.wilcorp.WhereIsMyStuffLite",
+"category" : "Tools",
+"description" : "Dont you ever ask yourself where you have put that thing you just cant find ?  Youd like to better organize your move in order to know exactly what is in your different boxes ?  Youd like to carry out an inventory of your home or apartment to be rented out ?    THIS APP IS FOR YOU    It allows you to carry out the inventory of your things by use of 4 different feature to define your container :  Category: house, relocation,  Container type: box, draw, cupboard,  Place: Kitchen, garage, basement,  Container name: N1, top,  Option :  Password.  Modular feature search.  Your inventories may be sent by html file and by email.  NOW it will be impossible to lose your stuff !   This application is a demo version limited.   Ideal for :  - Relocation - Moving,  - Inventory - Arrangement - Container - House - Garage - Basement - Attic ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

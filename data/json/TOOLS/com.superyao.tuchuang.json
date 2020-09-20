@@ -1,0 +1,11 @@
+{
+"name" : "Quickimgur",
+"url" : "https://play.google.com/store/apps/details?id=com.superyao.tuchuang",
+"package" : "com.superyao.tuchuang",
+"category" : "Tools",
+"description" : "*** Its completely FREE and NO ADS ***  A simple, lightweight solution to upload your image to Imgur and get its link quickly.  * Upload your image via the camera * Upload your image via local storage * Upload your image via Google Photos, Drive, etc. * Upload your image via Android Share * Upload your image via URL  * Automatic copy links when the upload has been completed * One-click to copy the image link  * Easy to search your history by the name * Easy to share image link and the original image * Easy to delete the image to Imgur  * Create categories to sort out your history (It helps to make your meme library!)  * Backup and restore all history * Sign in to account - Keep your images lifetime. - Upload the image to your album. - Manage your Imgurs image and album.  * Support create your copy link format for the forum  * More and more features in the future! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.VIBRATE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE']",
+}

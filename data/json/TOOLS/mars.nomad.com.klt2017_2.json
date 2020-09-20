@@ -1,0 +1,11 @@
+{
+"name" : "Pulsarlube BT",
+"url" : "https://play.google.com/store/apps/details?id=mars.nomad.com.klt2017_2",
+"package" : "mars.nomad.com.klt2017_2",
+"category" : "Tools",
+"description" : " Register Pulsarlube BT lubricators to your account.  Control Pulsarlube BT lubricators remotely from the app within Bluetooth range.   Monitor operational status of all paired lubricators within the app.   Safely and conveniently monitor lubricator status and/or change settings remotely in hazardous and inaccessible work areas.  Rename lubricators and/or add them to Groups for convenient management.   Export data on the operational status of all registered lubricators via .csv or .txt file.  Access Pulsarlube BT maintenance server.  Available for IOS & Android. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'mars.nomad.com.klt2017_2.permission.C2D_MESSAGE', 'android.permission.BLUETOOTH_ADMIN', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

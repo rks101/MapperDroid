@@ -1,0 +1,11 @@
+{
+"name" : "Photo Recovery Video, Deleted Data Insurance",
+"url" : "https://play.google.com/store/apps/details?id=com.restoreimage.video.photo.recovery",
+"package" : "com.restoreimage.video.photo.recovery",
+"category" : "Tools",
+"description" : "All-in-One Data Recovery tool. Its help to you restore deleted image, video, audio and contacts also.  Dont worry if by mistake you delete photo, video and contacts, Data Recovery is free insurance of your data. Data Recovery app find all deleted data and restore it in one minute.  ---- FEATURES app----- - Easy to use - Attractive UI. - Recover deleted images, videos, audio and contacts. - Saving and restoring images, videos, audio and contacts. - Best software for recovering images and files. - Super Data Recovery and Images. - Does not require a PC. - Restore or Recover photos from the smartphone or memory card.  This app is All-in-One Recovery tool, it support Photo Recovery, Image Recovery, Video Recovery, Contact Recovery, Audio Recovery. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.READ_CONTACTS', 'android.permission.WRITE_CONTACTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.READ_CONTACTS', 'android.permission.WRITE_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

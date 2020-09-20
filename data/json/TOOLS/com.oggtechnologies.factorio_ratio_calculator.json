@@ -1,0 +1,11 @@
+{
+"name" : "Ratio Calculator for Factorio",
+"url" : "https://play.google.com/store/apps/details?id=com.oggtechnologies.factorio_ratio_calculator",
+"package" : "com.oggtechnologies.factorio_ratio_calculator",
+"category" : "Tools",
+"description" : "This app allows you to select an item and a quantity and the app will calculate how to get that quantity of that item. The app creates a list of dropdown menus so you can figure out how many items and machines you need at each step of the factory.  Some images used in this app are from the game Factorio and belong to Wube Software. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "UltraScan - QR & Barcode Scanner",
+"url" : "https://play.google.com/store/apps/details?id=com.appsfeature.ultrascan",
+"package" : "com.appsfeature.ultrascan",
+"category" : "Tools",
+"description" : "Ultra Scan is optimized for QRcode / Barcode decoding. Simply point to QR or barcode you want to scan and app will automatically detect and scan it. And export scanned list in excel format.  The UltraScan supports the following Barcode formats: EAN-13, EAN-8, ISBN, UPC-A, UPC-E, Codabar, Code 128, Code 93, Code 39, ITF, RSS, Data Matrix  The most important functions of the application: - Continuous scanning of barcodes - Create your own QR-Code - Switch between QRCode and Barcode during the code scanning for better experiance  Export scanned list in following formats: - Excel - JSON - CSV  Privacy: https://sites.google.com/site/ultrascanapp/privacy_policy/UltraScan_privacy_policy.pdf ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_INTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_INTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

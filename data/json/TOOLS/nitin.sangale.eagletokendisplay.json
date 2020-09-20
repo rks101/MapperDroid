@@ -1,0 +1,11 @@
+{
+"name" : "Eagle Token Display - 3 Digits",
+"url" : "https://play.google.com/store/apps/details?id=nitin.sangale.eagletokendisplay",
+"package" : "nitin.sangale.eagletokendisplay",
+"category" : "Tools",
+"description" : "This app is controlling app for Eagle Token Display Systems with 3 digits from M/s Eagle Control Systems Kalyan. You can use this app to replace dedicated keyboard that comes with the system and can use your phone as keypad for displays.  For more help please contact on helpline number - 9819895913. ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Smart Video Rotate and Flip - Rotator and flipper",
+"url" : "https://play.google.com/store/apps/details?id=com.clogica.videorotator",
+"package" : "com.clogica.videorotator",
+"category" : "Tools",
+"description" : "A smart and easy to use tool to make rotation and flip on videos directly on your mobile and without any need to go to desktop professional applications.  Smart Video Rotate and Flip provides and simple way to do multi rotations and flips at the same time using four icons below the video preview. It can rotate videos using fast mode or by re-encoding the video file.  Features:  - Fast rotation is supported. - Clean and easy to use tool. - Free for any one to use. - Uses the powerful multimedia library FFmpeg. - Smart and simple user interface.  Uses FFmpeg under permission of LGPL. ",
+"desc_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

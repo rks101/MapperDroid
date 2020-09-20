@@ -1,0 +1,11 @@
+{
+"name" : "Root Manager",
+"url" : "https://play.google.com/store/apps/details?id=hoakhuyen.hunghien.rootandroid",
+"package" : "hoakhuyen.hunghien.rootandroid",
+"category" : "Tools",
+"description" : "- Root Manager is a Root Android Explorer, the ultimate file manager for root users.  - Extract APK files, uninstall APK files - Transfer files with FTP Server - Access your home PC: Through your smartphone via WiFi with SMB - It helps you to access the whole of androids file system including the elusive data folder, cache,... - Access, edit, create, change, copy files including system files. - Zip, unzip, tar, untar files. - View SQLite databases, run script files, explore zip, tar , rar files. - Encrypt, decrypt file with AES256 algorithm. - View file information such as size, md5, edited time,.. - Change owner, group of files, folders. - Create shortcut for file, folder... ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.REQUEST_INSTALL_PACKAGES', 'com.root.cloud.permission.ACCESS_PROVIDER', 'android.permission.FOREGROUND_SERVICE', 'com.android.launcher.permission.INSTALL_SHORTCUT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.USE_FINGERPRINT', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.root.cloud.permission.ACCESS_PROVIDER', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

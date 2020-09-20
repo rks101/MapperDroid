@@ -1,0 +1,11 @@
+{
+"name" : "Timer",
+"url" : "https://play.google.com/store/apps/details?id=ric.ov.Timer",
+"package" : "ric.ov.Timer",
+"category" : "Tools",
+"description" : "Barebones timer for basic timing needs.   Features:  Counts up to 99:99.99  Counts up and down  Shows difference between current time and last time ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

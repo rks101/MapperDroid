@@ -1,0 +1,11 @@
+{
+"name" : "Flash Alerts on Call and SMS",
+"url" : "https://play.google.com/store/apps/details?id=com.iodev.flashalerts",
+"package" : "com.iodev.flashalerts",
+"category" : "Tools",
+"description" : "ABOUT FLASH ALERTS ON CALL AND SMS   The flash will blink when mobile phone receives a Call, Message or Notification of all apps  Very useful to help you not miss Call, sms in dark night even mobile phone is in Vibrate or silent  FEATURES:  Install LED Flash for Alerts when mobile phone is in Vibrate or Silent.  Easily to adjust speed of light to blink, blink frequency to be slow or fast  You can install for Call or text as well as install for other applications or software on mobile phone.  Save more battery with Turn Off function when low battery, you can adjust the light turn on or turn off depend on battery.   You can set up the time to active the Flash alert  You can quick turn off blink flash by power key  RATE AND SHARE - Please rate 5 stars if this is useful  Dont hesitate to contact us if any question for more clearly.  Thank you for supporting  ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.CALL_PHONE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.RECEIVE_SMS']",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET']",
+}

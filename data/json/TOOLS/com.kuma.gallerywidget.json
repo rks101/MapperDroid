@@ -1,0 +1,11 @@
+{
+"name" : "Gallery Widget",
+"url" : "https://play.google.com/store/apps/details?id=com.kuma.gallerywidget",
+"package" : "com.kuma.gallerywidget",
+"category" : "Tools",
+"description" : "- Make your home screen phone even more beautiful and more interesting  - A choice of four types of widgets on the home screen to show the 3,4, 5 and 6 or one larger preview last stored pictures and videos with date display options, after clicking to open them in the default application  - Display random image from selected folders in custom interval  - Basic version allows you to open only the first preview  - In the new version, you can have different settings for each widget, so you can create holiday photo albums directly on your home screen ",
+"desc_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "DS get",
+"url" : "https://play.google.com/store/apps/details?id=com.synology.DSdownload",
+"package" : "com.synology.DSdownload",
+"category" : "Tools",
+"description" : "*You must own a Synology NAS to run this app, and be running the latest Download Station 3.5 on your DiskStation to get the complete set of features*  With DS get, manage your downloads anywhere you are with your Android Device, directly to you DiskStation. In addition to viewing your Download Station status, individual task information, controlling key settings such as download schedules, DS get also has an inbuilt browser to conveniently start downloads, and integrates with Chrome. You can even use keywords to search for content, just like in Download Station.  Find all detailed features about the app on our website: www.synology.com > DSM 6.0 > Mobile Apps > Software Specs https://www.synology.com/dsm/software_spec/mobile#DSdownload ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'com.synology.PERMISSION_HISTORY_DATA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.synology.PERMISSION_HISTORY_DATA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+}

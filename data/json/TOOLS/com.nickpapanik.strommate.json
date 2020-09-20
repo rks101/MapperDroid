@@ -1,0 +1,11 @@
+{
+"name" : "Strom m8",
+"url" : "https://play.google.com/store/apps/details?id=com.nickpapanik.strommate",
+"package" : "com.nickpapanik.strommate",
+"category" : "Tools",
+"description" : "This application is a handy app guide for DL650 and DL1000 owners, provide some basic featuers to the user. Fault List a list of possible ecu faults for DL650 and DL1000 Service Info Information about requiered operations during service times Fuel Consumption This application features two languages English and Greek and two measurement units  Strom m8 (Strom mate) is not affiliated with, maintained, authorized, endorsed or sponsored by the Suzuki Company or any of its affiliates. This is an independent, unofficial application. All product and company names are trademarks or registered trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET']",
+}

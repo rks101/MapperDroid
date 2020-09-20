@@ -1,0 +1,11 @@
+{
+"name" : "Spirit Level & Compass",
+"url" : "https://play.google.com/store/apps/details?id=crunchybytebox.levelcompass",
+"package" : "crunchybytebox.levelcompass",
+"category" : "Tools",
+"description" : "This is a great, simple spirit level combined with a compass.  The rotation in horizontal position can be measured with the compass. The precision of the compass depends on your sensor. Magnets and electric fields have a magnetic field and thus have an influence on the compass.  * Set your own layout color * Three different display modes with spirit level and/or compass * Easy calibration of the spirit level * Angle with or without decimal place * Visual feedback when angle is equal to 0 (optional) * Swap x and y axis * Choose between landscape and portrait mode * Display can be kept active * Application can be moved to SD card  PRO VERSION: To remove ads and to customize the visual feedback range, you can purchase Spirit Level & Compass Pro in the Play Store.  PERMISSIONS: Internet and network access are needed to show the ad. Therefore the application is for free. Read the privacy policy to get more information about advertisement and your data.   It would be nice if you would take the time to rate the app. Please write an email if you have any problems. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

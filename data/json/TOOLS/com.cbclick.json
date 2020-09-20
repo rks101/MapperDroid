@@ -1,0 +1,11 @@
+{
+"name" : "CB.click",
+"url" : "https://play.google.com/store/apps/details?id=com.cbclick",
+"package" : "com.cbclick",
+"category" : "Tools",
+"description" : "Share links in a reduced, easy-to-remember format, place it on a website or social media platform, get a hefty commission!  How Does It Work? Every user, who follows one of your links, views an ad splash or a promo landing. User downloads software  you get the reward!   Short links  easy to share & remember  Easy way to earn online  Browse the history of your short links and payments  Analyze user data to market better and earn more  Monitor full statistics in your personal area  Protect special URLs with password ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

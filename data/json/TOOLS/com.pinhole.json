@@ -1,0 +1,11 @@
+{
+"name" : "Pinhole Camera Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.pinhole",
+"package" : "com.pinhole",
+"category" : "Tools",
+"description" : "You dont need an expensive camera to take photographs. Its a real fun to make your very own Pinhole camera out of a few simple items from around the house. This Pinhole Camera Calculator will help you to design one. Even if you are not a photographer youll probably love it. Pinhole photography is simplest and magical way to do photography. Its a world of creative freedom, imagination and experimentation which alters your view of reality.  No Ads! ",
+"desc_perms" : "['android.permission.CAMERA']",
+"manifest_perms" : "['com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

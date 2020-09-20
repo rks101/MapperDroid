@@ -1,0 +1,11 @@
+{
+"name" : "UI Tuner Enable [root]",
+"url" : "https://play.google.com/store/apps/details?id=mobi.pruss.tuner",
+"package" : "mobi.pruss.tuner",
+"category" : "Tools",
+"description" : "Enable UI Tuner on devices that disable it (e.g., HTC One A9). Needs root. Not all UI Tuner functionality may work. USE AT YOUR OWN RISK.  Source code at github.com/arpruss/tunerenable ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

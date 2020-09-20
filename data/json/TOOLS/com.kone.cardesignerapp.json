@@ -1,0 +1,11 @@
+{
+"name" : "KONE Car Designer App",
+"url" : "https://play.google.com/store/apps/details?id=com.kone.cardesignerapp",
+"package" : "com.kone.cardesignerapp",
+"category" : "Tools",
+"description" : "Explore, create, and get up close and personal with elevator car design. Check out our inspiring range of car interiors, including our new human-centric design themes for KONE DX Class elevators, and bring your own creations to life in immersive experiences. For your imagination, the only way is up.  What you can do with KONE Car Designer:  - Browse our range of themed design directions - Create your own designs on the go - Experience elevator interiors in 3D and augmented and virtual reality - Share your designs with colleagues quickly and easily, and access them offline - Contact a KONE expert direct from the app ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+}

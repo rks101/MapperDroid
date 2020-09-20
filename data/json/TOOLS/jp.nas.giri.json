@@ -1,0 +1,11 @@
+{
+"name" : "Giri -The RPM Checker-",
+"url" : "https://play.google.com/store/apps/details?id=jp.nas.giri",
+"package" : "jp.nas.giri",
+"category" : "Tools",
+"description" : "Giri is the RPM measurement tool. Please use it for measuring the rotational speed of the motor, such as drivable model car. It has featured focus for noise removal. It has featured speed conversion panel. It has featured memo panel. It is also offering nice skins.  [[[NOTE]]] * Please measure in a state of only motor sound, for example remove the gear. * Please measure as close to the motor microphone. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "ShakeShake! for SayHi",
+"url" : "https://play.google.com/store/apps/details?id=com.sayhi.plugin.shakeshake",
+"package" : "com.sayhi.plugin.shakeshake",
+"category" : "Tools",
+"description" : "NOTICE: You need to install SayHi! first to launch this plugin  A free and convenient chat plugin for SayHi! You can find a person nearby conveniently by just shaking your phone.So no longer wait, shake your device and shine your life!  Function introduction:  1.You can find out a user conveniently by choosing the gender you are interested in and shaking your mobile.  2.Perfectly be supported by SayHi!  3.Totally free ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

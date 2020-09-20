@@ -1,0 +1,11 @@
+{
+"name" : "Rig Monitoring",
+"url" : "https://play.google.com/store/apps/details?id=net.rigmonitoring",
+"package" : "net.rigmonitoring",
+"category" : "Tools",
+"description" : "Service allow you to monitor your rigs/miners stats and get notified when rig goes offline, rig is idle or GPU exceeds threshold limit.  As there are no ads in the application, you can get the full functionality once you subscribe for ~1.5$/month. There is no restriction on the number of rigs with a subscription. A 30 days trial is available for free allowing you to assess the app and understand how much money and efforts the app saves. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'net.rigmonitoring.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

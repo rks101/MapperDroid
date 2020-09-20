@@ -1,0 +1,11 @@
+{
+"name" : "WebDAV plugin-Total Commander",
+"url" : "https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.WebDAV",
+"package" : "com.ghisler.tcplugins.WebDAV",
+"category" : "Tools",
+"description" : "This is a Plugin for Total Commander for Android! It does not work standalone!  Do NOT install if you do not use Total Commander!  This plugin allows to access WebDAV servers like Apache with webDAV extension. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

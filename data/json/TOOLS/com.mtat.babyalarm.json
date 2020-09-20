@@ -1,0 +1,11 @@
+{
+"name" : "Baby Alarm",
+"url" : "https://play.google.com/store/apps/details?id=com.mtat.babyalarm",
+"package" : "com.mtat.babyalarm",
+"category" : "Tools",
+"description" : "This application monitors your baby during sleep and alarms you in case of noise detected.Please position your smart phone near your baby, select call and/or SMS options. You can adjust the noise sensitivity. iCalibrate function enables you to set noise level sensitivity easily. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.RECORD_AUDIO', 'com.mtat.babyalarm.permission.C2D_MESSAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.MODIFY_AUDIO_SETTINGS']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.CALL_PHONE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+}

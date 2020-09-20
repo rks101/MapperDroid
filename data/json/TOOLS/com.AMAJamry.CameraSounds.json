@@ -1,0 +1,11 @@
+{
+"name" : "Camera Sound [ROOT]",
+"url" : "https://play.google.com/store/apps/details?id=com.AMAJamry.CameraSounds",
+"package" : "com.AMAJamry.CameraSounds",
+"category" : "Tools",
+"description" : "The application attempts to switch on/off all the sounds related to camera shots and screenshots.  For screenshot sound, you may need to reboot your device after switching the sounds on/off.  Tested on Galaxy S, S2, S3, Note-2 and Note-3. However, it is expected to work on a variety of devices.  [ Root Access is required for this application to work ]   -------------------------------------- Change Log: v1.0.0: This is the first version.  -------------------------------------- For suggestions & Comments: AMAJamry@gmail.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_SUPERUSER']",
+"perms_with_call" : "['android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_SUPERUSER']",
+}

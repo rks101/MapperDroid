@@ -1,0 +1,11 @@
+{
+"name" : "Motion detection - Big Red Button",
+"url" : "https://play.google.com/store/apps/details?id=com.arbelsolutions.motiondetectionultimate",
+"package" : "com.arbelsolutions.motiondetectionultimate",
+"category" : "Tools",
+"description" : "Motion detection ultimate  Instruction: Press the big red button. Make sure your phone is steady.  On Motion detection you can: Capture Images. Sound Alarm. Record 10 seconds videos. Vibrate.  Main features: * Choose to save images with low or high resolution. * Choose from different alarm sounds. * Choose auto focus. * Choose motion detection sensitivity.  Choose from 3 different Motion detection algorithms :  * Fast & optimized. * Brighness comparison. * Fast brighness comparison. Choose from Settings->Motion detection Algorithm.   Image by OpenClipart-Vectors from Pixabay ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'com.android.vending.BILLING', 'android.permission.CAMERA', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Hijri Calendar",
+"url" : "https://play.google.com/store/apps/details?id=com.kodelokus.hijri",
+"package" : "com.kodelokus.hijri",
+"category" : "Tools",
+"description" : "Islamic Calendar (Hijri) is an app for conversion from Gregory date to Hijri. A very useful app for our Islamic and Muslim community to determine the proper days on which to observe the annual fast (Ramadan) and to attend Hajj  Features : - Slide next and previous months - Go to specific date - Manual correction - Go to muslim special days - Days remaining on selected date  *Date from hijri calendar is an estimation, for Muslim holidays it depends on your local announcement on Ruyatul Hilal. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

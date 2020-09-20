@@ -1,0 +1,11 @@
+{
+"name" : "Remote VNC w/Ad",
+"url" : "https://play.google.com/store/apps/details?id=com.toremote.vncmanager",
+"package" : "com.toremote.vncmanager",
+"category" : "Tools",
+"description" : "Get noad version from toremote.com 1.8.4 on-scr mouse etc  VNC client, control you computer from anywhere.  connect to any OS with VNC server installed With Ad and more features: Software keyboard Pinch zoom Clipboard Custom Keys Trackball as mouse Export/import Home screen shortcut ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.launcher.permission.INSTALL_SHORTCUT', 'com.android.launcher.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.launcher.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET']",
+}

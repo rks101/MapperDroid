@@ -1,0 +1,11 @@
+{
+"name" : "PING: Network Tool (ICMP) - Check Connectivity",
+"url" : "https://play.google.com/store/apps/details?id=com.pacmac.pinger",
+"package" : "com.pacmac.pinger",
+"category" : "Tools",
+"description" : "ICMP Ping app is a simple and clean network tool to run ping commands from your phone or tablet. This is an easy to use Ping tool as you can run a ping command with IPv4 or IPv6 addresses or using a host name of a remote server. For more advanced users you can set additional parameters to ping command like interval, ICMP packet size, packet count, TTL and many more. Beside the configurable PING command you can also export the output of the ping and all that for FREE.  ******************************************* IPv4 address format: 192.168.1.2 IPv6 address format: 2001:db8::8a2e:370:7334 Host address format: www.google.com *******************************************  If you feel the tool is missing any critical feature. Feel free to send your feedback at pacmac.dev@gmail.com. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

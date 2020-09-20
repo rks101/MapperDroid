@@ -1,0 +1,11 @@
+{
+"name" : "Shop Of The Day",
+"url" : "https://play.google.com/store/apps/details?id=com.benoit.outman.fortniteshopoftheday",
+"package" : "com.benoit.outman.fortniteshopoftheday",
+"category" : "Tools",
+"description" : "Check the Shop Of The Day for Fortnite  No need to open the game anymore !   With this app you can :  See the time remaining before new items  Subscribe to items to be notified when it is available again !  Available in all languages (from the game) !  See if a item is new (first occurrence in the shop)  See item bigger and outfits backpack!  See emotes and dances on Youtube   You need a internet connection to use the app.  Disclaimer Portions of the materials used are trademarks and/or copyrighted works of Epic Games, Inc. All rights reserved by Epic. This material is not official and is not endorsed by Epic. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE']",
+}

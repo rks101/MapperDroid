@@ -1,0 +1,11 @@
+{
+"name" : "Sound meter | Noise detector | Decibel detection",
+"url" : "https://play.google.com/store/apps/details?id=com.hhll.soundmeter",
+"package" : "com.hhll.soundmeter",
+"category" : "Tools",
+"description" : "Decibel meters are also known as sound level meters (decibel meters), noise detection, sound meters, noise detectors, and noise detectors. Decibel meter is a noise detection software that uses mobile phone microphone to measure the ambient noise decibel (dB). The current decibel size and curve are displayed during the process. With the decibel meter, you can measure the current ring The noise level of the environment is simple and easy to use.  special function:  - The dashboard displays the current noise decibel value - Display min/aver/max/current decibel value - Display decibel size change chart - the decibel value of the calibratable device - Display test time - Can pause, refresh test data  Tips:  1. Since the phone is not a professional decibel meter, some devices may require calibration. The decibel value can be changed to get the best results based on your device sensitivity. 2. Due to the limitations of mobile phone microphones, there are errors in different mobile phone test data, so this application is not a substitute for professional scientific test equipment. ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

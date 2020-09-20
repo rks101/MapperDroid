@@ -1,0 +1,11 @@
+{
+"name" : "Watt The App?",
+"url" : "https://play.google.com/store/apps/details?id=com.whattheapp.electricmeter",
+"package" : "com.whattheapp.electricmeter",
+"category" : "Tools",
+"description" : "Keep under control your electricity bill! Indicating which devices are switched on, you get the amount you are currently paying for it, by choosing the interval between an hour, a bimester and a year.  By selecting the devices that are switched on, you will immediatly get informed about which devices you still can use without having to fear a blackout caused by overload!  With the cloud support, you can simply make a backup of your device list and share it with other persons in your household. The list of devices shown at the first start of the app contains only examples, please replace the devices/values with those of your household! ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

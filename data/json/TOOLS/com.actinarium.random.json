@@ -1,0 +1,11 @@
+{
+"name" : "RANDOM",
+"url" : "https://play.google.com/store/apps/details?id=com.actinarium.random",
+"package" : "com.actinarium.random",
+"category" : "Tools",
+"description" : "Meet RANDOM, the first non-boring app about all things random.  Unusual in a good way, and crafted with such care to detail like no other random app in the store!  Not only it has absolutely gorgeous and carefully designed random generators, but each generator comes with a card that has a mini-game, a demo, or some other random fun!  This is the very first release. Only number and list generators are included for now. Other generators, such as coins, cards, lotteries, dice etc., as well as more settings are coming soon! But I hope you like what it has to offer already.  Ad supported: a single non-intrusive ad is placed on the main screen. Premium functionality is planned. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.actinarium.random.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

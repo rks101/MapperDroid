@@ -1,0 +1,11 @@
+{
+"name" : "APE Optics Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.apeberlin.calc",
+"package" : "com.apeberlin.calc",
+"category" : "Tools",
+"description" : "The APE Calculator helps to easily evaluate often needed (non)linear equations. This includes Sum Frequency Generation (SFG), Difference Frequency Generation (DFG), the wavelength relations in an optical parametric oscillator (OPO) as well as in coherent anti-Stokes Raman scattering (CARS) spectroscopy.  The conversion between wavelength, wavenumber, and frequency as well as different characterizations of pulses can be calculated.  Feedback as well as feature requests are appreciated.     Keywords: nonlinear optics, ultrafast optics, wavelength, wavenumber, SFM, OPO, DFG, CARS, frequency, bandwidth, peak, average, power, energy, density, conversion, pulse width, laser, physics, dispersion, light, ape, berlin, autocorrelator, spectrometer, spectroscopy, spectrometry, microscopy, sgh, thg, fhg, mode locker, frequency shifter, acousto-optical modulator, delay ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

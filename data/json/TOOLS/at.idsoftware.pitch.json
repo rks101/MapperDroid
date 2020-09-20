@@ -1,0 +1,11 @@
+{
+"name" : "Heli-Pitch Calculator",
+"url" : "https://play.google.com/store/apps/details?id=at.idsoftware.pitch",
+"package" : "at.idsoftware.pitch",
+"category" : "Tools",
+"description" : "Heli-Pitch Calculator is used to calculate the pitch value by entering the blade length and distance of tips. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

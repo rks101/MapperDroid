@@ -1,0 +1,11 @@
+{
+"name" : "Tap Counter Manager",
+"url" : "https://play.google.com/store/apps/details?id=com.jkfantasy.tmgr.tapcountermgr",
+"package" : "com.jkfantasy.tmgr.tapcountermgr",
+"category" : "Tools",
+"description" : "Please watch the teach video to know how to use it.  Depending on what you need, you can add multiple tap/click counters.  This application will record every time you tap/click. Then you can see all the tap/click time in list view. Support calendar mode, you can view the daily taps/clicks.  You can write a record message in tap/click counter. You also can write a record message at every tap/click point.  This application can change the color of each tap/click counter. Let you easily distinguish between different projects.  - You can change the small/big View. - You can change the counters order easily. - You can reset the counter. - Support text to speech function. - In single mode, you can use volume key to +1 or -1. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.android.vending.BILLING']",
+}

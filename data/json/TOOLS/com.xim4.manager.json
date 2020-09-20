@@ -1,0 +1,11 @@
+{
+"name" : "XIM4 Manager",
+"url" : "https://play.google.com/store/apps/details?id=com.xim4.manager",
+"package" : "com.xim4.manager",
+"category" : "Tools",
+"description" : "XIM4 provides the highest precision mouse and keyboard (and more) experience on the Xbox One, PlayStation 4, Xbox 360, and PlayStation 3. Unsurpassed by quality, ease-of-use, and flexibility, XIM4 is the perfect companion to the even most demanding gamer.  XIM4 empowers gamers with the state-of-the-art without bombarding them with unneeded complexity. Through XIMs unique Smart Translator technology, XIM4 is able to provide unparalleled 1-to-1 aiming precision that consistently performs in every game you play. Its quick and easy to set up your preferred gaming environment through its wireless smartphone and PC configuration tool. XIM4 enables gamers to choose their preferred input devices that suite them best whether gaming at a desk or from a couch in the living room.  XIM4 Manager is XIM4s configuration companion app.  To learn more, please visit: http://xim4.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.BLUETOOTH', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

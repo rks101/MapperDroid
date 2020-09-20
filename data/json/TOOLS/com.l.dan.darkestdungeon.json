@@ -1,0 +1,11 @@
+{
+"name" : "Darkest Companion",
+"url" : "https://play.google.com/store/apps/details?id=com.l.dan.darkestdungeon",
+"package" : "com.l.dan.darkestdungeon",
+"category" : "Tools",
+"description" : "Darkest Companion is the best app to use during your Darkest Dungeon adventures.  Major features  Recommended provisions for location  Hints about how to succeed for location  Curio / item interactions and outcomes  Boss / enemy strategies  No internet connection required  Comprehensive knowledgebase of the following  Diseases  Quirks  Curio  Locations  Items  Bosses  Enemies  Afflictions & Virtues  Town Events  Glossary  If you have any update suggestions please fill out the in-app suggestion form. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

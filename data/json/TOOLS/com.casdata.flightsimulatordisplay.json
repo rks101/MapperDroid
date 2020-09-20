@@ -1,0 +1,11 @@
+{
+"name" : "Flight Simulator Display",
+"url" : "https://play.google.com/store/apps/details?id=com.casdata.flightsimulatordisplay",
+"package" : "com.casdata.flightsimulatordisplay",
+"category" : "Tools",
+"description" : "Flight Simulator Display converts your Android device into a Primary Flight Display for the MS-FSX and the X-Plane 11 for Windows.  This app integrates different navigation instruments: Airspeed, Altimeter, Attitude indicator, Compass and Vertical Speed. This app also indicates the percentage of the extended flaps.  One of the greatest features of FS Display is that can work in cell phones and tablets, so you can feel free of fly all over the world.  The app works with a server program for FSX and a plugin for X-Plane, this files can be downloaded from http://casnisoft.weebly.com/pfd-instrument.html  Important: Flight Simulator Display is designed to work with X-Plane 11 for Windows, so you must have it installed in your PC.  Important: Flight Simulator Display only works with MS-FSX and MS-FSX Steam Edition, so you must have it installed in your PC.   How install the server for FSX mode: https://youtu.be/exZKqFm_vSw ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.android.vending.CHECK_LICENSE', 'com.android.vending.BILLING']",
+}

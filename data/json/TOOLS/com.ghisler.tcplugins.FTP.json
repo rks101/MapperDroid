@@ -1,0 +1,11 @@
+{
+"name" : "FTP Plugin for Total Commander",
+"url" : "https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.FTP",
+"package" : "com.ghisler.tcplugins.FTP",
+"category" : "Tools",
+"description" : "This is a Plugin for Total Commander for Android! It does not work standalone!  Do NOT install if you do not use Total Commander!  This plugin supports connections by FTP and FTPS (secure FTP over SSL). For SFTP (file transfer over SSH secure shell), there is a separate plugin available now: https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.SFTP ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

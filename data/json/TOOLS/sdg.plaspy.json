@@ -1,0 +1,11 @@
+{
+"name" : "Plaspy",
+"url" : "https://play.google.com/store/apps/details?id=sdg.plaspy",
+"package" : "sdg.plaspy",
+"category" : "Tools",
+"description" : "Plaspy app does it all. Easy to use and stay in real time connected, you can use to see the devices in your account or you can join to Plaspys account to track the device. Also, you can see the device location by the web page www.plaspy.com or another phone or tablet.   You can create groups of devices and locate all devices in real time. Locate and Find the devices in your Plaspy account. the GPS tracking data in real time  the main features are  An easy way to track your vehicle, fleet, kids, pets, etc. Location in real time Only U$0.99 monthly per device See the location history during past 1 year Check the battery charge level of your devices. Compatible with a big GPS trackers list  free tech support, If you have questions please send email to: support@plaspy.com ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.android.vending.BILLING', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

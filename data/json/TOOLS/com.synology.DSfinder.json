@@ -1,0 +1,11 @@
+{
+"name" : "DS finder",
+"url" : "https://play.google.com/store/apps/details?id=com.synology.DSfinder",
+"package" : "com.synology.DSfinder",
+"category" : "Tools",
+"description" : "*You must own a Synology NAS to run this app*  DS finder allows you to set up and manage your Synology NAS, sends you NAS-related notifications, and opens your door to the world of Synology apps. And yes, all these features can be accessed directly from your phone, so wave goodbye to complicated setup and management with DS finder!  1. DS finder supports on most models (rack mount models, desktop models of FS and XS series, and EDS14 excluded). 2. DS finder supports managing all Synology NAS models running DSM 5.2 and above. 3. You will need a mobile device running Android 5.0+ to use this app.  Find all detailed features about the app on our website: www.synology.com > DSM 6.0 > Mobile Apps > Software Specs https://www.synology.com/zh-tw/dsm/software_spec/mobile#DSfinder ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.USE_FINGERPRINT', 'com.google.android.c2dm.permission.RECEIVE', 'com.synology.PERMISSION_HISTORY_DATA', 'com.synology.permission.REQUEST_LOGIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.synology.PERMISSION_HISTORY_DATA', 'com.synology.permission.REQUEST_LOGIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

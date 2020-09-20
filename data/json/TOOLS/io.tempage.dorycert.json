@@ -1,0 +1,11 @@
+{
+"name" : "Dory - Certificate (RSA/CSR/x509/PFX/TLS)",
+"url" : "https://play.google.com/store/apps/details?id=io.tempage.dorycert",
+"package" : "io.tempage.dorycert",
+"category" : "Tools",
+"description" : "* creation and management of RSA private keys, public keys * creation of X.509 certificates, CSRs * import/export PEM, DER, PKCS12 format(.pem .crt .pub .pri .key .der .pfx .p12) * inspect files without importing * private key(.pem) & PKCS12(.pfx .p12) passphrase finder * use the certificates for SSL/TLS servers/clients or any purposes(VPN)  * ROOT CA(self-signed) and Certificates signed by the ROOT CA * 512/1024/2048/4096/custom bits - RSA key length * md4/md5/sha1/sha224/sha256/sha512 digest - algorithm * des3/aes128/aes192/aes256 - cipher * custom X.509v3 extensions(see openssl.cnf) * view/manage android system certificates * based on OpenSSL 1.1.1a(native binary is included)   ** no android.permission.INTERNET(no user data collected) ** use at your own risk(backup the keys by your self!!)   Dory - node.js // build your SSL/TLS servers https://play.google.com/store/apps/details?id=io.tempage.dorynode   --- beta release https://play.google.com/apps/testing/io.tempage.dorycert ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

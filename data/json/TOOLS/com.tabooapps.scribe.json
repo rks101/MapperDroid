@@ -1,0 +1,11 @@
+{
+"name" : "Scribe for KD:M",
+"url" : "https://play.google.com/store/apps/details?id=com.tabooapps.scribe",
+"package" : "com.tabooapps.scribe",
+"category" : "Tools",
+"description" : "At last, a fully featured settlement management app that runs right on your Android device! No need for logins, no internet connection required, all your data stays right with you.  Scribe also supports local multiplayer over Wi-Fi LAN! No third party servers involved, your devices communicate directly to one another. Any changes are instantly visible to all other players.  All data can easily be exported to a human readable JSON file. You can import it to a new phone, or back it up to the cloud to be sure you dont lose any data.  The core game and all 12 current expansions are supported!  For more information checkout the official wiki: https://gitlab.com/taboobat/kdm-app/wikis/Getting-Started  This application is not developed, maintained, authorized or in any other way supported by or affiliated with Kingdom Death or Adam Poots Games. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.CAMERA', 'com.android.vending.BILLING', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

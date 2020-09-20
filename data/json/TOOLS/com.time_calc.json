@@ -1,0 +1,11 @@
+{
+"name" : "Calculator -- time, gcd, lcm",
+"url" : "https://play.google.com/store/apps/details?id=com.time_calc",
+"package" : "com.time_calc",
+"category" : "Tools",
+"description" : "Contains a simple standard calculator and add, subtract, multiply and divide units of time is a time calculator . 1. year , day, hour, minute, and second can be calculated by the calculator 2. support mix units of time. Ex.10h5m5s+5m1h = 11hr 10min 5sec 3. support converted button to convert into units of another time style. 4. You can use a standard calculator including square root and reciprocal.   To use this calculator, first you should know : Entering a time (such as 07:08:09 + 5 hours) to enter an input to the following sequence. 07:08:09 To enter , type the following: 1. Number [7] to [h] input 2. Number [8] to [m] input 3. Number [9] to [s] input 4. input to [+] add button 5. Number [5] to [h] input 6. input to [=] equal button The result will display 12h 8m 9s on screen. You can press [Convert] button to convert another time style.  Keywords: time calculator, time sharing, working hours, overtime, time calculation, time calculation, math, time, gcd, lcm, prime ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

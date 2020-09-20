@@ -1,0 +1,11 @@
+{
+"name" : "FileSafe - Hide File / Folder",
+"url" : "https://play.google.com/store/apps/details?id=com.xcs.folderlock",
+"package" : "com.xcs.folderlock",
+"category" : "Tools",
+"description" : "With FileSafe - Hide File / Folder easily hide / lock your files / folders and access them easily using a secret PIN code. Now you can easily share your phone without worrying about privacy. Easy to use File Manager / Explorer like interface to browse files.   Features Includes :  - Hide and Lock Multiple Files & Folders - Easy Pass Code Access - Delete & Restore Files or Folders Instantly - Built in photo viewer and instant playback of videos - Disappears from recent apps list - Password recovery By Email  We value your feedback and suggestions, please do not hesitate to send us your thoughts on how we can improve of future versions. Contact us at - contact@xcstechnologies.com for feedback and issues. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.STORAGE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.STORAGE']",
+}

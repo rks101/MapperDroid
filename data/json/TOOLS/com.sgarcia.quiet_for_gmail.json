@@ -1,0 +1,11 @@
+{
+"name" : "Quiet for Gmail",
+"url" : "https://play.google.com/store/apps/details?id=com.sgarcia.quiet_for_gmail",
+"package" : "com.sgarcia.quiet_for_gmail",
+"category" : "Tools",
+"description" : "Do you hate work email on weekends? With Quiet for Gmail you can set time-based rules to stop notifications from your personal/work email accounts. Its like a Do not Disturb mode for each of your email accounts. The app will automatically enable/disable the synchronization to follow your schedule. Forget late evening email notifications and get a better work-life balance!  With Quiet for Gmail its really easy to block these interruptions.  Disconnect from work and stress, no one will bother you again during your quality time!   - Stop email during your quiet hours - Stop email certain days (like weekends) - Override your rules for a period of time in special situations - Control your email accounts separately - Keep using the official Gmail app - Saves battery and data by automatically turning sync off - And its free with no ads! ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_SYNC_STATS', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_SYNC_SETTINGS', 'android.permission.READ_SYNC_SETTINGS', 'com.sgarcia.quiet_for_gmail.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.GET_ACCOUNTS', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_FINE_LOCATION']",
+}

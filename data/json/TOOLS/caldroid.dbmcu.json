@@ -1,0 +1,11 @@
+{
+"name" : "Caldroid Base Datos Microcontrolaores PIC,AVR, STM",
+"url" : "https://play.google.com/store/apps/details?id=caldroid.dbmcu",
+"package" : "caldroid.dbmcu",
+"category" : "Tools",
+"description" : "Excelente Base de datos de microcontroladores PIC, AVR, STM en una sola app  Base de datos microcontroladores Microchip 8,16 y 32 Bits (picmicro database):  PIC10, PIC16, PIC12, PIC18, PIC24, PIC32, DSPIC  Base de datos microcontroladores AVR Microchip 8 y 32 Bits (atmicro database):  ATMEGA168, ATMEGA328, ATMEGAxx, Atyni etc.   Base de datos microcontroladores ST Microelectronic 8 y 32 Bits (stmmicro database):  STM8, STM32 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'caldroid.dbmcu.permission.C2D_MESSAGE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.SEND_SMS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SEND_SMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Bright Screen + LED Flashlight",
+"url" : "https://play.google.com/store/apps/details?id=com.onmobio.lcdlight",
+"package" : "com.onmobio.lcdlight",
+"category" : "Tools",
+"description" : "Turn your mobile screen into a flashlight! Displight turn your mobile display into super bright flashlight app torchlight. New design with easy function and three light-emitting surfaces. White flashlight, green flashlight and red flashlight. You can choose your favorite screen flashlight. Swipe over lighting screen for choose your color. White is a super flashlight.  Easy as never before.  Cell phone without flash? no problem Use a super bright flashlight on LED or LCD screen. Is a torch or lamp for your needs.   Easy function open app and mobile phone turn brightness backlight to Maximum. When closed app, the backlight automatically dims the previous setting lights.  Very useful flashlight for dark spots or light warning / emergency signals.   Flashlight only use your LED light or LCD light screen.   Compatible with all mobile phones.  Compatible with phone and tablet: Samsung Galaxy  Motorola  Sony Xperia LG HTC Xiaomi Alcatel Lenovo Huawei Oppo Asus Caterpillar and other  Paid version without ads https://play.google.com/store/apps/details?id=com.onmobio.lcdlight ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_SETTINGS', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

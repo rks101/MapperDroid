@@ -1,0 +1,11 @@
+{
+"name" : "Witness Cam, Witness",
+"url" : "https://play.google.com/store/apps/details?id=com.fsh.witness",
+"package" : "com.fsh.witness",
+"category" : "Tools",
+"description" : "Main Feature 1. Video Transmission - You can transmit video to NVR by using smart phone. - As soon as you press the RECORD button on the APP, the video of smartphone is transmitted to pre-assigned channel of NVR.  2. Audio Transmission - if the audio recording option is on, the audio of smart phone is also transmitted to the NVR. 3. GPS info Transmission - GPS information of the site is also transmitted with video and saved in NVR. - In emergency situation, the GPS information is automatically transmitted so it is great to alert the urgent situation. 4. Resolution and frame rate setting - You can program the resolution and frame rate of the video in advance. - 1080p, 720p, 480p, 240p resolution is available and programmable  frame rate is 30,25,15,5frames. 5. Selecting front and rear view cameras - Not only rear view camera but also front view cameras of smartphone is selectable. 6. Camera flash On/Off  - You can turn the flash of the smart phone ON/OFF. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.FLASHLIGHT', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "QR Code Scanner",
+"url" : "https://play.google.com/store/apps/details?id=com.karta.karta.kartaqrcode",
+"package" : "com.karta.karta.kartaqrcode",
+"category" : "Tools",
+"description" : "Simple and convenient scanner  Whether it is QR Code or Barcode, it can be scanned within 0.1 seconds. Regardless of the URL, phone, WIFI, text QR Code is fully supported! You can also scan the QR code from the image.  Open the program to quickly scan QR Code or Barcode  Support for turning on the flashlight function in a dark environment  Can set whether the scan successfully triggers the mobile phone vibration feedback function  Scan the URL QR Code to go to the website Scan the phone QR Code to make a call directly  Scan WIFI QR Code to connect directly to WIFI Convenient for you without entering a WIFI password  So easy and convenient QR code come and use it ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.vibrate', 'android.permission.READ_PHONE_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.FLASHLIGHT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

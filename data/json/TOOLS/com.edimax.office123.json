@@ -1,0 +1,11 @@
+{
+"name" : "Office 123",
+"url" : "https://play.google.com/store/apps/details?id=com.edimax.office123",
+"package" : "com.edimax.office123",
+"category" : "Tools",
+"description" : "The Edimax Pro IPFinder app will scan for Office 123 devices. Tap the Master device and run the installation wizard to help you finish the initial Office 123 setup to get your Office Wi-Fi system started! The Edimax Pro IPFinder app will scan for Office 123 devices. Tap the Master device and run the installation wizard to help you finish the initial Office 123 setup to get your Office Wi-Fi system started! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

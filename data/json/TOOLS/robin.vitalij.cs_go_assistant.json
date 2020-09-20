@@ -1,0 +1,11 @@
+{
+"name" : "CS:GO Assistant",
+"url" : "https://play.google.com/store/apps/details?id=robin.vitalij.cs_go_assistant",
+"package" : "robin.vitalij.cs_go_assistant",
+"category" : "Tools",
+"description" : "An indispensable assistant for Cs Go players. Install the application and get instant access to the most important information.  Steam account must be public   Player Profile  All information, from KD to the average percentage of victories, supplemented by graphs, will help you track and analyze your game progress. Study the characteristics and indicators of your cards and weapons, both for a certain period, and for the whole time.  Player Comparison  We are pleased to present to your attention the opportunity to compare ourselves with other players. You can find out which of you plays better on this or that map, with weapons.  This application is the surest way to get relevant information anytime, anywhere in real time! For proper operation of some screens and functions, a working Internet connection is required.   P.S. Dear app users. If you have any errors, let us know. The application is under active development. If you have suggestions for improving the application, write to the mail vitalij.robin@gmail.com or we are in contact https://vk.com/faceit_assistant  This application is NOT a Valve Corporation product and was created in accordance with the rules of the Valve Developer Program. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

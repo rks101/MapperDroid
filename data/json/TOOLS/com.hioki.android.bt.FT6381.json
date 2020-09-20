@@ -1,0 +1,11 @@
+{
+"name" : "FT6381 Communication Software",
+"url" : "https://play.google.com/store/apps/details?id=com.hioki.android.bt.FT6381",
+"package" : "com.hioki.android.bt.FT6381",
+"category" : "Tools",
+"description" : "This is the communication software for HIOKI FT6381 Clamp on Earth Tester.  The copyright to the executable program file and associated documents is owned by HIOKI E.E. CORPORATION.  HIOKI disclaims any and all responsibility for any consequences arising out of use of this software.  OS: This application supports Android OS 2.1 or later, but proper operation is not guaranteed on all Android handsets. For more information about the devices on which proper operation has been confirmed, please see below.  The following Android devices are tested and found compatible with This application. However, the devices are not limited to the list below.   Acer Iconia A100 HTC Inspire LG Nitro HD Motorola Droid X Motorola XOOM Samsung Galaxy Tab 10.1 Samsung Galaxy Tab plus 7.0 Sony Tablet P Sony Tablet S Asus MeMO Pad 7 ME176 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

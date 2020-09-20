@@ -1,0 +1,11 @@
+{
+"name" : "TikTok Wall Picture",
+"url" : "https://play.google.com/store/apps/details?id=com.zhiliao.musically.livewallpaper",
+"package" : "com.zhiliao.musically.livewallpaper",
+"category" : "Tools",
+"description" : "TikTok Wall Picture is the BEST & FREE Video Wallpaper Maker for TikTokers with a size of just 147KB. All types of VIDEOS ON TIKTOK, from Dance, Comedy, Food, Sports, DIY, Animals, to Funny Memes and everything in between, can be easily converted to LIVE WALLPAPERS in seconds! We hope to bring you joy every time you unlock your phone  Convert Video to Live Wallpaper in 5 Easy Steps  Install TikTok Wall Picture  Open TikTok and find the video you like  Save VIDEO as LIVE PHOTO   Set the LIVE PHOTO as your Lock Screen & Home Screen  Enjoy your personalized screen!  If You Saved More Than One Live Photo on TikTok, You Can.....  Open TikTok Wall Picture  Go set wall pictures  Choose one LIVE PHOTO from the album  Set as wallpaper  Please note: If you delete TikTok Wall Picture APP, the live wallpaper will be removed as well  * Any feedback? Contact us at feedback@tiktok.com or tweet us @tiktok ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.zhiliaoapp.musically.permission.wallpaper']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.zhiliaoapp.musically.permission.wallpaper']",
+}

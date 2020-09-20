@@ -1,0 +1,11 @@
+{
+"name" : "Bluetooth mono router - Mono mono",
+"url" : "https://play.google.com/store/apps/details?id=com.codococo.monomono",
+"package" : "com.codococo.monomono",
+"category" : "Tools",
+"description" : "The Mono mono app is for listening to music through a Bluetooth headset that does not support the A2DP profile. Mono routing is canceled in case of general call, and mono routing is automatically started again when the call is terminated. No other features are available and will not be supported in the future.  If you are using a Bluetooth mono device, why dont you try to use Mono mono? Its the best handy app to handle Bluetooth mono routing. Simple and easy to use.  Enjoy watching videos and playing music with your Bluetooth mono device. ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.BROADCAST_STICKY', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.WAKE_LOCK', 'android.permission.MODIFY_AUDIO_SETTINGS', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

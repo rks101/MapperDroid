@@ -1,0 +1,11 @@
+{
+"name" : "VLSM Calc",
+"url" : "https://play.google.com/store/apps/details?id=org.gaak.vlsm",
+"package" : "org.gaak.vlsm",
+"category" : "Tools",
+"description" : "IPv4 subnets are used in order to expand the capacity of hosts and efficiently use one assigned IP.  This is a great tool for networking students as well as the network administrators who are working towards their certifications such as, CCNA, CCDA, CCNP, CCIE etc.  In networks having many unassigned IP addresses, a variable-length subnet mask (VLSM) can provide more efficient use of address space.   How to Say Thank You? If you like the app, please buy the full version to support the development. https://play.google.com/store/apps/details?id=org.gaak.vlsmcalc  Languages English - Spanish.   Number 1 best-selling app in many Google Play countries.  Tags: cidr, ip, variable length subnet masking, Calculadora Subneteo, Calcolatrice Sottorete.  http://Gaak.co ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "[]",
+}

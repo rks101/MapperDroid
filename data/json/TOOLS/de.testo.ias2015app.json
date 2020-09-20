@@ -1,0 +1,11 @@
+{
+"name" : "testo 330i App",
+"url" : "https://play.google.com/store/apps/details?id=de.testo.ias2015app",
+"package" : "de.testo.ias2015app",
+"category" : "Tools",
+"description" : "Install our free App on your Smartphone/tablet, and operate your new testo 330i right where you happen to be.  The report, with customer name, photos and your logo, can be sent to your office or directly to the customer as a simple and fast documentation, right after the measurement.  - Complete control of the measuring instrument via Smartphone and tablet - Easy and intuitive menu guide in the touchscreen - Track changes using the graphical trend view - The measurement values always in view during the adjustment of the system. - Creation of PDF reports or export of measurement values in csv (Excel) or ZIV format - Report sent as an e-mail straight from the measuring location - Insert photos of the measurement site and comments into the documentation - Range of approx. 20 m without obstruction via Bluetooth 4.0 LE  This app can be used with the testo 330i flue gas analyzer only! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CAMERA']",
+}

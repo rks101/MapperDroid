@@ -1,0 +1,11 @@
+{
+"name" : "Calculator JB",
+"url" : "https://play.google.com/store/apps/details?id=com.moblynx.calculatorjb",
+"package" : "com.moblynx.calculatorjb",
+"category" : "Tools",
+"description" : "Calculator JB is a customizable version of the Calculator app included on Android Jelly Bean (Android 4.3)  Our goal is to allow any Android phone or tablet can enjoy this simple calculator!   --- FEATURES ---  - Simple calculator - Configurable style & colors - Compatible with Android 2.2+ - Support for Samsung Multi-window (S3,S4,Note 2,...) - Ad-free   If you want to help us to continue working on this project you can purchase Clock JB+, Camera ICS+ or Camera JB+ app.  Please contact us at moblynx.us@gmail.com if you have any problem. We are delighted to receive any feedback.  Thanks for your support!  Android is a trademark of Google Inc. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "LedArt",
+"url" : "https://play.google.com/store/apps/details?id=cn.huidu.huiduapp",
+"package" : "cn.huidu.huiduapp",
+"category" : "Tools",
+"description" : "Subverted traditonal opeation and creative of Shake and Shake to send.  First design of more areasprograms and freely zoom in /out. Simpleflexible and freely APP operation ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_MEDIA_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.RECORD_VIDEO', 'android.permission.VIBRATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.WAKE_LOCK', 'android.hardware.sensor.accelerometer', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.SYSTEM_ALERT_WINDOW']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.WRITE_MEDIA_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.hardware.sensor.accelerometer', 'android.permission.RECORD_VIDEO', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+}

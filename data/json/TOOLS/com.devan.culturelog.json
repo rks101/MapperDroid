@@ -1,0 +1,11 @@
+{
+"name" : "CultureLog - Movies, Games, Books and more!",
+"url" : "https://play.google.com/store/apps/details?id=com.devan.culturelog",
+"package" : "com.devan.culturelog",
+"category" : "Tools",
+"description" : "If you are one of those people who like to keep a record of what have been watching on the cinema, which videogames you have been playing on your console or computer or reading lately, rank it and write a review about it, this app is perfect for you!  The app currently includes four different categories for you to start keeping track of your progress: Movies, TV Shows, Books and Videogames.  We try to publish new updates constantly, and Im open to any suggestions, so feel free to contact me and suggest them!  It is currently available in english, spanish and catalan. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

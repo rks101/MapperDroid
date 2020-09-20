@@ -1,0 +1,11 @@
+{
+"name" : "Caesar cipher - Encryption / automatic decryption",
+"url" : "https://play.google.com/store/apps/details?id=com.monoflop.caesardecryptor",
+"package" : "com.monoflop.caesardecryptor",
+"category" : "Tools",
+"description" : "The app allows you to encrypt or decrypt text with the simple and widely known Caesar cipher. If you have an caesar encrypted text with a unknown key, the application can decrypt the text for you! This might be useful for riddles or geocaching. Furthermore, the algorithm is visualized with an interactive cipher disk which you can export and print to craft your own paper cipher disk.  The cipher is named after the famous roman dictator Gaius Julius Caesar. It works with a simple substitution mechanism where each letter is replaced by another letter in the alphabet. For example with a right shift of 5 an A is replaced with an F.  Decrypt me: Drkxu iye pyb ecsxq yeb kzz    Features:  caesar wheel (Cipher disk)  custom alphabet  suitable for geocaching  educational animation  automatic decryption in a few milliseconds  multi-language support  simple user interface  share function  export cipher disk  context menu integration  no ads  100 % FREE   Permission is required to save cipher disk   Supported decryption languages:  Dansk  Deutsch (Deutschland)  Deutsch (Swiss)  English (General)  English (UK)  English (USA)  Espaol  Franais  Italiano  Nederlandse taal  Norsk ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

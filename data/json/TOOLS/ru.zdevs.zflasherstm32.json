@@ -1,0 +1,11 @@
+{
+"name" : "ZFlasher STM32",
+"url" : "https://play.google.com/store/apps/details?id=ru.zdevs.zflasherstm32",
+"package" : "ru.zdevs.zflasherstm32",
+"category" : "Tools",
+"description" : "ZFlasher STM32 is a program for flashing STM32 microcontrollers.  Your device must have support USB Host (OTG), otherwise the program will not work.  Supported STM32 family: * STM32F05x / F03x / F04x / F07x / F09x * STM32F1 LD/MD/HD/XLD/CL/MD VL/HD VL * STM32F2xx * STM32F301x / F302x / F303x / F318xx / F328xx / F334xx / F398xx * STM32F401 / F405 / F407 / F410 / F411 / F412 / F413 / F415 / F417 / F42x / F43 / F446 / F46x / F47x * STM32F72 / F74x / F75x / F76xxx * STM32L0x cat. 2 / cat. 5 * STM32L05x / L06x / L010 / L011 / L0x3 * STM32L100x / L15xx / L162x * STM32L41x / L43x / L44x / L45x / L46x / L475xx / L476xx / L486xx / L496x / L4x1 / L4A6x / L4Rx  * STM32G030 / G031/ G041 / G070 / G071 / G081 * STM32WBxx  Program work with: * ST-LINK v2 * ST-LINK v2.1 (Nucleo Board) * DFU Bootloader  ps I will be glad to comments and suggestions. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

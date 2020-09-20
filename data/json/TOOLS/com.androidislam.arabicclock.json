@@ -1,0 +1,11 @@
+{
+"name" : "Arabic Speaking Clock",
+"url" : "https://play.google.com/store/apps/details?id=com.androidislam.arabicclock",
+"package" : "com.androidislam.arabicclock",
+"category" : "Tools",
+"description" : "                                                                   .                                                                                                             01-     02-           03-       04-          05-                06-          07-     08-       24  09-           10-       11-                           ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "fischer MORTAR-FIX",
+"url" : "https://play.google.com/store/apps/details?id=com.ugfischer.mortarfix",
+"package" : "com.ugfischer.mortarfix",
+"category" : "Tools",
+"description" : "The fischer MORTAR-FIX app supports professional users in the construction business in determining the injection mortar requirement for chemical anchors. The resin calculator provides a good base to calculate the required material quantity and the required number of cartridges. The user gets a fast overview of the exact total demand. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+}

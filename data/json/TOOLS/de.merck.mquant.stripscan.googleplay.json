@@ -1,0 +1,11 @@
+{
+"name" : "MQuant® StripScan",
+"url" : "https://play.google.com/store/apps/details?id=de.merck.mquant.stripscan.googleplay",
+"package" : "de.merck.mquant.stripscan.googleplay",
+"category" : "Tools",
+"description" : "The simplest way to determine pH or the concentration of chemicals in aqueous solutions- Use the MQuant StripScan app for fast and reliable test strip readout! The app guides you through the measurement process of MQuant test strips, reads out the result by camera, and conveniently visualizes and saves your measurements.   No more guessing: instrumental readout rather than color matching by eye  Superior precision: results are provided with finer graduation, with warnings if critical measurement interferences are detected  Data storage and traceability: enriched datasets are stored automatically. Forget pen and paper!  Visualizations and analyses: organize and group your data ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH_ADMIN', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

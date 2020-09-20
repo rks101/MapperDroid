@@ -1,0 +1,11 @@
+{
+"name" : "2FA Authenticator (2FAS)",
+"url" : "https://play.google.com/store/apps/details?id=com.twofasapp",
+"package" : "com.twofasapp",
+"category" : "Tools",
+"description" : "2FAS Authenticator is a simple and free application for Two Factor Authentication (2FA Authentication) which generates Time-based One-time Passwords (TOTP) and PUSH authentication*. It helps keep your online accounts secure on supporting TOTP websites.  For your convenience, you can either use QR Code or enter your secret key manually.  *PUSH authentication is compatible only with services integrated through 2FAS.com provider.  Notice: Application supports only 6-digit TOTP factor. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.USE_BIOMETRIC', 'android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.USE_FINGERPRINT', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CAMERA']",
+}

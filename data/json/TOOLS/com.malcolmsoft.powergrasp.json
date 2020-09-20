@@ -1,0 +1,11 @@
+{
+"name" : "PowerGrasp file manager",
+"url" : "https://play.google.com/store/apps/details?id=com.malcolmsoft.powergrasp",
+"package" : "com.malcolmsoft.powergrasp",
+"category" : "Tools",
+"description" : "A sleek and convenient archiver and file manager with ZIP, RAR, 7z, and tar support.  Features:  - Two independent pages - Unpacking ZIP, RAR, 7z, tar, and also tar.gz - Creating and editing ZIP, 7z, tar, and tar.gz - File manager with the usual functions like copy, paste, delete, share and so on - root operations - Drag and drop support - Nice looks together with material design  About permissions: prevention from sleeping is required to keep the device awake while doing something with the files (some people were complaining about it).  If youve found a bug or want to make a feature request, thats great! Head over to the site given below in the Developer section and add a comment to an existing issue or open a new one. You can also drop me an email.  If you report some bad archive which doesnt open in my application though it should (not corrupted or with some unsupported algorithm), dont forget to attach it to your issue or email. Otherwise, guesswork isnt really reliable, you know. If the archive is too large, upload it to a file exchange service and leave a URL.  Oh, and thanks for using my application! Hope you like it. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.launcher.permission.INSTALL_SHORTCUT', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

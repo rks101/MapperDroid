@@ -1,0 +1,11 @@
+{
+"name" : "Compass",
+"url" : "https://play.google.com/store/apps/details?id=org.nixgame.compass",
+"package" : "org.nixgame.compass",
+"category" : "Tools",
+"description" : "ACompassis an instrument used for navigation and orientation.   Main advantages of our Compass app: - Shows device real-time orientation to North - Ability to switch between Geographic Pole and Magnetic Pole - Beautiful and modern material design style - Use of GPS or Network location for best accuracy - Show Location coordinates (longitude, latitude). - Show location address - Magnetic fields signal indicator ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_CORSE_LOCATION', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_CORSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

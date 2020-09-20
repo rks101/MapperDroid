@@ -1,0 +1,11 @@
+{
+"name" : "SoC-L",
+"url" : "https://play.google.com/store/apps/details?id=com.ijsoft.socl",
+"package" : "com.ijsoft.socl",
+"category" : "Tools",
+"description" : "With this application you will be able to consult the specifications of the SoCs from major manufacturers: Allwinner, Amlogic, Apple, Broadcom, Cavium, Freescale, HiSilicon, Intel, Leadcore, MediaTek, Nvidia, Qualcomm, Rockchip, Samsung, Spreadtrum, ST-Ericsson, Texas Instruments and Xiaomi.  MAIN FEATURES:   700+ SoCs with all specifications.  Photos of SoCs  Function Favorites: Add your favorite SoCs in one place!.  Upgradeable database via Over-The-Air  SoC comparator. Compare up to 10 SoCs!  Offline operation, it is not necessary to have active Internet connection (Some functions need an Internet connection).  Do not forget to rate the app!  --------------------------------------  Looking for a list of CPUs: https://play.google.com/store/apps/details?id=com.ijsoft.cpul  -------------------------------------- ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_CONTACTS']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

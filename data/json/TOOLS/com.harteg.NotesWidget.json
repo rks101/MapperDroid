@@ -1,0 +1,11 @@
+{
+"name" : "Notes Widget HD Free Stickies",
+"url" : "https://play.google.com/store/apps/details?id=com.harteg.NotesWidget",
+"package" : "com.harteg.NotesWidget",
+"category" : "Tools",
+"description" : "Get Sticky Notes for your Android Phone and Tablet.  If you often got trouble remembering important things, then Notes Widget HD is for you!  Features:   Changeable text size  Two note skins (check pro version for more)    Check pro version for more features   https://play.google.com/store/apps/details?id=com.harteg.NotesWidgetAdFree&hl ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

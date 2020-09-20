@@ -1,0 +1,11 @@
+{
+"name" : "iTorrent Search - Torrent Search App",
+"url" : "https://play.google.com/store/apps/details?id=com.icodelife.itorrentsearch",
+"package" : "com.icodelife.itorrentsearch",
+"category" : "Tools",
+"description" : "A torrent search engine with multiple torrent providers and beautiful ui.   Easy to search and find torrents  Easy to share magnet.  Black and white theme.  Query across 30 torrent providers in one place  Note : This app doesnt store or log any search query/results. all the data are collected/queried using public APIs. For further details read app privacy policy. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.bng.calc",
+"package" : "com.bng.calc",
+"category" : "Tools",
+"description" : "[Key features] Perform four fundamental operations and engineering calculations.  To start the engineering calculator, rotate your phone.  To check the calculation history, tap the calculation history button. To close the calculation history page, press phone return button.  You can use the previously inputted formulas. Tap the formula you need from the calculation history. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

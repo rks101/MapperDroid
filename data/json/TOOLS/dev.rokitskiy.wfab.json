@@ -1,0 +1,11 @@
+{
+"name" : "My WatchFace [Free] for Amazfit Bip",
+"url" : "https://play.google.com/store/apps/details?id=dev.rokitskiy.wfab",
+"package" : "dev.rokitskiy.wfab",
+"category" : "Tools",
+"description" : "A NEW way to install the WatchFaces is available! Now you can install the WatchFaces in the section Local watch faces in MiFit. There is also the possibility of choosing the old method of installation (through the section Online watch faces). You can select it in the left menu of the application.  The easiest way to set the WatchFace: 1) Open MiFit 2) Click on Profile 3) Click on Amazfit Bip 4) Click on WatchFace setting 5) Click on Local watch face ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

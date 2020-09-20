@@ -1,0 +1,11 @@
+{
+"name" : "Motor Calculator Free",
+"url" : "https://play.google.com/store/apps/details?id=com.snappyappz.motor.free",
+"package" : "com.snappyappz.motor.free",
+"category" : "Tools",
+"description" : "Motor Calculator is a professional electrical application for calculating many common electrical problems and specifically motors. This app is an essential tool for all electricians and electrical engineers. Motor Calculator not only calculates simple formulas but returns code results including wire sizing, conduit sizing, fusing, overload size, ground and bond size and much more based on the Canadian Electric Code.  - Calculate any single motor or multiple motor load and get maximum overcurrent, maximum overload, minimum wire, minimum pipe, and minimum bond wire size. Store a schedule of motors for easy retrieval.  - Calculate required ground and bonding sizes.  - Full conversion app included with focus on electrical units of all kinds.  - Basic construction calculator allows you to easily divide rooms for lighting in imperial or metric measurements.  - Easily access in app support with quick links to your devices email. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

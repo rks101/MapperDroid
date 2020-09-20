@@ -1,0 +1,11 @@
+{
+"name" : "Giant clock",
+"url" : "https://play.google.com/store/apps/details?id=com.bojankogoj.giantclock",
+"package" : "com.bojankogoj.giantclock",
+"category" : "Tools",
+"description" : "A very simple full screen digital clock app. It can be used as a night clock, and you can easily open the alarm clock from the app.  You can choose:  - different text colours - different backgrounds - 12 or 24 hour time display - different date representation (d.m.Y, d/m/Y, m/d/Y, Y/m/d or Y-m-d) - screen lock (screen will not dim or lock until you do so) - screen brightness  Please send an email if any issues occur. ",
+"desc_perms" : "['android.permission.SEND_SMS', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.alarm.permission.SET_ALARM']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

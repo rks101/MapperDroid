@@ -1,0 +1,11 @@
+{
+"name" : "Oscilloscope",
+"url" : "https://play.google.com/store/apps/details?id=org.sbaudio.oscope",
+"package" : "org.sbaudio.oscope",
+"category" : "Tools",
+"description" : "Features  Scope, Meter, & FFT displays  FFT peak tracking with readout  Quickly take screenshots  High contrast colors for view-ability  Permissions This app requires minimal permissions, but must have permission to access and record audio from the devices microphone, as well as permission to write screenshots to the devices storage. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_AUDIO', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

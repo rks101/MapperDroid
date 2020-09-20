@@ -1,0 +1,11 @@
+{
+"name" : "ETA Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.studybop.etacalculator",
+"package" : "com.studybop.etacalculator",
+"category" : "Tools",
+"description" : "The marine ETA Calculator is a free navigation tool to assist sailors with their ETA calculations. The user selects the destination time zone, enters the vessels speed and distance to go. The app will then calculate the time it will take to reach your destination in days, hours and minutes. The time you will arrive at your destination will also be displayed with the correct time for the destinations time zone.  - Calculates ETA and displays result in days, hours and minutes. - Displays ETA in destinations timezone. - Quick calculation for quickly finding out your ETA - Passage Plan calculation allows users to set departure time, departure timezone and destination timezone.  Please ensure your device is set to the correct time. The app calculates the ETA based on your devices time.    If there are any features you would like to see implemented in the app please send me an email jason.j.p.e@gmail.com .  // ***** Disclaimer ***** // The developer of this app is not responsible for any incorrect calculations or data obtained from use of this app. It is the users responsibility to check the reliability of the information provided by the app with their own manual calculations. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Map Inspector - for WoT Blitz",
+"url" : "https://play.google.com/store/apps/details?id=com.dreamfarmgames.wot.mapinspector.blitz.android",
+"package" : "com.dreamfarmgames.wot.mapinspector.blitz.android",
+"category" : "Tools",
+"description" : "You play World of Tanks Blitz ?  Choose any map from the game and inspect relief, terrain, and much more! Find the best spot for your tank to spot, deal damage, and chose the best tactics !  - 3D interactive models of every map (20+) - view and analyze your world of tanks replays! - realtime viewrange display for any tank - technical skin showing each map technical details (unique content !) - visual skin with HD texture from the game - altitudes - location of every single tree, bush and destructible objects - more functions to come!  - no ads - English, Russian and French languages, more languages soon.   Note : download this early release and give your opinion to influence the next tools: we would like to hear from you as we plan to develop more functions.   Legal notice : Map Inspector is an application for the games World of Tanks and WoT Blitz. The makers of Map Inspector are independant developers, Map Inspector doesnt belong to Wargaming.net, the producer of the World of Tanks series of games. Map inspector was made in accordance with WG DPP terms and policies. The images and 3d models contained within are copyrighted by Wargaming.Net LLP and tank stats are intellectual property of Wargaming.Net : Copyright  1998 - 2017 Wargaming.net , All rights reserved. World of Tanks, WoT are trademarks or registered trademarks of Wargaming.net. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.CHECK_LICENSE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.CHECK_LICENSE', 'com.android.vending.BILLING']",
+}

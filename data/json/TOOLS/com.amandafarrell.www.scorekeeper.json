@@ -1,0 +1,11 @@
+{
+"name" : "Scorekeeper (No Ads)",
+"url" : "https://play.google.com/store/apps/details?id=com.amandafarrell.www.scorekeeper",
+"package" : "com.amandafarrell.www.scorekeeper",
+"category" : "Tools",
+"description" : "Keep score for multiplayer games with this simple, ad-free scorekeeper.  -One-tap to add new players. -Tap on a player to add a score. -Long press on a player to edit the player name or to delete the player.  The code is on GitHub: https://github.com/amandafarrell/Scorekeeper ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

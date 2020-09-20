@@ -1,0 +1,11 @@
+{
+"name" : "Call plugin for Yatse",
+"url" : "https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetcallplugin",
+"package" : "org.leetzone.android.yatsewidgetcallplugin",
+"category" : "Tools",
+"description" : "This application is a plugin for Yatse: Kodi remote and cast  When this application is installed, the calls you receive can be send as notifications to Kodi. You can also configure automatic actions like pause or mute. The settings are available in the plugin and not in the main application.  Settings allows you to configure the action on hangup to avoid restarting a media paused before the call.  Notes  You need to start the plugin once from your launcher for the events to correctly registers.  You need to have Yatse: Kodi remote and cast to use this application.  The permissions are needed to get the new call event and the name of the caller.  The screenshots contain content  copyright Blender Foundation | sintel.org / elephantsdream.org / bigbuckbunny.org / tearsofsteel.com  All images are used under their respective CC Licenses | http://creativecommons.org  Kodi / XBMC are trademarks of the XBMC Foundation ",
+"desc_perms" : "['android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.READ_CONTACTS', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

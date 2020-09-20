@@ -1,0 +1,11 @@
+{
+"name" : "TimeBlindz Poker Blinds Timer",
+"url" : "https://play.google.com/store/apps/details?id=com.kidnium.timeblindz",
+"package" : "com.kidnium.timeblindz",
+"category" : "Tools",
+"description" : "TimeBlindz is the ultimate Texas Holdem poker blinds timer for your poker nights and tournaments.  Through its Blinds Structure Manager, this poker blinds timer allows you customize the blinds values, antes and durations. You can also set special timer periods like Seating and Break intervals. The Texas Holdem poker timer user interface colors can be customized to your liking.  With its Man Down feature, you can configure the number of players and starting stack to display the average chip stack throughout the game. For tournament uses, TimeBlindz displays the time until the next break.  TimeBlindz poker blinds timer also features sound and visual alerts when the blinds levels increase. Moreover, the remaining blinds level time and the current blinds level can be changed on the fly.  TimeBlindz is definitely the ultimate Texas Holdem poker blinds timer! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+}

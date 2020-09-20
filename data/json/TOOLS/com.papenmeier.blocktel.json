@@ -1,0 +1,11 @@
+{
+"name" : "Security: Block Tel URI",
+"url" : "https://play.google.com/store/apps/details?id=com.papenmeier.blocktel",
+"package" : "com.papenmeier.blocktel",
+"category" : "Tools",
+"description" : "Quick fix for the security thread of automatically calling the tel Uri with USSD codes from embedded iFrames within homepages. Using this vulnaribility an attacker might reset the phone, block the SIM card, ...  This app registers as handler for the tel Uri. When a webpage contains the malicious code, the app chooser will pop up and Security: Block Tel URI will be in the list. If you choose it, it will show you the Uri that was blocked.  Warning: The app chooser will only show up if you have not choosen a default dialer before! This needs to be reset for this security fix to work.  Please use a testing site to see whether the Security fix will show up, for example http://www.heise.de/security/dienste/USSD-Check-1717811.html ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

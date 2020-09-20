@@ -1,0 +1,11 @@
+{
+"name" : "Mobile Data Widget",
+"url" : "https://play.google.com/store/apps/details?id=biz.lapay.mobiledatawidget",
+"package" : "biz.lapay.mobiledatawidget",
+"category" : "Tools",
+"description" : "The widget is designed to enable/disable mobile network data transfer (mobile traffic control).  For Android 5 and above the option enable/disable data transfer is not supported (invoked the system settings). Tested only for phones with one SIM-card!  Implemented:  displaying the mobile network type (depending on the device and SIM-card);  indication of the GSM signal strength;  displaying direction of the IP PPP traffic (sending and/or receiving);  indication of when the unit is roaming;  ability to change the border color of the widget (at installation);  ability to change the horizontal and vertical size (for Android 3.1 and above);  displaying the phone number, IMEI (you can copy to the clipboard).  Data transfer via the mobile network depends on the connection state of the Wi-Fi adapter and conditions of your mobile operator. Recommended for use jointly with Wi-Fi Info widget, which contains the indicator Network availability. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE']",
+}

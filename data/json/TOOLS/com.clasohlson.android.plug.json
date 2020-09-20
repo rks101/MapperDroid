@@ -1,0 +1,11 @@
+{
+"name" : "Clas Ohlson Home",
+"url" : "https://play.google.com/store/apps/details?id=com.clasohlson.android.plug",
+"package" : "com.clasohlson.android.plug",
+"category" : "Tools",
+"description" : "Now you can control your lights, appliances, and other devices through your smartphone, with the Clas Ohlson Home app. Simply pair CO Home devices with your Wi-Fi network and control it through the Clas Ohlson Home app.  Schedule your coffee maker for the morning, or your living room light for when you get home in the evening. Set a Home Simulation so your lights will simulate human activity and make it look like youre at home. Light the bathroom or your childs room with the built-in night light. All with the devices you already have -- just smarter.  With this version you can: - Pair Smart Plugs and Smart LED Bulbs with your Android device - Turn the Smart Plug on and off with the app, even when away from home. - Schedule your devices to turn on and off to automate your day. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.WAKE_LOCK', 'android.permission.DOWNLOAD_WITHOUT_NOTIFICATION', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.clasohlson.android.plug.permission.C2D_MESSAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.DOWNLOAD_WITHOUT_NOTIFICATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+}

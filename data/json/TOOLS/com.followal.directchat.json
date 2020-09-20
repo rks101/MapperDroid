@@ -1,0 +1,11 @@
+{
+"name" : "Whats Direct Chat ( Smart Digital Marketing )",
+"url" : "https://play.google.com/store/apps/details?id=com.followal.directchat",
+"package" : "com.followal.directchat",
+"category" : "Tools",
+"description" : "You can Write Numbers and send messages to unsaved numbers in your contacts list.so if you want to chat with some temporary contact you can chat using our app.   - How Direct Chat to whats app works? 1. Enter a number to which you are going to send message, enter country code and phone numbers. 2. Type your text message or choose from suggestion and tap on send button. 3. This will take you to the application and you can send message directly.  Note - This app or app developer is not associated with WhatsApp. WhatsApp is a registered trademark of WhatsApp Inc. You should follow WhatsApps terms & condition while sending messages through Whats Direct Chat ( Smart Digital Marketing ) App. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

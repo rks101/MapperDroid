@@ -1,0 +1,11 @@
+{
+"name" : "AppGameKit Player",
+"url" : "https://play.google.com/store/apps/details?id=com.thegamecreators.agk_player2",
+"package" : "com.thegamecreators.agk_player2",
+"category" : "Tools",
+"description" : "Make games and run them on your device provided by AppGameKit broadcasting from Windows, Mac, or Linux, and test your games and apps before using them in a standalone application.  You can make games and apps in the IDE using AppGameKits BASIC inspired script and at the press of a button see them running on your Android device. Scripts can be used to write anything from simple applications to sophisticated 3D games. When you are happy with your script you can use the IDE to build it into a standalone APK and submit it to the Play Store.  Compatible with both AppGameKit Classic and AppGameKit Studio. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.CHECK_LICENSE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.CHECK_LICENSE', 'android.permission.INTERNET']",
+}

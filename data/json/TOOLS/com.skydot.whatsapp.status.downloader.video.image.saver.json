@@ -1,0 +1,11 @@
+{
+"name" : "Status Saver for Whatsapp - Save HD Images, Videos",
+"url" : "https://play.google.com/store/apps/details?id=com.skydot.whatsapp.status.downloader.video.image.saver",
+"package" : "com.skydot.whatsapp.status.downloader.video.image.saver",
+"category" : "Tools",
+"description" : "Never worry about missing status of your friends. Install the Status Saver app and start storing the amazing statuses.  MAIN FEATURES  Images & Videos  View all the images and videos in the app and you can quickly glance all the thumbnails just like the Gallery.  Multi Selection  You can select as many statuses as you want and download them in a single shot.   Beautiful & Simple User Interface The user interface is fine tuned for the perfect user experience of viewing the statuses.  Inbuilt Video Player The video statuses can be played inside the app itself for the best user experience.  Save & Share You can save any status and share it with your friends. Also you can delete any saved status if you dont need it anymore.  OTHER FEATURES - View Saved Stories and status even after its removed after 24 hours  - Share the best statuses like sports, movie, quotes etc. - Its completely free app.  Note: This app is an independent one and is not affiliated with any 3rd Party including Whatsapp inc.  Download the Status Saver for Whatsapp app today.  Enjoy using the app:)  Your feedback is important to us. Write us on feedback@skydot.tech  Please share the app with others too :) ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

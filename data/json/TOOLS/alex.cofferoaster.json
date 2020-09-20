@@ -1,0 +1,11 @@
+{
+"name" : "Coffee Roaster",
+"url" : "https://play.google.com/store/apps/details?id=alex.cofferoaster",
+"package" : "alex.cofferoaster",
+"category" : "Tools",
+"description" : "If you like roasting coffee beans by yourself you probably take some notes during the roast process (roast duration, temperature, time of cracks,...). This tool helps you to record this data and to store (and view, edit, delete) it. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

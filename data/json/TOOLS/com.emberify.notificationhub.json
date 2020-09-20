@@ -1,0 +1,11 @@
+{
+"name" : "Notification Hub",
+"url" : "https://play.google.com/store/apps/details?id=com.emberify.notificationhub",
+"package" : "com.emberify.notificationhub",
+"category" : "Tools",
+"description" : "Notification Hub is an inbox your notifications. It is a smart manager, for all your apps notifications prioritised in a single place. You can also keep Androids Notification Drawer clean by hiding notifications for select apps. Also, get a notification summary widget.  Features: - All your apps notifications prioritised in one place - Hide non-important notifications from Androids notification drawer - Get a notification summary widget - Graphs & Analytics for your notifications - View notifications by place, time & priority  Works like a smart manager for all apps that send you notifications like Facebook, WhatsApp, Messenger, Instagram, Twitter, Snapchat, Line, WeChat etc. Notification Hub is not related/affiliated with BlackBerry Hub. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.PACKAGE_USAGE_STATS', 'android.permission.BIND_NOTIFICATION_LISTENER_SERVICE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.PACKAGE_USAGE_STATS', 'android.permission.BIND_NOTIFICATION_LISTENER_SERVICE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

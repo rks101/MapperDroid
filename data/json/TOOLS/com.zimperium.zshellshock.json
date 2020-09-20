@@ -1,0 +1,11 @@
+{
+"name" : "Shellshock Scanner - Zimperium",
+"url" : "https://play.google.com/store/apps/details?id=com.zimperium.zshellshock",
+"package" : "com.zimperium.zshellshock",
+"category" : "Tools",
+"description" : "ShellShock Scanner - by Zimperium  Recently a new vulnerability was discovered called Shellshock, that targets BASH, a popular software widely used to control the command prompt on many *nix computers. Shellshock has the potential to wreak havoc on websites, web servers, PCs, routers and more because it enables hackers to gain complete control of an infected machine, which is bad news for consumers and enterprises everywhere. With this power impacted organizations can suffer from web site attacks, network shutdowns, lost data  not to mention lost customers and the cost of operational down-time spent patching such a vulnerability.  Is my Android mobile device vulnerable to ShellShock?  If you want to find out if your Android device is vulnerable, check out the Zimperium Shellshock Vulnerability Scanner. This app will determine if your mobile device is running vulnerable version of BASH or apps that includes BASH process, which exposes your mobile device to the ShellShock vulnerability.   There are two features of this app: 1) Shellshock Device Vulnerability Scanner: Determines if the device is running BASH. 2) Shellshock App Vulnerability Scanner: Determines if you have any mobile apps on your device that include BASH process.   About Zimperium:  Zimperium is the leader in advanced mobile threat defense. The Zimperium Mobile Threat Defense Suite delivers enterprise-class protection for Android and iOS devices against the next generation of advanced mobile threats. Developed for mobile devices, Zimperium uses patented, behavior-based analytics that sit on the device to protect mobile devices against network- and host-based threats wherever business takes them. For more information on Zimperium please go to www.zimperium.com. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERNET']",
+}

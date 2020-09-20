@@ -1,0 +1,11 @@
+{
+"name" : "BioLeaf - Foliar Analysis",
+"url" : "https://play.google.com/store/apps/details?id=upvision.bioleaf",
+"package" : "upvision.bioleaf",
+"category" : "Tools",
+"description" : "BioLeaf - Foliar Analysis identifies automatically the injured leaf regions caused by insect herbivory and then estimates the defoliation percentage related to the total area by using images either captured from the phone or loaded from the photo gallery.  If you are using our application, please cite us: BioLeaf: A professional mobile application to measure foliar damage caused by insect herbivory. Computers and Electronics in Agriculture 129 (2016) 4455. Full paper: http://bioleaf.icmc.usp.br/paper/2016BIOLEAF.pdf  Key-features:  Automatic and accurate quantification of the foliage loss in two steps.  Interactive reconstruction of the leaf edges by using curves and zooming-in.  A 4-language interface (English, Portuguese, Spanish and Russian)  Suitable for several agricultural crops.  Useful on the plant resistance evaluation.  Non-destructive method.  BioLeaf - Foliar Analysis was developed by a Brazilian team of researchers from the Federal University of Mato Grosso do Sul - UFMS, in collaboration with researchers of Dom Bosco Catholic University - UCDB, lead by the group INOVISAO.  Contact: If you have any question or suggestions, please send us an email to upvisiongroup@gmail.com. Your feedback is very important to improve our app. We are also open for collaboration! ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.CALL_PHONE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

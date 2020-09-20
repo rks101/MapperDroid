@@ -1,0 +1,11 @@
+{
+"name" : "Tap Scroll",
+"url" : "https://play.google.com/store/apps/details?id=com.leavjenn.tapscroll",
+"package" : "com.leavjenn.tapscroll",
+"category" : "Tools",
+"description" : "*** Please WATCH the instruction video before downloading. ***  Tap Scroll is a simple app that just for making scroll easier. When running, a floating, draggable button displays on your screen, you can scroll any app just by tapping the button. Its extremely helpful for reading lengthy content, like books, blog posts, IM messages, social network timelines (Twitter, Facebook, Instagram, etc) and so on. With Tap Scroll, you dont need to swipe 10,000 times a day that make your thumb joint sore.   Tap Scroll is very customizable. You can change scroll distance, speed, direction, button size and button transparency all according to your needs.  No more swipe, enjoy tap, and scrollem all!  Note: due to Accessibility service limitation, the scroll process may not as smooth as real operation.  Disclaimer: Tap Scroll applies Accessibility service to perform scroll action. We dont perform any other actions or collect your personal information via this service. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

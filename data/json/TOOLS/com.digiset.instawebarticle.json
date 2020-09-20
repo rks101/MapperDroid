@@ -1,0 +1,11 @@
+{
+"name" : "InstaWeb - Reader for Chrome",
+"url" : "https://play.google.com/store/apps/details?id=com.digiset.instawebarticle",
+"package" : "com.digiset.instawebarticle",
+"category" : "Tools",
+"description" : "Missing a readability mode for Chrome? Look no further!   InstaWeb is a powerful tool for your Android device to remove article clutters from webpages and create a PDF very fast and easy. Just browser as you usually do with Chrome, and then share your article to InstaWeb and we will clean it for you. You can save the clean article for offline reading if you wish!  Our clutter remover tool creates clean and ready to read PDFs. This readability tool is a must have tool for students, teachers, and professional users who save online articles for offline reading. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

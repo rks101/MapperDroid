@@ -1,0 +1,11 @@
+{
+"name" : "Simple Notepad",
+"url" : "https://play.google.com/store/apps/details?id=org.routine_work.notepad",
+"package" : "org.routine_work.notepad",
+"category" : "Tools",
+"description" : "Simple Notepad is a simple notepad application for Android.  The following functions are supported. * Reading, Writing, Searching note * Add new note from template * Creating the shortcut to a note  This software has the following features. * Small size * Lightning fast * Hardware keyboard operation * No advertisement * Open source ( http://sourceforge.jp/users/say/pf/android_notepad/scm/ )  This app requires the following permissions. * WRITE_EXTERNAL_STORAGE - Writing your note backup file. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

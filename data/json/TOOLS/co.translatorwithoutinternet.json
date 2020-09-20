@@ -1,0 +1,11 @@
+{
+"name" : "Translator Without Internet and 100% free",
+"url" : "https://play.google.com/store/apps/details?id=co.translatorwithoutinternet",
+"package" : "co.translatorwithoutinternet",
+"category" : "Tools",
+"description" : "Translator Without Internet and 100% free is a free android application that helps you translate words and sentences easily and witouht internet.  This app allows you to translate texts from images and pictures as well as it provides you with an imporved version of the translation online 100% free.  This app provides you with an exellent user experience. Mutliple languages are supported amongs them: English, Portugues, French, Spanish, Turkish and Russian.  Features:   The app is totally free, 100%.  Many language translation   No internet is required  Diccionary/translator  Picture translation/photo translation  Easy graphical interface  Translation of text from mages and photos   List of supported languages:   English to French  English to Spanish  English to Portuguese  English to Russian  English to Turkish  French to English  Portuguese to English  Russian to English  Spanish to English  Turkish to English   Please feel free to contact us at: bobos.james1989@gmail.com ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

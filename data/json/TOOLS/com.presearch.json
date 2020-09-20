@@ -1,0 +1,11 @@
+{
+"name" : "Presearch",
+"url" : "https://play.google.com/store/apps/details?id=com.presearch",
+"package" : "com.presearch",
+"category" : "Tools",
+"description" : "Presearch is a decentralized search engine, powered by the community.  * Get Paid in Cryptocurrency: When you search, you will be rewarded with Presearchs PRE crypto tokens. These tokens can be used to buy services, or traded for other cryptocurrencies.  * Your Data, Your Choice We do not track or store any of your information or searches. Unlike some online giants, with Presearch, you control your data, choosing if and when to share it.  * Support Decentralization With Presearch, you can easily support projects that are creating decentralized alternatives. Discover and try other platforms that align with your values. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Wohngeldrechner 2020",
+"url" : "https://play.google.com/store/apps/details?id=com.rolins.wohngeldrechner",
+"package" : "com.rolins.wohngeldrechner",
+"category" : "Tools",
+"description" : "Ermitteln Sie einfach und schnell, ob Sie einen Anspruch auf Wohngeld haben.  Ab Januar 2020 gibt es mehr Wohngeld und mehr mgliche Empfnger.  Die Berechnung erfolgt nach den rechnerischen Vorschriften des Wohngeldgesetzes in der neusten Fassung (Stand Januar 2020).  Kostenlos und frei von Werbung. Find out quickly and easily whether you are entitled to housing benefit.  From January 2020 there will be more housing benefit and more possible recipients.  The calculation is based on the mathematical provisions of the latest version of the Housing Allowance Act (as of January 2020).  Free and free of advertising. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

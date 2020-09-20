@@ -1,0 +1,11 @@
+{
+"name" : "Barcode Scanner X",
+"url" : "https://play.google.com/store/apps/details?id=com.dynamsoft.demo.dynamsoftbarcodereaderdemo",
+"package" : "com.dynamsoft.demo.dynamsoftbarcodereaderdemo",
+"category" : "Tools",
+"description" : "Barcode Scanner X is a simple and clean barcode detection application. It is developed with Dynamsoft Barcode Reader SDK. There is no annoying ads and in-app purchase. Only camera permission needed for barcode detection.  Supported 1D/2D barcode types: 1D: Code 39, Code 93, Code 128, Codabar, EAN-8, EAN-13, UPC-A, UPC-E, Interleaved 2 of 5 (ITF), Industrial 2 of 5 (Code 2 of 5 Industry, Standard 2 of 5, Code 2 of 5), ITF-14 2D: QRCode, DataMatrix, PDF417, Aztec Code and MaxiCode.  For more information, please visit www.dynamsoft.com or contact support@dynamsoft.com. ",
+"desc_perms" : "['android.permission.CAMERA']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.VIBRATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

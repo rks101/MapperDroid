@@ -1,0 +1,11 @@
+{
+"name" : "QR Scanner",
+"url" : "https://play.google.com/store/apps/details?id=com.kitkats.qrscannerlite",
+"package" : "com.kitkats.qrscannerlite",
+"category" : "Tools",
+"description" : "Key features of QRcode reader:    QRcode Reader.  Barcode Scanner.  Flashlight supported for low-light environments.   Wifi QR code supported , auto connect to Wifi hotspot without password.  Create QR code  Its not only a QR code scanner, but also a QR code generator/QR generator. It can read all types including text, url, product, contact, ISBN, calendar, email, location, Wi-Fi and many other formats.  After scan and automatic decoding, user is provided with only the relevant options for individual type and can take appropriate action. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.FLASHLIGHT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

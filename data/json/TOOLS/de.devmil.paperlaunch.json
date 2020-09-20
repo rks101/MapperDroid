@@ -1,0 +1,11 @@
+{
+"name" : "PaperLaunch: Side launcher",
+"url" : "https://play.google.com/store/apps/details?id=de.devmil.paperlaunch",
+"package" : "de.devmil.paperlaunch",
+"category" : "Tools",
+"description" : "PaperLaunch is a side launcher. Tired of hopping back to your home screen to launch that one app while you are inside another one? Have you used a side launcher and  * are frustrated because you have to do multiple gestures to launch the app? * activate it accidentally by touching the activation zone and immediately launch the app that happens to be on that spot? * do you miss the ability to define a folder structure in that launcher?  Then PaperLaunch is the perfect side launcher for you. Try it!  PaperLaunch is open source! You can find it on GitHub. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Developer Tools",
+"url" : "https://play.google.com/store/apps/details?id=com.roysolberg.android.developertools",
+"package" : "com.roysolberg.android.developertools",
+"category" : "Tools",
+"description" : "This app was originally just created for myself to make some development tasks a bit easier. Ive released it to the app store hoping that someone else might find it useful too.  Using this app you can see which resource qualifiers that are being used, which system features that are available, and see details about the display and its sizes.  Also I wanted to create an app where everything I needed was just one click away. The full list of features: - See resource qualifiers in use - See available system features - See screen dimensions in dp, pt, in, sp, px, mm - Start Dalvik Explorer (third party app) - Start aLogcat (third party app for viewing logcat) - Start ManifestViewer (third party app for viewing AndroidManifest.xml ++)  - Start Clean Status Bar (third party app for taking tidying up status bar for screenshots] - Go directly to the Android 4.3s permission manager (App Ops) - Go directly to the devices developer settings - Go directly to the list of installed applications  Works for Android 1.5 and up. Doesnt need any permissions to run. Please give me a word if theres something youd like to see included in this app. :)  I have open sourced the version 2 of the app. It can be found at https://github.com/roys/java-android-developertools . ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

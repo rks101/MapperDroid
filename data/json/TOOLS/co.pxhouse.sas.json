@@ -1,0 +1,11 @@
+{
+"name" : "Just Search",
+"url" : "https://play.google.com/store/apps/details?id=co.pxhouse.sas",
+"package" : "co.pxhouse.sas",
+"category" : "Tools",
+"description" : "Just Search is a lightweight assist/search replacement (the app that launches after long pressing home). It provides a simple way to search from everywhere.  Just Search uses DuckDuckGo by default, but allows opting for Google, Bing, Yandex, Qwant, Yahoo or any custom search provider url. Just Search is proudly open source. Check the code at https://github.com/veniosg/JustSearch  Notes - As an assist app, Just Search cannot be launched via the launcher. Users need to navigate to the device settings and change the default Assist app. - DuckDuckGo, Google, Bing, Yandex, Yahoo and Qwant are trademarks of their respective owners. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

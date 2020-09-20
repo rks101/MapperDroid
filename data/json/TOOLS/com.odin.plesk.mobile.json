@@ -1,0 +1,11 @@
+{
+"name" : "Plesk Mobile",
+"url" : "https://play.google.com/store/apps/details?id=com.odin.plesk.mobile",
+"package" : "com.odin.plesk.mobile",
+"category" : "Tools",
+"description" : "Plesk Mobile gives Plesk administrators and their customers mobile access to management of their domains. If you are the administrator of a Plesk server, you can also access a number of server management features. The app requires Plesk 11.0 or higher - and its free. See the full list of features below.  Domain management features: * File manager with basic operations * Embedded simple text editor * Subscription statistics * Quick links and ability to open Plesk in embedded web view  Server management features for administrators: * View the list of services on a server * View server information: OS, CPU, Plesk version and so on * View server health: CPU load average, memory consumption, swap usage, etc * Health monitor events on your smartphone * Subscribe to Plesk events  * Secret key authentication  * Roll back and retrieve Plesk license key * Restart a server * Stop and start services on a server * View Plesk access and error logs * Restrict administrative access to Plesk, including particular IPs from access log * Open Plesk in embedded web view ",
+"desc_perms" : "['android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'com.odin.plesk.mobile.permission.C2D_MESSAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS']",
+}

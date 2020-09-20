@@ -1,0 +1,11 @@
+{
+"name" : "EnWiFi by EnGenius",
+"url" : "https://play.google.com/store/apps/details?id=com.Engenius.EnWiFi",
+"package" : "com.Engenius.EnWiFi",
+"category" : "Tools",
+"description" : "EnWifi is a convenient Wi-Fi management tool for EnGenius-brand outdoor and indoor Wi-Fi devices. Configure and monitor EnGenius access points/CPE from a smartphone or tablet.  EnWifi offers single or group device configuration and updates on your networks latest status. Access EnGenius devices anytime.  1. Supported models: EnGenius outdoor/indoor devices, please refer to the supported model list in App -Information.  2. Features: a. Configure a single access point or group of access points directly via smartphone or tablet. b. Change operating modes remotely. c. Real-time monitoring of wireless device status. d. Backup of configuration files for easy deployment. e. Firmware upgrades for both indoor and outdoor devices. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Donations",
+"url" : "https://play.google.com/store/apps/details?id=com.service.contribution",
+"package" : "com.service.contribution",
+"category" : "Tools",
+"description" : "Application to support the developer in his expenses. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['com.android.vending.BILLING']",
+}

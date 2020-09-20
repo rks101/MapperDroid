@@ -1,0 +1,11 @@
+{
+"name" : "Safe2Home Alarm",
+"url" : "https://play.google.com/store/apps/details?id=com.safe2home.sp110",
+"package" : "com.safe2home.sp110",
+"category" : "Tools",
+"description" : "Safe2Home SP110 GSM Alarm supports LCD display, voice, SMS,capacitive touch keypad & RFID identification and CONTACT ID protocol with the advanced GSM wireless network digital signal processing technology and automatic temperature compensation. Users can remotely control and set the panel host in APP with user -friendly design and operation. When alarm happen, it will open the siren and inform the users by telephone or SMS.Safe2Home SP110 GSM Alarm system is a advisable choice for personal houses security, working offices security and factorys security with fashionable appearance and multi-functions. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.launcher.permission.INSTALL_SHORTCUT', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.VIBRATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.INTERNET', 'android.permission.WRITE_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_LOGS', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_LOGS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Lexis Audio Editor",
+"url" : "https://play.google.com/store/apps/details?id=com.pamsys.lexisaudioeditor",
+"package" : "com.pamsys.lexisaudioeditor",
+"category" : "Tools",
+"description" : "Create new audio recordings or edit audio files with the editor. Save the files in the desired audio format.  The trial version has all the features of the paid version including options to save in wav, m4a, aac, flac and wma format. Saving in mp3 format is available only in the paid version. - Recorder and player - Cut, copy and paste - Delete, insert silence, trim, fade in, fade out - Normalizing, noise reduction - Record into existing file, import file into existing file - Mixes the current file with another file - 10 band equalizer - Compressor - Change Tempo, Speed, Pitch - Audioformats: mp3 (-320kb/s), wav (16 Bit PCM), flac, m4a, aac and wma, video import: mp4, 3gp, 3g2 Remark: You need enough free memory on your first sd-card to edit sound files. For 10min 48k stereo sound we recommend at least 500MB free memory.   Please have also a look at our new security camera App Lexis Cam.   If you think this app is useful, wed love you to rate our app 5 stars. Showing us some love on the store helps us to continue to work on the app and make things even better! ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.DISABLE_KEYGUARD']",
+}

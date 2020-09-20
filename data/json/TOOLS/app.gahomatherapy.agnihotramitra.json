@@ -1,0 +1,11 @@
+{
+"name" : "Agnihotra Buddy",
+"url" : "https://play.google.com/store/apps/details?id=app.gahomatherapy.agnihotramitra",
+"package" : "app.gahomatherapy.agnihotramitra",
+"category" : "Tools",
+"description" : "Agnihotra Buddy will help you get accurate Agnihotra timings for sunrise and sunset based on your location. Either you can make use of GPS location with Google Maps or else manually enter the location to get timings. The app uses the official website www.homatherapie.de for downloading timings. The timing calculations are extremely accurate for best results with Agnihotra. The timings need to be downloaded only once for each location and then the app will work offline for the remainder of the year. You may store timings for up to 3 locations and can delete or rename locations too. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Wireless Logger Collector",
+"url" : "https://play.google.com/store/apps/details?id=com.hioki.WirelessLoggerCollector",
+"package" : "com.hioki.WirelessLoggerCollector",
+"category" : "Tools",
+"description" : "Setting, measurement starting / stopping, numerical value monitoring, data collection and browsing of a HIOKI Wireless Mini series with the Wireless Logger Collector.   Target Models: LR8512 WIRELESS PULSE LOGGER LR8513 WIRELESS CLAMP LOGGER LR8514 WIRELESS HUMIDITY LOGGER LR8515 WIRELESS VOLTAGE/TEMP LOGGER LR8520 WIRELESS FUNGAL LOGGER  Web Site: https://www.hioki.com/en/products/list/?category=9 E-mail:os-com@hioki.co.jp  The copyright to the executable program file and associated documents is owned by HIOKI E.E. CORPORATION. HIOKI reserves the right to make changes to the software specifications without any prior warning. HIOKI disclaims any and all responsibility for any consequences arising out of use of this software. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

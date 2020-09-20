@@ -1,0 +1,11 @@
+{
+"name" : "My Solar Energy",
+"url" : "https://play.google.com/store/apps/details?id=it.resis.mysolarenergy",
+"package" : "it.resis.mysolarenergy",
+"category" : "Tools",
+"description" : "Ottimizzazione dellautoconsumo e monitoraggio impianti fotovoltaici monofase e trifase. Dati consultabili in tempo reale in ogni momento e su qualsiasi dispositivo mobile.  Misure visualizzate:  - energia prodotta dallimpianto fotovoltaico - energia scambiata (immessa/prelevata) con la rete - consumi:calcolo dellenergia consumata dal cliente - autoconsumo Optimization of self-consumption and monitoring of single-phase and three-phase photovoltaic systems. Data that can be consulted in real time at any time and on any mobile device.  Displayed measures:  - energy produced by the photovoltaic system - energy exchanged (injected / withdrawn) with the grid - consumption: calculation of the energy consumed by the customer - self-consumption ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.DISABLE_KEYGUARD', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

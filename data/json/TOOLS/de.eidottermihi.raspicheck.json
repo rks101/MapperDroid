@@ -1,0 +1,11 @@
+{
+"name" : "RasPi Check",
+"url" : "https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck",
+"package" : "de.eidottermihi.raspicheck",
+"category" : "Tools",
+"description" : "Simple app for checking the status of your Raspberry Pi .  RasPi Check shows you overclocking information (frequency, temperature, volts) and more system information (free memory, runtime, disk status). You can also restart or halt your Raspberry Pi  and send custom commands! If you always want to keep an eye on your Pi theres also a widget for your homescreen.  All you need for the app to work are your SSH login credentials. You can either authentificate via password or via private/public key.  RasPi is one of the Rasberry Pi  abbreviations. For more information visit http://www.raspberrypi.org. Raspberry Pi is a trademark of the Raspberry Pi Foundation. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

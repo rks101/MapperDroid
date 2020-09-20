@@ -1,0 +1,11 @@
+{
+"name" : "NVIDIA SHIELD TV",
+"url" : "https://play.google.com/store/apps/details?id=com.nvidia.shield.remote",
+"package" : "com.nvidia.shield.remote",
+"category" : "Tools",
+"description" : "The NVIDIA SHIELD TV app lets you log in to your favorite GeForce NOW games on SHIELD even faster.  The app gives you instant access to a virtual mouse and keyboard, which makes it simple for you to enter your username and password into game services like Steam, EPIC Games, and Uplay.  Features: GeForce NOW Controls  Virtual mouse touchpad  Virtual keyboard (US English) SHIELD TV Remote Controls  D-pad (up/down/right/left) and Select  Android buttons (Back, Start/Play/Pause, Home)  Volume Control (mobile devices volume buttons)   To get started, connect your Android phone or tablet to the same network as your SHIELD.   Make sure your SHIELD is upgraded to the latest version 7.1 or later system software (Settings > About > System upgrade).  For more information, please visit: http://shield.nvidia.com. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_CONTACTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.VIBRATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

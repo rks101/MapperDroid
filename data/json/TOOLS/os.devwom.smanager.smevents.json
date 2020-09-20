@@ -1,0 +1,11 @@
+{
+"name" : "SMEvents",
+"url" : "https://play.google.com/store/apps/details?id=os.devwom.smanager.smevents",
+"package" : "os.devwom.smanager.smevents",
+"category" : "Tools",
+"description" : "SManager add-on that notifies some device events. At this moment only Bluetooth events ",
+"desc_perms" : "[]",
+"manifest_perms" : "['os.devwom.permission.smanager', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.BLUETOOTH']" 
+"extra_perms" : "['os.devwom.permission.smanager']",
+}

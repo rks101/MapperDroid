@@ -1,0 +1,11 @@
+{
+"name" : "Pixel Fixer",
+"url" : "https://play.google.com/store/apps/details?id=com.aiuspaktyn.pixelfixer",
+"package" : "com.aiuspaktyn.pixelfixer",
+"category" : "Tools",
+"description" : "Have dead or stuck pixels on your smartphone or tablet?  Keep this app until the dead pixel or stuck pixel has been repaired or unstuck. This app fixed the stuck pixels on my Motorola G display, though be warned it can take hours depending on the pixel.   Android Smartphone  Android Tablet  Android TV  Android Wear  If this app doesnt work for you, contact the manufacturer of your device.  It can fix ghosting problem too!  Display: LED TFT LCD IPS SLCD SUPER AMOLED TRILUMNINOS OLED  Maybe the best android pixel fixer...  If you have photosensitive epilepsy (PSE), you may wish to avoid getting close to these types of lights. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

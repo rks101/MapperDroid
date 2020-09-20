@@ -1,0 +1,11 @@
+{
+"name" : "Screenshot",
+"url" : "https://play.google.com/store/apps/details?id=com.enlightment.screenshot",
+"package" : "com.enlightment.screenshot",
+"category" : "Tools",
+"description" : "Easy Screenshot gives you the easiest way to capture your screen into images, it is the best snapshot tool.  1. You can take a screenshot by touching the shot icon or pressing power button and volume down button at the same time, or pressing power button and home button at the same time(on most Samsung phones).  2. You can specify the folders which the screenshots will be saved as images. 3. You can preview the screenshot and decide saving it or discarding it. 4. Croping any part of the screenshot. 5. Drawing on the screenshot. 6. Making mosaics on the screenshot. 7. Inputing custom text on the screenshot. 8. Sharing the screenshot after its taken. ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.SYSTEM_ALERT_WINDOW']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_FINE_LOCATION']",
+}

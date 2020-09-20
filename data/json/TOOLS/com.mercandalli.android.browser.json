@@ -1,0 +1,11 @@
+{
+"name" : "G - Web Browser ğŸŒ� - Privacy internet browser",
+"url" : "https://play.google.com/store/apps/details?id=com.mercandalli.android.browser",
+"package" : "com.mercandalli.android.browser",
+"category" : "Tools",
+"description" : "Light web browser app. Browse the web and stay incognito.  Highlights:  Light / Dark theme  Floating window  Clear all cache / history  Ad blocker  Multiple search engines supported as Google, DuckDuckGo, Yahoo, Qwant...  G Browser is an app focused on quick search. This application is open source on github !!! https://github.com/Mercandj/browser Do not hesitate to submit merge request, open issue...  Developed in kotlin with <3 by Team Mercan Enjoy G Browser =) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACTION_MANAGE_OVERLAY_PERMISSION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACTION_MANAGE_OVERLAY_PERMISSION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

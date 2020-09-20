@@ -1,0 +1,11 @@
+{
+"name" : "Sparsh Hindi Keyboard",
+"url" : "https://play.google.com/store/apps/details?id=com.sparsh.inputmethod.hindi",
+"package" : "com.sparsh.inputmethod.hindi",
+"category" : "Tools",
+"description" : "Sparsh is a Touch-Screen Keyboard for Hindi language developed for Android devices. * Its simple, efficient and allows inputting any Hindi character with a single slide motion. * Has a base keyboard layout with a popup keyboard for characters based on fundamental characters. * Select a base letter, slide across the popup keyboard to select and input the desired character. * Please note there is a half letter character for every consonant in the popup keyboard.  Sparsh Hindi Keyboard is part of the suite of Keyboards derived from Sparsh Indian Keyboard  Following keyboards are supported with dictionary support: - Hindi Keyboard - English Keyboard  For this solution to work, the device must support Indian language font rendering.   The keyboard has been developed for Android devices running on version 2.1 and above. The LatinIME touch keyboard solution of the Android platform was used as reference. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

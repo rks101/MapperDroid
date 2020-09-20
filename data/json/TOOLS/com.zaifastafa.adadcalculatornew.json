@@ -1,0 +1,11 @@
+{
+"name" : "Adad Calculator (Abjad)",
+"url" : "https://play.google.com/store/apps/details?id=com.zaifastafa.adadcalculatornew",
+"package" : "com.zaifastafa.adadcalculatornew",
+"category" : "Tools",
+"description" : "In Arabic language, every alphabet has an equivalent numerical value known as the Adad of that letter. The calculation of this value is called Abjad Calculations or Hisabul Jumal.   This Adad Calculator is the FIRST and only application of this kind on the Google PlayStore. This application can be used to calculate the numerical value (Adad) of any word, phrase or even sentences, including but not limited to any Quran verse, name of a person, place or entity etc.   It also gives the frequency of occurrence of every individual letter, as well as the total number of letters and number of words in any given sentence.  If you encounter any trouble feel free to drop me an email with the issue you are facing and I will try my best to resolve it promptly. And if you like the application, dont forget to give your reviews and/or ratings.  ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

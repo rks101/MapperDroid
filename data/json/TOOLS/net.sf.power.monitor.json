@@ -1,0 +1,11 @@
+{
+"name" : "Power Failure Monitor",
+"url" : "https://play.google.com/store/apps/details?id=net.sf.power.monitor",
+"package" : "net.sf.power.monitor",
+"category" : "Tools",
+"description" : "Use your Android device to monitor for electrical power failures (power outages). ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

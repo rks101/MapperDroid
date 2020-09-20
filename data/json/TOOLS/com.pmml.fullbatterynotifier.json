@@ -1,0 +1,11 @@
+{
+"name" : "Full Battery Notifier",
+"url" : "https://play.google.com/store/apps/details?id=com.pmml.fullbatterynotifier",
+"package" : "com.pmml.fullbatterynotifier",
+"category" : "Tools",
+"description" : "** No more Energy wasting, no more overcharging **  This application will notify you when the battery is fully charged. So now no need to check the battery status again and again.  This application allow you choose alert type from Notification and Popup. Notification -> Normal Android style notification. Popup -> Full screen alert.  No heavy set-up required for this application, just install the application, after installation application automatically configured with default settings. Of course you can change these settings any time.  As we know, there are vast amount of Android Manufacturer and devices, where users have different experience in different devices. May be some devices will not notify you immediately on 100% battery charged, so in this case before writing bad review you can try changing setting to Notify when specific percent, E.g. 98, 99.  Please write an email if you have any problems, questions or feature requests: pmmlapps@gmail.com ",
+"desc_perms" : "['android.vending.BILLING']",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

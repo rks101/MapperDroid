@@ -1,0 +1,11 @@
+{
+"name" : "Filoader",
+"url" : "https://play.google.com/store/apps/details?id=com.pas.ipwebcamftp",
+"package" : "com.pas.ipwebcamftp",
+"category" : "Tools",
+"description" : "Filoader is not a standalone app. Its a plugin for IP Webcam, Tasker and Locale.  Filoader uploads files from local filesystem to Email, FTP and SFTP. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.MANAGE_DOCUMENTS']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.MANAGE_DOCUMENTS']",
+}

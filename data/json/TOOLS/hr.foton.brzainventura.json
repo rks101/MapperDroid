@@ -1,0 +1,11 @@
+{
+"name" : "Mobile Inventory FREE",
+"url" : "https://play.google.com/store/apps/details?id=hr.foton.brzainventura",
+"package" : "hr.foton.brzainventura",
+"category" : "Tools",
+"description" : "LISTS  Application Mobile inventory for creation of multiple, user defined, barcode based lists.  List examples : * Store/Warehouse inventory * Shipping documents  * Warehouse receipts * Purchase orders for suppliers * Capital assets list  Also  * Item check ( name, price, stock )  BARCODE SCANNING  Application enables item barcode input via keyboard, Bluetooth barcode scanner or built-in camera.  IMPORT DATA  Item data can be imported from: * Excel tables * Csv files * Directly from MS SQL or MySQL database over WI-FI  EXPORT DATA  Inventory lists can be exported to: * Excel/CSV file, which can be sent by e-mail * Directly into MS SQL or MySQL database over WI-FI  Feel freely to contact us by e-mail, well make sure to answer all your questions -> support@mobileinventory.eu ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.CAMERA', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

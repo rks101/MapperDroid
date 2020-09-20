@@ -1,0 +1,11 @@
+{
+"name" : "ComponentOne Dashboard",
+"url" : "https://play.google.com/store/apps/details?id=com.grapecity.xf.DashboardDemo",
+"package" : "com.grapecity.xf.DashboardDemo",
+"category" : "Tools",
+"description" : "Experience the power of ComponentOne Studio for Xamarin UI controls and the ComponentOne Dashboard. It displays sales and profit comparison goals, top products, and customers. Primary controls include FlexChart, FlexPie, FlexGrid, BulletGraph, and CollectionView all built using Xamarin.Forms. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

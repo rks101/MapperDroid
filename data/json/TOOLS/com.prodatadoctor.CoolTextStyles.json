@@ -1,0 +1,11 @@
+{
+"name" : "Cool Text Styles & Stylish Fonts characters maker",
+"url" : "https://play.google.com/store/apps/details?id=com.prodatadoctor.CoolTextStyles",
+"package" : "com.prodatadoctor.CoolTextStyles",
+"category" : "Tools",
+"description" : "This is a Free android App to create Cool Fancy Text styles and to make Stylish Fonts Effect to share your attitude on WhatsApp Facebook Twitter etc social media and chat messengers with easy single touch tap share or using copy and paste.  Cool Text Styles Generator & Stylish Font characters Effect maker app allows you to convert simple ASCII text that you type using keyboard into Fancy Text With Cool Letter Fonts. This cool text generator app helps converting normal text to stylish text with many different cool symbols and cool font styles based on several themes including funny attitude sad and professional etc.  You can now easily convert your texts to cool and weird styles with different alphabets quickly and completely free. This Simple and Crazy Text Generator App is fully tested and compatible with Whatsapp Facebook Twitter Instagram and other chats messenger and social media platforms. Styles are also available for SMS. This tool lets you add a stylish effect to your texts messages or comments with new text styling and decoration to restyle the normal text into Stylish Text. Text styles also include Chat Codes & Emoticons. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

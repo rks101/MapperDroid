@@ -1,0 +1,11 @@
+{
+"name" : "MugenMonkey for Dark Souls 3",
+"url" : "https://play.google.com/store/apps/details?id=com.mugenmonkeyfordarksouls3",
+"package" : "com.mugenmonkeyfordarksouls3",
+"category" : "Tools",
+"description" : "MugenMonkey has long been a staple among Soulsborne players as an indispensable way to plan and experiment with character building. This tool finally brings that functionality to your Android device. Calculate all your stats, determine the best weapons and infusions, discover your weapon attack ratings ahead of time, and pick out the best fashion, rings, and spells.   With an inexpensive in app purchase you can also unlock the premium version of the app that allows you to browse and view any of the 55,000+ online builds, as well as sync with your online MugenMonkey account. This lets you sync your builds between the site and the app. You can also Favorite builds, then view them later when youre sitting down and playing the game.   To check out MugenMonkey online, visit https://mugenmonkey.com. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

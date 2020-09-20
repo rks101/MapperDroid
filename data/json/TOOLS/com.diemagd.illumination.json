@@ -1,0 +1,11 @@
+{
+"name" : "Torch",
+"url" : "https://play.google.com/store/apps/details?id=com.diemagd.illumination",
+"package" : "com.diemagd.illumination",
+"category" : "Tools",
+"description" : "Torch and color backlight help you to highlight the road or check the screen.  Features: * Strobe light. * Turn on/off torch by toggle switch or long press on screen. * Adjusting the brightness of the screen by vertical scroll. * 9 colors in support, colors of rainbow plus white and black (RGB colors are included). * Change the olor of the screen by horizontal scrolling or buttons which are placed in the bottom of the screen. * Full screen mode by double tap. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.hardware.camera', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FLASHLIGHT', 'android.permission.CAMERA', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.hardware.camera', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

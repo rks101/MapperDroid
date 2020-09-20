@@ -1,0 +1,11 @@
+{
+"name" : "Hoxx VPN",
+"url" : "https://play.google.com/store/apps/details?id=com.hoxxvpn.main",
+"package" : "com.hoxxvpn.main",
+"category" : "Tools",
+"description" : "Hoxx VPN Service can be used to bypass filtered or blocked websites. You can also use Hoxx VPN to hide your tracks and/or protect your personal information at public Wi-Fi locations.  Did you know that public Internet locations are dangerous for your personal data? Bad people around you, on the same network can sniff out your personal information. This is possible because you are on the same network and you are supposed to trust each other. Why dont you use Hoxx to resolve this issue? Our VPN Servers can solve this problem for you with a few simple clicks.  All you need is a Hoxx account and this App and you are good to go. Hoxx is FREE for everyone. We have over 100 servers all over the world.  Unlock sites within seconds, take care of your Internet privacy, change your location, and get protection from malicious websites.  No special configuration is required; all you need is a valid hoxx account and you can get started immediately. We do encrypt all your connections from browser to target site to prevent anyone from stealing your personal information, this also prevents other people from knowing what you are doing.  Enjoy our premium VPN service. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

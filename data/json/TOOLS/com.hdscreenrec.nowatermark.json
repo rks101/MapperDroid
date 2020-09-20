@@ -1,0 +1,11 @@
+{
+"name" : "BEST Screen Recorder - High Quality",
+"url" : "https://play.google.com/store/apps/details?id=com.hdscreenrec.nowatermark",
+"package" : "com.hdscreenrec.nowatermark",
+"category" : "Tools",
+"description" : "BEST Screen Recorder is an easy-to-use free screen recording software that enables you to record any area of your screen on your Android Phone.  Screen recording features  Record audio: Record your microphone and system audio.  Set video quality: Choose the screen recorders output video quality.  Record games: Record full-screen 3D games with our PC screen recorder.  Share: Easily upload your recordings to YouTube, Dropbox and Google Drive.  BEST Screen Recorder is a powerful video recording tool that lets you register everything and anything that you can do in your smartphones screen. ",
+"desc_perms" : "['android.permission.CALL_PHONE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACTION_MANAGE_OVERLAY_PERMISSION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACTION_MANAGE_OVERLAY_PERMISSION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

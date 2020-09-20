@@ -1,0 +1,11 @@
+{
+"name" : "ROMDashboard Developer Console",
+"url" : "https://play.google.com/store/apps/details?id=com.joeykrim.romdb.devconsole",
+"package" : "com.joeykrim.romdb.devconsole",
+"category" : "Tools",
+"description" : "**Application will only work for registered and approved developers on ROMdB** ** More details: https://www.romdashboard.com/ **  This application will not operate properly without support from the ROM developer.  Current Features For ROMdB Developers: **View ROM details and metrics **Purchase subscriptions **Plenty more to come! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCOUNT_MANAGER', 'com.android.vending.BILLING', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCOUNT_MANAGER', 'com.android.vending.BILLING', 'android.permission.GET_ACCOUNTS']",
+}

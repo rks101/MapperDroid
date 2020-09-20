@@ -1,0 +1,11 @@
+{
+"name" : "My File Explorer",
+"url" : "https://play.google.com/store/apps/details?id=com.globile.myfileexplorer",
+"package" : "com.globile.myfileexplorer",
+"category" : "Tools",
+"description" : "My File Explorer lets you easily view, manage and store files on your Android device.  Key Features:   Store, view or manage any documents on your Android device.  In App File Name Search  Copy, paste, move, delete and create text files.  PDF Reader (Android 4.4+)  Email your files.  Open email attachments.  Zip, unzip and unrar support. Also supports password protected zip and rar files.  Several file listing and sorting options  * Starting in Android 4.4, apps (including ours) can not modify files in SD CARD (external storage) anymore. But you can still modify files in internal storage. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

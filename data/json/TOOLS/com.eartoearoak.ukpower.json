@@ -1,0 +1,11 @@
+{
+"name" : "UK Power",
+"url" : "https://play.google.com/store/apps/details?id=com.eartoearoak.ukpower",
+"package" : "com.eartoearoak.ukpower",
+"category" : "Tools",
+"description" : "Discovery how much electrical power is being distributed by the Nation Grid in the UK whether it be from fossil, renewable or other sources and the carbon dioxide (C02) that is created.  Need to run the dryer or charge an electric vehicle? Now you can wait until more green sources are providing power and reduce your carbon footprint.  More details can be found on the website. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Screen Test",
+"url" : "https://play.google.com/store/apps/details?id=com.yota.screentest",
+"package" : "com.yota.screentest",
+"category" : "Tools",
+"description" : "Next generation of useful screen test for finding broken pixels on your Android phone.   Touch the screen to change modes.  Small gradient line on the top of the screen removed. Can be installed on SD card.  NB: You can use this one for tablets, but for the best results it is better to download ScreenTest HD ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

@@ -1,0 +1,11 @@
+{
+"name" : ".R",
+"url" : "https://play.google.com/store/apps/details?id=org.routine_work.android_r",
+"package" : "org.routine_work.android_r",
+"category" : "Tools",
+"description" : ".R is a system resource viewer for Android developers. The following resources are supported. * android.R.drawable * android.R.color * android.R.dimen * android.R.string * android.R.style.Theme* * android.R.layout.*list_item* * android.R.array  This software has the following features. * No advertisement * Open source ( http://sourceforge.jp/users/say/pf/android_R/scm/ ) ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

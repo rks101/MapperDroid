@@ -1,0 +1,11 @@
+{
+"name" : "OpenGL ES Extensions - The OpenGL/Vulkan Utility",
+"url" : "https://play.google.com/store/apps/details?id=com.realtechvr.glview",
+"package" : "com.realtechvr.glview",
+"category" : "Tools",
+"description" : "OpenGL Extensions Viewer for Android displays the vendor name, the version, the renderer name and the extensions for OpenGL ES 1.0 to ES 3.2 and Vulkan.  From the makers of the famous OpenGL Extensions Viewer on PC and Mac, the Android version can access each extension documentation, renderers capabilities. Ideal if you are developing application for Android,  CPU information, Android OS revision are also reported.  Main key features:   Reports Android version, model and CPU.  Reports OpenGL ES information and gives access to OpenGL Extension extension specification online (requires internet connection).  Reports Vulkan API information.  Free of charge.  ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

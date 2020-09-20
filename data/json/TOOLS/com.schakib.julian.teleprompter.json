@@ -1,0 +1,11 @@
+{
+"name" : "Simple Teleprompter",
+"url" : "https://play.google.com/store/apps/details?id=com.schakib.julian.teleprompter",
+"package" : "com.schakib.julian.teleprompter",
+"category" : "Tools",
+"description" : "ATTENTION: In case you are using a device with a big screen and have trouble with the scrollingspeed being too fast please download another version of the app here:   https://drive.google.com/file/d/0B1skn0XOq4bxY2ZXYVBVcUZBS2s/view?usp=sharing  Make sure that you uninstall the app first and allow installation from unknown sources.  ---  Type or import text and easily teleprompt it.  Customize the teleprompter for your needs: You can change the scrolling speed, font, colours and lots of useful features such as auto-starting and mirroring or locking the orientation of your device.  Save, edit or delete old documents. It is also possible to create new documents by importing the text from .txt files.  This app was developed with filmmakers and is completely free to use. We hope you enjoy it! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

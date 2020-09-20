@@ -1,0 +1,11 @@
+{
+"name" : "Smart compass",
+"url" : "https://play.google.com/store/apps/details?id=com.ktwapps.compass",
+"package" : "com.ktwapps.compass",
+"category" : "Tools",
+"description" : "Digital Compass Lite is a functional and simple digital compass with high precision to allow you determine the direction without using the GPS. This smart compass is a great tool for any outdoor activities such as hiking, traveling, picnicking, fishing etc. Digital Compass or Compass digital require the device has at least accelerator and magnetometer to make this smart Compass to be function properly.  Caution: The accuracy of this smart compass or non GPS compass will be disturbed when the device is near any other magnetic interference, be sure to stay away from magnetic things/object such as another electronic device, battery, magnet etc while using this digital compass. If the accuracy of this smart compass or non GPS compass become unreliable, calibrate the digital compass by simultaneously flipping and moving the phone back and front in patterns 8(as screenshot illustrate).   Some of the common usage of E-compass or non GPS compass are: - Adjust Television Athenna - Vatsu Tips  - Finding horoscope - Fengshui(Chinese) - Outdoor activities - Education purpose  Direction: N point to north E point to east S point to south W point to west   2018 Ktwapps. All right reserved. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

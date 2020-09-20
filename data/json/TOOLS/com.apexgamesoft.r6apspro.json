@@ -1,0 +1,11 @@
+{
+"name" : "R6S: Alphapack Opening Simulator",
+"url" : "https://play.google.com/store/apps/details?id=com.apexgamesoft.r6apspro",
+"package" : "com.apexgamesoft.r6apspro",
+"category" : "Tools",
+"description" : "Simulates Alphapack(R6S) on Your phone!  - You can check the number of gets of each rarity items - You can check the name of the skin and uniform names - You can opening alphapacks be automatically  This app is not a product of Rainbow Six Siege, Ubisoft, or their registered trademarks. This app was developed by random players of Rainbow Six Siege. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.CHANGE_WIFI_MULTICAST_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE']",
+}

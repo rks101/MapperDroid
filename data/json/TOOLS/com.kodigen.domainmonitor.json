@@ -1,0 +1,11 @@
+{
+"name" : "Domain Monitor - Expiry Checker",
+"url" : "https://play.google.com/store/apps/details?id=com.kodigen.domainmonitor",
+"package" : "com.kodigen.domainmonitor",
+"category" : "Tools",
+"description" : "Domain Monitor is a free and simple domain monitor application that monitoring domains youve added, at the specific time periods in the background. Domain Monitor will notify you when the domains dropped or will expired soon.  Domain Monitor doesnt use any APIs or third party services to get domain information. All WHOIS requests are sent directly by your device to the WHOIS servers.  Currently supported domain extensions are: com, net, org, io, info, biz, me, tv, us, cn, in, ru, su, ca, uk, jp, kr, sk, cz, fr, it, se, br, pl, co, cc, pw, tr, mobi, pro, club, app, dev, ai, page, site, website, online, news, today, media, live, market, shop, store, shoes, clothing, company, services, solutions, guru, party, partners, top, jobs, tech, win, bid, tel, best, life, xyz.  Please note: Weve getting some feedback about unsupported domain extensions. Some domain extensions like .de are doesnt provide expiry date information from their WHOIS servers. So, we cant support those domains until theyll provide the expiry date information.  Please send your feedback from here: https://goo.gl/forms/yZ0a8Bfnj31Lf6us2  If you get any problem (its possible after a time), dont forget to update application to the latest version! Keep in touch. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

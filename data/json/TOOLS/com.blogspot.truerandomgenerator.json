@@ -1,0 +1,11 @@
+{
+"name" : "True Random Generator",
+"url" : "https://play.google.com/store/apps/details?id=com.blogspot.truerandomgenerator",
+"package" : "com.blogspot.truerandomgenerator",
+"category" : "Tools",
+"description" : "Lightweight and powerful random values generator comprising: - Random numbers generator (integer, floating-point: uniform distribution, normal distribution (Gaussian), Pareto distribution, exponential distributions) - Strong password generator - QR code / barcode generator (QR Code, DataMatrix, Aztec Code, Codabar, Code 39, Code 128, EAN-8, EAN-13, UPC-A, ITF, PDF 417) - Dice roll generator (D3, D4, D5, D6, D7, D8, D10, D12, D14, D20, D24, D30, D48, D50, D100, D1000) - Lottery games picks generator (Bonoloto, Double Lotto, El Gordo, Euro Jackpot, Euro Millions, France Loto, Kenno, La Primitiva, Lotto, Lotto 6/49, New York Lotto, Mega Millions, Mega-Sena, Oz Lotto, Oz Powerball, Powerball, SuperEnalotto, SuperLotto Plus, UK Lottery) - International Bank Account Number (IBAN) generator - PESEL, NIP, REGON generator  I am looking for volunteers to translate The True Random Generator into other languages - see the link below https://docs.google.com/spreadsheets/d/1Zucj26IyKjaqpzZlHM5rnuRc6EzzJViwjOfRQZYPnlw/edit?usp=sharing   This application uses entropy source that provides randomness that is guaranteed to be cryptographically-secure.  It can generate values by shake ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

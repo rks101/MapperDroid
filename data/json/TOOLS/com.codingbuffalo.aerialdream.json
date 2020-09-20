@@ -1,0 +1,11 @@
+{
+"name" : "Aerial Dream",
+"url" : "https://play.google.com/store/apps/details?id=com.codingbuffalo.aerialdream",
+"package" : "com.codingbuffalo.aerialdream",
+"category" : "Tools",
+"description" : "*Please note*: Aerial Dream streams videos constantly and will consume large amounts of bandwidth. Do not install on devices with limited network connectivity.   A screensaver for Android devices inspired on Apple TVs video screensaver.  Currently the displayed videos are the exact same used by Apple TV. Though the videos are relatively small (below 200MB), its still recommended that you have an appropriate internet plan so that you do not incur in extra costs. Most home or WiFi connections should be ok, while mobile data could be a problem.  The videos are hosted by Apple Inc. openly and without any sort of encryption or other form of protection, therefore this use is assumed to be legitimate. If you have reason to believe otherwise please let me know.  In short: if you work for Apple please contact me before releasing the Kraken.  How to set Aerial Dream as your screensaver: - Go into the System Preferences - Select Display - Select Daydream - Select Aerial Dream ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Fontasy - Google Fonts Browser",
+"url" : "https://play.google.com/store/apps/details?id=com.youthhr.fontasy",
+"package" : "com.youthhr.fontasy",
+"category" : "Tools",
+"description" : "Fontasy for typography lovers! This app allows you to browse fonts on Google Fonts.    More than 600 font families are registered on Google Fonts.   Browse details of fonts send from other apps.   Export font files to other apps.  Type out something with your favorite font and share images with your friends.  NOTE: This app doesnt allow you to change font on your device. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Live2DViewerEX Face Tracker",
+"url" : "https://play.google.com/store/apps/details?id=com.pavostudio.facetracker",
+"package" : "com.pavostudio.facetracker",
+"category" : "Tools",
+"description" : " Before you install please note:  - This application is an extended application of Live2DViewerEX, which can capture facial information through a mobile phone and transfer data to Live2DViewerEX for Steam via network. - This app requires Live2DViewerEX for Steam. - This is a beta program, which means it might crash, or some features might not work properly when you use it, I DO NOT promise anything for it.   Steam store page https://store.steampowered.com/app/616720/Live2DViewerEX/   Features:  - Remote control: supports up to 8 devices controlling 8 models  - 30-point face tracking  - 12 controllable parameters ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.CAMERA']",
+}

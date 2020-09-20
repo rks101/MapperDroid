@@ -1,0 +1,11 @@
+{
+"name" : "KimiaVPN",
+"url" : "https://play.google.com/store/apps/details?id=com.kimiavpn.client",
+"package" : "com.kimiavpn.client",
+"category" : "Tools",
+"description" : "New update changes version 3.1.8  -In addition to the IKEv2 service -Add Stunnel service -Upgrade servers to more than 30 countries -Addition of special Kimia Plus service -Show the number of users logged in with the account -Cisco service upgrade and connection speed increase -User lock if more than 2 users log in to the program -Addition of Kimia Socks service for using proxy in Telegram ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "AquaticLog",
+"url" : "https://play.google.com/store/apps/details?id=aquaticlog.mobile.android",
+"package" : "aquaticlog.mobile.android",
+"category" : "Tools",
+"description" : "From the makers of the popular aquarist online service AquaticLog comes a stylish and elegant app for your Android phone or tablet!  App features include: - Log your water parameters in real-time or using our new timer feature for accurate measurements - Record your water changes - Write your aquarium observations using a personalized diary - Record dosing additives and supplements - Enter and review feedings - Save and manage maintenance activities - Sync online to your AquaticLog online profile for backup  If you are an existing user of AquaticLog, you will be able to access all of your online aquariums and their measurements.  All of your measurements and other data is backed up in the cloud, accessible via a website and can always be exported / downloaded for offsite storage by you.  We are dedicated aquarium enthusiasts (reef and freshwater) and app developers. We strive to make the highest quality products - if you have any suggestions, feel free to contact us. Our app is regularly updated at no charge. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

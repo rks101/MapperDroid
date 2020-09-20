@@ -1,0 +1,11 @@
+{
+"name" : "3Shape Communicate",
+"url" : "https://play.google.com/store/apps/details?id=com.x3shape.android.communicate",
+"package" : "com.x3shape.android.communicate",
+"category" : "Tools",
+"description" : "Dentists and Lab technicians can now conveniently communicate from any location 24/7 on-the-go. Share 3D scans, designs and images, save time and reduce remakes.  As a busy dentist or lab, getting access to your scans and designs on-the-go is important. With the Communicate App, you are not limited to your desktop or laptop and you can inspect your scans and design no matter where you are - all the time!  Share 3D scans and designs, share images and comments, approve and reject scans and designs, control your work, save time and reduce remakes.  Disclaimer: Older devices might not be able to show bigger 3D models due to memory limitations.  NOTE: Supported browsers for login are Chrome, Microsoft Edge and Samsung Internet. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_LOGS', 'android.permission.WAKE_LOCK', 'com.x3shape.android.communicate.permission.C2D_MESSAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MANAGE_DOCUMENTS', 'android.permission.INTERNET', 'android.permission.USE_FINGERPRINT', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.BIND_NOTIFICATION_LISTENER_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.READ_LOGS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.MANAGE_DOCUMENTS', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BIND_NOTIFICATION_LISTENER_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Flashlight",
+"url" : "https://play.google.com/store/apps/details?id=com.splendapps.torch",
+"package" : "com.splendapps.torch",
+"category" : "Tools",
+"description" : "Flashlight is free, intuitive and easy to use torch app for Android. Our app uses the built-in camera LED flash and provides the brightest light as possible. If your device doesnt have a flash, then you can use the white screen mode. For quick access you can use the status bar buttons (available in notification area) or click the flashlight widget on your homescreen. Walk in the dark, visiting dark basement, no electricity at home or looking for something under the bed - in these and other unexpected situations our flashlight always helps you!   About Us  Visit SplendApps.com: http://splendapps.com/  Our Privacy Policy: http://splendapps.com/privacy-policy  Contact Us: http://splendapps.com/contact-us   Follow Us  Twitter: http://twitter.com/SplendApps  Facebook: http://www.facebook.com/SplendApps  Google+: https://google.com/+Splendapps ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.CAMERA', 'com.android.vending.CHECK_LICENSE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FLASHLIGHT', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'com.android.vending.CHECK_LICENSE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

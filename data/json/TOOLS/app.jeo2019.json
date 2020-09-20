@@ -1,0 +1,11 @@
+{
+"name" : "Jeo plus",
+"url" : "https://play.google.com/store/apps/details?id=app.jeo2019",
+"package" : "app.jeo2019",
+"category" : "Tools",
+"description" : "Jeo Plus VPN is an unlimited, fast and free Internet privacy and security VPN app for all Android users Protect your network traffic under WiFi hotspot Browse anonymously and securely without being tracked. Enjoy private browsing. Works with WiFi, LTE, 3G, and all mobile data carriers.  jeoplus jeo plus ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE']",
+}

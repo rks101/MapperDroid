@@ -1,0 +1,11 @@
+{
+"name" : "Gorm Remote Mouse",
+"url" : "https://play.google.com/store/apps/details?id=uk.co.lcstudios.mouseemulator",
+"package" : "uk.co.lcstudios.mouseemulator",
+"category" : "Tools",
+"description" : "Use Gorm Remote Mouse to control your pc from your android device.   Download the Gorm Desktop App and follow install instructions here https://github.com/lcstudios5563/GormRemoteMouse/blob/master/README.md  The app uses communication over Wifi with the desktop app to enable remote input control  Ensure both app and desktop app are up-to-date  Please consider purchasing upgrade to access extra short cut commands. Server code is open source ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.INTERNET', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

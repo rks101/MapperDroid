@@ -1,0 +1,11 @@
+{
+"name" : "Sensor Test",
+"url" : "https://play.google.com/store/apps/details?id=nybble.sensortest",
+"package" : "nybble.sensortest",
+"category" : "Tools",
+"description" : "A small and basic application that list all the sensors available on your android device. It also lists the Vendor name and the power (in mA) consumed by each sensor. On selecting from the list, the application displays the current raw values returned from the sensors. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

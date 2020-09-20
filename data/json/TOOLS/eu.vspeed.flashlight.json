@@ -1,0 +1,11 @@
+{
+"name" : "LED Torch Light - Flashlight",
+"url" : "https://play.google.com/store/apps/details?id=eu.vspeed.flashlight",
+"package" : "eu.vspeed.flashlight",
+"category" : "Tools",
+"description" : "This torch light turns the the bright light on in your phone or tablet. It uses devices LED component if available or white screen. The most important features of this flashlight:  - The ads removal for FREE (no payment is required) - This flashlight works even when screen is off - The most beautiful interface - Strobe function (3 levels) - S.O.S. signal  Get it now and enjoy! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.WAKE_LOCK', 'android.permission.FLASHLIGHT', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET']",
+}

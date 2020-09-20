@@ -1,0 +1,11 @@
+{
+"name" : "Mi Band 4 WatchFaces",
+"url" : "https://play.google.com/store/apps/details?id=paolo4c.mb4.watchfaces",
+"package" : "paolo4c.mb4.watchfaces",
+"category" : "Tools",
+"description" : "- Best collection of watchfaces for Mi Band 4 -  25 watchfaces languages  - Favorite watchfaces - Random watchfaces - Sort watchfaces by : number of downloads, rating, new - You can use Amazfit app, or Mi Fit for flashing watchfaces!  Tired of being crazy in the net for having to find new and appealing watchface for your Xiaomi Mi Band 4?  From today, thanks to the application Mi Band 4 Watchfaces you will find all the watchfaces cataloged for language translation, downloadable with just one click and ready in a few seconds to be flashed using Mi Fit.  In addition you will have your favorite watchface always available and stored in your smartphone, identifiable by their dedicated preview.  What are you waiting for? Are you still browsing through the myriad of sources available on the net, looking for those translated into the language of your choice?  Open, choose a watchface, download with a click and ... ..install! :) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

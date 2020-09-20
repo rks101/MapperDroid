@@ -1,0 +1,11 @@
+{
+"name" : "Programmers Calculator Binary",
+"url" : "https://play.google.com/store/apps/details?id=com.browndwarf.hexconverter",
+"package" : "com.browndwarf.hexconverter",
+"category" : "Tools",
+"description" : "Programmer Calculator is a Beautiful,simple yet powerful application with Hex Dec and Bin numbers displayed simultaneously .  Flat UI with minimalistic design makes its appearance soothing with no visual clutter  It supports Binary Hex Decimal and octal systems  It supports all the bitwise operations required by a developer and still maintains almost zero visual clutter.  It provides option to edit Individual bits in a binary number.   It supports BYTE (8bit), WORD / SHORT (16bit), DWORD / INTEGER (32bit) and QWORD / LONG (64BIT) Signed and Unsigned numbers.   It provides Floating Point mode and fixed point mode.   It can show IEEE 754 Representation of numbers.   Programmer calculator supports following Operations: - Inc (Increment) - Dec (Decrement) - RoL (Rotate Left) - RoR (Rotate Right) - Or (Or) - Xor (Exclusive Or) - ShL (Left Shift) - ShR (Right Shift) - Not (Not) - And (And) - Add - Subtract - Divide - Multiply ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

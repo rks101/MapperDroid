@@ -1,0 +1,11 @@
+{
+"name" : "MiraPlug",
+"url" : "https://play.google.com/store/apps/details?id=com.actionsmicro.usbdisplay",
+"package" : "com.actionsmicro.usbdisplay",
+"category" : "Tools",
+"description" : "Thank you for choosing MiraPlug! MiraPlug app is designed to work with MiraPlug, a leading innovator of wire display and stable office soluFons. Features: 1. Plug and play mirroring - Plug in cable to screen mirror instantly without setup 2. Synchronized audio - Audio is perfectly sync with video while screen mirroring 3. OTA firmware updates - AutomaFcally updates firmware to the latest version from the cloud 4. Zero-latency mobile screen mirroring - Play high speed mobile games on the big screen without lag ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.VIBRATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

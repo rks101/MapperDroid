@@ -1,0 +1,11 @@
+{
+"name" : "Serial Bluetooth Terminal",
+"url" : "https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal",
+"package" : "de.kai_morich.serial_bluetooth_terminal",
+"category" : "Tools",
+"description" : "Serial Bluetooth Terminal is a line-oriented terminal / console app for microcontrollers, arduinos and other devices with a serial / UART interface connected with a bluetooth to serial converter to your android device.   This app supports different bluetooth versions: - Bluetooth Classic - Bluetooth LE / Bluetooth Low Energy / BLE / Bluetooth Smart  This app supports different bluetooth devices: Bluetooth Classic (implementing standard Bluetooth SPP profile): - HC-05, HC-06, ... - Raspberry Pi 3 - ... Bluetooth LE (implementing vendor specific Bluetooth GATT services): - predefined: * Nordic Semiconductor nRF51822,  (e.g. BBC micro:bit) * Texas Instruments CC254x (e.g. HM-10, CC41-A,  modules) * Microchip RN4870/71, BM70/71 transparent UART service * Telit Bluemod - custom profile: * Texas Instruments CC2640 serial service, except config characteristics * Silabls BLE113 * uConnect BLE serial adapter * ...  All features in this app are free. In-App purchase is only used for the Donate option.  Looking for source code? Here you find simplified variants of this app: https://github.com/kai-morich/SimpleBluetoothTerminal https://github.com/kai-morich/SimpleBluetoothLeTerminal ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.BLUETOOTH_ADMIN', 'com.android.vending.BILLING', 'android.permission.FOREGROUND_SERVICE', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

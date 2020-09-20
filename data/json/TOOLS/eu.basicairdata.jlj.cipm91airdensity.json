@@ -1,0 +1,11 @@
+{
+"name" : "Air Properties",
+"url" : "https://play.google.com/store/apps/details?id=eu.basicairdata.jlj.cipm91airdensity",
+"package" : "eu.basicairdata.jlj.cipm91airdensity",
+"category" : "Tools",
+"description" : "Air density is calculated with the CIPM 91 method. Open and free code. Inputs to the calculation are pressure, temperature and relative humidity. Output are Air density, Vapor pressure, Compressibility Factor, Viscosity and Speed of Sound You find the algorithm details in this link  http://www.basicairdata.eu/air-properties.html Main reference site  http://www.basicairdata.eu/android-air-properties.html  Free source online available  https://github.com/BasicAirData/AirProperties ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

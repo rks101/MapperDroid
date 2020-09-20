@@ -1,0 +1,11 @@
+{
+"name" : "MugenMonkey Character Planner for Dark Souls 1",
+"url" : "https://play.google.com/store/apps/details?id=com.mugenmonkeyfordarksouls1",
+"package" : "com.mugenmonkeyfordarksouls1",
+"category" : "Tools",
+"description" : "MugenMonkey has long been a staple among Souls players as an indispensable way to plan and experiment with character building. This tool finally brings that functionality to your Android device. Calculate all your stats, determine the best weapons and infusions, discover your weapon attack ratings ahead of time, and pick out the best fashion, rings, and spells.   With an inexpensive in app purchase you can also unlock the premium version of the app that allows you to browse and view any of the online builds, as well as sync with your online MugenMonkey account. This lets you sync your builds between the site and the app. You can also Favorite builds, then view them later when youre sitting down and playing the game.   To check out MugenMonkey online, visit https://mugenmonkey.com. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.USE_FINGERPRINT', 'android.permission.INTERNET', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

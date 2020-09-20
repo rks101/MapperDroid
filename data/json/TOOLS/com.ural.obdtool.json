@@ -1,0 +1,11 @@
+{
+"name" : "URAL Motorcycles OBD",
+"url" : "https://play.google.com/store/apps/details?id=com.ural.obdtool",
+"package" : "com.ural.obdtool",
+"category" : "Tools",
+"description" : "The functions include: 1. Engine data monitoring from ECU in real time. 2. Shows and resets engine DTC codes in the ECU. 3. Component test function for inspecting the component activation. (Injector, Fuel pump, ignition coil, etc.) 4. Shows the ECU information. ((Hardware version, software version, etc.) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.VIBRATE', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

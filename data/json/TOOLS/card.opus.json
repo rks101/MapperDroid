@@ -1,0 +1,11 @@
+{
+"name" : "OPUS Card Reader",
+"url" : "https://play.google.com/store/apps/details?id=card.opus",
+"package" : "card.opus",
+"category" : "Tools",
+"description" : "App displays pass, remaining tickets and last trips of the OPUS card.  This is the fixed version of the abandoned application Lecteur OPUS by etiennedub (https://github.com/etiennedub/LecteurOPUS).   This application is an OpenSource project under the GPLv3 license, you can contribute, repo is https://github.com/tral/LecteurOPUS  Disclaimer : This application neither produced nor supported by the STM. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.NFC', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.NFC', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

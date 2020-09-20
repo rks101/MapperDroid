@@ -1,0 +1,11 @@
+{
+"name" : "FSNinja : 4-way Skydiving",
+"url" : "https://play.google.com/store/apps/details?id=com.fsninja.fsninja",
+"package" : "com.fsninja.fsninja",
+"category" : "Tools",
+"description" : "Plan your 4-way formation skydiving jumps with FSNinja.com and get your ninja on!   Features: * Absolutely free * Fully animated transitions - even with blocks! * Save dives to come back to later * Random FS draw generator * Share skydives with a link * Memorise the divepool with flashcards  Much more still to come, like the FSN Facebook page for the latest news: https://www.facebook.com/FSNinjaAPP/  Pre-KitKat Android, iPhone, and Windows users should add FSNinja.com to their home screen as shown here: https://goo.gl/Vamnwj  Got feedback, suggestions, or questions?  Please do get in touch! ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.READ_CONTACTS', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

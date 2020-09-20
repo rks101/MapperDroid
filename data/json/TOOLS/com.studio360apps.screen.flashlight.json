@@ -1,0 +1,11 @@
+{
+"name" : "Screen Flashlight ğŸ”¦ Bright white and color screen",
+"url" : "https://play.google.com/store/apps/details?id=com.studio360apps.screen.flashlight",
+"package" : "com.studio360apps.screen.flashlight",
+"category" : "Tools",
+"description" : "If you are tired of Flashlight apps with many unnecessary permissions, here you have the solution.  Screen flashlight uses the screen of your device instead of the camera LED, so it does not need camera permissions as other apps do.  Main features:  Adjust brightness and colors with simple gestures  Super bright white for maximum illumination  Dimmed brightness to use in darker rooms  Fixed or animated color lights  Sleep timer  Candle effect  Quick Settings tile available for quick launch  Use the flashlight even when the screen is locked  This app is your best option if you are looking for an app to use as:  Flashlight with adjustable brightness  Ambient mood light  Light for kids  Night lamp  Reading lamp  Color therapy illumination  We work hard to make our users happy. If you have any suggestions or you are having any problem with the app please dont hesitate to contact us.  Dont forget to rate the app if you find it useful!   ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'com.android.vending.BILLING', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

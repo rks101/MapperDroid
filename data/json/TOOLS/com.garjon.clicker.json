@@ -1,0 +1,11 @@
+{
+"name" : "Clicker Counter",
+"url" : "https://play.google.com/store/apps/details?id=com.garjon.clicker",
+"package" : "com.garjon.clicker",
+"category" : "Tools",
+"description" : "Clicker Counter is an app for saving you from having to remember how to count; itll do it for you!  Scenarios where Clicker Counter is the app for you:  - Rampaging goats have invaded your yard. You call the local animal control team for help, but they need to know how many goats there are before they can get to you. Fear has meant youve lost your ability to count in your head - whatever will you do?  - Youre certain that there are more red cars on the road than any other, but distractions keep making you lose count. How will you ever know that youre right?  - Youre in an old western shootout. You will soon need to turn and walk ten paces. Are you sure you want to leave a task as life threatening as this up to your simple mind?  All of these scenarios and more are just waiting for Clicker Counter to come along and save the day!  Features overview: - Count up to a humongous 9,999  - Click sound on clicking (can be turned off) - Vibrate on clicking (can be turned off) - Remembers the count, even if your phone is reset - Count can be set to any custom number  Clicker Counter is entirely free and has absolutely no ads (unlike other free counter apps)!  Clicker Counter makes use of Google Analytics to help with identifying what features are being used. This involves storing anonymous statistics on interactions within the application such as if widgets are being used, if certain preferences are always being disabled, and to marvel at the shear number of clicks being counted.  If you feel strongly about not having these kind of statistics calculated, please get in touch with us so that we can look to provide an opt-out arrangement.  If you have any questions, suggestions or require support, please get in touch with us via e-mail. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

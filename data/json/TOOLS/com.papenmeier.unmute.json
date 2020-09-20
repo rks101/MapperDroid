@@ -1,0 +1,11 @@
+{
+"name" : "Unmute",
+"url" : "https://play.google.com/store/apps/details?id=com.papenmeier.unmute",
+"package" : "com.papenmeier.unmute",
+"category" : "Tools",
+"description" : "In case your device is set to mute and you want it to unmute it, then simply start this app. This app will try to unmute your device. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Builder for Hearthstone",
+"url" : "https://play.google.com/store/apps/details?id=com.instantshare.hsbuilder",
+"package" : "com.instantshare.hsbuilder",
+"category" : "Tools",
+"description" : "Imagine you published an video of a new deck on social network, later on you tuned a little bit of it by replacing a single card. What will you do if you want to notify followers? Taking a new video / editing description below the original video telling the changes seems not an effective way. This app provides better solution for you.  This app manages all of your decks, you are able to: * Build and/or publish unlimited amount of decks. * Import/export deck code. * Keep watching decks published by players. Every time the decks get changed (by their authors) or some comments added (by other players) to the decks, this app reminds you.  * Follow players. Every time the players you followed publish new deck(s), this app reminds you.  Multiple languages of game data supported: English, Traditional Chinese, Simplified Chinese, Korean, Japanese, French, Italian, Spanish, German, Russian, Polish and Thai. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.instantshare.hsbuilder.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

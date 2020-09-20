@@ -1,0 +1,11 @@
+{
+"name" : "BMS Kneeboard and Planner",
+"url" : "https://play.google.com/store/apps/details?id=com.oldgoat5.bmstacticalreference",
+"package" : "com.oldgoat5.bmstacticalreference",
+"category" : "Tools",
+"description" : "Features:  Self-filling Data card, with results from fuel, takeoff, and release calculators. Korea Interactive map by RedDog Falcon Online Server Viewer Tactical Reference containing munitions and stores. Quick charts system for the data card. Bingo Fuel Value Calculator. Takeoff and Rotation Speed Calculator Searchable Brevity Dictionary. Default frequency reference. Navigation Steerpoints reference. ILS checklist.  Korea and Balkan Theater charts by Red Dog  Level bomb release planner, equations from RP5 manual.  Icon by Sir_quacks ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Dioptra™ - a camera tool",
+"url" : "https://play.google.com/store/apps/details?id=com.glidelinesystems.dioptra",
+"package" : "com.glidelinesystems.dioptra",
+"category" : "Tools",
+"description" : "Dioptra- a camera position and angle measurement tool for navigation, surveying, positioning, and measurement.  Celebrating 30,000 users in 2016! Instructions: Press the on-screen camera button to save an image. View saved images in your devices gallery app. []   Dioptra provides the following information like a theodolite optical instrument -  yaw indicator (compass)  pitch indicator (tilt degrees)  roll indicator (tilt degrees) along with -  GPS position  azimuth and bearing to photo subject  The ancient greek dioptra was a classical astronomical and surveying instrument, dating from the 3rd century BCE. The dioptra was a sighting tube or, alternatively, a rod with a sight at both ends, attached to a stand. If fitted with protractors, it could be used to measure angles.  [] ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_LOCATION_EXTRA_COMMANDS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_LOCATION_EXTRA_COMMANDS', 'android.permission.CAMERA', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

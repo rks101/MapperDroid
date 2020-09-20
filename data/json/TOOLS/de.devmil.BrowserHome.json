@@ -1,0 +1,11 @@
+{
+"name" : "Browser Home",
+"url" : "https://play.google.com/store/apps/details?id=de.devmil.BrowserHome",
+"package" : "de.devmil.BrowserHome",
+"category" : "Tools",
+"description" : "Simple Home Screen replacement that displays only a web page. This is useful if you want to use an Android device as a control unit for something that is controlled using a web page. Supports authentication, cache and zooming options ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERNET']",
+}

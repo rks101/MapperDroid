@@ -1,0 +1,11 @@
+{
+"name" : "Simply North",
+"url" : "https://play.google.com/store/apps/details?id=com.busybytes.simplynorth",
+"package" : "com.busybytes.simplynorth",
+"category" : "Tools",
+"description" : "What people are saying  Simply North is an outstandingly simple app and is incredibly gorgeous to look at. (beautifulpixels.com)  -----  Free and without any ads! Download our app Simply North if you would like to have a lovely little compass app on your Android device.  Like or Follow us:  https://facebook.com/simplynorthapp  https://twitter.com/busybytes  https://youtube.com/busybytes   Help and support:  contact@busybytes.com ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

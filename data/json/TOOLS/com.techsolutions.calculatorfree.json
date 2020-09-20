@@ -1,0 +1,11 @@
+{
+"name" : "Calculator Free  Ad free Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.techsolutions.calculatorfree",
+"package" : "com.techsolutions.calculatorfree",
+"category" : "Tools",
+"description" : "CalculatorFree is a combination of simple universal calculator and scientific calculator. This app is ideal for school, work and everyday use.  Ad Free  There are no Ads used for better user experience!    Easy Operation  Every operation can be done with very few taps and you can go back to continue where you left off. Large Display and Large Keys are used to make this app easy to use.  The app works just as expected and allows fast operation.   Time Saving  CalculatorFree remembers where you left off so no calculation needs to be done again. Timestamped history allows to go back to previous calculations. Copy & Paste functionality is included.   CalculatorFree offers the following features: Ad-free ! Easy to use and intuitive - With large display you know exactly whats going on Large buttons for easy operation Allows to continue where you left off Timestamped History of calculations  Small app size and doesnt require any unnecessary permissions Internal precision (20 digits) Percentages (very easy to calculate tips or taxes) Trigonometric functions with Deg, Rad and Grad supported 39 Constants, Copy / Paste functionality Supports multi-window Complete build in help with examples ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

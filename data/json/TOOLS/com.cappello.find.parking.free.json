@@ -1,0 +1,11 @@
+{
+"name" : "Find Parking Free",
+"url" : "https://play.google.com/store/apps/details?id=com.cappello.find.parking.free",
+"package" : "com.cappello.find.parking.free",
+"category" : "Tools",
+"description" : "Do you not remember where you parked your car? With Find Parking you have to just follow the indications to find the parked car!  A minimalist style makes Find Parking quick and easy to use, simply press Park Here! to store the position of the car, on the way back, reopen the application which automatically show you the direction to follow and the distance to get there!  This application requires the use of GPS and compass.  Find Parking contains a small banner ad minimally invasive, if you do not want advertising, buying the paid version.  Do you want to translate the application into your language? Contact me!!!  For any questions and problems... info@matteocappello.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

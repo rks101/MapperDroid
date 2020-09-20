@@ -1,0 +1,11 @@
+{
+"name" : "Grabba Driver",
+"url" : "https://play.google.com/store/apps/details?id=com.grabba",
+"package" : "com.grabba",
+"category" : "Tools",
+"description" : "This Grabba driver is designed to operate with Grabba data capture, verification and transaction devices.  For more information about Grabba devices, please visit our website at www.grabba.com  For previous versions of the Grabba driver, please visit: http://grabba.com/support/downloads/android/drivers  View the full change log at: http://www.grabba.com/download/android/drivers/changelog.txt  If you require an older version of this application, please visit: http://grabba.com/support/downloads/android/drivers/other-versions ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.VIBRATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

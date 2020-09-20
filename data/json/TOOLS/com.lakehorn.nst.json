@@ -1,0 +1,11 @@
+{
+"name" : "Network Speed Tester Client",
+"url" : "https://play.google.com/store/apps/details?id=com.lakehorn.nst",
+"package" : "com.lakehorn.nst",
+"category" : "Tools",
+"description" : "Use Network Speed Tester Client to measure the actual transfer speed of your WiFi network. A graph helps you see changes in realtime.  Please note: to use this app you need to have a Network Speed Tester Server running on the same network.  Example Uses - Find bottlenecks in your wireless network - Optimise the placement of your wifi router, try different locations until you get the best network performance - Measure impact of wifi range extenders - Find the best spot for watching streaming movies in your home  Features Overview - Accurate performance measuring of your network using client-server technology - Get actual realworld network throughput - Graphical visualization - Find local test servers automatically ",
+"desc_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

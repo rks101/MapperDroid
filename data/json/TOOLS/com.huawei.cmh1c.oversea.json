@@ -1,0 +1,11 @@
+{
+"name" : "FreeBuds Lite",
+"url" : "https://play.google.com/store/apps/details?id=com.huawei.cmh1c.oversea",
+"package" : "com.huawei.cmh1c.oversea",
+"category" : "Tools",
+"description" : "1. Guides users through firmware updates for FreeBuds Lite and displays update progress in real-time. 2. Provides important information about the earbuds. 3. Enhances user experience with extra features. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.BLUETOOTH_ADMIN']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.BLUETOOTH_ADMIN']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

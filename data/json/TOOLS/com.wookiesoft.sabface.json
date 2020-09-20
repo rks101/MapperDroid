@@ -1,0 +1,11 @@
+{
+"name" : "SabFace",
+"url" : "https://play.google.com/store/apps/details?id=com.wookiesoft.sabface",
+"package" : "com.wookiesoft.sabface",
+"category" : "Tools",
+"description" : "If you use SABnzbd and have wanted a simple easy interface to see what is in your download queue, or you need to pause or resume your queue when you are not sitting in front of a computer, then SabFace is for you.  I originally wrote this for my kids to be able to pause newsgroup downloads when they needed all of the internet! Now they can pause it (without having access to a computer) and resume it when they leave the house.  Now you can change the priority of a download, pause and resume a single item, and reorder the download queue as well as see what has completed in the history page.  Let me know if there are any features you would like added and I will look in to it. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.SEND_SMS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.SEND_SMS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

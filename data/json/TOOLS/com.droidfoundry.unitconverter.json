@@ -1,0 +1,11 @@
+{
+"name" : "Unit Converter",
+"url" : "https://play.google.com/store/apps/details?id=com.droidfoundry.unitconverter",
+"package" : "com.droidfoundry.unitconverter",
+"category" : "Tools",
+"description" : "A Unit Converter which has most number of features powered with latest colorful material design interface. It includes a favorites list for easy access to commonly used conversions in the home page and also the feature to change the theme of the app.  This Unit Converter is the first of its kind to feature more number of categories along with the latest material design support.  The Currency converter feature supports more than 160 world currencies with their latest exchange rates. The upside of the app is, everything is available for free of cost and absolutely no restrictions and no ads.  These are the following categories supported by unit converter  * Currency * Area * Volume * Temperature * Length * Weight * Speed * Pressure * Time * Fuel * Energy * Storage * Luminescence * Current * Sound * Force * Frequency * Angle * Viscosity * Image * Magnet * Density * Torque * Shoe Size  P.S. Thanks for your continued support to this application. We value your feedback and feature suggestions. It will motivate us and help us to make things even better. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

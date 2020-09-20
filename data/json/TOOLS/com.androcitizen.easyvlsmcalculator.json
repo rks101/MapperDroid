@@ -1,0 +1,11 @@
+{
+"name" : "Easy VLSM Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.androcitizen.easyvlsmcalculator",
+"package" : "com.androcitizen.easyvlsmcalculator",
+"category" : "Tools",
+"description" : "Calculate VLSM (Variable Length Subnet Mask) that you need as a Network Engineer or Student. Throughout this app, you will get some useful information about your Networks according to required Hosts.   Easy VLSM Calculator is responsible for getting these below data,  No. of available hosts (USABLE HOSTS / UNUSABLE HOSTS).  WILDCARD MASK.  LIST OF VLSM.  RANGE OF IP ADDRESS.  Network Address.  First Available IP Address.  Last Available IP Address.  Broadcast Address. And so on.   Variable Length Subnet Mask Calculator is added now.  How to make this app Ad. free? Go for Easy Ip Subnet Calculator Pro today which is absolutely ad-free.  The app designed for phones and for tablets will be available soon. Therefore, it would be handy for mobile users for now.   App Permissions: Required Internet Permission only for Ads.  How can you contribute to the developer team?  Let us know throughout the comment box if there is any issue while using this app.  Finally, let us also know if anything was missing or may need to improve.   Thank you. AndroidCitizen.  Visit Our Page,  http://bit.ly/31YLI81 ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

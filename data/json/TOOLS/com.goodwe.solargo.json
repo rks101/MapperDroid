@@ -1,0 +1,11 @@
+{
+"name" : "SolarGo",
+"url" : "https://play.google.com/store/apps/details?id=com.goodwe.solargo",
+"package" : "com.goodwe.solargo",
+"category" : "Tools",
+"description" : "The SolarGo APP is a configuration tool for the GoodWe grid-connected inverter products. It can locally configure the inverter via Wi-Fi direct connection onsite. The SolarGo APP helps the installer to complete the installation of a grid-tied inverter when necessary. PLESE NOTICE THAT THE SolarGo APP IS ONLY COMPATIBLE WITH THE GRID-TIED INVERTER MODEL THAT WITHOUT LCD DISPLAYER ON IT. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.BLUETOOTH', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.FLASHLIGHT', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "DNS Changer - Lilly",
+"url" : "https://play.google.com/store/apps/details?id=com.aykutcevik.dnschanger",
+"package" : "com.aykutcevik.dnschanger",
+"category" : "Tools",
+"description" : "Main features: - Set a custom DNS server or select one from the list - Works on all connection types like mobile, Wi-Fi, ethernet etc. - IPv6 & IPv4 support - Connect on boot feature - Pause & continue DNS settings without opening the app - No root needed - Pin security (for e.g. parental control) - Device admin feature to prevent users from uninstalling - No ads - Free  How does it work? Lilly uses Androids VPN service feature to set a DNS server for all types of connections. There is no routing made through our server, which you can verify with a speed test and checking your IP. You can also check your systems connection settings technically.  This app uses the Device Administrator permission. It uses this permission to provide the following features:  * Disable uninstallation of app for parental control. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

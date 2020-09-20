@@ -1,0 +1,11 @@
+{
+"name" : "Remote Control For DVB",
+"url" : "https://play.google.com/store/apps/details?id=com.osfunapps.remoteForDVB",
+"package" : "com.osfunapps.remoteForDVB",
+"category" : "Tools",
+"description" : "FREE edition for a limited time  **DISCLAIMER This app is not the official DVB app. It was designed with care to try and bring DVB users an overall better experience  **** IMPORTANT **** This app needs your phone to have Infrared sensor Not sure what this means? you can try downloading the app and see if it works  Your remote is missing? Just ask us for it from the app Features: * SAVE your favorite remotes for easy access * NO installation, just click and play * AMAZING design with cool & easy interface  Have questions? remote isnt working? Please feel free to contact us on osfunapps@gmail.com ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.TRANSMIT_IR', 'android.permission.CHANGE_WIFI_MULTICAST_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.TRANSMIT_IR', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.TRANSMIT_IR', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

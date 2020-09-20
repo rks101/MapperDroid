@@ -1,0 +1,11 @@
+{
+"name" : "Floating Apps - PDF Module",
+"url" : "https://play.google.com/store/apps/details?id=com.lwi.android.flapps.pdf",
+"package" : "com.lwi.android.flapps.pdf",
+"category" : "Tools",
+"description" : "This app provides PDF rendering capabilities to Floating Apps (and other apps) and doesnt work alone. However, its necessary for Floating PDF Viewer and Floating Document Viewer to work correctly.   Download Floating Apps from Google Play and experience real multitasking on your Android: https://play.google.com/store/apps/details?id=com.lwi.android.flappsfull  Visit our website:  https://www.floatingapps.net  Floating Apps is the largest and the most advanced collection of floating apps available on Google Play. Each floating app is a small app that opens in a window and floats over all other apps unlocking real multitasking on your Android phone or tablet! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

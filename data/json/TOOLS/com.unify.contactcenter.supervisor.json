@@ -1,0 +1,11 @@
+{
+"name" : "Mobile Supervisor",
+"url" : "https://play.google.com/store/apps/details?id=com.unify.contactcenter.supervisor",
+"package" : "com.unify.contactcenter.supervisor",
+"category" : "Tools",
+"description" : "OpenScape Contact Center Mobile Supervisor provides the Contact Center Supervisor with quick access to real-time agent and queue status. The Supervisor can change the status of an agent as well as access summary and detailed agent and queue state information. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.INTERNET']",
+}

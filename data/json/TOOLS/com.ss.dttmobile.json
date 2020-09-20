@@ -1,0 +1,11 @@
+{
+"name" : "Dragon's Tear Tavern Mobile",
+"url" : "https://play.google.com/store/apps/details?id=com.ss.dttmobile",
+"package" : "com.ss.dttmobile",
+"category" : "Tools",
+"description" : "Dragons Tear Tavern (DTT) is proud to present Dragons Tear Tavern Mobile, a gaming tool that you can use anywhere! Playing in an RPG? Leave the giant bag of dice at home! Need to roll some non-standard dice? DTT Mobile can help! Looking for the latest gaming news? Want to see who is on-line at the Dragons Tear Tavern? Youre just a tap away.   Included functionality (v2.0):  Dice Bag - Off-line dice roller/randomizer for use with your local gaming group or at wifi-starved gaming conventions. Tap the die icon to roll standard dice or define your roll with the custom dice roller.  Score/Life Counter - Track up to four players scores by tapping to increment or decrement or tap the score to directly edit.  Monsterpocalypse Calculator - Off-line calculator for the Monsterpocalypse miniatures game, used to calculate odds of an attack  News - DTT news feed  Ventrilo status - See who is on-line at The Tavern   Future functionality planned:  >4 player score/life counter  Different templates for score / damage / bonus counters  Macros for frequent dice rolls  Other game and convention tools   Help us to improve Dragons Tear Tavern Mobile by suggesting other tools you would like to have at your fingertips! Please use the reviews to make suggestions or send your suggestions directly to us at feedback@dragonsteartavern.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

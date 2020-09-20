@@ -1,0 +1,11 @@
+{
+"name" : "Quick Launcher (Quick Touch)",
+"url" : "https://play.google.com/store/apps/details?id=com.blk.quicklauncher",
+"package" : "com.blk.quicklauncher",
+"category" : "Tools",
+"description" : "Quick Launcher allows convenient access to your favorite apps very fast and simply.  You must just touch the floating button on any screen to open circle favorite application. It can be included till 10 application in the circle list. You can easily change the application list via setting activity.  Quick Launcher is new experience for playing with your phone. It is another type of Assistive Touch and Easy Touch which support you launching your favorite application without leaving current screen. Forgeting having to scroll out in long list or swiping in long pages, just starting your favorite application from any entry point. It is our concept.  Please give comment to help us improve. It is concept from scratch, the improvement will be released soon. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET']",
+}

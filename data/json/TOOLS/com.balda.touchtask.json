@@ -1,0 +1,11 @@
+{
+"name" : "TouchTask",
+"url" : "https://play.google.com/store/apps/details?id=com.balda.touchtask",
+"package" : "com.balda.touchtask",
+"category" : "Tools",
+"description" : "***THIS IS A TASKER PLUGIN. IT REQUIRES TASKER*** ***This app uses Accessibility services.***  TouchTask allows you to perform gestures automatically without root  Actions: Actions: tap, long tap, scroll, cut, copy, paste, set text, selection text Gestures: swipe and pinch (require Android 7+) Screen capture: screenshot and video, image compare, get image color with names and hex values, get a single pixel color (require Android 5+) Hardware key suppression Unlock screen Optical character recognition  Events: Listen to hw key events (like volume buttons) Listen to screen touch (tap, long tap, scroll) Listen to gesture (swipe up, down and so on) Listen to screen updates  Google+: https://plus.google.com/u/0/communities/107846871867669301384 ",
+"desc_perms" : "['android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.FOREGROUND_SERVICE', 'android.permission.USE_BIOMETRIC', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SYSTEM_ALERT_WINDOW']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS']",
+}

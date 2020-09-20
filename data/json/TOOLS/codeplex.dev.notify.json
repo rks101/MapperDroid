@@ -1,0 +1,11 @@
+{
+"name" : "NoTify",
+"url" : "https://play.google.com/store/apps/details?id=codeplex.dev.notify",
+"package" : "codeplex.dev.notify",
+"category" : "Tools",
+"description" : "NoTify app blocks your phones notifications and messages while driving.  NoTify app is automatically activated through an NFC connection with the NoTify Phone Holder that should be purchased separately. Simply place your phone in the NoTify Phone Holder and the app will be activated automatically. It blocks all incoming sound disturbances and keeps you focused on driving. Voice calls will ring as usual so you can respond with your hand free device.   With NoTify, your driving will be calm and focused. Disconnect with the phone, reconnect with the road.   Product instructions: 1. Download this app 2. Open your phones settings, go to more and enable the NFC feature 3. Place the phone on the phone holder you purchased from us and drive safely  You can choose apps you dont want to mute in the apps settings.  * Instructions 1-2 are only required in the first use of the product ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.NFC']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.NFC', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

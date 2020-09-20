@@ -1,0 +1,11 @@
+{
+"name" : "Prinbiz",
+"url" : "https://play.google.com/store/apps/details?id=com.hiti.prinbiz",
+"package" : "com.hiti.prinbiz",
+"category" : "Tools",
+"description" : "Key features  *Fast printing, seamless experience *Secure WiFi connection *Supports multiple photo sources (smartphone camera, smartphone album, memory card) *Supports ID photo printing and editing (biometric lines, filters and color adjustments) *Supports photo editing (borders, filters, photo and color adjustments) *Supports English, Traditional Chinese, Simplified Chinese, Portuguese, Spanish  *Glossy and matte surface options *Supports multiple photo selection *Supports Android 4.0.3 and above *Supports HiTi photo printers P520L, P750L, P310W, P530D, P525L *Supports Ad-hoc Mode and Infra Mode *Supports printer firmware update *More features coming soon! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.NFC', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.INTERNET', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.GET_TASK', 'android.permission.CAMERA', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.FOREGROUND_SERVICE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.NFC', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.GET_TASK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Video Volume Booster",
+"url" : "https://play.google.com/store/apps/details?id=com.firitools.firitools.videovolumebooster",
+"package" : "com.firitools.firitools.videovolumebooster",
+"category" : "Tools",
+"description" : "Simply boost up the volume of a selected video, then save the result to gallery.  Share the boosted video with WhatsApp, Facebook, Mail and more.  You can increase or also decrease the volume in the video.  Note: The basic version supports boosting videos of 30 seconds or less. You can purchase the full version inside the app and get an unlimited video time boosting and an ads-free version. ",
+"desc_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.RECORD_AUDIO', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

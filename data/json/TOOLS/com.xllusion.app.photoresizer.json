@@ -1,0 +1,11 @@
+{
+"name" : "Photo Resizer",
+"url" : "https://play.google.com/store/apps/details?id=com.xllusion.app.photoresizer",
+"package" : "com.xllusion.app.photoresizer",
+"category" : "Tools",
+"description" : "Photo Resizer helps you to resize photos to web and bandwidth save images so friends can receive your favour photos quickly without wasting their bandwidth and you can upload images to social sites like Facebook in fraction of times too! So everyone is happier:)  You can now use Photo Resizer via share option from other apps such as such galley.  Features - 4 resize modes: 1024x768, 800x600, 640x480, 480x320 - Custom size (Max size 2048x2048) - Resize from other image/photo apps via share option - Easy to use - Image sharing after resized - Upload images to social sites like Facebook with fraction of times - Send images to friends quickly - Export image will be saved in /photoresizer folder on internal storage  Note - Take a photo only works on default camera app - Share using Facebook app will make the resized image invisible in other image viewing apps except default gallery..., it is a bug from current Facebook app: http://www.google.com/support/forum/p/Google+Mobile/thread?tid=4c96bbbad2ae0c29&hl=en (Fixed by latest Facebook app version)  FAQ: 1. Why is there Internet access permission? It is for Google in-app ads only, nothing else. There is no shortcut icon or notification ads! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_CONTACTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_CONTACTS', 'android.permission.GET_ACCOUNTS', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

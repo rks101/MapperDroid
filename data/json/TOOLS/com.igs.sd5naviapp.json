@@ -1,0 +1,11 @@
+{
+"name" : "SD5 App",
+"url" : "https://play.google.com/store/apps/details?id=com.igs.sd5naviapp",
+"package" : "com.igs.sd5naviapp",
+"category" : "Tools",
+"description" : "This is an app designed exclusively for the Speed Driver 5 arcade. Use this app to assist you in your exciting races!  Four main features of SD5 app  Arcade QR code login By using cloud storage and Facebook account binding, you would never have to worry about losing your data. Scan the QR code with your phone to login and start racing!  Personalize your car  Over 100 car mods you can use to customize your cars with. Create your own personal dream car any where and anytime using your app!  SD Assistant quick setting Quickly prepare for your races by configuring your car list, transmission mode and N2O type!  Recieve the latest information Always get updated on the latest news about SD5. Track your records and the leaderboard in real time! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'com.android.launcher.permission.INSTALL_SHORTCUT', 'android.permission.READ_EXTERNAL_STORAGE', 'com.igs.i17gamelobby.permission.C2D_MESSAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'com.igs.i17gamelobby.permission.C2D_MESSAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Benchmark & Tuning (Full)",
+"url" : "https://play.google.com/store/apps/details?id=com.cgollner.benchmark",
+"package" : "com.cgollner.benchmark",
+"category" : "Tools",
+"description" : "This app is a must have if you want to run a quick but precise benchmark on your phone, without wasting your batterys energy. The tested components will be your cpu, memory and input/output capabilities. This app fully supports multi-core devices and gives you the possibility to choose between single-threaded or multi-threaded tests. If you want, you can quickly set your cpu frequency and governor, instead of having to use other cpu app. Submit your scores to our online database and compete with your friends! If you are offline you still see all scores because of the offline score storage.  Enjoy and have a good score!  Online scores website: http://www.cgollner.x10.mx/benchtuning  Follow me on Twitter: https://twitter.com/#!/goellner88 Follow me on Google+: https://plus.google.com/118168530059850940658  Follow and discuss this app on XDA Forum: http://forum.xda-developers.com/showthread.php?p=22731669   Credits:  Main testers:  Francisco Franco, creator of franco.Kernel and franco.Kernel updater. Get his app here: https://market.android.com/details?id=com.franco.kernel  Graphics:  Feature graphic by Brandon Bombard (http://b33zudroidlimitless.weebly.com/)  App icon by Bharath Prabhuswamy ( http://bharathp666.deviantart.com/ ) Cpu icon by: Double-J Design (http://www.doublejdesign.co.uk) Memory icon by: Jack Cai Device icon by: Lothar Grimme (http://www.grafixport.org/) ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.INTERNET', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.android.vending.CHECK_LICENSE']",
+}

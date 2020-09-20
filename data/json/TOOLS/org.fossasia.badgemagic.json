@@ -1,0 +1,11 @@
+{
+"name" : "Badge Magic",
+"url" : "https://play.google.com/store/apps/details?id=org.fossasia.badgemagic",
+"package" : "org.fossasia.badgemagic",
+"category" : "Tools",
+"description" : "Badge Magic lets you create scrolling symbols and text on LED name badges through Bluetooth. The app provides options to portray names, clipart and simple animations on LED badges. For the org.fossasia.badgemagic.data transfer from the smartphone to the LED badge we use Bluetooth.  You can purchase a compatible LED Badge at https://sg.pslab.io ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_BACKGROUND_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_BACKGROUND_LOCATION']",
+}

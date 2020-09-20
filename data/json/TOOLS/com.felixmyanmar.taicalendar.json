@@ -1,0 +1,11 @@
+{
+"name" : "Tai Calendar",
+"url" : "https://play.google.com/store/apps/details?id=com.felixmyanmar.taicalendar",
+"package" : "com.felixmyanmar.taicalendar",
+"category" : "Tools",
+"description" : " Display 100+ years English and Shan calendar (from 1910 to 2030)  Find your birthday in English or Shan by Shan date or English date  Save your family and friends birthday together with calendar  Write down some notes for your memory  Work without installing font nor Internet  Customize app background & adjust font size to suit your eye  Find out the details of Calendar: Pyat-tha-dar? Yat-yar-zar? Opote?   View Public Holidays in Myanmar  Calendar Widget on home screen          - *   1910   2030   *   * ?    *   /  *  -    *  *   *     *  Widget  Home Screen       Facebook, Twitter      ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.READ_CONTACTS']",
+}

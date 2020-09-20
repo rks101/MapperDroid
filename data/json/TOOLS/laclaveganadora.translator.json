@@ -1,0 +1,11 @@
+{
+"name" : "Language Translator",
+"url" : "https://play.google.com/store/apps/details?id=laclaveganadora.translator",
+"package" : "laclaveganadora.translator",
+"category" : "Tools",
+"description" : "Do you want to travel to another country and you dont know the language? Are you translating a document and you dont know what does each word mean?  This application is perfect to translate texts fast in your phone or tablet. With this online translator you wont have communication problems.  Features: -The interface is simple and stylish. -The translations are done instantly. -The application is totally free. -Posibility to copy the translated text by using one button. -Posibility to delete the text by clicking one button. -You can translate from 90 different languages. -You can translate by using your voice. -You can listen translations.  Its a perfect translator from english to spanish and also from spanish to english, but it also has more languages like for example russian, french, german, italian , chinese, catalan and many others...  (You must have internet connection for the correct use of this application on Android). ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "[]",
+}

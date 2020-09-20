@@ -1,0 +1,11 @@
+{
+"name" : "Alarm Clock with Blind Snooze",
+"url" : "https://play.google.com/store/apps/details?id=alarm.clock.ninja",
+"package" : "alarm.clock.ninja",
+"category" : "Tools",
+"description" : "Alarm169 Easy to use alarm clock.  Full screen snooze button. Gradually increasing volume.  Speak clock time or label. Custom vibrate pattern. Disable stop or snooze option. Loud alarm sound for heavy sleeper. More assured alarm with foreground service  Snooze alarm like a ninja without looking for snooze button. Simply, tap anywhere on your phone screen to snooze.   No gimmick like shake you phone, solve math problem or whatever. Just slide the screen to stop the alarm and continue your day peacefully.  Note This app is free but will use internet data in the background to update data source, ads content, server configuration and report error. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.VIBRATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NOTIFICATION_POLICY', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+}

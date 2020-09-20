@@ -1,0 +1,11 @@
+{
+"name" : "Forza -The Torque Checker-",
+"url" : "https://play.google.com/store/apps/details?id=jp.nas.forza",
+"package" : "jp.nas.forza",
+"category" : "Tools",
+"description" : "Forza -The Torque Checker-  Forza is the Torque measurement tool. Please use it for measuring the torque, such as drivable model car. It has featured speed conversion panel. From the gear ratio and the tire diameter, panel mounted to convert the torque of the motor.  [[[ METHOD ]]] 1.Please enter the weight of the measurement object. 2.Press the needle of a button, please let stationary measurement object. 3.Please release the hand When the blue lamp lights.  [[[NOTE]]] * Please be careful so that a motor does not burn. * Please be careful so that a device is not break.  device android  Galaxy Nexus 4.2.2 ISW13HT 4.0.3 FJL21 4.0.4 Nexus 5 4.4 SO-02E 4.1.2 F-05D 2.3.5 ST21i 4.0.4 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

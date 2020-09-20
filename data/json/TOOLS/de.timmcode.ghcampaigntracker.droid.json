@@ -1,0 +1,11 @@
+{
+"name" : "Gloomhaven Campaign Tracker",
+"url" : "https://play.google.com/store/apps/details?id=de.timmcode.ghcampaigntracker.droid",
+"package" : "de.timmcode.ghcampaigntracker.droid",
+"category" : "Tools",
+"description" : "With the Gloomhaven Campaign Tracker, it is possible to keep track of the game progress in the board game Gloomhaven. This is particularly useful when you want to play several campaigns in parallel or just manage your own character.  For each campaign, you can save the unlocked scenarios, global achievements, party achievements, the prosperity of the city and the reputation of the party.In addition, a separate road and city stack is managed for each campaign.  In each campaign, several parties can be created, each of which has its own reputation and party achievements.  The board game Gloomhaven by Isaac Childres offers role play game elements and a changing world. The game progress is originally held with stickers, on paper and by removing and adding game material. http://www.cephalofair.com/gloomhaven   In the app graphics from Icons8 were used. https://de.icons8.com/ ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

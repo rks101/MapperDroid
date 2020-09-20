@@ -1,0 +1,11 @@
+{
+"name" : "SMB plugin for Ghost Commander (new)",
+"url" : "https://play.google.com/store/apps/details?id=com.ghostsq.commander.smb",
+"package" : "com.ghostsq.commander.smb",
+"category" : "Tools",
+"description" : "This is a new version of the plugin with a new package name and it uses a next generation of the SMB library which works much faster and supports the latest versions of the SMB protocol (higher versions are still experimental, use caution).  Please note: Make sure youve installed the Ghost Commander application version 1.57.1 before attempting to download and install this plugin. Also, please uninstall the old samba plugin as well.  To use this plugin, launch Ghost Commander and navigate to Menu > Location > Home > Windows share.  Enter your server name and credentials (if any), then tap the Connect button.  Once connected, you should be able to see a list of Windows shares on the network.  To change the connection options, tap and hold the plugin item in the home: panel.  Please email the developer if you have any questions. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE']",
+}

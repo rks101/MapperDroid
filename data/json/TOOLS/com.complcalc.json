@@ -1,0 +1,11 @@
+{
+"name" : "Complex Calc",
+"url" : "https://play.google.com/store/apps/details?id=com.complcalc",
+"package" : "com.complcalc",
+"category" : "Tools",
+"description" : "Complex Calc is an ad-free application used to find a complex number as a result of addition, subtraction, multiplication, and division of two complex numbers. Also, using this application you can easily convert complex numbers from the a + ib form to the polar form, and vice versa.  Complex Calc is useful for calculations in electrical engineering, mathematics, chemistry, statistics and other engineering fields.  In the settings you can select a number of digits after the decimal point for the result of your calculations*  *Needs restart to apply the new settings. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.CHECK_LICENSE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

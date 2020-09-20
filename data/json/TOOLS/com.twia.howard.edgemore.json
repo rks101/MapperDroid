@@ -1,0 +1,11 @@
+{
+"name" : "Edge Swipe - for HTC U11/U11+",
+"url" : "https://play.google.com/store/apps/details?id=com.twia.howard.edgemore",
+"package" : "com.twia.howard.edgemore",
+"category" : "Tools",
+"description" : "After the installation is complete, go to Settings -> Edge Sense -> Enable Advanced Mode -> Use the short squeeze or squeeze&hold action and select Launch app as Edge Swipe.  Six App shortcuts, and you can edit your own apps.  *fingerprint unlocking problem is still in solution! *this is the unofficial app for HTC U11 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.VIBRATE', 'android.permission.FLASHLIGHT', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'com.twia.howard.edgemore.permission.C2D_MESSAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.MOUNT_UNMOUNT_FILESYSTEMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

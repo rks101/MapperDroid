@@ -1,0 +1,11 @@
+{
+"name" : "Anti Theft Alarm",
+"url" : "https://play.google.com/store/apps/details?id=mmapps.mobile.anti.theft.alarm",
+"package" : "mmapps.mobile.anti.theft.alarm",
+"category" : "Tools",
+"description" : "Do you worry when you leave your phone unattended in public places? Try our app!  Anti-Theft Alarm will keep your phone safe from nosy people and thieves. Someone moves the phone or disconnects it from the charger? The alarm will sound loudly and you will be immediately aware! And only you can turn off the alarm using personal PIN-code or unlock pattern.  With Anti-Theft Alarm, your phone will not be stolen or used without your permission. If anyone dares to to touch it youll catch them red-handed!  Anti-Theft Alarm features:  Motion sensor-activated alarm  Charger disconnect alarm  PIN-code or unlock pattern to stop the alarm  Choose from preset or custom alarm sounds  Simple and easy-to-use interface  We speak your language! The app is available in English, Espaol, Franais, Italiano, Portugus, P,  ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.PREVENT_POWER_KEY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_PHONE_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.PREVENT_POWER_KEY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+}

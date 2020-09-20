@@ -1,0 +1,11 @@
+{
+"name" : "Calculator - Tax, VAT, GST and Sales",
+"url" : "https://play.google.com/store/apps/details?id=com.bishinew.calctaxvatgst",
+"package" : "com.bishinew.calctaxvatgst",
+"category" : "Tools",
+"description" : "Calcuate Tax, VAT, GST or Sales Discount with this simple and easy to use app. User simply enters the number and click percentage button. No learning and instruction are needed.   Main Features  - Calculate Tax, VAT or GST. - Calculate Sales Discount. - Regular Calculation with plus, minus, multiplication and division  - Calculation is displayed in a list view. - Tax, VAT or GST values can be pre-defined. - Discount values can be pre-defined. - Calculation history can be saved. - Calculator supports light or dark background.  Examples  1. Price is $100 with tax rate of 5%  Enter price 100 and click +5%:  100+5%=105.00  2. Price is $100 with 12% discount and 5% tax 100-12%=88.00 88.00+5%=92.40  3. Price is $100 with 12% discount plus additional 5% discount and 5% tax 100-12%=88.00 88.00-5%=83.60 83.60+5%=87.78   This app doesnt display ads. All features are free. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

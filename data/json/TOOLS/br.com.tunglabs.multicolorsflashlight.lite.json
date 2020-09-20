@@ -1,0 +1,11 @@
+{
+"name" : "Multi-Color Flashlight",
+"url" : "https://play.google.com/store/apps/details?id=br.com.tunglabs.multicolorsflashlight.lite",
+"package" : "br.com.tunglabs.multicolorsflashlight.lite",
+"category" : "Tools",
+"description" : "Totally eliminate your stress and play with the colors and their environments become fascinating with this application.  There are more than 256 shades of colors to highlight your environment and impress your friends.  Download the application and rate.  Any suggestion is welcome. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Pocket IoT",
+"url" : "https://play.google.com/store/apps/details?id=com.buzsikdev.pocketiot",
+"package" : "com.buzsikdev.pocketiot",
+"category" : "Tools",
+"description" : "Pocket IoT lets you easily follow your Thingspeak channels with your android device.  Visit your Thingspeak channels page and look for your Channel ID. Enter that to the app and click to Add channel. If your channel is set to be private you need to generate a read api key and write it to the app. And youre done! After that you can monitor your IoT devices with your phone or tablet. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Concrete Calculator Free",
+"url" : "https://play.google.com/store/apps/details?id=com.snappyappz.concrete",
+"package" : "com.snappyappz.concrete",
+"category" : "Tools",
+"description" : "Estimate your concrete materials quickly and accurately with Concrete Calc. Whether youre a home owner pouring a pad for a shed or a professional pouring multiple large construction projects, this app will quickly estimate your required materials, labor and cost. This full featured app includes the following features;  - manage an unlimited number of jobs each with unique estimate sheets and calculations - calculate materials and labour complete with markup and taxes for concrete and block installations - support for imperial and metric units - includes full function construction calculator and conversion app - enter multiple areas at once to create complex compound objects - calculate using several different volume sizes for nearly any shape - email results with a single button press - all values are saved on exit of app - easy number entry with calculator style keypad - supports yard, foot, inch, fractional inch, meter, centimeter, and millimeter - help text included for all aspects of application ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Service Report",
+"url" : "https://play.google.com/store/apps/details?id=com.servico.relatorios",
+"package" : "com.servico.relatorios",
+"category" : "Tools",
+"description" : "A fast and functional tool for Jehovahs Witnesses, JW, to record and report the time spent in the field ministry. Its designed to be the more simple and user-friendly possible.  The installation file is only 630 kb (once installed, the app size depends on device), preventing eat up space or drain your battery.  Light and fast, the application offers all the essential features:  send report via SMS, email or third party app like whatsapp  use a stopwatch   set monthly or yearly goals for pioneers  LDC time (available in the settings)  automatically count the exact number of bible studies  round (up or down) the hours at the end of month  works totally offline, no internet connection needed  Currently, the app is available in 25 languages. I want to thank all the friendly brothers that contributed for the app or for the translation. And I especially thank Jehovah that qualify me for this work.  If someone wants to improve a translation, please email me.  ***********  About permissions: - android.permission.READ_CONTACTS This permission is only used for setting the email or sms receiver for sending report .  - android.permission.WRITE_EXTERNAL_STORAGE This permission allows data backup.  JW. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.SEND_SMS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_CONTACTS', 'android.permission.FOREGROUND_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.RECEIVE_BOOT_COMPLETED']" 
+"extra_perms" : "['android.permission.READ_CONTACTS']",
+}

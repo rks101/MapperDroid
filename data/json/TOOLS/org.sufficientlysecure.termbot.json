@@ -1,0 +1,11 @@
+{
+"name" : "TermBot - SSH with YubiKey, Nitrokey, OpenPGP card",
+"url" : "https://play.google.com/store/apps/details?id=org.sufficientlysecure.termbot",
+"package" : "org.sufficientlysecure.termbot",
+"category" : "Tools",
+"description" : "TermBot is an SSH client that supports authentication with YubiKeys, Nitrokeys and other OpenPGP cards over NFC and USB.  For this it uses the COTECH Hardware Security SDK available at https://hwsecurity.dev  COTECH is a company founded by the main developers of OpenKeychain.  Supported hardware: NFC: - Cotech Card - Fidesmo Card - YubiKey NEO - YubiKey 5 NFC  USB: - Nitrokey Start, Pro, Storage (with adapter) - YubiKey 4, 4 Nano, 5, 5 Nano (with adapter) - YubiKey 4C, 4C Nano, 5C, 5C Nano (directly over USB-C) - Gnuk (with adapter) - Secalot (with adapter)  TermBot is based on ConnectBot. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.NFC', 'android.permission.WAKE_LOCK', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.NFC', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

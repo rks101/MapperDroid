@@ -1,0 +1,11 @@
+{
+"name" : "Detector de GemidÃ£o",
+"url" : "https://play.google.com/store/apps/details?id=com.brunopiovan.GemidaoDetector",
+"package" : "com.brunopiovan.GemidaoDetector",
+"category" : "Tools",
+"description" : "Quem nunca passou vergonha com o gemido do WhatsApp?  Este app ajuda voc a saber se o udio ou video que te mandaram tem o gemido!  Basta voc compartilhar o arquivo do app que recebeu, o WhatsApp por exemplo, e escolher Detectar Gemido! Who has never been ashamed of WhatsApps whining?  This app helps you to know if the audio or video that sent you has the whining!  Just share the app file you received, WhatsApp for example, and choose Detect Gemido! ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

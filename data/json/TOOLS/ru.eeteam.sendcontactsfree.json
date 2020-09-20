@@ -1,0 +1,11 @@
+{
+"name" : "Share Contacts",
+"url" : "https://play.google.com/store/apps/details?id=ru.eeteam.sendcontactsfree",
+"package" : "ru.eeteam.sendcontactsfree",
+"category" : "Tools",
+"description" : "Welcome to Share Contacts!  Share Contacts app allows you to send information about your contacts as text by SMS, e-mail or any other application that can send text. Just choose contacts, then choose what contact information you want to share, and send it!  No more problems with sending contacts, use Share Contacts app! ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.SEND_SMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_CONTACTS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Network Scanner",
+"url" : "https://play.google.com/store/apps/details?id=com.myprog.netscan",
+"package" : "com.myprog.netscan",
+"category" : "Tools",
+"description" : "The program displays the IP and MAC addresses, the names of the hosts on the your local network. Also there is a built-in port scanner (tcp) and small auxiliary tools.  Key features: -Check hosts over a range of possible addresses in the network. -Function Vendor by mac lookup displays network equipment manufacturer. -Getting IP, MAC addresses and host names can be copied to the clipboard. -You Can specify a range of port numbers, scanned port scanner. -Port scanner recognizes all registered services. -Smart scanning function of the scanner port (scan only registered ports). ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permisssion.ACCESS_COARSE_LOCATION', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.READ_INTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET_ACCESS', 'android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permisssion.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_INTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET_ACCESS']",
+}

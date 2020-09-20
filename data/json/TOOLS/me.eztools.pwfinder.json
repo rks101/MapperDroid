@@ -1,0 +1,11 @@
+{
+"name" : "Vault Password Recovery",
+"url" : "https://play.google.com/store/apps/details?id=me.eztools.pwfinder",
+"package" : "me.eztools.pwfinder",
+"category" : "Tools",
+"description" : "Many users send us Email because they forget their password and dont set any recovery Email, so we provide a tools to recovery your password.  Important: This tool will not decrypt the password directly, we needs confirm that you are the owner of the phone.   1. Chrome install is needed 2. Open chrome with incognito mode. 3. Enter url https://vault-code-reset.appspot.com/ and login with the same google account on your android phone. 4. open the app and wait 24 hours. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS']",
+}

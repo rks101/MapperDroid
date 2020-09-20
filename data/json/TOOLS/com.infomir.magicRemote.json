@@ -1,0 +1,11 @@
+{
+"name" : "MAGic Remote",
+"url" : "https://play.google.com/store/apps/details?id=com.infomir.magicRemote",
+"package" : "com.infomir.magicRemote",
+"category" : "Tools",
+"description" : "You dont need to look for your remote control to switch the channel anymore!  Control your set-top box of MAG series by single tap on your Android device.  There are several buttons layouts for better usability. And Internet surfing fans and social network users will profit the full-size keyboard and touchpad.  To begin, connect your STB and Android device to the same Wi-Fi network. Ensure that the remote control option of your set-top box is turned on. (Setting->System settings->Remote control). Compatible with: MAG245 MAG245D MAG250 MAG254 MAG255 MAG270 MAG275 MAG260  The App works with Android 4.0 (All versions).  This app doesnt run on ANDROID 5 AND/OR ART VIRTUAL MACHINE now, we are working on this problem. ",
+"desc_perms" : "['android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

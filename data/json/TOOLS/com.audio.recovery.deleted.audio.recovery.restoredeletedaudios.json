@@ -1,0 +1,11 @@
+{
+"name" : "Deleted Audio Recovery - Recover Deleted Audios",
+"url" : "https://play.google.com/store/apps/details?id=com.audio.recovery.deleted.audio.recovery.restoredeletedaudios",
+"package" : "com.audio.recovery.deleted.audio.recovery.restoredeletedaudios",
+"category" : "Tools",
+"description" : "Deleted Audio Recovery - Recover Deleted Audios help you easily recover deleted audios from your phone storage.   if you have lost any audios which are very important, Deleted Audio Recovery - Recover Deleted Audios can help you find them.  if you think it is very difficulty to find best Audio recovery app to restore Deleted Audios, Deleted Audio Recovery - Recover Deleted Audios can help you.  Just one click, All deleted Audios you seleted will be restored to your phone storage.   Deleted Audio Recovery - Recover Deleted Audios is a Useful Audio Recovery tool which can find and recover deleted audios.    Features: - Restore Audios from your phone storage  - Quickly recover deleted audios - Nice UI Design, Fast and Easy to use.  Note Deleted Audio Recovery - Recover Deleted Audios may show some audios even if they are not deleted yet. Just keep looking and you will find deleted audios you are looking for. ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

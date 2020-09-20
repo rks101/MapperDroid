@@ -1,0 +1,11 @@
+{
+"name" : "Nebulo - DNS Changer for DNS over HTTPS/TLS",
+"url" : "https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen",
+"package" : "com.frostnerd.smokescreen",
+"category" : "Tools",
+"description" : "When navigating to a website known by its name, say example.com, your device ask specific servers - DNS servers - how to address the website. DNS is an old protocol which, except for smaller changes, hasnt been touched since its creation in 1987. Naturally the Internet changed a lot in this time, rendering the protocol outdated in some of its core aspects.  This app tackles one of the bigger problems with DNS: Encryption. Whilst nearly all traffic on the Internet is encrypted now, DNS requests (i.e. questions for a names address) and the response arent. This enables attackers to intercept, read and modify your requests.  Nebulo is a DNS changer which implements DNS-over-HTTPs and DNS-over-TLS to safely send your DNS requests to the target server. This way only you and the DNS server are able to read the requests you are sending.   Core features: - Configure the app once and then forget about it. After initial configuration it works fully autonomous - No ads and no tracking - Custom servers can be used - Low battery consumption  This app is open source. The source code can be accessed from within the app. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INSTALL_SHORTCUT', 'android.permission.VIBRATE', 'android.permission.INTERNET', 'android.permission.USE_BIOMETRIC']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.INSTALL_SHORTCUT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

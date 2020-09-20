@@ -1,0 +1,11 @@
+{
+"name" : "Antivirus Android",
+"url" : "https://play.google.com/store/apps/details?id=com.atvcleaner",
+"package" : "com.atvcleaner",
+"category" : "Tools",
+"description" : " Effective and Lightweight security solution for Android phones, against dangerous threats - Completely Free!   Highlights:    Super fast algorithm enables rapid scanning and in-depth virus detection.   Effective memory and power usage. Your device will work faster while staying safe.   Suitable for any device and easy-to-use.  Features:   Smart and simple scanning flow, which takes only a couple seconds to finish.   Advanced virus scan scheduler watches for your device 24/7 protection.   Thoroughly scan your SD card to find and remove any potential threats and viruses ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.REQUEST_DELETE_PACKAGES', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.KILL_BACKGROUND_PROCESSES']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.REQUEST_DELETE_PACKAGES', 'android.permission.INTERNET', 'android.permission.KILL_BACKGROUND_PROCESSES']",
+}

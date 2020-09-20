@@ -1,0 +1,11 @@
+{
+"name" : "Mizo Keyboard LITE",
+"url" : "https://play.google.com/store/apps/details?id=mizo.keyboard.lite",
+"package" : "mizo.keyboard.lite",
+"category" : "Tools",
+"description" : "He keyboard in a tum ber chu English QWERTY keyboard nena thlk tawn (switch) ngai lova Mizo hawrawp   chhut tel theih a ni. Hei bkah hian Indian Rupee Sign thar (  ) leh hlui (  ) dah a ni bawk. He keyboard hi package t thei ang ber tura duan anih avangin settings chi hrang hrang auto-suggestion/prediction, voice input, user dictionary te a awm ve lo.  Note: Key engpawh kha hmet reng (longpress) la, option a neih chuan a lo lang mai ang. Entirnan, Enter key hmeh reng chuan smiley a lo lang ang. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.VIBRATE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

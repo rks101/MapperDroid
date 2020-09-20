@@ -1,0 +1,11 @@
+{
+"name" : "Linear Interpolation Master",
+"url" : "https://play.google.com/store/apps/details?id=au.com.vervetech.interpolationguru",
+"package" : "au.com.vervetech.interpolationguru",
+"category" : "Tools",
+"description" : "Linear interpolation, or linear extrapolation, has many applications and is a simple mathematical calculation that can be performed manually but it is easier and less error prone to use a dedicated linear interpolation calculator.   Linear Interpolation Master is a linear interpolation calculator designed with industrial commissioning engineers in mind that often want to scale a 4-20 mA electrical signal to a process variable over a specific range, for example a tank level over 0100 %, or vice-versa. But Linear Interpolation Master can be used for any purpose and can also be used to perform a linear extrapolation calculation.   ------------------ Features ------------------   Displays the linear interpolation inputs and the linear interpolation result as large numbers for when you are out in the field commissioning so you can see linear interpolation inputs and the linear interpolation result in all light conditions.   Allows quickly swapping x and y linear interpolation inputs; for example from 4-20 mA -> 0-100 % to 0-100 % -> 4-20 mA.   Allows clearing an individual x or y linear interpolation input with a single touch, or clearing all x and y linear interpolation inputs with a single touch.   Allows copying the linear interpolation result to the clipboard for use in other apps. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

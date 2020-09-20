@@ -1,0 +1,11 @@
+{
+"name" : "LT Imprint",
+"url" : "https://play.google.com/store/apps/details?id=com.limetray.printerservice",
+"package" : "com.limetray.printerservice",
+"category" : "Tools",
+"description" : "LT Imprint is a utility for LimeTray WebPOS users to print receipts and kitchen order tickets directly from their Android enabled smartphone/tablet to ESC/POS printers.  It currently supports the following printers  1. Bluetooth Printers 2. USB Printers 3. Network Printers 4. Shared Printers (requires Printer Service to be installed on Windows / Mac)  LT Imprint runs in the background and receives print requests from LimeTrays WebPOS running in your browser. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH_ADMIN']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET']",
+}

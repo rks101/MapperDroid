@@ -1,0 +1,11 @@
+{
+"name" : "Stereo Photo Explorer",
+"url" : "https://play.google.com/store/apps/details?id=com.blogspot.turbocolor.stereo_explorer",
+"package" : "com.blogspot.turbocolor.stereo_explorer",
+"category" : "Tools",
+"description" : "Viewer for stereo images. Output is anaglyph for color glasses, interlaced horizontal and interlaced vertical for passive 3D screens and screens with reticular lens. Anamorphic horizontal and vertical output for casting to any 3D TV. Support cross eyes watching method. Support watching method with perpendicular mirror. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['com.android.vending.CHECK_LICENSE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

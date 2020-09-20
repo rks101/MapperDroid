@@ -1,0 +1,11 @@
+{
+"name" : "Battery Level",
+"url" : "https://play.google.com/store/apps/details?id=com.penzasoft.battery",
+"package" : "com.penzasoft.battery",
+"category" : "Tools",
+"description" : "This is a very simple and small battery level widget for your home screen. It can display battery percentage, temperature and voltage. Also it shows battery usage on click. Background color changes from green to red, depending on the battery level. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

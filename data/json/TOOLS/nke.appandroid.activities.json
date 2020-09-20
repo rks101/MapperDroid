@@ -1,0 +1,11 @@
+{
+"name" : "nke Display",
+"url" : "https://play.google.com/store/apps/details?id=nke.appandroid.activities",
+"package" : "nke.appandroid.activities",
+"category" : "Tools",
+"description" : "nke Display is an application for displaying and recording data from the nke bus on an Android smartphone or tablet. You can choose the data to display to personalize your dashboard. Remote controls grouped together in the Premium functionalities (in-app purchase) allow to control the pilot (auto, stop, +1, -1, +10, -10, change of mode) and to modify the display of the screens (page and ok keys, up - down - left - right block, A - B - C - D shortcuts).  The application was designed and validated with the nke WIFI Box: https://www.nke-marine-electronics.fr/project/box-usb-datalog-wifi/  Based on standard protocols, it is compatible with most NMEA / Wi-Fi interfaces on the market.  Premium features need a nke Box and at least a V2.5 Gyropilot 2. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.CHANGE_WIFI_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'com.android.vending.BILLING', 'com.google.android.wearable.permission.RECEIVE_COMPLICATION_DATA', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'com.google.android.wearable.permission.RECEIVE_COMPLICATION_DATA', 'android.permission.ACCESS_WIFI_STATE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

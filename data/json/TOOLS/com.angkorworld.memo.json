@@ -1,0 +1,11 @@
+{
+"name" : "Simple Notes",
+"url" : "https://play.google.com/store/apps/details?id=com.angkorworld.memo",
+"package" : "com.angkorworld.memo",
+"category" : "Tools",
+"description" : "Simple Notes is a simple and lite weight notepad app that allows you to capture your thought and organize your notes. It gives you a quick and simple notepad editing experience when you write notes, to do list, shopping list, memo. Simple Notes application makes it easy to write notes at anytime & anywhere. Taking notes with Simple Notes is easier than any other notepad or memo pad app.  Simple Notes will help you to write, collect and capture ideas as searchable notes, notebooks, memos and to-do lists. Its the only planner and organizer you need. Simple Notes is the easiest way to keep track of your thoughts and ideas. Its fast, free and lightweight while offering a lot of useful notepad features. Organize your notes into notebooks. its up to you. Notes supports it.  Features: - Organize notes by category (notebook) - Sticky note memo widget (put your notes on your home screen) - Secured backup notes to external storage - Search notes - Quick memo / notes - Share notes via SMS, e-mail or Twitter  Be more productive with this beautifully simple note-taking app. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

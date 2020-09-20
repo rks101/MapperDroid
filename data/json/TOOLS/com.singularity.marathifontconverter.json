@@ -1,0 +1,11 @@
+{
+"name" : "Marathi Hindi Font Converter  - Shree Kruti AMS",
+"url" : "https://play.google.com/store/apps/details?id=com.singularity.marathifontconverter",
+"package" : "com.singularity.marathifontconverter",
+"category" : "Tools",
+"description" : "Marathi Font Converter is All in one Font converter for Marathi and Hindi Unicode text.   Marathi Font Converter Allow you convert Marathi Unicode or Hindi Unicode text to following fonts transcript.  - Convert Unicode text To Shree Lipi / Shree Dev text font. - Convert Unicode text to Kruti Dev font text. - Convert Unicode text to ASM India font text - Convert Unicode text to DV-TTYogesh font text - Convert Unicode text to DV-TT Surekh font text - Convert Unicode text to Shivaji font text  As Mangal is Unicode font used to type in Marathi and Hindi so this app helps to convert Mangal font marathi/hindi text into Shree Dev, Kruti Dev and India Font ASM Calligraphy fonts.  This app also allows you to post your creative design such as Background Designs , Banner Designs, PNG Assets, Trending text messages and many more... Just upload your assets and become famous.   This app provide easy functionality such as:-  - Easy Paste. - Easy Edit. - Easy Convert. - Easy Copy. - Easy Share. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.singularity.marathifontconverter.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Time Calculator - Hours Work & Time Between",
+"url" : "https://play.google.com/store/apps/details?id=awesomedev.time_calculator",
+"package" : "awesomedev.time_calculator",
+"category" : "Tools",
+"description" : " Time Calculator app makes calculations of time simple and fast. You can get duration in hours, minutes, and seconds between two times or add/subtract a number of hours, minutes, or seconds from a time. It supports both 12-hour and 24-hour time format.    Calculators supported by the Time Calculator app:  - Simple Calculator - Age Calculator - Date Calculator - Week Number Calculator - Percentage Calculator - Tip Calculator - Unit Converter ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

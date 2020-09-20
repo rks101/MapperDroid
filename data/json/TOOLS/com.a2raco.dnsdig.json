@@ -1,0 +1,11 @@
+{
+"name" : "DNSDig - DNS lookup online",
+"url" : "https://play.google.com/store/apps/details?id=com.a2raco.dnsdig",
+"package" : "com.a2raco.dnsdig",
+"category" : "Tools",
+"description" : "DNSDig is a utility similar to UNIX dig or windows nslookup. You can query any DNS server from your server list to any DNS record. Choose DNS server from DNS server tab, enter host name or IP address and query server for records. Add servers you wish to list and DNSDig will save it across the sessions. DNSDig saves last queries so you can use autocomplete feature while entering host name. DNSDig also supports reverse DNS queries. You can share retrieved record as text to e-mail, messenger or other application. Also you can copy query result to clipboard. Let sysadmin tools will never be ugly again.  > add any DNS server you need to your list > autocomplete feature will help you never type hostname again > read dns records easy > copy record to clipboard or share to other application   Enjoy! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

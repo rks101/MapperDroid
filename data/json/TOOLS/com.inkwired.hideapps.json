@@ -1,0 +1,11 @@
+{
+"name" : "Disable Bloatware - Hide Apps",
+"url" : "https://play.google.com/store/apps/details?id=com.inkwired.hideapps",
+"package" : "com.inkwired.hideapps",
+"category" : "Tools",
+"description" : "App Features:   Easy to use interface.  Swipe-able tabs which list hide-able and hidden apps.  Disable/enable pre-installed apps.  Multi-select mode to disable selected apps one-by-one.  Share Apps with your Friends.  View selected apps on the Play Store.   Want to hide pre-loaded apps or bloatware that came with your phone, this is the App for you. HideApps helps you find and hide system apps or pre-loaded apps. These include apps that your carrier might have installed or system apps that you dont use. Since system apps cannot be uninstalled without rooting your phone, theres a simpler solution. Using our App you can find all the apps that are hide-able, you can disable them which will hide them from your app-drawer and also prevent them from running in the background, saving valuable system resources. Its like removing pre-installed and system apps, they will just occupy the space they were installed in but wont use any RAM, data or cache.  Ad-free Pro version also available for $0.99 with the same features but without ads, buy that to support development.  Note: 1. Only system apps or pre-installed apps can be disabled, the app installed through the Play Store cannot be disabled, if you dont use them just uninstall them. 2. Please send us a mail at contactus@inkwired.com before writing a bad review, as a bad review, even a 3 star rating does not help anyone, but if you tell us the issue you are facing we can easily fix it. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.GET_PACKAGE_SIZE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.SYSTEM_ALERT_WINDOW']",
+}

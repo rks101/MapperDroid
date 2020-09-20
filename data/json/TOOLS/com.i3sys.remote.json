@@ -1,0 +1,11 @@
+{
+"name" : "i3sys Remote",
+"url" : "https://play.google.com/store/apps/details?id=com.i3sys.remote",
+"package" : "com.i3sys.remote",
+"category" : "Tools",
+"description" : "Control i3sys automotive emission test equipments EPM1601, EDM1601, EPM1602, EDM1602 and ECM1601 using your smartphone.  Features: + View equipment display in your phone screen + Interact with the equipment on your phone touchscreen  For more details, please contact info@i3sys.com ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.BLUETOOTH_ADMIN']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

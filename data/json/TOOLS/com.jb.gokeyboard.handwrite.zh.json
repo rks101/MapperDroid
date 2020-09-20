@@ -1,0 +1,11 @@
+{
+"name" : "Chinese Handwriting Keyboard",
+"url" : "https://play.google.com/store/apps/details?id=com.jb.gokeyboard.handwrite.zh",
+"package" : "com.jb.gokeyboard.handwrite.zh",
+"category" : "Tools",
+"description" : "Are you tired of typing in Chinese by taping keys?  Do you want to learn Chinese by writing them in real life? Simply handwrite Chinese each character (both traditional or simplified) and it will recognize it for you in less than one second. Its recognition rate and accuracy is almost prefect.  Features of Handwriting Functions: * Make input Chinese characters easy by enabling hand writing mode on the writing board * The handwriting now only supports traditional and simplified Chinese * Hand writing function automatically identifies both simplified Chinese and traditional Chinese * High and fast recognition rate.  HOW TO USE 1. It uses GO Keyboard, you should have GO Keyboard installed to use it; Click here to redirect to the app which has 10000+ colorful themes available and 800+ emoji free to use. 2. After downloading the GO Keyboard and this plugin, please click open the GO Keyboard icon to access the setting page -> Languages -> Check the box  (which means Chinese(Handwriting)) 3. Launch the keyboard to type -> long press on one of the two shortcuts next to language setting button in toolbar right above keyboard -> Select the pencil icon -> Click on the pencil shortcut again to bring up the writing board Make sure you follow all the steps to access this feature.  Give us a five star if you like us. If you have problems, recommendations, please email us or report on our Facebook page. We will deal with it together.  Email:goforkeyboard@gmail.com  Follow us on Facebook: http://goo.gl/kLxbSl  Use of this app is governed by our Terms of Service: http://www.goforandroid.com/en/term-of-service.html Privacy Policy: http://www.goforandroid.com/en/privacy-policy.html ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']",
+}

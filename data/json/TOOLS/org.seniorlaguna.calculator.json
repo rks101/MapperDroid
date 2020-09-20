@@ -1,0 +1,11 @@
+{
+"name" : "Calculator",
+"url" : "https://play.google.com/store/apps/details?id=org.seniorlaguna.calculator",
+"package" : "org.seniorlaguna.calculator",
+"category" : "Tools",
+"description" : "A Simple But Configurable And Precise Android Calculator. Maybe you know the situation. You want to calculate something but you have to notice that the result is to big to show it correctly. This time is over. With Calculator you can decide how many decimal places you want to see and how precise the result has to be.  Features:  - basic arithmetic operation: addition, subtraction, division, multiplication - advanced arithmetic operations: powers, root calculus, faculty - scientific mode: trigonometric, logarithmic functions - Calculating with negative numbers - Natural constants: PI, e - Save calculation paths and results in a history - Supported languages: German and English - individually configurable   This app is and will be for free and ad free. The Senior Laguna team is looking forward to hear your opinion to improve this app! ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

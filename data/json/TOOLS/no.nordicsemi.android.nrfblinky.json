@@ -1,0 +1,11 @@
+{
+"name" : "nRF Blinky",
+"url" : "https://play.google.com/store/apps/details?id=no.nordicsemi.android.nrfblinky",
+"package" : "no.nordicsemi.android.nrfblinky",
+"category" : "Tools",
+"description" : "nRF Blinky is an application developed targeting an audience of developers who are new to Bluetooth Low Energy. This is a simple application with two basic features. - Scan and connect to any nRF5 DK containing the Nordic Semiconductors proprietary LED Button Service. - Turn on/off LED 1 on the nRF DK - Receive Button 1 press event from a nRF DK on the nRF Blinky Application.  The source code for this application is available on GitHub on the following link:  https://github.com/NordicSemiconductor/Android-nRF-Blinky  Note: - Android 4.3 or newer is required. - In order to scan for Bluetooth LE device the Location permission must be granted and, on some phones, the Location must be enabled. This app will not use the location information in any way. ",
+"desc_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH_ADMIN', 'no.nordicsemi.android.LOG', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'no.nordicsemi.android.LOG']",
+}

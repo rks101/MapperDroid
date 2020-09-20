@@ -1,0 +1,11 @@
+{
+"name" : "TOTP Authenticator Basic",
+"url" : "https://play.google.com/store/apps/details?id=com.authenticator.authservice",
+"package" : "com.authenticator.authservice",
+"category" : "Tools",
+"description" : "We have rolled out a new and better version of this App and can be downloaded from https://play.google.com/store/apps/details?id=com.authenticator.authservice2  This is a handy TOTP (Time-based One-time Password) based authenticator application which is used to authenticate into various websites which offer Two-Step Authentication.  Some of the supported websites are as below: * Google * Amazon Web Services * Dropbox * Facebook * Salesforce * Teamviewer * Tumblr * Microsoft Account * Github * Evernote * LastPass and many more...  Steps to use:  Scan the barcode provided by a website which offers two-factor authentication (like the above-mentioned websites) OR Enter the key manually (given by the website), email id (your email id), Issuer (Google, Amazon etc.)  Then, the password will be generated automatically for you. Simple! You can then enter the password in the website to successfully access it. :)  Special Features: * Generates codes even in aeroplane mode! * Support for multiple accounts.  This app is no longer actively maintained. Kindly use the TOTP Authenticator version available on the store for a better experience.  Please contact us for any queries/feedbacks. ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.CAMERA']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE']",
+}

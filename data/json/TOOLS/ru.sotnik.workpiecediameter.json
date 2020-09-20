@@ -1,0 +1,11 @@
+{
+"name" : "Diameter of the workpiece",
+"url" : "https://play.google.com/store/apps/details?id=ru.sotnik.workpiecediameter",
+"package" : "ru.sotnik.workpiecediameter",
+"category" : "Tools",
+"description" : "It will help you calculate the required diameter of the workpiece out of the circle for making a square or hexagon. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

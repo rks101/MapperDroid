@@ -1,0 +1,11 @@
+{
+"name" : "Bowers & Wilkins Headphones",
+"url" : "https://play.google.com/store/apps/details?id=com.bowers_wilkins.headphones.v2",
+"package" : "com.bowers_wilkins.headphones.v2",
+"category" : "Tools",
+"description" : "Bowers & Wilkins Headphones is the companion app for Bowers & Wilkins PX7, PX5, PI4, and PI3 headphones, with support for PX. Customize the features and settings of your wireless headphones to ensure the best listening experience possible.   - Customize and control the features of your headphones. - Easily manage headphone connections from a single screen. - Quickly access product info and support. - Keep your headphones software up-to-date. - Tailor settings for an optimal listening experience.   Compatible Wireless Headphones: PX7 PX5 PI4 PI3 PX ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.BLUETOOTH_ADMIN']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH_ADMIN']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

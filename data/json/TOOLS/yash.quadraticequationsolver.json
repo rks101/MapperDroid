@@ -1,0 +1,11 @@
+{
+"name" : "Quadratic ES",
+"url" : "https://play.google.com/store/apps/details?id=yash.quadraticequationsolver",
+"package" : "yash.quadraticequationsolver",
+"category" : "Tools",
+"description" : "Are you finding a way to cross check your Quadratic Equation roots? Or are having a tough time doing the complicated math? Look no further! Quadratic ES (Equation Solver) is the right app for you. Its fast, accurate and beautiful. Find out the roots of any Quadratic Equation just by entering the respective co-efficients. Supports Android 4.0.3 and up. Optimized for Android Marshmallow. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

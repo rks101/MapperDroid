@@ -1,0 +1,11 @@
+{
+"name" : "Compass",
+"url" : "https://play.google.com/store/apps/details?id=com.maruar.compass",
+"package" : "com.maruar.compass",
+"category" : "Tools",
+"description" : "With Maru Compass, you can easily find azimuth while outdoor activities, mountaineering and trekking activities. If you use it like a map, it will help you find your way like navigation.  Maru Compass is smart and professional free compass indicating various accurate information. Also, Maru Compass shows the position of the sun. And Maru Compass is supporting Augmented Reality.  You can find a sun path also. Sun finder is also possible.   Maru Compass has main features below.  1. Compass on camera preview is provided.  2. Compass on Google Map view is provided.  3. Compass with dual mode view is provided.  4. True north mode and magnetic north mode is provided  5. GPS, azimuth, roll, pitch, altitude, latitude, longitude, magnetic field information is provided  6. Suns position, Sunrise time, Sunset time is provided.  7. Augmented Reality view is provided. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'com.android.vending.CHECK_LICENSE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

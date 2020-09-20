@@ -1,0 +1,11 @@
+{
+"name" : "DUI SFST Pocket Guide Free",
+"url" : "https://play.google.com/store/apps/details?id=appinventor.ai_mpiacenza.DUI_SFST_Guide",
+"package" : "appinventor.ai_mpiacenza.DUI_SFST_Guide",
+"category" : "Tools",
+"description" : "This is a beta version of DUI SFST Pocket Guide Free. This app will be free and ad free for use by Police Officers who investigate DUIs/DWIs using Standardized Field Sobriety Testing. This app has the following screens: Subject Information, Vehicle In Motion Cues, Personal Contact Cues, Horizontal Gaze Nystagmus Score Sheet, Walk and Turn Score Sheet, One Leg Stand Score Sheet, Finger To nose Score Sheet, all with instructions. There is also Implied Consent (Florida Only for now). All SFSTs are based and score on NHTSA standards. We are looking for feedback. Send us an email if you have any suggestions, comments, or bug reports.  Features: Can store up to 10 cases Stores your case on Back, Exit, and Pressing Back Button Finger Friendly More to come.......... ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.VIBRATE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.SEND_SMS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.SEND_SMS', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

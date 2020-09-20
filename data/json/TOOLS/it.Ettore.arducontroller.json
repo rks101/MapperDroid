@@ -1,0 +1,11 @@
+{
+"name" : "ArduController",
+"url" : "https://play.google.com/store/apps/details?id=it.Ettore.arducontroller",
+"package" : "it.Ettore.arducontroller",
+"category" : "Tools",
+"description" : "ArduController can handle the electronic board Arduino, sending data to activate digital outputs or receiving data on the status of digital and analog inputs.  Connections: Ethernet/Wifi or Bluetooth  Widgets: Switch, push button, PWM, pin state, raw data, DHT, DS18B20, LM35, custom (you can customize the widget according to your needs).  The application also includes a set of connection schemes.  Download and install the ArduController library into your IDE, then load this sketch and use the ArduController app! Library and examples: https://www.gallinaettore.com/android_apps/arducontroller/examples/  Tested with: Arduino Uno, Arduino Mega 2560, Arduino Leonardo + Ethernet Shield + Bluetooth HC-06   ************************  Kindly dont use the Evaluation System for reporting bugs. Instead, please contact me directly.  App multilanguage: English, French, German, Italian, Persian, Polish, Portuguese, Russian, Spanish, Vietnamese  Full translators list: https://www.gallinaettore.com/android_apps/arducontroller/#languages ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.BLUETOOTH_ADMIN', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

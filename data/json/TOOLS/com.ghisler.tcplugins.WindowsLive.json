@@ -1,0 +1,11 @@
+{
+"name" : "Totalcmd Plugin for OneDrive",
+"url" : "https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.WindowsLive",
+"package" : "com.ghisler.tcplugins.WindowsLive",
+"category" : "Tools",
+"description" : "This is a Plugin for Total Commander for Android! It does not work standalone!  Do NOT install if you do not use Total Commander!  This plugin allows to access your Windows Live OneDrive cloud drive accounts from Total Commander. It requires Android 2.2 or newer due to the used Microsoft libraries. You will also need a Windows Live account to access OneDrive. Multiple accounts are supported. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Just Sign : Create your signature",
+"url" : "https://play.google.com/store/apps/details?id=com.glykka.sign.pdf.justsign",
+"package" : "com.glykka.sign.pdf.justsign",
+"category" : "Tools",
+"description" : "Use Just Sign to create beautiful hand-drawn signatures on your smartphones. With Just Sign, you could simply draw on the canvas and save it to your gallery or share it across email and other apps.   Your signatures are saved in both .png and .jpeg formats giving you, the user all the flexibility to choose from.   Permissions Required: External Storage  Access to external storage is used to save your signatures. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

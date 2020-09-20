@@ -1,0 +1,11 @@
+{
+"name" : "SMWidgets",
+"url" : "https://play.google.com/store/apps/details?id=os.tools.smwidgets",
+"package" : "os.tools.smwidgets",
+"category" : "Tools",
+"description" : "Add on for creating more Desktop Widgets and Shortcuts for Script Manager.  Widgets: *Add one script widget.  Shortcuts: *Add one script shortcut. Similar one script widget  *Add multi script shortcut. Allow select one script between scripts inside created shortcut.  *Add folder shortcut Launch SManager directly in selected directory.  *Add Terminal shortcut. Launch SMConsole in HOME directory. No ads version allows select start directory. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "ConsoTracker - track everything everywhere",
+"url" : "https://play.google.com/store/apps/details?id=com.jonathanantoine.ConsoTracker",
+"package" : "com.jonathanantoine.ConsoTracker",
+"category" : "Tools",
+"description" : "ConsoTracker helps you to keep track of your usages: electricity, gas, water, weight or anything you can measure.  Main features : - EASY tracking of values, - elegant DESIGN, - CHARTS displaying the evolution of your data, - MACROSCOPIC view of your tracker, - Simple of double values trackers.  Let me know if you want a new feature in the app! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+}

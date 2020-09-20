@@ -1,0 +1,11 @@
+{
+"name" : "Free VPN by FireVPN",
+"url" : "https://play.google.com/store/apps/details?id=com.firevpn.vpn",
+"package" : "com.firevpn.vpn",
+"category" : "Tools",
+"description" : "Browse the Internet freely and without restrictions and change your address to the country of your choice ---- Do you need a free virtual internet fast special! (VPN) that can hide your address by bypassing a firewall hotspot at work or school, also get secure access? Well here is FireVPN  Advantages : - Simple one-click VPN - List of countries around the world to choose from which we test and update every 20 minutes! - No need to login or register - Hosted by volunteers from around the world by the VPN Gate Project - Fast fast fast - No configuration or root required! - Free of charge $ Free of charge $ - Secure and protected access   why ? - Use the free internet or Wi-Fi hotel in a safe way - Overcoming a restrictive network at work or school - Netflix access and streaming - Use a virtual private network (or VPN) to secure your traffic    If the connection is not working properly Switch to another country and try again    Licenses  * VPN Gate Project *OpenVPN by OpenVPN for Android project by Arne Schwabe ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.c2dm.permission.RECEIVE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE']",
+}

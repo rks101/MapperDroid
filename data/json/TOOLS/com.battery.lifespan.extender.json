@@ -1,0 +1,11 @@
+{
+"name" : "Battery Lifespan Extender",
+"url" : "https://play.google.com/store/apps/details?id=com.battery.lifespan.extender",
+"package" : "com.battery.lifespan.extender",
+"category" : "Tools",
+"description" : "Battery Lifespan Extender helps you to keep your battery in great condition for a long time  Modern batteries dont like extremes like high or low temperatures, as well as discharging to 0% or charging up to 100% of their capacity. Our app notifies you when your device starts to heat up or get cold to extend your battery life. It also allows you to charge your battery partially to avoid deep discharging and overcharging, and to radically prolong your battery lifespan.  Charging limits Charging up to 100% or deep discharging down to 0% destroys your battery. If you set Max. limit, you will be notified to unplug your device during charging. If you set Min. limit you will be notified to charge your device. Avoiding charging up to 100% or down to 0% radically prolongs your battery lifespan.  Temperature protection Modern batteries dont like extreme temperatures like cold or hot. If you set Max./Min. temperature, you will be notified every-time your battery heats up or gets cold. It will help you to keep your battery in appropriate temperature to prolong its lifespan.  Lifespan prediction According to our tests and battery characteristics from manufacturers we discovered how much the temperature, overcharging and deep discharging can affect your battery lifespan.  Battery info Our app gives you an overview of the battery level and battery temperature over time, as well as real time information about the battery health, voltage and temperature. This information can help you to keep your battery in great condition. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

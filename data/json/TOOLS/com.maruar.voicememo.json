@@ -1,0 +1,11 @@
+{
+"name" : "Speech to text",
+"url" : "https://play.google.com/store/apps/details?id=com.maruar.voicememo",
+"package" : "com.maruar.voicememo",
+"category" : "Tools",
+"description" : "Speech to text is a powerful voice to text app, that provides continuous speech recognition that helps you create long notes, dictations, essays, posts, reports.You can also share your notes using your favorite app (Gmail, twitter, SMS, Viber, Skype, etc).   The possible recognition candidates are presented  This app is good for creating to-do lists and other notes in general.   Speech to text is a simple note app. Create notes hands free.   Features  - Create text notes, email, sms, sns by speech recognition - No limits on the size/length of note created - Custom keyboard supported - Write short or long texts easily - Auto spacing - Auto saving - Share - Edit text ,while dictation ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WAKE_LOCK', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.RECORD_AUDIO', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

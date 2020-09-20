@@ -1,0 +1,11 @@
+{
+"name" : "Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.hiwapps.calculator",
+"package" : "com.hiwapps.calculator",
+"category" : "Tools",
+"description" : "More than a calculator. We produce the most advanced calculator for you. Through this application has all the features that your business can be collected together in an easy way. The best choice for those who want to save time. Scientific calculator gives you much more than necessary. At work, at school, in class, in the laboratory and in your calculation you can make shopping easy. Multi is a program having functional properties. Multi-functional. Android is a free scientific calculator. You can also use the engineering process. You can see the results of operations very quickly. All features are available.  Calculator; - Basic - Advanced - Matrix - Is composed of graphics section.  Features:  - Make all math operations. - Graphics processing feature - Trigonometry, logarithms, integration, sweat trigonometric functions and much more. - Transaction history display, Memory recording. - Advanced settings. - Transparent theme. - Advanced math easy calculation. - Octal, decimal V. S. - Scientific calculator. - The fundamental transformations. - Error correction facility. - 5 consists of different sections. Scientific, graphics, and advanced matrix. - Sleek design. - Table representation. - Display Graphics. - Different modes. - Equation editor. - Making Matrix operations, regulations ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "FireTV renderer plugin for Yatse",
+"url" : "https://play.google.com/store/apps/details?id=tv.yatse.plugin.remoterenderer.firetv",
+"package" : "tv.yatse.plugin.remoterenderer.firetv",
+"category" : "Tools",
+"description" : "This application is a plugin for Yatse, the Kodi Remote.   When this application is installed, you can use your FireTv devices as remote players from Yatse cast/player selection dialog.  Support and documentation  Setup and usage documentation: https://yatse.tv/Wiki  Support: https://yatse.tv/Debug  FAQs: https://yatse.tv/FAQ  Please use website or email for support and feature requests, as comments on Play Store do not allow to gather enough information or contact you back.  Notes  This application does not have a launcher icon.  You need to have purchased the Unlocker to use Yatse cast function.  Internet permission is needed to talk to your devices via the network.  The screenshots contain content  copyright Blender Foundation | sintel.org / elephantsdream.org / bigbuckbunny.org / tearsofsteel.com  All images are used under their respective CC Licenses | http://creativecommons.org  Kodi / XBMC are trademarks of the XBMC Foundation  Except the material attributed above, all posters, still images and titles depicted in our screenshots are fictitious, any similarity to actual movies copyrighted or not, dead or alive, is purely coincidental  No animal was harmed in the making of this app ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.BLUETOOTH', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_WIFI_STATE']",
+}

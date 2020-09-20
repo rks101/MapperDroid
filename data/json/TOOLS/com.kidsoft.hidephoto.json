@@ -1,0 +1,11 @@
+{
+"name" : "Picture Lock",
+"url" : "https://play.google.com/store/apps/details?id=com.kidsoft.hidephoto",
+"package" : "com.kidsoft.hidephoto",
+"category" : "Tools",
+"description" : "Picture Lock hide picture from gallery in your mobile. Do not let others see But you only see and playback video.   Hide Picture from gallery.  Hide video from gallery.  Display photo and play video.  support slide show photos.  Picture Lock can image scaling with pitch to zoom.  Create new photo album by yourself.  Picture Lock can hide other files as well.  Unlock picture or delete it.  Create gif animated from photos.  You can play with or display animated gif in this app.  Restore locked files you lose.  share with other app such as email , bluetooth If you like Picture Lock please rate and review it. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

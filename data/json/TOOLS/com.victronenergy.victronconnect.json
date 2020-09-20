@@ -1,0 +1,11 @@
+{
+"name" : "VictronConnect",
+"url" : "https://play.google.com/store/apps/details?id=com.victronenergy.victronconnect",
+"package" : "com.victronenergy.victronconnect",
+"category" : "Tools",
+"description" : "VictronConnect lets you get live status info and configure Victron products using a VE.Direct Bluetooth Smart dongle or a VE.Direct to USB interface*.   LIVE DATA: Get instant data from your solar charger or battery monitor.  READ HISTORY RECORDS**: Makes it easy to diagnose your installation. With BlueSolar MPPT chargers youll get thirty days history records at one glance.  UPDATE FIRMWARE: Be always up to date. VictronConnect includes the latest firmware versions, when outdated firmware is detected youll be prompted to update. It is also possible to update firmware manually.  DEMO MODE: Select a product from the built-in demo library and discover all the features.  Supported Victron products:  * BMV 70x Battery Monitors  * BlueSolar & SmartSolar MPPT Chargers***  * VE.Direct Phoenix Inverters  * Blue Smart IP22 Chargers  * Blue Smart IP65 Chargers  * Blue Smart IP67 Chargers  * Peak Power Pack  ---- * The phone or tablet has to support USB OTG, check the list with tested devices here: http://www.victronenergy.com/live/victronconnect:start ** Only on products with history support *** BlueSolar 70/15 not supported ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.READ_INTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_INTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH', 'android.permission.READ_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.WRITE_INTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_INTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+}

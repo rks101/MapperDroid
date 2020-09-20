@@ -1,0 +1,11 @@
+{
+"name" : "FunnyShark Vpn",
+"url" : "https://play.google.com/store/apps/details?id=com.bluewhale.funnyshark.vpn",
+"package" : "com.bluewhale.funnyshark.vpn",
+"category" : "Tools",
+"description" : "FunnyShark Vpn fully optimizes network connectivity  Never limit the flow of science online free intelligent global high-speed node Vpn agent   Free: There are 7 high-speed free nodes all over the world (more nodes are added later)!  Simple: One-click VPN over the wall artifact based on SS and SSR protocols.  Fast: Optimize node performance, new connection mode.  Safety: Use new security encryption, feel free to use.  Free Vpn comes hard, Cherish!  Disclaimer: 1. Our software is for scientific research, study, education, and other legal purposes. 2. Any violation of the laws of China and the country where the server is located is strictly prohibited. 3. The use of the Software will be deemed to be an endorsement of the entire contents of this statement.  If you have any questions, comments or suggestions during use, please send an email to BlueWhaleVpn@Gmail.Com and we will contact   you as soon as possible.  Thank you for using! ! ! ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'com.bluewhale.funnyshark.vpn.SERVICE', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['com.bluewhale.funnyshark.vpn.SERVICE']",
+}

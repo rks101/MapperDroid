@@ -1,0 +1,11 @@
+{
+"name" : "IP Network Calculator",
+"url" : "https://play.google.com/store/apps/details?id=net.orbitingpluto.android.ipcalc",
+"package" : "net.orbitingpluto.android.ipcalc",
+"category" : "Tools",
+"description" : "This is a network/subnet/IP address calculator for setting up routers and addresses on IP networks. Real-time updating and copy/paste support is included!  A single slider acts as a selector for the CIDR, the netmask, and to scale the # of hosts needed in your subnet network.   The application is useful for subnetting a router in tandem with an Android web browser or just for educational purposes. Education is emphasized by real time updating of network, broadcast, netmask, first and last address of the subnet, and the number of usable IPs in several different formats (dotted-decimal, hexadecimal, octal, decimal, binary and decimal). Also there are basic notes.   There is real time updating of output as you change values and move the slider to change the netmask/mask bit. Touching the output will cycle through several different formats. Long presses will enable menus for copying to the clipboard.   IPv4 functionality is finished.  No ads nor special permissions required! Also, this subnet calculator does not suffer from the common theres no dot on my number keyboard problem.  Please email me at: android@orbitingpluto.net ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

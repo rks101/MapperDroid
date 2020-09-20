@@ -1,0 +1,11 @@
+{
+"name" : "ESC POS Bluetooth Print Service",
+"url" : "https://play.google.com/store/apps/details?id=com.loopedlabs.escposprintservice",
+"package" : "com.loopedlabs.escposprintservice",
+"category" : "Tools",
+"description" : "ESC POS Bluetooth Print Service  Print directly to your Bluetooth Thermal Receipt printer From any Web Page.   The app shows up in the print menu of your browser, or any other app which supports android print service.  Print text and images from your device to your Bluetooth Thermal Receipt Printer. The app shows up under the share menu of any app.  Supports most of the Bluetooth thermal receipt printers available in the market.  The app provides numerous options to customize the print.  The App Supports most of the generic Bluetooth Printers, which are able to print graphics.  Supported brands ( ESC POS Printers): - Generic Bluetooth Printers - Epson - Star - WOOSIM - HOIN - Samsung Bixolon - Zebra - SUNMI V1 POS Devices - ZKC POS Devices ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Battery Level for Status Bar",
+"url" : "https://play.google.com/store/apps/details?id=com.dddev.battery_percent_tracker",
+"package" : "com.dddev.battery_percent_tracker",
+"category" : "Tools",
+"description" : "Simplest app to show you battery level is status bar.   If you dont need any settings, widgets, ads, useless graphs - this app is for you!  NOTE! MIGHT NOT WORK with battery saving modes like STAMINA on Sony phones, need to turn them off or include this app in white list.  This app does not stay in memory as background process, it reads battery data and turns off with a certain interval, when battery level for a long time does not change, interval is increased, thus saving memory and battery of the phone. This app might not be so precise as apps with background process.  Icon, and Logo Design by Niclas Sthr (niclas-stoehr@t-online.de) ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

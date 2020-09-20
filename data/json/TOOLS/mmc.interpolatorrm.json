@@ -1,0 +1,11 @@
+{
+"name" : "InterpolatorS",
+"url" : "https://play.google.com/store/apps/details?id=mmc.interpolatorrm",
+"package" : "mmc.interpolatorrm",
+"category" : "Tools",
+"description" : "This is a small free app by MMC (Mooring Marine Consultancy) which makes it very easy to lookup values in tables (math etc) when you have to interpolate both in two and in three rows. No more need for a calculator to interpolate manually. This app will always be free of charge and was designed primarily for cargo surveyors working with tank calibration tables, but the app does have its application in any environment where tables are used.  Runs on any android device, and has now been optimized to work equally well on both smart phones and tablets. The interface has been completely revamped in the latest version (1.0.9)  If you have any request for additions / improvements, please post them in comments and I will follow up as much as possible. Like us on facebook! http://on.fb.me/12lwGrN Now also available in the Apple appstore: http://bit.ly/11yQe7i ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

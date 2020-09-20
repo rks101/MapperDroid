@@ -1,0 +1,11 @@
+{
+"name" : "Mobile Assistant by SMS-Timing",
+"url" : "https://play.google.com/store/apps/details?id=com.sms.timing.mobileassistant",
+"package" : "com.sms.timing.mobileassistant",
+"category" : "Tools",
+"description" : "BOOST YOUR SALES A Fast decision can be a good decision.  Access the most important information about your sales, to help you make the right decisions every day.  Track your: - Incomes - Daily sales - Cash reports - Reservations  Give your business a boost by being always on time, with the right numbers.  React when its needed to make the most from every single day.   VIRTUAL RACE CONTROL If you have a Karting Center, Mobile Assistant is giving you also a virtual race control straight from your phone:  - Start/Stop the race - Speed control - Crash detection - Mobile kart assignment - Light control - Push notifications for Marshals (if something happens, or attention is needed)  IMPROVE WORKFLOW AND COMMUNICATION  Your people are the most important part of your business.  Connect and involve them more. Small changes can make a big difference.  Let them work more efficiently and it will pay you back. ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.FLASHLIGHT', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

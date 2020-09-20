@@ -1,0 +1,11 @@
+{
+"name" : "AirPatrol SmartHeat",
+"url" : "https://play.google.com/store/apps/details?id=eu.airpatrol.heating",
+"package" : "eu.airpatrol.heating",
+"category" : "Tools",
+"description" : "AirPatrol SmartHeat app turns your mobile phone into a remote control for your home heating. This intuitive and beautifully-designed application works together with AirPatrol SmartHeat system.   Be a pioneer in modern home heating and download AirPatrol SmartHeat app to:  - Control and monitor your home heating from anywhere in the world  - Save money. Intelligent control of home heating lowers your energy bills.  - Control up to 10 zones. AirPatrol SmartHeat is capable of controlling 10 room units from one central unit. This means you can have 10 different zones.  - Check current temperature in each room, adjust setpoint temperature or set up automatic timers.   AirPatrol SmartHeat system is suitable for any home as it uses wireless room units and it can be installed with any type of main heating (air-to-water, gas, pellet, etc.). You only need water-based underfloor heating with actuators and thats it.   More information about AirPatrol SmartHeat system can be found here: http://www.airpatrol.eu/shop/airpatrol-smartheat/ ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.USE_CREDENTIALS', 'eu.airpatrol.heating.permission.C2D_MESSAGE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.GET_ACCOUNTS']",
+}

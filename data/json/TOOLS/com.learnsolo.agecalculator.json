@@ -1,0 +1,11 @@
+{
+"name" : "Age Calculator by Date of Birth",
+"url" : "https://play.google.com/store/apps/details?id=com.learnsolo.agecalculator",
+"package" : "com.learnsolo.agecalculator",
+"category" : "Tools",
+"description" : " simple design, easy to use, free.   age calculator calculates age in Years, Months, Weeks, Days, Hours, Minutes, and even in Seconds.   With the help of this *Age Calculator*, You can find out how many Month and days to go for your next birthday.   This application calculates the Age of any person with the help of BIRTH DATE.   There is no need of typing todays date *age Calculator* automatically get todays date.   Here in this Age Calculator App, You have to just insert a Date of birth and Age Calculator will calculate age in Year Month & Days.   This app also tells you an upcoming Birthday.   The app is completely FREE, you dont have to pay anything ever!!  Our Age Calculator works in OFFLINE mode. No internet connection is required after the app downloaded.  So you can carry this Calculator with you everywhere in your cellphone for use when you have no net connection.  EASY and functional user interface. ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

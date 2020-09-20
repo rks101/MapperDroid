@@ -1,0 +1,11 @@
+{
+"name" : "WhiteBoard",
+"url" : "https://play.google.com/store/apps/details?id=com.hashdroid.whiteboardFree",
+"package" : "com.hashdroid.whiteboardFree",
+"category" : "Tools",
+"description" : "What is this ? This whiteboard or a white-blackboard as you may call it, converts you phone into an idea-pad/notepad/scribble-pad. The basic idea behind this app is to convert your phone to a notepad and use your fingers as a pen,so that you dont miss to note down or get creative anywhere on the go! Dont need to search for a pen and paper anymore. You can create as big a portrait as you want ,using the zoom option!   So what exactly can you do with this ?  1. Write notes in your own handwriting. 2. Let children be creative for hours. 3. Edit Photos,write or mark on them. 4. Draw sketches or diagrams, use any color any pen thickness. 5. Share you work with your friends. 6. Very basic and clutter free User Interaction. 7. Pinch in and out to zoom.  Happy Scribbling!!!  We are open for Suggestions :) Do let us know your inputs. ",
+"desc_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

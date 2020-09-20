@@ -1,0 +1,11 @@
+{
+"name" : "Brevent",
+"url" : "https://play.google.com/store/apps/details?id=me.piebridge.brevent",
+"package" : "me.piebridge.brevent",
+"category" : "Tools",
+"description" : "Brevent, black prevent, can app-standby (since Android 6.0, not supported on some devices) or force-stop apps without root, prevent apps from running in long time.  Brevent never brevent apps not in Bervent list. If apps are launched then quit (tapping Back or so), Brevent will app-standby them; if apps timed out in standby, or swiped from recents screen, Brevent will force-stop them. Whenever apps are running without activity, Brevent will force-stop them.  Apps in Brevent list can be set allow sync to receive notifications or do sync jobs. Brevent wont standby allow sync apps, and Brevent wont force-stop allow sync apps with notifications or running in background.  Brevent supports Android 7.0 to Android 10, requires USB debugging in developer options.  Since Android 8, Brevent wont work if debugging is off or USB option is changed. If debugging turns off when you unplug the cable, please change USB option. Normally, its OK to keep USB option as default.  For command, please visit https://brevent.sh ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.DUMP', 'android.permission.FOREGROUND_SERVICE', 'android.permission.PACKAGE_USAGE_STATS', 'android.permission.REQUEST_INSTALL_PACKAGES', 'com.android.launcher.permission.INSTALL_SHORTCUT', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.READ_LOGS', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.DUMP', 'android.permission.PACKAGE_USAGE_STATS', 'android.permission.READ_LOGS', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "BBVpn VPN - Unlimited, Fast & Free VPN Proxy",
+"url" : "https://play.google.com/store/apps/details?id=bbv.avdev.bbvpn",
+"package" : "bbv.avdev.bbvpn",
+"category" : "Tools",
+"description" : "FREE, high speed and secure VPN servers.  No usage and time limit. No bandwidth limit. No additional permissions required.  Best app for Unblock sites, Wi-Fi Security and Privacy Protection.  Not need any configuration!  Just simply click one button!  You can access the Internet securely and anonymously.  All servers are free to use, you can change server as any times as you want.  Protect your network traffic under Wi-Fi hotspot Browse anonymously and securely without being tracked.  Enjoy private browsing.  We provide VPN servers in next countries:  Australia  Bulgaria  Canada  Czech Republic  Finland  France  Germany  Hong Kong  India  Indonesia  Israel  Italy  Japan  Latvia  Netherlands  Poland  Russia  Singapore  Spain  Sweden  Switzerland  Thailand  Ukraine  United Kingdom  United States  Vietnam ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.android.vending.BILLING', 'android.permission.VIBRATE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+}

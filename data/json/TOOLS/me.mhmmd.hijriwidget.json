@@ -1,0 +1,11 @@
+{
+"name" : "Hijri - Islamic Widget & Fasting & Salat time",
+"url" : "https://play.google.com/store/apps/details?id=me.mhmmd.hijriwidget",
+"package" : "me.mhmmd.hijriwidget",
+"category" : "Tools",
+"description" : "Islamic clock and Calendar application with widget.  Language supported: , English, French, Indonesia, Trke,  , wikang filipino,  , , , uzbek tilida, malay tili,  , Deutsch, Espanol, Portugus,  and more....  Advantages: -  Shows time, Hijri calendar and Gregorian calendar. -  Shows Salat (prayer) times. -  Sunnah fasting days reminder. for example, Arafah and Ashora. -  Age calculation in Hijri calendar and Gregorian calendar. -  Can be placed on Home screen and lockscreen. -  Light and simple. -  Different layouts. -  The possibility to modify the Hijri date in case the calendar does not match the lunar month. -  Ability to hide or show the Gregorian date. -  Ability to change widget color and background transparency.  To add this widget to your phone home screen: 1. Press and hold an empty space on the home screen. 2. Tap Widgets. 3. Scroll through the widgets, until you find Hijri Widget. 4. Press and hold and then drag the widget to the home screen you want to add it to.  Resize a widget: 1. Touch and hold the widget on your Home screen. 2. Lift your finger. If the widget can be resized, youll see an outline with dots on the sides. 3.To resize the widget, drag the dots. 4. When youre done, tap outside the widget.  For any issue, feedback or suggestions please contact me at: contact@mhmmd.me  If you can help me translate this widget to your language please contact me also at contact@mhmmd.me  PLEASE RATE AND SHARE (: ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'com.android.alarm.permission.SET_ALARM', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

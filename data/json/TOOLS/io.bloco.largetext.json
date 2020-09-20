@@ -1,0 +1,11 @@
+{
+"name" : "Large Text",
+"url" : "https://play.google.com/store/apps/details?id=io.bloco.largetext",
+"package" : "io.bloco.largetext",
+"category" : "Tools",
+"description" : "Big text and emojis fullscreen for phones and tablets.  No Sign Up required. No permissions needed, no ads and no tracking. Works offline. Just a simple application to show messages in large text.  GREAT TO  Pick someone at the airport  Show directions  Share your phone number  Ask DJs for *that* song  Flag a taxi  Ask for your beers in loud nightclubs  Display concert fan signs  FEATURES  Supports text and emojis      Multiple themes (some are paid)  Saves your past messages  Can receive text from other apps to display  App shortcuts for your latest messages (only Android 7.1+) ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'com.android.vending.BILLING', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

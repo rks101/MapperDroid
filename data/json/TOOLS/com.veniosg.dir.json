@@ -1,0 +1,11 @@
+{
+"name" : "ï»¿Dir - File Manager",
+"url" : "https://play.google.com/store/apps/details?id=com.veniosg.dir",
+"package" : "com.veniosg.dir",
+"category" : "Tools",
+"description" : "Manage your files with Dir! Dir is a tiny but fully featured material design file explorer that supports all common file management operations with an intuitive interface and highly optimized performance. File management has never been so easy.    Explore, copy, move, delete and send files from your devices internal storage and SD card.  Based on material design principles but with a unique touch, Dir helps intuitively manage files. Dirs award winning design and beautiful animations make file operations a breeze.  Android Go ready: Dir is a perfect match for Android Go device, helping you keep your device lean with its tiny size and resource footprint and its ability to fully work offline.   Optimized for low end devices and with just 1MB download size, Dir allows you to manage your files without bloating your phone.   Using an AMOLED screen? Dir has a Dark theme that is easy on the eyes and helps preserve battery, making your phone last longer.   Easily reach common files with file and folder bookmarks and home screen shortcuts.   Free, open source and privacy minded: No ads, no unnecessary permissions, absolutely no data collection.  Dirs full source code is available on Github and we welcome contributors. Check it out here https://github.com/veniosg/Dir   Notes:  * The animation design in Dir has earned it the best use of motion in Material design app award during Droidcon London 2016. * Dir does not currently support root. * Dir supports: English, Czech, German, Greek, Spanish, French, Hindu, Croatian, Hungarian, Italian, Japanese, Dutch, Portuguese, Brazilian Portuguese, Russian, Turkish and Chinese.  Android and Android Go are trademarks of their respective owners.  ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.REQUEST_INSTALL_PACKAGES', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.launcher.permission.INSTALL_SHORTCUT']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

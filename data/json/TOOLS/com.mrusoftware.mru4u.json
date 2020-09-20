@@ -1,0 +1,11 @@
+{
+"name" : "MRU4u",
+"url" : "https://play.google.com/store/apps/details?id=com.mrusoftware.mru4u",
+"package" : "com.mrusoftware.mru4u",
+"category" : "Tools",
+"description" : "Remote control of MRU Fluegas Monitoring Units via Bluetooth. Transfer to and storage of measured data on Smartphone and Tablet. Data export as CSV, PDF file or screenshot as an email attachment.  Control the most important functions of your MRU unit with your Smartphone or Tablet. Measured data are shown live on the screen, either as text or as curve chart. Measured values to be indicated may be individually chosen by the user. Stored measuring data always comprise all possible values of the measuring unit.  Measurements may be stored on the controlling unit, assigned to a heating facility and sent by mail. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.BLUETOOTH_PRIVILEGED', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.CHANGE_CONFIGURATION', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_BACKGROUND_LOCATION']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.BLUETOOTH_PRIVILEGED', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.CHANGE_CONFIGURATION', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_BACKGROUND_LOCATION']",
+}

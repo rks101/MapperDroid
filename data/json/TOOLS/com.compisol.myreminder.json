@@ -1,0 +1,11 @@
+{
+"name" : "Reminder app free",
+"url" : "https://play.google.com/store/apps/details?id=com.compisol.myreminder",
+"package" : "com.compisol.myreminder",
+"category" : "Tools",
+"description" : "You can use our app as a daily task manager, shopping list, to to list, notes reminder or voice reminder app with alarm notification, medicine reminder app, drink water reminder app and many other thinks to manage your daily tasks may maybe as a pills reminder too  Features:  - Reminder app with notification an the possibility to set the intervall of the reminder - Make normale notes reminders - Capture a picture with a new reminder - Voice recording is also supported if you want to add a voice note to your reminder ",
+"desc_perms" : "['android.permission.RECORD_AUDIO', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'android.permission.VIBRATE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'com.android.alarm.permission.SET_ALARM', 'android.permission.RECORD_AUDIO', 'android.permission.WAKE_LOCK', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.CHANGE_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'com.android.vending.BILLING']",
+}

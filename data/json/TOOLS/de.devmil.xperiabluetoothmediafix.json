@@ -1,0 +1,11 @@
+{
+"name" : "Xperia Z1 Bluetooth media fix",
+"url" : "https://play.google.com/store/apps/details?id=de.devmil.xperiabluetoothmediafix",
+"package" : "de.devmil.xperiabluetoothmediafix",
+"category" : "Tools",
+"description" : "This app bypasses a problem of the Sony Xperia Z1: When certain Bluetooth headsets get connected to the device the audio can get noisy / corrupt. This app re-connects a A2DP headset after it has been connected to bypass this problem.  Please tell me when your Bluetooth headset doesnt work or if you have any other issues! ",
+"desc_perms" : "['', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.BLUETOOTH']",
+"perms_with_call" : "['android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY']" 
+"extra_perms" : "[]",
+}

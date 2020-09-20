@@ -1,0 +1,11 @@
+{
+"name" : "Network Tools Library Sample",
+"url" : "https://play.google.com/store/apps/details?id=com.stealthcotper.networktools",
+"package" : "com.stealthcotper.networktools",
+"category" : "Tools",
+"description" : "This is a sample application from the open source project Android Network Tools. If you are looking for a more complete network scanning tool, please see my other app Portdroid.  It demonstrates the following features of the library:   Pinging  Port Scanning  Finding devices on your network  Wake-on-lan  The project is hosted on github. Bug reports, feature requests and contributions are all welcome: https://github.com/stealthcopter/AndroidNetworkTools ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

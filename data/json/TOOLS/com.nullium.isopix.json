@@ -1,0 +1,11 @@
+{
+"name" : "IsoPix - Pixel Art Editor",
+"url" : "https://play.google.com/store/apps/details?id=com.nullium.isopix",
+"package" : "com.nullium.isopix",
+"category" : "Tools",
+"description" : " A pixel art editor designed for... making pixel art! Features isometric tools.   Key features:  - Intuitive image pan/zoom using 2-fingers gesture (pinch to zoom, drag to pan; zoom/pan buttons are also optionally available) - Easy select, copy, cut, and paste (supports rotation and flipping) - Isometric tools for drawing isometric lines and rectangles easily - Ability to precisely position individual lines and shapes - Ability to save/load colors - Optional image pixel grid - Transparent image background option - Loading from PNG/BMP/JPG/GIF files; Saving to PNG files - Support for both landscape and portrait screen orientation - Basic shapes, different pen/eraser sizes, flood filling, color dropper/picker, undo/redo   More in the Pro version:  - Direct input of RGB / HSV color value for precise color specification - Function to change image canvas size - Ability to import / paste from another image file - Option to have 18 color palettes slots instead 6 - Option to show file/image info on the interface - Option to customize the grid size and color - Option to customize the app background color - Ad-free   If you need help with IsoPix, you can check the FAQ and ask questions in our user forums. You are also welcome to suggest new features and talk about anything there: http://forums.nullium.com ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

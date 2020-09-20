@@ -1,0 +1,11 @@
+{
+"name" : "Nemaxx K2 Alarmsystem",
+"url" : "https://play.google.com/store/apps/details?id=com.sundy.heyi.k2",
+"package" : "com.sundy.heyi.k2",
+"category" : "Tools",
+"description" : "The Nemaxx K2 Alarmsystem uses the worlds most advanced digital sensing and transmission technology. It is a set of anti-theft, fire, gas leak alarm and an intelligent control system. The system uses a GSM wireless network of digital signal processing technology, integrated digital voice, SMS, SMS identification, touch buttons, RFID card identification and alarm center communications technology. It can inform the police, send an SMS to a phone and alarm centers. Using the phone software control the Nemaxx K2 alarm system can be armed and disarmed from anywhere. Monitoring, system status query, modify the host language and change other settings can be done with your Smartphone. ",
+"desc_perms" : "['android.permission.SEND_SMS', 'android.permission.CALL_PHONE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE']",
+"manifest_perms" : "['android.permission.VIBRATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+}

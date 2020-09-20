@@ -1,0 +1,11 @@
+{
+"name" : "QR Code, Barcode Scanner  & Generator",
+"url" : "https://play.google.com/store/apps/details?id=awesomedev.qr_code_scanner_barcode_reader",
+"package" : "awesomedev.qr_code_scanner_barcode_reader",
+"category" : "Tools",
+"description" : "QR Code, Barcode Scanner & Generator is simple and fast to scan and read QR and barcode from camera and images.   To scan QR and barcode from camera, you simply point to QR or barcode you want to scan and the app will automatically detect and scan it. You can choose an image from gallery having QR or barcode to scan.    QR Code, Barcode Scanner & Generator can scan and read all QR / barcode types including ADDRESS BOOK/ CONTACT INFO, URL, TEXT, ISBN, PRODUCT, WIFI and many other formats. After scan and reading, appropriate actions are available to user.   QR Code, Barcode Scanner & Generator can be used to generate different types of barcodes: TEXT, URL, ISBN, PRODUCT, CONTACT INFO, LOCATION, EMAIL, WIFI, CALENDAR and TEL. The generated barcodes automatically saved and can be shared to other apps.   The scan results are automatically saved in history. You can export the history to CSV file or view each scanned result.  Try QR Code, Barcode Scanner & Generator now. It is FREE!   If you love our app, please show your love by taking a few minutes to review it.  ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.CALL_PHONE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.CALL_PHONE', 'android.permission.CAMERA', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

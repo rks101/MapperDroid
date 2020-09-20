@@ -1,0 +1,11 @@
+{
+"name" : "RootDim [root]",
+"url" : "https://play.google.com/store/apps/details?id=mobi.pruss.superdim",
+"package" : "mobi.pruss.superdim",
+"category" : "Tools",
+"description" : "RootDim was formerly known as SuperDim. RootDim requires root privileges on your device.   RootDim has been largely superceded by our ScreenDim, which does not require root (though it also has an enhanced root mode, which on some newer devices may work more reliably than RootDim) and has useful features like presets in the notification area.  RootDim lets you dim LCD screens (and a few OLED ones) to very low levels--lower than the OS normally allows (thats why you need root privileges)--to save night vision. This will be particularly useful for serious amateur astronomers.   On some devices you can also turn off LEDs (e.g., power LED).  If you have ChainFire3D, RootDim will let you conveniently control the nightmode settings together with the brightness settings.  You can save up to five profiles that can be restored with a single touch in the RootDim screen. The profiles include LCD backlight brightness and nightmode settings (if applicable). Long touch on profile button to save, short touch to load.  You can also create launcher shortcuts for particular saved profiles and for cycling through all the profiles.  If RootDim doesnt work on your device, email me at arpruss@gmail.com before leaving a low rating. Maybe I can fix it.  Note 1: Some devices dont allow going below the minimum value allowed by the OS. There is really nothing I can do about that.   Note 2: There is a special feature for some Archos 70/101 devices that have a firmware problem that prevents them from waking up properly when theyve been put to sleep with a low brightness (this problem occurs even if you dont have SuperDim). Go to Menu|Options and choose that option if you have one of these devices, and it should fix the problem.  Note 3: For all the users who would like a widget, please remember the launcher shortcut feature. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_SETTINGS']",
+"perms_with_call" : "[]" 
+"extra_perms" : "[]",
+}

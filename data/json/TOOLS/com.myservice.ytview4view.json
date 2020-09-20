@@ -1,0 +1,11 @@
+{
+"name" : "View4View",
+"url" : "https://play.google.com/store/apps/details?id=com.myservice.ytview4view",
+"package" : "com.myservice.ytview4view",
+"category" : "Tools",
+"description" : "Are you still starting out your journey to become a blogger? Have only a few people watched your videos?  Got great content but dont know where or how to promote your video to a larger audience?   View4View is a free app that helps you achieve REAL views from REAL people.   How to get started? - Install the app, watch a video campaign and earn coins - Dont like the video you are watching? Just click skip and watch the next campaign - Use coins to create campaigns (provide a video link or id) and start getting views for your own videos from REAL people just like you   Note: View4View is a third party app. View4View does NOT offer the ability to buy views as it is against YT Policy. We are only a platform to help your video reach out to a larger audience, and these people have the ability to choose what videos they want to watch or they feel interested in. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.MODIFY_AUDIO_SETTINGS']",
+"manifest_perms" : "['com.android.vending.BILLING', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.INTERNET', 'android.permission.VIBRATE', 'android.permission.WAKE_LOCK', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION']" 
+"extra_perms" : "['com.android.vending.BILLING', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Spectroid",
+"url" : "https://play.google.com/store/apps/details?id=org.intoorbit.spectrum",
+"package" : "org.intoorbit.spectrum",
+"category" : "Tools",
+"description" : "Spectroid is a real-time audio spectrum analyzer with reasonable frequency resolution across the the entire frequency spectrum.   FAQ   Q: Why are the dB values negative? A: Spectroid uses dBFS (Full Scale) where 0 dB is the maximum power that the microphone can measure, so the decibel values are negative because the measured power is less than the maximum power.  Q: Can I zoom in on the spectrum plot? A: Yes, do a two-finger pinch-to-zoom gesture.  Q: Why are there discontinuities/gaps in the spectrum plot and waterfall? A: Spectroid uses multiple FFTs overlapped in frequency in order to provide better frequency resolution at lower frequencies than a single FFT. The caveat of this method is varied impulse response and minor discontinuities in frequency. The upside is that it can efficiently produce a spectrum that better matches the frequency resolution of human audio perception. Its still probably not as good as your ears though!  Q: Can I export the spectrum data? A: Spectroid doesnt make your device a calibrated instrument. If you need the spectrum data then you should be using an actual spectrum analyzer rather than an app on your mobile device. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.RECORD_AUDIO']",
+"perms_with_call" : "[]" 
+"extra_perms" : "['android.permission.RECORD_AUDIO']",
+}

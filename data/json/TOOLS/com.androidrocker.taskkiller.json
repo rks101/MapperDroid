@@ -1,0 +1,11 @@
+{
+"name" : "Task Killer",
+"url" : "https://play.google.com/store/apps/details?id=com.androidrocker.taskkiller",
+"package" : "com.androidrocker.taskkiller",
+"category" : "Tools",
+"description" : "Do you know that your phone runs slowly when there are too many background apps?  Do you want to speed up your phone with just one click? Task Killer can help you!  Task Killer can help you to kill (close or stop) the running apps of your phone, free up the memory and increase the speed of your phone!  Features: * Kill selected apps: You can select the running apps and kill them with just one click.  * Auto Kill: Kill the apps automatically to prevent the apps to restart after being killed. Keep your phone in good condition all the time. * Ignore List: Add or remove app from ignore list so that you can filter important apps. * Memory status: Show the usage of your total memory, and show the usage of every running apps so that you know which app consumes the most memory. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.FOREGROUND_SERVICE', 'com.android.launcher.permission.INSTALL_SHORTCUT', 'android.permission.PACKAGE_USAGE_STATS', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.KILL_BACKGROUND_PROCESSES']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.PACKAGE_USAGE_STATS', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

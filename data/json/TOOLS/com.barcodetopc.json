@@ -1,0 +1,11 @@
+{
+"name" : "Barcode to PC: Wi-Fi scanner",
+"url" : "https://play.google.com/store/apps/details?id=com.barcodetopc",
+"package" : "com.barcodetopc",
+"category" : "Tools",
+"description" : "DOWNLOAD SERVER: https://barcodetopc.com/  Barcode to PC turns your smartphone into a real barcode scanner   Supported platforms: Windows, macOS, Linux  Keyboard emulation Your smartphone sends real-time keystrokes directly to your computer, no copy-paste required!  Wi-Fi ready Connect to the same network of your PC and the app will pair automatically  CSV support You can append your scannings to a file in real-time. You can also export the scans all at once in a CSV file  QR Codes Barcode to PC works also with QR codes and many other barcode formats  FAQ: https://barcodetopc.com/faq.html ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_ACCOUNTS']",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.CAMERA', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FLASHLIGHT', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_MULTICAST_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.CAMERA', 'android.permission.MODIFY_AUDIO_SETTINGS', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

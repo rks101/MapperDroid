@@ -1,0 +1,11 @@
+{
+"name" : "Disk Scanner - Image Photo File Recovery",
+"url" : "https://play.google.com/store/apps/details?id=com.image_photo.restoremedia",
+"package" : "com.image_photo.restoremedia",
+"category" : "Tools",
+"description" : "Disk Scanner - Image Photo File Recovery can undelete and recover most of your lost photos and images from your memory card or internal memory. No rooting necessary!*   If you come to a situation where you just deleted all of your images by mistake and tried a lot of apps to recover them without any result, then you are at the right place. This app scans all folder in Sdcard to recover your lost photo/image.  FEATURES: * Scan both all yours phone storage * Fast and easy to use * No ROOT required * Support all types of images ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_PHONE_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CALL_PHONE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.VIBRATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS', 'android.permission.SEND_SMS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.CHANGE_WIFI_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.KILL_BACKGROUND_PROCESSES', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.SEND_SMS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

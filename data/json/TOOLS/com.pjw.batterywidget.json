@@ -1,0 +1,11 @@
+{
+"name" : "Battery Widget",
+"url" : "https://play.google.com/store/apps/details?id=com.pjw.batterywidget",
+"package" : "com.pjw.batterywidget",
+"category" : "Tools",
+"description" : "BatteryWidget shows an exact battery level on the status bar, health, temperature, voltage, CPU usage.  Clicking once installed widget, the widget shows the temperature and voltage. Double-click the Setup screen appears.  English, French, Italian, Polish, Russian, Dutch, Hungarian, Spanish, Chinese support.  Feature  1. Charge, Discharge, Warning, Danger, Full charging alarm. 2. Battery status indicator on the status bar notifications. 3. 1x1, 2x2 widgets in the form of pie charts. 4. It is possible to change the color, size and position of the widget. 5. Temperature, voltage, battery life, charging, screen status logging.  Plus version only  6. Supports the additional status bar icons. 7. Widget resolution. 8. Wi-Fi, Mobile, CPU usage logging. 9. Show the estimated time for charging or discharging. 10. Overheat alarm. 11. Full charge alarm level setting.  How To install the widget: Android 2.3 or less : Long press on any empty space on your homescreen, Click on the widget menu then click on the widget you want to install. Android 3.0 : Click on the upper right corner of the homescreen, Click on the widget menu then drag on the widget you want to install.  Android 4.0 or late : In the app list screen, Click on the widget menu then drag on the widget you want to install. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_WIFI_STATE']",
+"manifest_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.VIBRATE']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE']",
+}

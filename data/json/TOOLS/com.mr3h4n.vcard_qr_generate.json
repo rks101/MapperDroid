@@ -1,0 +1,11 @@
+{
+"name" : "vCard, MeCard, BizCard QR: Make, create, generate",
+"url" : "https://play.google.com/store/apps/details?id=com.mr3h4n.vcard_qr_generate",
+"package" : "com.mr3h4n.vcard_qr_generate",
+"category" : "Tools",
+"description" : "Generate Business and Personal Cards QR & Convert contact into vCard QR easily. Make QR for your Business Card and for your Personal Card. You can generate QR Code for 3 different types of cards including Business and personal:  vCard  MeCard  BizCard  vCard QR, MeCard QR and BizCard QR are most commonly using QR format and they are very essential part of any Business and personal Card. Most of the website offers you to generate QR for your Business and Personal card starting from $5. But this application can generate any number of QR code free of cost.   Color QR You can also Generate QR Code in different Colors matching with your Cards color. There and 15+ different colors we supports.   Share QR You can also share your generated vCard QR via any Sharing Application.    Pick Contact Pick Contact feature is very popular feature of this application. You just need to select any contact number from your Contact list and this application itself put data into fields, so you dont need to type any info. Just pick contact and Click Generate QR button to Create your QR. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE']",
+"manifest_perms" : "['com.mr3h4n.vcard_qr_generate.permission.C2D_MESSAGE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.READ_CONTACTS', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+}

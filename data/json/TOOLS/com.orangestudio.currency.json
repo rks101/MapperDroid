@@ -1,0 +1,11 @@
+{
+"name" : "Currency Converter - Global Currency Converter",
+"url" : "https://play.google.com/store/apps/details?id=com.orangestudio.currency",
+"package" : "com.orangestudio.currency",
+"category" : "Tools",
+"description" : "Currency converter, providing currency converter in more than 160 countries and regions around the world, professional exchange rate conversion artifact. Providing professional services to global travelers, overseas students and foreign exchange market enthusiasts.  App Features: [Exchange Rate Conversion] 1. Support global currency exchange rates such as US dollar, Euro, British pound, Japanese yen, Hong Kong dollar, etc. 2. support multi-currency conversion at the same time, input automatic calculation 3. Support currency symbols, currency flags, etc. 4. Automatically set the current national currency, convenient and fast 5. Support search and find currency 6. Support for digital operations, addition, subtraction, multiplication and division calculations, and calculation is more convenient ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

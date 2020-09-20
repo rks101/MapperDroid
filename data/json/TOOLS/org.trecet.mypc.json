@@ -1,0 +1,11 @@
+{
+"name" : "My PC",
+"url" : "https://play.google.com/store/apps/details?id=org.trecet.mypc",
+"package" : "org.trecet.mypc",
+"category" : "Tools",
+"description" : "This app is targetted for those that use their Android TV as a screen for a computer.   With this simple app you can start your PC automatically using wake-on-lan (WOL) and watch it directly. There is no need to switch between the app and your HDMI input.  Just follow these simple steps: 1. Browse your network and select your PC in the Settings section 2. Decide whether you want to start your PC automatically when you open the app 3. Enjoy it! :-)  Your PC will start automatically when you switch on your TV.   Watch out for new features! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

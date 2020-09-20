@@ -1,0 +1,11 @@
+{
+"name" : "PROTECTIMUS SMART OTP",
+"url" : "https://play.google.com/store/apps/details?id=com.protectimus.android",
+"package" : "com.protectimus.android",
+"category" : "Tools",
+"description" : "PROTECTIMUS SMART is software Multi-Token from Protectimus.  This software OTP Authenticator is part of a comprehensive solution offered by Protectimus to ensure security and reliable multi-factor protection of your resources from unauthorized access.  Data signing (CWYS) included This feature allows you to ensure control over the integrity of the data signed and protection against any data modification or data falsification. Guaranteed detection of any data falsification during integrity verification in most cases renders data falsification useless.  You can find more detailed information about this application on our website at www.protectimus.com ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.VIBRATE', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.FLASHLIGHT']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.INTERNET', 'android.permission.CAMERA', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

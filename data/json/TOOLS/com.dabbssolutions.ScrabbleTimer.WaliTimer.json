@@ -1,0 +1,11 @@
+{
+"name" : "Wali Timer",
+"url" : "https://play.google.com/store/apps/details?id=com.dabbssolutions.ScrabbleTimer.WaliTimer",
+"package" : "com.dabbssolutions.ScrabbleTimer.WaliTimer",
+"category" : "Tools",
+"description" : "Wali Timer! A Perfect to for Scrabblers consisting of a Timer, A Word Checker and A Word Search.   Features:  Timer: Counts down from 25 Mins or any desired time Option to set different time for 2 Players Pause/Play Challenge option   Word Checker: Search Multiple Words Supports both NWL18 and CSW19  Word Search: Supports both NWL18 and CSW19 Available search options are: Anagram Search Starts with Ends With Definition 2 Letters 3 Letters Q without U No Vowels Bingo Stem 6+1 Bingo Stem 7+1 ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

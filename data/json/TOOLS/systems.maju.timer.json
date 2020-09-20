@@ -1,0 +1,11 @@
+{
+"name" : "Timer",
+"url" : "https://play.google.com/store/apps/details?id=systems.maju.timer",
+"package" : "systems.maju.timer",
+"category" : "Tools",
+"description" : "Lightweight timer app without much functionality except counting. ",
+"desc_perms" : "[]",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

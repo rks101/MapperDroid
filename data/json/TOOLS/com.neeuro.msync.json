@@ -1,0 +1,11 @@
+{
+"name" : "MindSync",
+"url" : "https://play.google.com/store/apps/details?id=com.neeuro.msync",
+"package" : "com.neeuro.msync",
+"category" : "Tools",
+"description" : "Experience moving robots with your mind.  MindSync is a utility app for Neeuro SenzeBand to connect with programmable DIY robots. MindSync allows a user to use his or her brainwave to control a robot.   Neeuro SenzeBand is an electroencephalogram (EEG) device, it picks up brainwave signal. The data is sent through Bluetooth to MindSync app on a mobile or tablet. The app analyses the data, measures the focus, and sends a command to the programmable DIY robot.  Currently mBot robot from MakeBlock is supported.  Start your experiment with Brain-Computer-Interface! ",
+"desc_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.WRITE_SETTINGS', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.BLUETOOTH_ADMIN', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.WRITE_EXTERNAL_STORAGE']",
+}

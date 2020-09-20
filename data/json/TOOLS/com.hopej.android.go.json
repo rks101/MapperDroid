@@ -1,0 +1,11 @@
+{
+"name" : "QR CODE READER - FREE",
+"url" : "https://play.google.com/store/apps/details?id=com.hopej.android.go",
+"package" : "com.hopej.android.go",
+"category" : "Tools",
+"description" : "QR CODE READER / BARCODE SCANNER is the fastest and most accurate.  Main features * Fast QR CODE recognition * QR CODE HISTORY * Flashlight is supported in low light environment   It is free for lifetime. Use it safely and comfortably !! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.CHANGE_WIFI_STATE', 'android.intent.action.GET_CONTENT', 'android.permission.FLASHLIGHT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.CHANGE_WIFI_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.intent.action.GET_CONTENT', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}

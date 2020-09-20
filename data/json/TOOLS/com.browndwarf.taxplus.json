@@ -1,0 +1,11 @@
+{
+"name" : "TaxPlus Calculator GST Citizen",
+"url" : "https://play.google.com/store/apps/details?id=com.browndwarf.taxplus",
+"package" : "com.browndwarf.taxplus",
+"category" : "Tools",
+"description" : "TaxPlus Calculator is a calculator with tax plus and minus feature. It comes with all the features of a basic check calculator. All the buttons are designed to look good and give the user a proffessional feel. The buttons are placed in positions which the user can learn easily.  Check and Correct : This is made easy, user will have to swipe left to check the full calculation. User can edit any entry he wants by tapping on the number  Auto Replay: User can run auto replay mode by pressing the button auto replay and then play pause.  Mark Up feature: User can use this feature to find out the mark up cost. To do so the user will have to enter finalPrice press MU and enter discount followed by either = or % buttons  Set Tax Rate: To set tax rate Long press set button > enter tax rate > Press set again.  tax+ and tax- will display amount in the result section and tax will be displayed above.There is no need to press tax button again  GST : Comes with GST calculator and displays CGST and GST separately. You can set any GST slab you want using the advanced GST calculator options.  TaxPlus Calculator tries to emulate similar functionalities to the physical GST Calculators available in the market such as MJ120 and CT555 so that the people who are already used to working with the older TaxPlus calculator can now download this TaxPlus calculator and use it with ease. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "[]",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE']",
+}

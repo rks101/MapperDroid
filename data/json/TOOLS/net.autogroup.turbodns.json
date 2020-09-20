@@ -1,0 +1,11 @@
+{
+"name" : "Turbo DNS 1: Fast & Private DNS Changer",
+"url" : "https://play.google.com/store/apps/details?id=net.autogroup.turbodns",
+"package" : "net.autogroup.turbodns",
+"category" : "Tools",
+"description" : " Fastest and safest Mobile Data DNS changer / resolver (without root)   Turbo DNS, A Free VPN Over DNS tool to helps you to protect your online privacy so that you can connect to the Internet securely anytime, anywhere. Turbo DNS using DNS over HTTPS technology without root and works for both WiFi and Mobile Network Data Connection.  Unlimited acess to restricted Web Pages   No root required  No registration required.  Mobile Data Network (3G/4G) / WiFi support  DNS Changer work on all browsers  Unblock the restricted web content  Browse faster No speed limitation  Unblock the restricted web content  Open-source: https://github.com/adaramuju/Turbodns  Multi Server Select   1.1.1.1 DNS Provided by Cloudflare  8.8.8.8 DNS provided by Google    For policy reason, this service can not be used in China. We apologize for any inconvenience caused. ",
+"desc_perms" : "['android.permission.READ_CONTACTS', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.GET_ACCOUNTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.FOREGROUND_SERVICE', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.WAKE_LOCK', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.VIBRATE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK', 'android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']",
+}

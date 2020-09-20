@@ -1,0 +1,11 @@
+{
+"name" : "All Router Admin - Setup WiFi Password",
+"url" : "https://play.google.com/store/apps/details?id=com.phuongpn.wifiroutersetup.wifinetworkinfo",
+"package" : "com.phuongpn.wifiroutersetup.wifinetworkinfo",
+"category" : "Tools",
+"description" : "No need for laptop or computer  Easily access your router settings and control your wifi network with this App. Its easy, convenient and versatile tool helping any Android user to manage their router from their smartphone. Its great analysis tool to help you better understand your router and your internet settings.  What can you do as a router administrator? - Router password change; - Check your default gateway; - Change WiFi password; - Block stranger person; - Parent control. (*) Note: Some functions may be different on some router devices  Get it for FREE now! And dont forget to give us 5* if you like the application. Thank you! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['com.google.android.c2dm.permission.RECEIVE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.GET_TASKS']" 
+"extra_perms" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_WIFI_STATE']",
+}

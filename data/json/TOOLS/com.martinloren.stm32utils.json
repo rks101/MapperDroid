@@ -1,0 +1,11 @@
+{
+"name" : "STM32 Utils",
+"url" : "https://play.google.com/store/apps/details?id=com.martinloren.stm32utils",
+"package" : "com.martinloren.stm32utils",
+"category" : "Tools",
+"description" : "Easy flashing of STM32 Chipsets on the fly. Choose among several available DIY projects with available firmware to start with or flash your own firmware.  Now available flashing option with only a Bluetooth module.  It requires: - OTG-Cable + USB-To-Serial cable (see website) or HC-05 Bluetooth Module - Firmware from your favourite project (.bin or .hex)  Connection instructions on the website.  Tested STM32 Boards: - STM32F103C8T6 (Blue Pill) - STM32F407 (Black Board) - STM32F401 / 411 (Blue Pill) - Nucleo STM32L053  Functions: - Get chipset info - Erase memory - Write firmware - Load firmware - Enable/Disable Readout Protection (in Full Version) - Bluetooth flashing (in Full Version)  Supported firmware file format: - Binary (.bin) - Intel Hex (.hex) ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.USB_PERMISSION', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.USB_PERMISSION', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+}

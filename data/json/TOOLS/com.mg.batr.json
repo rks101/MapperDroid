@@ -1,0 +1,11 @@
+{
+"name" : "Simple Battery Widget Red",
+"url" : "https://play.google.com/store/apps/details?id=com.mg.batr",
+"package" : "com.mg.batr",
+"category" : "Tools",
+"description" : "Simple and elegant circle battery widget. Shows the current battery consumption. When you tap the widget will receive more information about the battery. Widget color fits any desktop not only in the style of ICS. widget is translucent   Red edition!! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET', 'android.permission.FOREGROUND_SERVICE']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

@@ -1,0 +1,11 @@
+{
+"name" : "Orienteering Compass & Map",
+"url" : "https://play.google.com/store/apps/details?id=com.calmatics.compassmap",
+"package" : "com.calmatics.compassmap",
+"category" : "Tools",
+"description" : "This app makes it easy to find the direction and distance to where you want to go. It has a compass that works together with Google Maps and GPS to make classical orienteering possible. You line up your position (the GPS position) on the map with your destination by moving and rotating the map using one or two fingers. Turn the phone/tablet until the compass needle fits into the compass orienting arrow. Then the phone/tablet points in the direction towards the destination.  * Has a button which when clicked locks the map to the compass such that the map keeps oriented as the landscape even it the phone is turned. * The compass is resizable. * Supports both SI and imperial units. * Possibility to lock the GPS position to the middle of the screen or the middle of the compass. * Ruler on the direction of travel arrow. Possible to switch it off. * Possible to buy the app free from ads.  IMPORTANT: The app uses Google Maps. Google maps needs to be online. If there is no internet connection, the Google Maps cannot be shown, and the app does not work.  Support/feedback: apps@calmatics.com  Disclaimer: The app is no better than the phone capabilities. For example, if the phone does not find its location, the coordinates and the location dot cannot be shown, and the compass declination cannot be calculated. ",
+"desc_perms" : "['android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.ACCESS_FINE_LOCATION', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['com.android.vending.BILLING']",
+}

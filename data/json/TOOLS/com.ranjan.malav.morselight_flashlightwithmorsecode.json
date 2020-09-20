@@ -1,0 +1,11 @@
+{
+"name" : "MorseLight - flashlight+morse!",
+"url" : "https://play.google.com/store/apps/details?id=com.ranjan.malav.morselight_flashlightwithmorsecode",
+"package" : "com.ranjan.malav.morselight_flashlightwithmorsecode",
+"category" : "Tools",
+"description" : "Morselight, as the name suggests, is a flashlight app with Morse code functionality. This has become an open source project, if you are interested in working on this project drop a mail to the developer.  What makes it different from thousands of other flashlight apps -  - With this app you can not only send message in Morse code but can also decode the incoming message. - Transmission speed of sending Morse code can be changed in settings. - Morse code information provided for the user. - Super cool design. - No internet connectivity required  Purpose of this app is to facilitate a communication between two operators in a short range(depending upon the visibility of flashlight) specially when their is no cellular network available. An easy to use Morse Decoder is also provided so that even unskilled observer can also decrypt the message ",
+"desc_perms" : "['android.permission.ACCESS_WIFI_STATE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE']",
+"manifest_perms" : "['android.permission.CAMERA', 'android.permission.WAKE_LOCK']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.CAMERA', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

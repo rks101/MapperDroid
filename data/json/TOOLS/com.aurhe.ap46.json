@@ -1,0 +1,11 @@
+{
+"name" : "Automata: Task Automator",
+"url" : "https://play.google.com/store/apps/details?id=com.aurhe.ap46",
+"package" : "com.aurhe.ap46",
+"category" : "Tools",
+"description" : "Automate repetitive tasks on your Android phone.  Some of the things you can do:  - If tomorrow rains remind me to bring the umbrella - Turn off Wi-fi after leaving home - Mute phone at a specific time - Email me current Bitcoin price every day - Send SMS to someone at a specific time - Monitor URL and notify me if it goes down - Remind me to meditate at a specific time  Or create your own task automation. ",
+"desc_perms" : "['android.permission.SEND_SMS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.CHANGE_WIFI_STATE', 'com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.android.vending.BILLING', 'com.google.android.c2dm.permission.RECEIVE', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.SEND_SMS', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_BACKGROUND_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.WAKE_LOCK', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.CHANGE_WIFI_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.USE_FINGERPRINT', 'android.permission.WAKE_LOCK', 'android.permission.SEND_SMS']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'com.android.vending.BILLING', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_BACKGROUND_LOCATION', 'android.permission.ACCESS_WIFI_STATE']",
+}

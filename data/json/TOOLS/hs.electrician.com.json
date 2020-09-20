@@ -1,0 +1,11 @@
+{
+"name" : "Electrician app",
+"url" : "https://play.google.com/store/apps/details?id=hs.electrician.com",
+"package" : "hs.electrician.com",
+"category" : "Tools",
+"description" : "App has as a header with motors starting from 0,12kW to 160kW , for all these you will be provided with motor current rating , fuse , circuit braker, inside cable section , outside cable section , maximum cable length for the current wire section.  This is a tool for electricians and for any other that want to find out what is the best protection for your motors. You are a field electrician or developing projects at the office ? then this is the right tool for you. An easy to use app , electrician abacus will become part of your work jobs . This app stands as an abacus that is in fact an predefined ordered list that will help you  chose the right motor protection for your motors.  Do not have to keep in mind all data like cable sections , now you can start using an abacus. The app provides also basic electrical symbols syncronised with the app data. Curantly app provides data for direct online staring but we will add also star delta starting in the next versions.  Keep you electrical projects safe with this electrician app. Once you have got to execution this pocket app will guide you by chosing the right electrical cable.  Enjoy. A hookshy team app ! ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"manifest_perms" : "['com.android.vending.BILLING', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS', 'android.permission.WAKE_LOCK', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BLUETOOTH']" 
+"extra_perms" : "['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.SEND_SMS', 'android.permission.ACCESS_NETWORK_STATE', 'com.android.vending.BILLING']",
+}

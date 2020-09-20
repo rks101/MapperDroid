@@ -1,0 +1,11 @@
+{
+"name" : "Calculadora ABV Cervejeiro",
+"url" : "https://play.google.com/store/apps/details?id=com.lucas.app.calculadoraABV",
+"package" : "com.lucas.app.calculadoraABV",
+"category" : "Tools",
+"description" : "Aplicativo para calcular o teor alcolico de sua cerveja artesanal. Voc cervejeiro, no perca tempo fazendo clculos para descobrir o ABV de suas cervejas. Utilize o aplicativo, simples e rpido!  Clculo com correo do densmetro pela temperatura. Application to calculate the alcohol content of their craft beer. You brewer, do not waste time making calculations to find the ABV of their beers. Use the application, simple and fast!  Calculation correction hydrometer by temperature. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.USE_FINGERPRINT', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

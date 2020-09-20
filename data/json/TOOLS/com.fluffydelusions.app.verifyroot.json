@@ -1,0 +1,11 @@
+{
+"name" : "Verify Root",
+"url" : "https://play.google.com/store/apps/details?id=com.fluffydelusions.app.verifyroot",
+"package" : "com.fluffydelusions.app.verifyroot",
+"category" : "Tools",
+"description" : "** Free version is ad supported **  A simple and clean tool to verify and check for root access as well as busybox installation. The app also displays some additional info about your phone. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+"perms_with_call" : "['android.permission.BROADCAST_STICKY', 'android.permission.GET_TASKS', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

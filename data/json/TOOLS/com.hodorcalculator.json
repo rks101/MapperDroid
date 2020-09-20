@@ -1,0 +1,11 @@
+{
+"name" : "Hodor Calculator",
+"url" : "https://play.google.com/store/apps/details?id=com.hodorcalculator",
+"package" : "com.hodorcalculator",
+"category" : "Tools",
+"description" : "Do your math Hodor style! This calculator is a tribute to Game of thrones and the mighty Hodor! Fully functional calculator, simple and scientific, all inputs are in the form of Hodor, and of course all of the outputs are Hodor!  Enjoy! ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+"perms_with_call" : "['android.permission.GET_TASKS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.BROADCAST_STICKY', 'android.permission.WAKE_LOCK']" 
+"extra_perms" : "['android.permission.ACCESS_NETWORK_STATE', 'android.permission.INTERNET']",
+}

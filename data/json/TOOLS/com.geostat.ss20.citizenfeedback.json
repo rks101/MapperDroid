@@ -1,0 +1,11 @@
+{
+"name" : "SS2020 Citizen Feedback",
+"url" : "https://play.google.com/store/apps/details?id=com.geostat.ss20.citizenfeedback",
+"package" : "com.geostat.ss20.citizenfeedback",
+"category" : "Tools",
+"description" : "The objective of the Swachh Survekshan 2020 is to encourage largescale citizen participation and create awareness amongst all sections of society about the importance of working together towards making towns and cities a better place to live in. Additionally, the survey also intends to foster a spirit of healthy competition among towns and cities to improve their service delivery to citizens, towards creating cleaner cities. ",
+"desc_perms" : "[]",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.FOREGROUND_SERVICE', 'android.permission.INTERNET', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION']",
+"perms_with_call" : "['android.permission.ACCESS_COARSE_LOCATION', 'android.permission.BROADCAST_STICKY', 'android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.WAKE_LOCK', 'android.permission.BLUETOOTH', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.INTERNET', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.CAMERA', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.ACCESS_FINE_LOCATION', 'android.permission.ACCESS_NETWORK_STATE']",
+}

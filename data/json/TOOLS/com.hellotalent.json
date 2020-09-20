@@ -1,0 +1,11 @@
+{
+"name" : "Hello Talent",
+"url" : "https://play.google.com/store/apps/details?id=com.hellotalent",
+"package" : "com.hellotalent",
+"category" : "Tools",
+"description" : "The Hello Talent mobile app helps recruiters source talents anywhere, anytime.   With Hello Talent mobile app you can:  Source candidates on-the-go from any website with our mobile extension  Quickly assemble contacts at networking events and conferences  Involve hiring managers for collaborative recruiting  Quickly review candidates before meetings  Keep in touch with your candidates  Important: To use the Hello Talent Mobile App you must have a Hello Talent account.  Create your account now on hellotalent.com!   About Hello Talent Hello Talent is a proactive recruiting tool built by Talentsoft to source, attract and engage candidates.  About Talentsoft Talentsoft is the European leader in Cloud-based talent management and learning software. ",
+"desc_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.GET_ACCOUNTS', 'android.permission.INTERNET', 'android.permission.ACCESS_WIFI_STATE', 'android.permission.READ_CONTACTS', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE']",
+"manifest_perms" : "['android.permission.WRITE_EXTERNAL_STORAGE', 'android.permission.USE_FINGERPRINT', 'android.permission.INTERNET', 'android.permission.READ_PHONE_STATE', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.READ_EXTERNAL_STORAGE', 'android.permission.CAMERA']",
+"perms_with_call" : "['android.permission.USE_FINGERPRINT', 'android.permission.ACCESS_NETWORK_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.ACCESS_FINE_LOCATION']" 
+"extra_perms" : "['android.permission.READ_PHONE_STATE', 'android.permission.ACCESS_COARSE_LOCATION', 'android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.CAMERA', 'android.permission.ACCESS_FINE_LOCATION']",
+}
