@@ -6,4 +6,4 @@ Android Applications (Apps) are usually accompanied by a text description and a 
 
 Note: The work has been submitted to Journal of Future Generation Computer Systems (December 2020). 
 
-The complete data set will be available soon in near future. 
+The complete data set will be available soon in near future. You should read the [README](https://github.com/rks101/MapperDroid/blob/master/data/README_data.txt) first. 
