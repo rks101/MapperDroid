@@ -5,6 +5,8 @@ The complete data set will be available soon in near future. To report any issue
 
 You should read the [README](https://github.com/rks101/MapperDroid/blob/master/data/README_data.txt) first before getting started with the data set. 
 
+Source code for url_builder and apk_downloader is released.  
+
 <!--
 Please cite our [paper](https://doi.org/10.1016/j.cose.2021.102493) published in Computers and Security if you find this work useful or if you are using the data set. 
 -->
