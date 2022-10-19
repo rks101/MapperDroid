@@ -220,7 +220,8 @@ def get_data(app_id):
 
     # Extracting the title of the App
     try:
-        temp = soup.findAll("h1", attrs={"class":"AHFaub"})
+        #temp = soup.findAll("h1", attrs={"class":"AHFaub"})
+        temp = soup.findAll("h1", attrs={"itemprop":"name"})
         temp1 = temp[0].findAll("span")
         title = temp1[0].text
     except IndexError:
@@ -242,14 +243,18 @@ def get_data(app_id):
     f.write("\"package\" : \"%s\",\n" %package)
 
     # Extracting Category
-    temp = soup.findAll("a", attrs={"itemprop":"genre"})
-    category = temp[0].text
+    #temp = soup.findAll("a", attrs={"itemprop":"genre"})
+    #category = temp[0].text
+    temp = soup.findAll("span", attrs={"class":"VfPpkd-vQzf8d"})
+    category = temp[3].text
 
     f.write("\"category\" : \"%s\",\n" %category)
 
     # Extracting App description   
-    description = soup.findAll("meta", attrs={"itemprop":"description"})
-    temp = description[0]["content"]
+    #description = soup.findAll("meta", attrs={"itemprop":"description"})
+    #temp = description[0]["content"]
+    description = soup.findAll("div", attrs={"data-g-id":"description"})
+    temp = description[0].text
 
     # Fix mojibakes and character corruption by removing non-ascii characters
     ascii_text = ''.join([i for i in temp if (ord(i) < 128 and i != "\"") ])
@@ -266,6 +271,16 @@ def get_data(app_id):
     # P_t: Write permissions obtained from app description
     desc_permissions = get_desc_perms(temp, package, category)
     f.write("\"desc_perms\" : \"%s\",\n" %desc_permissions)
+
+    # Updated On
+    updated_on = soup.findAll("div", attrs={"class":"xg1aie"})
+    updated_on_text = updated_on[0].text
+    f.write("\"updated_on\" : \"%s\",\n" %updated_on_text)
+    
+    # privacy policy
+    privacy_policy = soup.findAll("div", attrs={"class":"pSEeg"})
+    privacy_policy_url = privacy_policy[3].text
+    f.write("\"privacy_policy_url\" : \"%s\",\n" %privacy_policy_url)
 
     ####browser.get(url)
     ####browser.find_element_by_link_text('View details').click()
