@@ -9,7 +9,6 @@ Source code is available for url_builder, apk_downloader and main source of Mapp
 
 <!--
 Please cite our [paper](https://doi.org/10.1016/j.cose.2021.102493) published in Computers and Security if you find this work useful or if you are using the data set. 
--->
 
 ## How to cite the paper?  
 
@@ -33,3 +32,4 @@ keywords = {Android applications, Permissions, API calls, Privacy, Over-privileg
 ## How to extend the dataset?  
 
 Please, feel free to contact me to extend this dataset and further novel or longitudinal studies with this work.   
+-->
